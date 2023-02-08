@@ -1,0 +1,53 @@
+A special model or type of magneto is made for V engines which use a
+compound distributor construction instead of the simple type on the
+model illustrated and a different interior arrangement permits the
+production of four sparks per revolution of the rotors. This makes it
+possible to run the magneto slower than would be possible with the
+two-spark form. The application of two compound distributor magnetos of
+this type to a Thomas-Morse 135 horse-power motor of the eight-cylinder
+V pattern is clearly shown at Fig. 71.
+
+[Illustration: Fig. 70.--Wiring Diagram of Dixie Magneto Installation on
+Hall-Scott Six-Cylinder 125 Horse-Power Aeronautic Motor.]
+
+
+SPARK-PLUG DESIGN AND APPLICATION
+
+[Illustration: Fig. 71.--How Magneto Ignition is Installed on
+Thomas-Morse 135 Horse-Power Motor.]
+
+With the high-tension system of ignition the spark is produced by a
+current of high voltage jumping between two points which break the
+complete circuit, which would exist otherwise in the secondary coil and
+its external connections. The spark-plug is a simple device which
+consists of two terminal electrodes carried in a suitable shell member,
+which is screwed into the cylinder. Typical spark-plugs are shown in
+section at Fig. 72 and the construction can be easily understood. The
+secondary wire from the coil is attached to a terminal at the top of a
+central electrode member, which is supported in a bushing of some form
+of insulating material. The type shown at A employs a molded porcelain
+as an insulator, while that depicted at B uses a bushing of mica. The
+insulating bushing and electrode are housed in a steel body, which is
+provided with a screw thread at the bottom, by which means it is screwed
+into the combustion chamber.
+
+[Illustration: Fig. 72.--Spark-Plug Types Showing Construction and
+Arrangement of Parts.]
+
+When porcelain is used as an insulating material it is kept from direct
+contact with the metal portion by some form of yielding packing, usually
+asbestos. This is necessary because the steel and porcelain have
+different coefficients of expansion and some flexibility must be
+provided at the joints to permit the materials to expand differently
+when heated. The steel body of the plug which is screwed into the
+cylinder is in metallic contact with it and carries sparking points
+which form one of the terminals of the air gap over which the spark
+occurs. The current entering at the top of the plug cannot reach the
+ground, which is represented by the metal portion of the engine, until
+it has traversed the full length of the central electrode and overcome
+the resistance of the gap between it and the terminal point on the
+shell. The porcelain bushing is firmly seated against the asbestos
+packing by means of a brass screw gland which sets against a flange
+formed on the porcelain, and which screws into a thread at the upper
+portion of the plug body.
+

@@ -1,0 +1,41 @@
+[Illustration: Fig. 42.--The Stewart Vacuum Fuel Feed Tank.]
+
+The tank is divided into two chambers, the upper one being the filling
+chamber and the lower one the emptying chamber. The former, which is at
+the top of the device, contains the float valve, as well as the pipes
+running to the main fuel container and to the intake manifold. The lower
+chamber is used to supply the carburetor with gasoline and is under
+atmospheric pressure at all times, so the flow of fuel from it is by
+means of gravity only. Since this chamber is located somewhat above the
+carburetor, there must always be free flow of fuel. Atmospheric pressure
+is maintained by the pipes A and B, the latter opening into the air. In
+order that the fuel will be sucked from a main tank to the upper
+chamber, the suction valve must be opened and the atmospheric valve
+closed. Under these conditions the float is at the bottom and the
+suction at the intake manifold produces a vacuum in the tank which draws
+the gasoline from the main tank to the upper chamber. When the upper
+chamber is filled at the proper height the float rises to the top, this
+closing the suction valve and opening the atmospheric valve. As the
+suction is now cut off, the lower chamber is filled by gravity owing to
+there being atmospheric pressure in both upper and lower chambers. A
+flap valve is provided between the two chambers to prevent the gasoline
+in the lower one from being sucked back into the upper one. The
+atmospheric and suction valves are controlled by the levers C and D,
+both of which are pivoted at E, their outer ends being connected by two
+coil springs. It is seen that the arrangement of these two springs is
+such that the float must be held at the extremity of its movement, and
+that it cannot assume an intermediate position.
+
+This intermittent action is required to insure that the upper part of
+the tank may be under atmospheric pressure part of the time for the
+gasoline to flow to the lower chamber. When the level of gasoline drops
+to a certain point, the float falls, thus opening the suction valve and
+closing the atmospheric valve. The suction of the motor then causes a
+flow of fuel from the main container. As soon as the level rises to the
+proper height the float returns to its upper position. It takes about
+two seconds for the chamber to become full enough to raise the float, as
+but .05 gallon is transferred at a time. The pipe running from the
+bottom of the lower chamber to the carburetor extends up a ways, so that
+there is but little chance of dirt or water being carried to the float
+chamber.
+

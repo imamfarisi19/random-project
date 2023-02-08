@@ -1,0 +1,35 @@
+While piston velocity is an important factor in determinations of power
+output, it must be considered from the aspect of the wear produced upon
+the various parts of the motor. It is evident that engines which run
+very fast, especially of high power, must be under a greater strain than
+those operating at lower speeds. The valve-operating mechanism is
+especially susceptible to the influence of rapid movement, and the
+slower the engine the longer the parts will wear and the more reliable
+the valve action.
+
+[Illustration: Fig. 92.--Diagram Showing Forms of Cylinder Demanded by
+Different Valve Placings. A--T Head Type, Valves on Opposite Sides. B--L
+Head Cylinder, Valves Side by Side. C--L Head Cylinder, One Valve in
+Head, Other in Pocket. D--Inlet Valve Over Exhaust Member, Both in Side
+Pocket. E--Valve-in-the-Head Type with Vertical Valves. F--Inclined
+Valves Placed to Open Directly into Combustion Chamber.]
+
+As will be seen by reference to the accompanying illustration, Fig. 92,
+there are many ways in which valves may be placed in the cylinder. Each
+method outlined possesses some point of advantage, because all of the
+types illustrated are used by reputable automobile manufacturers. The
+method outlined at Fig. 92, A, is widely used, and because of its shape
+the cylinder is known as the "T" form. It is approved for automobile use
+for several reasons, the most important being that large valves can be
+employed and a well-balanced and symmetrical cylinder casting obtained.
+Two independent cam-shafts are needed, one operating the inlet valves,
+the other the exhaust members. The valve-operating mechanism can be very
+simple in form, consisting of a plunger actuated by the cam which
+transmits the cam motion to the valve-stem, raising the valve as the cam
+follower rides on the point of the cam. Piping may be placed without
+crowding, and larger manifolds can be fitted than in some other
+constructions. This has special value, as it permits the use of an
+adequate discharge pipe on the exhaust side with its obvious advantages.
+This method of cylinder construction is never found on airplane engines
+because it does not permit of maximum power output.
+

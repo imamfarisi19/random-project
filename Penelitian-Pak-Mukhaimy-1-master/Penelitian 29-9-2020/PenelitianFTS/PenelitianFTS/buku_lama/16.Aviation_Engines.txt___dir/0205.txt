@@ -1,0 +1,50 @@
+
+MAGNETO
+
+DEFECT                       TROUBLE CAUSED          REMEDY
+Dirty oil in distributor.    Engine misfires.        Clean.
+Metal dust in distributor.   Engine misfires.        Clean.
+Brushes not making contact.  Current cannot pass.    Strengthen
+spring.
+Distributor segments worn.   Engine misfires.        Secure even
+bearing.
+Collecting brush broken.     Engine misfires.        New brush.
+Distributing brush broken.   Engine misfires.        New brush.
+Oil soaked winding.          Engine misfires.        Clean.
+Magnets loose on pole        Engine misfires.        Tighten screws.
+pieces.
+Armature rubs.               Engine misfires.        Repair bearings.
+Bearings worn.               Noisy.                  Replace.
+Magnets weak.                Weak spark.             Recharge.
+Contact breaker points       Engine misfires.        Clean.
+pitted.
+Breaker points out of        Engine misfires.        Reset.
+adjustment.
+Defective winding (rare).    No spark.               Replace.
+Punctured condenser (rare).  Weak or no spark.       Replace.
+Driving gear loose.          Noise.                  Tighten.
+Magneto armature out of      Spark will not fire     Retime.
+time.                        charge.
+Magneto loose on base.       Misfiring and noisy.    Tighten.
+Contact breaker cam worn.    Misfiring.              Replace.
+Fibre shoe or rolls worn     Misfiring.              Replace.
+(Bosch).
+Fibre bushing binding in     Misfiring.              Ream slightly.
+contact lever (Bosch).
+Contact lever return spring  No spark.               Replace.
+broken.
+Contact lever return spring  Misfiring.              Replace.
+weak.
+Ground wire grounded.        No spark.               Insulate.
+Ground wire broken.          Engine will not stop.   Connect up.
+Safety spark gap dirty.      No spark.               Clean.
+Fused metal in spark gap.    No spark.               Remove.
+Safety spark gap points too  Misfiring.              Set properly.
+close.
+Loose distributor terminals. Misfiring.              Tighten.
+Contact breaker sticks.      No spark control.       Remove and clean
+bearings.
+Magneto switch short-        No spark.               Insulate.
+circuited.
+Magneto switch open circuit. No engine stop.         Restore contact.
+

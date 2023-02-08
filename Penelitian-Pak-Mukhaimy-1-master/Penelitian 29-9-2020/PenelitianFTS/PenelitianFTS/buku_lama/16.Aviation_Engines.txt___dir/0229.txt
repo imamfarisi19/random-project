@@ -1,0 +1,48 @@
+[Illustration: Fig. 181.--Special Stand to Make Motor Overhauling Work
+Easier.]
+
+In taking down a motor the smaller parts and fittings such as
+spark-plugs, manifolds and wiring should be removed first. Then the more
+important members such as cylinders may be removed from the crank-case
+to give access to the interior and make possible the examination of the
+pistons, rings and connecting rods. After the cylinders are removed the
+next operation is to disconnect the connecting rods from the crank-shaft
+and to remove them and the pistons attached as a unit. Then the
+crank-case is dismembered, in most cases by removing the bottom half or
+oil sump, thus exposing the main bearings and crank-shaft. The first
+operation is the removal of the inlet and exhaust manifolds. In some
+cases the manifolds are cored integral with the cylinder head casting
+and it is merely necessary to remove a short pipe leading from the
+carburetor to one inlet opening and the exhaust pipe from the outlet
+opening common to all cylinders. In order to remove the carburetor it is
+necessary to shut off the gasoline supply at the tank and to remove the
+pipe coupling at the float chamber. It is also necessary to disconnect
+the throttle operating rod. After the cylinders are removed and before
+taking the crank-case apart it is well to remove the water pump and
+magneto. The wiring on most engines of modern development is carried in
+conduits and usually releasing two or three minor fastenings will permit
+one to take off the plug wiring as a unit. The wire should be
+disconnected from both spark-plugs and magneto distributor before its
+removal. When the cylinders are removed, the pistons, piston rings, and
+connecting rods are clearly exposed and their condition may be readily
+noticed.
+
+Before disturbing the arrangement of the timing gears, it is important
+that these be marked so that they will be replaced in exactly the same
+relation as intended by the engine designer. If the gears are properly
+marked the valve timing and magneto setting will be undisturbed when the
+parts are replaced after overhauling. With the cylinders off, it is
+possible to ascertain if there is any undue wear present in the
+connecting rod bearings at either the wrist pin or crank-pin ends and
+also to form some idea of the amount of carbon deposits on the piston
+top and back of the piston rings. Any wear of the timing gears can also
+be determined. The removal of the bottom plate of the engine enables the
+repairman to see if the main bearings are worn unduly. Often bearings
+may be taken up sufficiently to eliminate all looseness. In other cases
+they may be worn enough so that careful refitting will be necessary.
+Where the crank-case is divided horizontally into two portions, the
+upper one serving as an engine base to which the cylinders and in fact
+all important working parts are attached, the lower portion performs the
+functions of an oil container and cover for the internal mechanism. This
+is the construction generally followed.
+

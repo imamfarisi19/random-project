@@ -1,0 +1,49 @@
+[Illustration: Fig. 15.--Diagram of Heat in the Gas Engine Cylinder.]
+
+In a gas or gasoline-motor with a small clearance or compression
+space--with high compression--the surface with which the burning
+gases come into contact is much smaller in comparison with the
+compression space in a low-compression motor. Another advantage of a
+high-compression motor is that on account of the smaller clearance
+of combustion space less cooling water is required than with a
+low-compression motor, as the temperature, and consequently the
+pressure, falls more rapidly. The loss of heat through the water-jacket
+is thus less in the case of a high-compression than in that of a
+low-compression motor. In the non-compression type of motor the best
+results were obtained with a charge of 16 to 18 parts of gas and 100
+parts of air, while in the compression type the best results are
+obtained with an explosive mixture of 7 to 10 parts of gas and 100 parts
+of air, thus showing that by the utilization of compression a weaker
+charge with a greater thermal efficiency is permissible.
+
+It has been found that the explosive pressure resulting from the
+ignition of the charge of gas or gasoline-vapor and air in the
+gas-engine cylinder is about 4-1/2 times the pressure prior to ignition.
+The difficulty about getting high compression is that if the pressure is
+too high the charge is likely to ignite prematurely, as compression
+always results in increased temperature. The cylinder may become too
+hot, a deposit of carbon, a projecting electrode or plug body in the
+cylinder may become incandescent and ignite the charge which has been
+excessively heated by the high compression and mixture of the hot gases
+of the previous explosion.
+
+
+FACTORS LIMITING COMPRESSION
+
+With gasoline-vapor and air the compression should not be raised above
+about 90 to 95 pounds to the square inch, many manufacturers not going
+above 65 or 70 pounds. For natural gas the compression pressure may
+easily be raised to from 85 to 100 pounds per square inch. For gases of
+low calorific value, such as blast-furnace or producer-gas, the
+compression may be increased to from 140 to 190 pounds. In fact the
+ability to raise the compression to a high point with these gases is one
+of the principal reasons for their successful adoption for gas-engine
+use. In kerosene injection engines the compression of 250 pounds per
+square inch has been used with marked economy. Many troubles in regard
+to loss of power and increase of fuel have occurred and will no doubt
+continue, owing to the wear of valves, piston, and cylinder, which
+produces a loss in compression and explosive pressure and a waste of
+fuel by leakage. Faulty adjustment of valve movement is also a cause of
+loss of power; which may be from tardy closing of the inlet-valve or a
+too early opening of the exhaust-valve.
+

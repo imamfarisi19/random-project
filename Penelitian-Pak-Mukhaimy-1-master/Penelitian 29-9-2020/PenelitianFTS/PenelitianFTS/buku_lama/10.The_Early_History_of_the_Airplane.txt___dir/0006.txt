@@ -1,0 +1,34 @@
+The experiments of 1901 were far from encouraging. Although Mr. Chanute
+assured us that, both in control and in weight carried per horse-power,
+the results obtained were better than those of any of our predecessors,
+yet we saw that the calculations upon which all flying machines had been
+based were unreliable, and that all were simply groping in the dark.
+Having set out with absolute faith in the existing scientific data, we
+were driven to doubt one thing after another, till finally, after two
+years of experiment, we cast it all aside, and decided to rely entirely
+upon our own investigations. Truth and error were everywhere so
+intimately mixed as to be undistinguishable. Nevertheless, the time
+expended in preliminary study of books was not misspent, for they gave
+us a good general understanding of the subject, and enabled us at the
+outset to avoid effort in many directions in which results would have
+been hopeless.
+
+The standard measurements of wind-pressures is the force produced by a
+current of air of one mile per hour velocity striking square against a
+plane of one square foot area. The practical difficulties of obtaining
+an exact measurement of this force have been great. The measurements by
+different recognized authorities vary 50 per cent. When this simplest of
+measurements presents so great difficulties, what shall be said of the
+troubles encountered by those who attempt to find the pressure at each
+angle as the plane is inclined more and more edgewise to the wind? In
+the eighteenth century the French Academy prepared tables giving such
+information, and at a later date the Aeronautical Society of Great
+Britain made similar experiments. Many persons likewise published
+measurements and formulas; but the results were so discordant that
+Professor Langley undertook a new series of measurements, the results
+of which form the basis of his celebrated work, "Experiments in
+Aerodynamics." Yet a critical examination of the data upon which he
+based his conclusions as to the pressures at small angles shows
+results so various as to make many of his conclusions little better
+than guesswork.
+

@@ -1,0 +1,45 @@
+[Illustration: Fig. 228.--End View of Renault Twelve-Cylinder Engine
+Crank-Case, Showing Magneto Mounting.]
+
+[Illustration: Fig. 229.--Diagram Outlining Renault Twelve-Cylinder
+Engine Ignition System.]
+
+
+SIMPLEX MODEL "A" HISPANO-SUIZA
+
+The Model A is of the water-cooled four-cycle Vee type, with eight
+cylinders, 4.7245 inch bore by 5.1182 inch stroke, piston displacement
+718 cubic inches. At sea-level it develops 150 horse-power at 1,450 R.
+P. M. It can be run successfully at much higher speeds, depending on
+propeller design and gearing, developing proportionately increased
+power. The weight, including carburetor, two magnetos, propeller hub,
+starting magneto and crank, but without radiator, water or oil or
+exhaust pipes, is 445 pounds. Average fuel consumption is .5 pound per
+horse-power hour and the oil consumption at 1,450 R. P. M. is three
+quarts per hour. The external appearance is shown at Fig. 230.
+
+Four cylinders are contained in each block, which is of built-up
+construction; the water jackets and valve ports are cast aluminum and
+the individual cylinders heat-treated steel forgings threaded into the
+bored holes of the aluminum castings. Each block after assembly is given
+a number of protective coats of enamel, both inside and out, baked on.
+Coats on the inside are applied under pressure. The pistons are aluminum
+castings, ribbed. Connecting rods are tubular, of the forked type. One
+rod bears directly on the crank-pin; the other rod has a bearing on the
+outside of the one first mentioned.
+
+The crank-shaft is of the five-bearing type, very short, stiff in
+design, bored for lightness and for the oiling system. The crank-shaft
+extension is tapered for the French standard propeller hub, which is
+keyed and locked to the shaft. This makes possible instant change of
+propellers. The case is in two halves divided on the center line of the
+crank-shaft, the bearings being fitted between the upper and lower
+sections. The lower half is deep, providing a large oil reservoir and
+stiffening the engine. The upper half is simple and provides magneto
+supports on extension ledges of the two main faces. The valves are of
+large diameter with hollow stems, working in cast iron bushings. They
+are directly operated by a single hollow cam-shaft located over the
+valves. The cam-shafts are driven from the crank-shaft by vertical
+shafts and bevel gears. The cam-shafts, cams and heads of the valve
+stems are all enclosed in oil-tight removable housings of cast aluminum.
+

@@ -1,0 +1,275 @@
+2.1.1 Piksel
+Piksel adalah kotak kecil berwarna yang ditemukan pada gambar 2D. Sebagai contoh piksel berarti semua gambar di majalah,surat kabar hingga foto di instagram, facebook dan sebaginya. Jika kita memperbesar gambar yang ada pada contoh tersebut, kita akan melihat bahwa semua gambar terdiri dari kotak - kotak kecil, masing - masing dengan warnanya sendiri. Kotak kecil inilah yang dimaksud piksel dan diposisikan pada apa yang dapat dianggap sebagai grid 2D. Jadi ketika kita melihat gambar, bayangkan itu grid dan setiap sel pada grid  tersebut memiliki warnanya sendiri. Sekarang setiap piksel dalam grid itu memiliki posisi "X" dan "Y" tertentu bersama dengan nilai warnanya sendiri.
+
+2.1.2 Voxel
+Voxels, terkadang disebut sebagai piksel 3D karena secara visual terlihat seperti kubus dan itu berada dalam kisi 3D. Dimasa sekarang, setiap kali kita bekerja dengan seni dalam tiga dimensi, ini biasanya disebut sebagai model, bukan gambar. Jadi jika kita telah membaca penjelasan mengenai piksel, voxel memiliki posisi "X" dan posisi "Y" seperti piksel pada gambar. Tapi sekarang ada sumbu ketiga yang diperkenalkan yaitu sumbu "Z". Ini berarti bahwa voxel juga memiliki posisi "Z" yang memberi artis kemampuan untuk membuat model 3D alih - alih terbatas pada kisi 2D yang ditemukan dalam gambar. Perlu diingat bahwa setiap voxel individu juga memiliki warna yang ditetapkan padanya seperti piksel dan sel di dalam model voxel juga dapat dikosongkan untuk menciptakan tampilan transparansi. 
+
+2.1.3 perbedaan antara piksel dan voxel
+perbedaa antara piksel dan voxel adlaah bahwa piksel adalah bujur sangkar didalam gambar 2D dengan posisi dalam grid 2D dan nilai warna tunggal, sedangkan voxel adalah kubus didalam model 3D yang berisi posisi di dalam sebuah grid 3D dan satu nilai warna.
+
+Perbedaan utama lainnya adalah piksel disimpan dalam exstensi seperti .PNG,  .JPG dan sebagainya. Voxel biasanya disimpan dalam exstensi seperti .VOX untuk MagicaVoxel dan .QBCL untuk Qubicle. Karena jenis file yang berbeda, kita perlu perangkat lunak khusus untuk mengedit salah satunya. Untuk gambar biasanya menggunakan Photoshop karena itu salah satu perangkat lunak populer yang tersedia. Kita juga bisa menggunakan GIMP sebagai alternatif dari Photoshop. Untuk model Voxel, MagicaVoxel adalah yang paling banyak digunakan.
+
+Seperti yang disebutkan sebelumnya, piksel dan voxel dikunci kedalam grid. karena piksel dan voxel masing-masing adalah unit terkecil dalam gambar dan model, keduanya harus memiliki nilai bilangan bulat. Artinya, piksel tidak boleh memiliki posisi "X" sebesar 2,5. Harus 2 atau 3. Hal ini juga berlaku pada Voxel. Voxel tidak dapat memiliki posisi "Z" 4,75. Ini akan dibulatkan menjadi 5 atau dikurangi menjadi 4.
+
+Hal lainnya adalah piksel dan voxel harus memiliki warna tunggal. Itu berarti mereka tidak bisa berisi gradien atau banyak warna. Karena mereka adalah unit terkecil, itu harus berupa warna solid. 
+
+https://www.megavoxels.com/2020/02/what-is-difference-between-pixel-and-voxel.html
+
+2.2 Resolusi gambar
+Resolusi gambar mendeskripsikan tentang banyaknya detail gambar yang tersimpan. Resolusi gambar bisa juga digunakan untuk mendefinisikan tengan gambar (citra), video dan lain - lain. Resolusi gambar dapat diukur dengan berbagai macam cara. Pada dasarnya, resolusi mengukur seberapa dekatnya suatu garis dapat dibedakan dengan yang lainnya. Resolusi dapat dinyatakan dalam berbagai macam ukuran, seperti baris per milimeter dan garis per tinggi gambar, atau yang lebih dikenal hanya dengan garis (grid).
+
+https://id.wikipedia.org/wiki/Resolusi_gambar
+
+2.2.1 Resolusi Piksel
+Resolusi adalah kerapatan pixel dalam sebuah gambar. Resolusi gambardiukur berdasarkan kerapatan pixel dalam 1 inch (pixels per inch / ppi atau dots per inch / dpi). Resolusi 1 ppi berarti ada satu inch persegi, begitu juga resolusi 300 ppi brarti ada 300 pixel per satu inch persegi. Intinya semakin besar resolusi sebuah gambar maka makin banyak sebuah pixel dalam gambar dan tampilan gambar akan semakin detail. nah setelah ini kalian pasti tahu, kenapa file yang berisi gambar-gambar atau image dengan resolusi tinggi mempunyai ukuran yang besar juga, karena pixel yang terkandung di dalamnya juga semakin rapat dan banyak.
+
+https://www.dumetschool.com/blog/Mengenal_Perbedaan_Resolusi_dan_Pixel_dalam_sebuah_Desain
+
+Pengertian Resolusi adalah tingkat kerapatan atau jumlah pixel pada area gambar dan menjadi sebuah penentu kualitas pada suatu gambar. Jika resolusi dalam suatu gambar itu tidak bagus maka gambar yang dihasilkan pun akan tidak bagus juga.
+
+Semakin tinggi resolusi pada sebuah gambar, maka akan semakin tajam dan jernih pula gambar yang dihasilkan. Satuan yang dipakai dalam resolusi diukur berdasarkan jumlah PPI (Pixels Per Inch). Sedangkan untuk mengetahui jumlah Pixel Per Inch kita dapat menggunakan DPI (Dots Per Inch).
+
+Dengan menggunakan DPI kita dapat mengetahui jumlah titik yang akan dicetak per incinya. Maka dari itu jika semakin besar resolusi pada sebuah gambar, berarti semakin banyak pula pixel di dalam gambar tersebut.
+
+https://www.makintahu.com/pengertian-pixel-resolusi-dan-intensitas-dalam-desain-grafis/
+
+2.2.2 Resolusi Spasial
+
+Resolusi spasial mengukur seberapa dekat suatu garis dapat ditampilkan dengan baik dan dapat dibedakan dengan garis yang lainnya. Resolusi ini sangat dipengaruhi dari sistem yang menghasilkan citra atau gambar tersebut.
+
+Untuk memperjelas, ambil contoh dua buah gambar, gambar pertama memiliki jumlah piksel sebanyak 640 dengan 480, atau 0,3 megapiksel, dengan resolusi spasial sebanyak 100 garis. Gambar kedua memiliki jumlah piksel sebanyak 1280 dengan 960, atau 1,3 megapiksel, dengan resolusi spasial sebanyak 72 garis. Dari hasil pengamatan, jelas terlihat bahwa gambar pertama memiliki kualitas gambar yang lebih halus, jernih, dan mengandung lebih banyak detail dibandingkan dengan gambar kedua. Hal ini membuktikan bahwa kualitas gambar tidak hanya diukur oleh jumlah piksel, tetapi juga dengan resolusi spasial. 
+
+https://id.wikipedia.org/wiki/Resolusi_gambar
+
+berikut adalah resolusi spasial pada beberapa jenis citra : 
+
+a. Citra SPOT resolusi spasialnya 10 dan 20 meter
+b. Citra Landsat TM resolusi spasialnya 30 meter
+c. Citra Landsat MSS resolusi spasialnya 79 meter
+d. Citra IKONOS resolusi spasialnya 1.5 meter, diluncurkan pertama kali pada tanggal 24 September 1999 oleh Space Imagine, merupakan citra satelit komersil pertama.
+e. Citra QuickBird resolusi spasialnya yang tertinggi saat ini yaitu 0.61 meter. Diluncurkan pada tanggal 18 Oktober 2001 oleh Digital Globe.
+f. Citra OrbView 3 resolusi spasialnya adalah 1 meter (pankromatik) dan 4 meter (multispektral). Diluncurkan pada 26 juni 2003 oleh GeoEye.
+g. Formosat 2 resolusi spasialnya adalah 2 meter (pankromatik) dan 8 meter (multispektral).
+
+https://tnrawku.wordpress.com/2012/03/25/menilai-keunggulan-resolusi-citra/
+
+2.2.3 Resolusi Spektrum
+Resolusi spektral merupakan ukuran kemampuan sensor dalam memisahkan objek pada beberapa kisaran panjang gelombang. Prahasta (2008) menyatakan bahwa resolusi spektral merujuk pada batas-batas spektral, domain atau lebar band (radiasi elektromagnetik) yang direkam oleh sistem sensor satelit yang bersangkutan. Dengan kata lain, resolusi ini merujuk pada kemampuan sensor dalam mendefinisikan interval panjang gelombang elektromaknetik secara halus. Oleh karena itu, citra digital high spectral resolution merupakan hasil rekaman dari suatu batas-batas spektral tertentu dan bandwidth yang cukup sempit untuk (diharapkan) memperoleh spectral signature yang lebih akurat pada obyek-obyek diskrit (daripada bandwith yang lebih lebar atau kasaran).
+
+https://tnrawku.wordpress.com/2012/03/25/menilai-keunggulan-resolusi-citra/
+
+Spektral adalah hasil interaksi antara energi elektromagnetik (EM) dengan suatu objek. Objek yang ada di permukaan bumi mempunyai karakteristik yang berbeda sati dengan lainnya (khas). Ada objek yang mempunyai sifat daya serapnya (absorpsi) terhadap EM tinggi dan pantulannya rendah, sebaliknya ada objek yang mempunyai daya serap yang rendah dan daya pantulnya tinggi. Pola pantulan dan absorpsi ini berbeda untuk panjang gelombang (wavelength) yang berbeda. Jika dikaitkan dengan citra satelit, maka masing-masing objek akan memberikan pantulan EM yang berbeda, sehingga kita mampu membedakan suatu objek dengan objek yang lain (identifikasi) 
+
+https://id.wikipedia.org/wiki/Spektrum
+
+2.2.4 Resolusi Temporal
+Resolusi temporal (TR) merujuk ke presisi pengukuran waktu. Kamera film dan kamera kecepatan tinggi dapat merekam titik-titik waktu yang berbeda. Resolusi waktu yang dipakai dalam film biasanya antara 24 sampai 48 bingkai per detik, sedangkan dalam kamera kecepatan tinggi bisa antara 50 sampai 300 bingkai per detik, bahkan lebih. 
+
+https://id.wikipedia.org/wiki/Resolusi_gambar
+
+Resolusi temporal adalah kemampuan sensor untuk merekam ulang objek yang sama. Semakin cepat suatu sensor merekam ulang objek yang sama, semakin baik resolusi temporalnya. Berikut adalah resolusi temporal pada beberapa jenis satelit : 
+
+a. Satelit GMS resolusi temporalnya yaitu 2 x sehari
+b. Landsat MSS dan TM resolusi temporalnya yaitu18 hari untuk generasi 1, 16 hari untuk generasi 2
+c. Satelit SPOT resolusi temporalnya yaitu 26 hari
+d. Satelit IKONOS resolusi temporalnya yaitu 3 hari. Satelit ini mengorbit bumi sinkron dengan matahari setinggi 681 km. Waktu revolusinya  adalah 98 menit.
+e. Satelit QUICKBIRD resolusi temporalnya yaitu 3-7 hari. Satelit ini mengorbit bumi sinkron dengan matahari setinggi 450 km. Waktu revolusinya adalah 93.4 menit.
+f. Satelit ORBVIEW 3 resolusi temporalnya adalah 3 hari. Mengorbit pada ketinggian 470 km. Satelit ini merekam data seluas 2.100 Km² setiap menitnya.
+g. Sateli FORMOSAT 2 resolusi temporalnya yaitu 1 hari. Mengorbit pada ketinggian 891 km, satelit ini melewati beberapa wilayah Indonesia setiap hari, termasuk Pulau Sulawesi, sekaligus dapat melakukan perekaman data tiap kali melintas.
+
+https://tnrawku.wordpress.com/2012/03/25/menilai-keunggulan-resolusi-citra/
+
+2.2.5 Resolusi Radiometrik
+Resolusi radiometrik yaitu ukuran kemampuan sensor dalam merekam atau mengindera perbedaan terkecil suatu objek dengan objek yang lain (ukuran kepekaan sensor). Resolusi radiometrik berhubungan dengan kekuatan sinyal, kondisi atmosfir (hamburan, serapan dan tutupan awan), dan saluran spektral yang digunakan.
+
+Oleh karena itu penggunaan citra penginderaan jauh digital sangat dipengaruhi oleh kualitas citra atau kemampuan koreksi (koreksi radiometrik dan koreksi geometrik) atau merestorasi datanya, sehingga informasi yang diperoleh cukup akurat dan dapat diandalkan selain itu juga berfungsi untuk memulihkan data citra yang mengalami distorsi ke arah gambaran yang lebih sesuai dengan keadaan sebenarnya.
+
+Resolusi radiometrik merupakan range representasi/kuantisasi data, biasanya dipergunakan untuk format raster. Range tersebut dapat berupa 2 bit (0-1), 3 bit (0-3), 4 bit (0-15), 5 bit (0-31), 6 bit (0-63), 7 bit (0-127), 8 bit (0-255), 10 bit (0-1023), 16 bit (0-65535).
+
+2.3 Jenis Citra
+2.3.1 Pengertian Citra
+Di dalam penginderaan jauh, sensor merekam tenaga yang dipantulkan atau dipancarkan oleh obyek di permukaan bumi. Rekaman tenaga ini setelah diproses membuahkan data penginderaan jauh.
+Data penginderaan jauh dapat berupa data digital atau data numerik untuk dianalisis dengan menggunakan komputer. Ia juga dapat berupa data visual yang pada umumnya dianalisis secara manual. Data visual dibedakan lebih jauh atas data citra dan data noncitra.
+Data citra berupa gambaran yang mirip ujud aslinya atau paling tidak berupa gambaran planimetrik.
+Data noncitra ialah grafik yang mencerminkan beda suhu yang direkam di sepanjang daerah penginderaan.
+Di dalam penginderaan jauh yang tidak menggunakan tenaga elektromagnetik, contoh data noncitra antara lain berupa grafik yang menggambarkan gravitasi maupun daya magnetik di sepanjang daerah penginderaan.
+Citra dapat dibedakan atas citra foto atau foto udara dan citra nonfoto. Dua jenis citra inilah yang akan dibincangkan pada tulisan ini.
+
+2.3.2 Citra Foto
+Citra foto adalah  gambaran suatu objek yang dibuat dari pesawat  udara, dengan  menggunakan kamera  udara  sebagai  alat pemotret. Hasilnya dikenal dengan  istilah foto udara. Citra foto dapat dibedakan menurut beberapa aspek, antara  lain sebagai berikut.
+
+2.3.2.1 Spektrum Elektromagnetik
+Berdasarkan spektrum  elektromagnetik yang digunakan,  citra foto dapat dibedakan sebagai berikut:
+
+2.3.2.1.1 Foto Ultraviolet
+Foto Ultraviolet adalah  foto yang dibuat dengan  menggunakan spektrum ultraviolet dekat dengan  panjang  gelombang  0,29 mikrometer. Cirinya adalah mudah untuk mengenali  beberapa objek karena  perbedaan warna yang sangat kontras. Kelemahan  dari citra foto ini adalah tidak banyak informasi yang dapat disadap.  Foto  ini sangat  baik untuk  mendeteksi  tumpahan minyak  di laut, membedakan atap  logam yang tidak dicat, jaringan jalan aspal, batuan  kapur, juga untuk mengetahui, mendeteksi,  dan memantau sumber  daya air.
+
+2.3.2.1.2 Foto Ortokromatik
+Foto Ortokromatik adalah foto yang dibuat dengan menggunakan spektrum tampak dari saluran biru hingga sebagian hijau (0,4 – 0,56 mikrometer). Cirinya banyak  objek yang bisa tampak  jelas. Foto  ini bermanfaat untuk studi pantai karena filmnya peka terhadap objek di bawah permukaan air hingga kedalaman kurang lebih 20  meter.
+
+2.3.2.1.3 Foto Pankromatrik
+Foto pankromatrik adalah foto yang menggunakan seluruh spektrum tampak mata mulai dari warna merah hingga ungu. Kepekaan film hampir sama dengan kepekaan mata  manusia.  Pada  umumnya  digunakan  film sebagai  negatif dan kertas  sebagai  positifnya.  Wujudnya seperti  pada  foto,  tetapi  bersifat tembus cahaya.  Foto pankromatik dibedakan menjadi 2 yaitu pankromatik hitam putih dan foto infra merah. 
+
+1) Foto Pankromatrik Hitam Putih
+rona  pada  objek  serupa  dengan  warna  pada  objek  aslinya,  karena kepekaan film sama dengan   kepekaan mata  manusia, resolusi spasialnya  halus, stabilitas dimensional  tinggi, dan
+foto pankromatrik hitam putih telah lama dikembangkan sehingga  orang telah terbiasa menggunakannya.
+
+Foto Pankromatrik digunakan dalam berbagai bidang, sebagai berikut.
+
+a. Di bidang pertanian, untuk pengenalan dan klasifikasi jenis tanaman, evaluasi kondisi tanaman, dan perkiraan  jumlah produksi tanaman,
+b. Di bidang  kehutanan, digunakan  untuk  identifikasi  jenis  pohon, perkiraan  volume kayu, dan perkembangan luas hutan,
+c. Di bidang sumber  daya air, digunakan  untuk mendeteksi  pencemaran air, evaluasi kerusakan akibat banjir, agihan air tanah,  dan air permukaan,
+d. Di bidang perencanaan kota dan wilayah, digunakan untuk penafsiran jumlah dan agihan penduduk,  studi lalu lintas, studi kualitas perumahan, penentuan jalur transportasi, dan pemilihan  letak berbagai  bangunan penting,
+e. Penelitian  ekologi hewan  liar, berguna  untuk mendeteksi  habitat  dan untuk pencacahan jumlah populasinya, dan  Evaluasi dampak  lingkungan.
+
+2) Foto Infra Merah
+Foto infra merah adalah foto yang dibuat dengan menggunakan spektrum  infra  merah  dekat,  dengan   panjang  gelombang   0,9  – 1,2 mikrometer, yang dibuat secara  khusus yang terletak pada  saluran merah dan  sebagian  saluran  hijau.
+
+Cirinya dapat  mencapai bagian  dalam  daun, sehingga  rona  pada  foto infra merah  daun  tidak ditentukan  berdasarkan warna tetapi  oleh sifat jaringannya.
+
+Perbedaan antara foto infra merah dengan film pankromatik hitam putih terletak pada kepekaannya.
+Foto infra merah mempunyai  beberapa keunggulan,  antara  lain:
+
+a. Mempunyai  sifat pantulan  khusus bagi vegetasi,
+b. Daya tembusnya  yang besar terhadap kabut tipis, dan
+c. Daya serap yang besar terhadap air.
+d. Kelemahan  foto infra merah antara lain:
+e. Adanya  efek bayangan  gelap  karena  saluran  infra merah  dekat  tidak peka terhadap sinar baur dan sinar yang dipolarisasikan,
+f. Sifat tembusnya  kecil terhadap air, dan
+g. Kecepatan yang rendah  dalam pemotretan.
+
+Infra merah  berwarna  mempunyai  keunggulan  pada  warnanya  yang tidak serupa  dengan  warna aslinya. Dengan  warna semu itu banyak objek pada  foto ini menjadi mudah  dikenali.
+Foto  inframerah  berwarna  banyak  digunakan  dalam bidang:
+
+a. Kemiliteran,  untuk mengetahui kondisi suatu hutan,  karena tanaman tidak  akan  terpantulkan melainkan objek yang ada disekitarnya;
+b. Bidang  pertanian dan  kehutanan, yaitu untuk mendeteksi atau membedakan tanaman yang sehat dan tanaman yang terserang  penyakit;
+
+2.3.2.2 Sumbu Kamera
+Berdasarkan  Arah Sumbu Kamera ke  Permukaan Bumi
+Berdasarkan arah  sumbu  kamera  ke permukaan bumi,  citra  foto  dapat dibedakan  sebagai berikut:
+
+a. Foto  vertikal 
+Foto  vertikalatau  foto  tegak  (orto  photograph), yaitu foto  yang  dibuat dengan  sumbu kamera  tegak lurus terhadap permukaan bumi.
+
+b. Foto  condong 
+Foto  condongatau  miring  (oblique photograph), yaitu foto yang dibuat dengan sumbu kamera menyudut terhadap garis tegak lurus ke permukaan bumi.
+
+Sudut  ini umumnya  sebesar  10 derajat atau  lebih besar,  tetapi  bila sudut condongnya masih berkisar antara  1 – 4 derajat, foto yang dihasilkan masih digolongkan  sebagai foto vertikal.
+Foto condong dibedakan menjadi menjadi dua, sebagai berikut.
+
+a. Foto  agak  condong   (low oblique photograph), yaitu apabila pada foto tampak  cakrawalanya.
+b. Foto sangat condong (high oblique photograph), yaitu apabila cakrawala tidak tergambar pada  foto.
+
+2.3.2.3 Jenis Kamera
+Berdasarkan jenis kamera  yang  digunakan,  citra  foto  dapat  dibedakan menjadi 2, yaitu foto tunggal dan foto jamak.
+
+Foto tunggal, yaitu foto yang dibuat dengan  kamera  tunggal. Tiap daerah liputan foto hanya  tergambar satu lembar foto.
+
+Foto  jamak,  yaitu beberapa foto  yang  dibuat  pada  saat  yang  sama  dan menggambarkan daerah  liputan yang sama.
+
+2.3.2.4 Warna
+Berdasarkan warna yang digunakan, citra foto dibedakan menjadi dua, yaitu foto berwarna  semu dan foto berwarna  asli.
+
+Foto  berwarna  semu  (false  color)  atau  foto  infra merah  berwarna.  Pada foto ini warna objek tidak sama dengan  warna foto. Misal, pada foto suatu vegetasi berwarna  merah  sedangkan  warna aslinya adalah hijau.
+
+Foto warna asli (true color), yaitu foto pankromatik berwarna.  Dalam foto berwarna  asli lebih mudah  penggunaannya karena  foto  yang  tergambar mirip dengan  objek aslinya.
+
+2.3.2.5 Wahana
+Berdasarkan wahana  yang digunakan,  citra foto dapat  dibagi menjadi foto udara dan foto satelit.
+Foto udara,  yaitu foto yang dibuat dari pesawat/balon udara.
+Foto satelit atau foto orbital, yaitu foto yang dibuat dari satelit.
+
+2.3.3 Citra Nonfoto
+Citra nonfoto  adalah gambaran suatu objek yang diambil dari satelit dengan menggunakan sensor.  Hasilnya dikenal dengan  istilah foto satelit. Citra nonfoto  dapat  dibedakan  sebagai berikut : 
+
+2.3.3.1 Spektrum Elektromagnetik
+Berdasarkan spektrum  elektromagnetik  yang  digunakan,  citra  nonfoto dibedakan  menjadi 2 sebagai  berikut.
+
+Citra  infra merah  termal,  yaitu citra yang  dibuat dengan  spektrum  infra merah  ther mal.  Pengindraan  pada  spektrum  ini berdasarkan  pada perbedaan suhu objek dan daya pancarnya pada  citra, tercermin  dengan adanya  perbedaan rona  atau warnanya.
+
+Citra  radar  dan  citra  gelombang  mikro,  yaitu citra  yang  dibuat  dengan spektrum  gelombang  mikro.  Citra  radar  merupakan hasil pengindraan dengan  sistem aktif yaitu dengan  sumber tenaga  buatan.  Citra gelombang mikro dihasilkan dengan  sistem pasif yaitu dengan  menggunakan sumber tenaga  alamiah.
+
+2.3.3.2 Sensor
+Berdasarkan sensor  yang digunakan,  citra nonfoto  dibedakan  menjadi 2, sebagai  berikut.
+Citra tunggal, yaitu citra yang dibuat dengan  sensor tunggal.
+Citra multispektral,  yaitu citra yang dibuat dengan  sensor  jamak.
+
+2.3.3.3 Wahana
+Berdasarkan wahana  yang digunakan,  citra nonfoto  dibedakan  atas:
+
+1. Citra Dirgantara
+Citra dirgantara  (Airborne image), yaitu citra yang dibuat dengan  wahana yang beroperasi  di udara (dirgantara).
+Contoh: citra infra merah thermal, citra radar, dan citra MSS.
+
+2. Citra Satelit
+Citra  satelit  (Satellite/Spaceborne Image),  yaitu citra  yang  dibuat  dari antariksa  atau angkasa  luar. Citra ini dibedakan  menurut  penggunaannya, sebagai  berikut.
+Benda yang tergambar pada citra dapat dikenali berdasarkan ciri yang terekam oleh sensor, yaitu sebagai berikut.
+
+Ciri spasial, adalah ciri yang berkaitan dengan ruang, yang meliputi bentuk, ukuran, tekstur, pola, situs, bayangan, dan asosiasi.
+Ciri spektral, adalah ciri yang dihasilkan oleh tenaga elektromagnetik dengan benda yang dinyatakan dengan rona dan warna. Rona adalah tingkat kehitaman atau keabuan suatu gambar objek pada citra. Benda yang banyak memantulkan atau memancarkan tenaga, maka rona pada citra berwarna asli tampak cerah.
+
+Ciri temporal, adalah ciri yang terkait dengan umur dan waktu benda pada saat perekaman, misalnya rekaman sungai musim hujan tampak cerah, sedang pada musim kemarau tampak gelap.
+
+a. Citra Satelit untuk pengindraan planet. Contoh Citra Satelit Viking (AS), Citra Satelit Venera  (Rusia).
+b. Citra Satelit untuk pengindraan cuaca.  Contoh  NOAA (AS) dan Citra Meteor  (Rusia).
+c. Citra  Satelit  untuk  pengindraan sumber  daya  bumi.  Contoh   Citra Landsat  (AS), Citra Soyuz (Rusia), dan Citra SPOT  (Perancis).
+d. Citra  Satelit  untuk  pengindraan laut.  Contoh  Citra  Seasat  (AS) dan Citra  MOS (Jepang).
+
+https://geograpik.blogspot.com/2020/01/citra-penginderaan-jauh-dan-jenis-jenis.html
+
+Latar Belakang
+Beri penjelasan mengenai:
+1. Pixel dan voxel
+2. Resolusi citra
+     a. Resolusi pixel
+     b. Resolusi spasial
+     c. Resolusi Spektrum
+     d. Resolusi temporal
+     e. Resolusi Radiometrik
+3. Jenis citra
+4. Format file citra
+
+
+
+BMP (Bitmap Image)
+Dapat dibaca oleh program grafis manapun dan mampu menyimpan informasi dengan kualitas tingkat 1 bit sampai 24 bit. File format BMP(.bmp) menangani file grafik di sistem operasi Microsoft Windows. Pada umumnya file BMP tidak dikompresi, maka ukurannya besar. Keuntungannya adalah kesederahanaannya, diterima luas, dan dikenali program-progam Windows. Biasanya digunakana oleh aplikasi dan system operasi Microsoft Windows. Merupakan kompresi tipe lossless.
+
+JPG atau JPEG (Join Photographic Expert Group)
+JPEG atau Joint Photographic Experts Group adalah format gambar yang banyak digunakan untuk menyimpan gambar-gambar dengan ukuran lebih kecil. JPEG mampu menayangkan warna dengan kedalaman 24-bit true color. Mengkompresi gambar dengan sifat lossy. Dan umumnya digunakan untuk menyimpan gambar-gambar hasil foto.
+ 
+File format JPG (.jpg) atau JPEG (.jpeg) mampu mengkompres objek dengan tingkat kualitas sesuai dengan pilihan yang disediakan. Format file ini sering dimanfaatkan untuk menyimpan gambar yang akan digunakan untuk keperluan halaman web, multimedia, dan publikasi elektronik dan lainnya. 
+Jika kita ingin menampilkan gambar foto ataupun gambar dengan detail yang rumit dan bergradasi, kita bisa menggunakan jenis file ini. 
+
+File JPEG dapat menghasilkan gambar yang hampir seperti aslinya. File JPEG dapat menghasilkan warna sampai dengan 16 juta warna dan warna yang disediakan oleh web browser hanya terbatas sampai dengan 216 warna. Namun demikian web browser akan menggantikan warna yang tidak tersedia dengan warna yang serupa hingga tampilan gambar tetap akan terlihat cantik. Ukuran file JPEG biasanya lebih besar dari pada GIF.
+
+GIF (Graphic Interchange Format)
+Jenis file gambar ini sering kita jumpai dan sering kita Pakai, Salah satu ciri khas tipe gambar berekstensi GIF adalah bisa memainkan animasi gambar sederhana. Selain itu GIF juga mampu mengkompresi gambar dengan sifat lossless dan mendukung warna transparan. File format GIF Hanya mampu menyimpan dalam 8 bit (hanya mendukung mode warna Grayscale, Bitmap, dan Indexed Color) dan dapat menayangkan maksimum sebanyak 256 warna untuk setiap pixelnya. 
+
+Fomat file ini merupakan format standar untuk publikasi elektronik dan internet.
+Karena sangat tidak mungkin menggunakan file asli untuk ditampilkan ke web mengingat ukuran file asli (dalam bentuk bitmap) luar biasa besarnya.
+File GIF bisa menghasilkan baik gambar statis maupun dinamis (animasi). Sangat cocok untuk gambar dengan pemisahaan warna yang jelas (tidak bergradasi) seperti logo dan teks.
+
+PNG (Portabel Network Graphic)
+ PNG atau Portable Network Graphics adalah salah satu format penyimpanan citra yang menggunakan metode pemadatan yang tidak menghilangkan bagian dari citra tersebut. Format file PNG berfungsi sebagai alternatif lain dari format GIF.
+Secara umum PNG dipakai untuk Citra Web (World Wide Web). Citra dengan format PNG mempunyai faktor kompresi yang lebih baik dibandingkan dengan GIF (5%-25% lebih baik dibanding format GIF).
+
+File PNG bisa bekerja baik pada gambar dengan pemisahan warna jelas maupun bergradasi. File PNG terbagi atas PNG-8 dan PNG-24. PNG-8 dapat mengkompresi gambar dengan ukuran file lebih kecil daripada GIF. Sementara PNG-24 menyimpan file dengan ukuran yang lebih besar. PNG-24 biasa digunakan untuk gambar foto ataupun bergradasi, karena gambar yang dihasilkan akan lebih tajam. Kelebihan lainnya, PNG mendukung gambar transparansi.
+
+Untuk Web, format PNG mempunyai 3 keuntungan dibandingkan format GIF: Channel Alpha (transparansi). Gamma (pengaturan terang-gelapnya citra en:”brightness”). Penayangan citra secara progresif (progressive display) Untuk keperluan pengolahan citra, meskipun format PNG bisa dijadikan alternatif selama proses pengolahan citra namun format JPEG masih menjadi pilihan yang lebih baik.
+
+TIF atau TIFF (Tagged Image File)
+ TIFF (Tagged Image File Format) adalah format yang fleksibel yang biasanya disimpan sebagai 8 bits atau 16 bits per warna (merah, hijau, biru) untuk 24-bit dan total 48-bit, masing-masing, menggunakan nama file TIFF atau TIF. TIF mampu menyimpan gambar dengan kapasitas hingga 32bit. Format file ini juga dapat digunakan untuk keperluan pertukaran antar platform (PC, Machintosh, dan Silicon Graphic).
+
+Fleksibilitas TIFF di anggap sebagai berkah dan kutukan, karena tidak ada satu pun reader  yang membaca  seluruh file TIFF. TIFF adalah lossy dan lossless yang dimana sebagian menawarkan kompresi lossless yang baik untuk citra bi-level (Hitam dan Putih).
+
+Beberapa kamera digital bisa menyimpan dengan format TIFF, menggunkan algoritma kompresi LZW untuk penyimpanan lossless. Format citra TIFF tidak di dukung oleh kebanyakan browser web. TIFF tetap diterima sebagai sebuah standar file fotografi dalam bisnis percetakan. TIFF bisa menangani space warna untuk peralatan tertentu, seperti CMYK yang di definisikan oleh tinta percetakan press.
+
+PCX (Personal Computer eXchange)
+ PCX adalah sebuah format gambar yang dikembangkan oleh ZSoft Corporation yang berasal dari Marietta, Georgia, Amerika Serikat. PCX adalah format gambar yang aslinya diciptakan untuk PC Paintbrush. PCX telah menjadi salah satu format gambar DOS yang paling diterima, meskipun keberadaannya sejak DOS telah digantikan oleh format yang lebih canggih semisal GIF, JPG dan PNG.
+
+Sebuah file PCX adalah format file berbentuk raster yang dimana kepala filenya menyimpan informasi tentang perangkat keras monitor (resolusi layar, kedalaman warna, informasi palet, jumlah bit dst.) secara terpisah dari gambarnya. Hal ini membuat sebuah file PCX dapat dipindahkan dan dibuka di perangkat komputer lain dengan perangkat keras yang   berbeda. Sebuah file PCX biasanya dapat menyimpan gambar-gambar dengan indeks palet 2 hingga 4 bit dan 16 hingga 256 warna, namun sekarang telah ditambah untuk menyimpan gambar-gambar true color (24-bit).
+
+EPS (Encapsuled Postcript)
+Format file gambar EPS digunakan untuk keperluan pertukaran dokumen antar program grafis dan ketika ingin mencetak gambar. 
+
+https://iniblogmateri.blogspot.com/2018/09/format-file-citra-ini-blog-materi.html

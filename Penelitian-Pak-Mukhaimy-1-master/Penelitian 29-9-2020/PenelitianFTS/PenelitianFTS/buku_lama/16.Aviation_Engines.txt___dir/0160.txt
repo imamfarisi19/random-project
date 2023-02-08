@@ -1,0 +1,50 @@
+[Illustration: Fig. 111.--Timing Diagram Showing Peculiar Valve Timing
+of Gnome "Monosoupape" Rotary Motor.]
+
+A part sectional view through a cylinder of an engine designed by G.
+Michaux is shown at Fig. 112, A. There are two valves per cylinder,
+inclined at about ten degrees from the vertical. The valve-stems are of
+large diameter, as owing to positive control, there is no necessity of
+lightening this part in an unusual degree. A single overhead cam-shaft
+has eight pairs of cams, which are shown in detail at B. For each valve
+there is a three-armed rocker, one arm of which is connected to the stem
+of the valve and the two others are in contact respectively with the
+opening and closing cams. The connection to the end of the valve-stem is
+made by a short connecting link, which is screwed on to the end of the
+valve-stem and locked in position. This allows some adjustment to be
+made between the valves and the actuating rocker. It will be evident
+that one cam and one rocker arm produce the opening of the valve and
+that the corresponding rocker arm and cam result in the closing of the
+valve. If the opening cam has the usual convex profile, the closing cam
+has a correspondingly concave profile. It will be noticed that a light
+valve-spring is shown in drawing. This is provided to give a final
+seating to its valve after it has been closed by the cam. This is not
+absolutely necessary, as an engine has been run successfully without
+these springs. The whole mechanism is contained within an overhead
+aluminum cover.
+
+[Illustration: Fig. 112.--Two Methods of Operating Valves by Positive
+Cam Mechanism Which Closes as Well as Opens Them.]
+
+The positive-valve system used on the De Lage motor is shown at D. In
+this the valves are actuated as shown in sectional views D and E. The
+valve system is unique in that four valves are provided per cylinder,
+two for exhaust and two for intake. The valves are mounted side by side,
+as shown at E, so the double actuator member may be operated by a single
+set of cams. The valve-operating member consists of a yoke having guide
+bars at the top and bottom. The actuating cam works inside of this yoke.
+The usual form of cam acts on the lower portion of the yoke to open the
+valve, while the concave cam acts on the upper part to close the valves.
+In this design provision is made for expansion of the valve-stems due to
+heat, and these are not positively connected to the actuating member. As
+shown at E, the valves are held against the seat by short coil springs
+at the upper end of the stem. These are very stiff and are only intended
+to provide for expansion. A slight space is left between the top of the
+valve-stem and the portion of the operating member that bears against
+them when the regular profile cam exerts its pressure on the bottom of
+the valve-operating mechanism. Another novelty in this motor design is
+that the cam-shafts and the valve-operating members are carried in
+casing attached above the motor by housing supports in the form of small
+steel pillars. The overhead cam-shafts are operated by means of bevel
+gearing.
+

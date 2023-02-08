@@ -1,0 +1,35 @@
+[Illustration: Fig. 74.--Special Mica Plug for Aviation Engines.]
+
+
+SPECIAL PLUGS FOR AIRPLANE WORK
+
+Airplane work calls for special construction of spark-plugs, owing to
+the high compression used in the engines and the fact that they are
+operated on open throttle practically all the time, thus causing a great
+deal of heat to be developed. The plug shown at Fig. 74 was recently
+described in "The Automobile," and has been devised especially for
+airplane engines and automobile racing power plants. The core C is built
+up of mica washers, and has square shoulders. As mica washers of
+different sizes may be used, and accurate machining, such as is
+necessary with conical clamping surfaces, is not required, the plug can
+be produced economically. The square shoulders of the core afford two
+gasket seats, and when the core is clamped in the shell by means of
+check nut E, it is accurately centered and a tight joint is formed. This
+construction also makes a shorter plug than where conical fits are used,
+thus improving the heat radiation through the stem. The lower end of the
+shell is provided with a baffle plate O, which tends to keep the oil
+away from the mica. There are perforations L in this baffle plate to
+prevent burnt gases being pocketed behind the baffle plate and
+pre-igniting the new charge. This construction also brings the firing
+point out into the firing chamber of the engine, and has all the other
+advantages of a closed-end plug. The stem P is made of brass or copper,
+on account of their superior heat conductivity, and the electrode J is
+swedged into the bottom of the stem, as shown at K, in a secure manner.
+
+The shell is finned, as shown at G, to provide greater heat radiating
+surface. There is also a fin F at the top of the stem, to increase the
+radiation of heat from the stem and electrode. The top of this finned
+portion is slightly countersunk, and the stem is riveted into same,
+thereby reducing the possibility of leakage past the threads on the
+stem. This finned portion is necked at A to take a slip terminal.
+

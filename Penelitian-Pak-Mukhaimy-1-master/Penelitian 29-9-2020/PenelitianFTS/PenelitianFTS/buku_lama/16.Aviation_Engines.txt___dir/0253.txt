@@ -1,0 +1,46 @@
+
+PRECAUTIONS IN REASSEMBLING PARTS
+
+When all of the essential components of a power plant have been
+carefully looked over and cleaned and all defects eliminated, either by
+adjustment or replacement of worn portions, the motor should be
+reassembled, taking care to have the parts occupy just the same
+relative positions they did before the motor was dismantled. As each
+part is added to the assemblage care should be taken to insure adequate
+lubrication of all new points of bearing by squirting liberal quantities
+of cylinder oil upon them with a hand oil can or syringe provided for
+the purpose. In adjusting the crank-shaft bearings, tighten them one at
+a time and revolve the shafts each time one of the bearing caps is set
+up to insure that the newly adjusted bearing does not have undue
+friction. All retaining keys and pins must be positively placed and it
+is good practice to cover such a part with lubricant before replacing it
+because it will not only drive in easier, but the part may be removed
+more easily if necessary at some future time. If not oiled, rust
+collects around it.
+
+When a piece is held by more than one bolt or screw, especially if it is
+a casting of brittle material such as cast iron or aluminum, the
+fastening bolts should be tightened uniformly. If one bolt is tightened
+more than the rest it is liable to spring the casting enough to break
+it. Spring washers, check nuts, split pins or other locking means should
+always be provided, especially on parts which are in motion or subjected
+to heavy loads.
+
+Before placing the cylinder over the piston it is imperative that the
+slots in the piston rings are spaced equidistant and that the piston is
+copiously oiled before the cylinder is slipped over it. When
+reassembling the inlet and exhaust manifolds it is well to use only
+perfect packings or gaskets and to avoid the use of those that seem to
+have hardened up or flattened out too much in service. If it is
+necessary to use new gaskets it is imperative to employ these at all
+joints on a manifold, because if old and new gaskets are used together
+the new ones are apt to keep the manifold from bedding properly upon the
+used ones. It is well to coat the threads of all bolts and screws
+subjected to heat, such as cylinder head and exhaust manifold retaining
+bolts, with a mixture of graphite and oil. Those that enter the water
+jacket should be covered with white or red lead or pipe thread
+compound. Gaskets will hold better if coated with shellac before the
+manifold or other parts are placed over them. The shellac fills any
+irregularities in the joint and assists materially in preventing leakage
+after the joint is made up and the coating has a chance to set.
+

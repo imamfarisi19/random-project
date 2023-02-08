@@ -1,0 +1,45 @@
+"One way out of the trouble is to fit drip tins under the jet
+chamber to catch the gasoline as it falls. This is all very well
+just to prevent fire while the machine is being started up, but
+it will not save it if it is left standing with the tail on the
+ground and the petrol turned on, for the drip tins will then
+fill up and run over. And if it catches then, the contents of
+the drip tins merely add fuel to the fire.
+
+
+_Reversing Carburetors_
+
+"Yet another way is to turn the carburetors round, so that the
+float chambers are behind the jets, and so come below them when
+the tail is on the ground, thus cutting off the gasoline low
+down in the jets. There seems to be no particular mechanical
+difficulty about this, though I must confess that I did not note
+very carefully whether the reversal of the float chambers would
+make them foul any other fittings on the engine. It has been
+argued, however, that doing this would starve the engine of
+gasoline when climbing at a steep angle, as the gasoline would
+then be lowered in the jets and need more suction to get into
+the cylinders. This is rather a pretty point of amateur motor
+mechanics to discuss, for, obviously, when the same engine is
+used as a 'pusher' instead of a tractor, the jets are in front
+of the floats, and there seems to be no falling off in power.
+
+
+_Starvation of Mixture_
+
+"Moreover, the higher a machine goes the lower is the
+atmospheric pressure, and, consequently, the less is the amount
+of air sucked in at each induction stroke. This means, of
+course, that with the gasoline supply the mixture at high
+altitudes is too rich, so that, in order to get precisely the
+right mixture when very high up, it is necessary to reduce the
+gasoline supply by screwing down the needle valve between the
+tank and the carburetor--at least, that has been the experience
+of various high-flying pilots. No doubt something might be done
+in the way of forced air feed to compensate for reduced
+atmospheric pressure, but it remains to be proved whether the
+extra weight of mechanism involved would pay for the extra power
+obtained. Variable compression might do something, also, to even
+things up, but here, also, weight of mechanism has to be
+considered.
+

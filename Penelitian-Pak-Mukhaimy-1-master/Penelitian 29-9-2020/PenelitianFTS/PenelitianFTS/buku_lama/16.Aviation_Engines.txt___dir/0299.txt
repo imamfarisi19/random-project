@@ -1,0 +1,70 @@
+The oil pump assembly comprises a pair of plunger pumps which draw oil
+from a separate outside pump, and constructed integrally with it is a
+gear pump which delivers the oil under about 60 pound pressure through a
+set of copper pipes in the base to the main bearings. The plunger oil
+pump shows great refinement of detail. A worm wheel and two eccentrics
+are machined up out of one piece and serve to operate the plungers.
+
+[Illustration: Fig. 246.--Part Sectional Side View and Sectional End
+View of Benz 160 Horse-Power Aviation Engine.]
+
+Some interesting details of the 160 horse-power Benz motor, which is
+shown at Fig. 246, are reproduced from the "Aerial Age Weekly," and show
+how carefully the design has been considered.
+
+Maximum horse-power, 167.5 B. H. P.
+Speed at maximum horse-power, 1,500 R. P. M.
+Piston speed at maximum horse-power, 1,770 ft. per minute.
+Normal horse-power, 160 B. H. P.
+Speed at normal horse-power, 1,400 R. P. M.
+Piston speed at normal horse-power, 1,656 ft. per minute.
+Brake mean pressure at maximum horse-power, 101.2 pound per square
+inch.
+Brake mean pressure at normal horse-power, 103.4 pound per square
+inch.
+Specific power cubic inch swept volume per B. H. P., 5.46 cubic inch;
+160 B. H. P.
+Weight of piston, complete with gudgeon pin, rings, etc., 5.0 pound.
+Weight of connecting rod, complete with bearings, 4.99 pound; 1.8
+pound reciprocating.
+Weight of reciprocating parts per cylinder, 6.8 pound.
+Weight of reciprocating parts per square inch of piston area, 0.33
+pound.
+Outside diameter of inlet valve, 68 mm.; 2.68 inches.
+Diameter of inlet valve port (_d_), 61.5 mm.; 2.42 inches.
+Maximum lift of inlet valve (_h_), 11 mm.; 0.443 inch.
+Area of inlet valve opening ([pi] _d_ _h_), 21.25 square cm.; 3.29
+square inches.
+Inlet valve opens, degrees on crank, top dead center.
+Inlet valve closes, degrees on crank, 60° late; 35 mm. late.
+Outside diameter of exhaust valve, 68 mm.; 2.68 inches.
+Diameter of exhaust valve port (_d_), 61.5 mm.; 2.42 inches.
+Maximum lift of exhaust valve (_h_) 11 mm.; 0.433 inch.
+Area of exhaust valve opening ([pi] _d_ _h_), 21.25 square cm.; 3.29
+square inches.
+Exhaust valve opens, degrees on crank, 60° early; 35 mm. early.
+Exhaust valve closes, degrees on crank, 16-1/2° late; 5 mm. late.
+Length of connecting rod between centers, 314 mm.; 12.36 inches.
+Ratio connecting rod to crank throw, 3.49:1.
+Diameter of crank-shaft, 55 mm. outside, 2.165 inches; 28 mm. inside,
+1.102 inches.
+Diameter of crank-pin, 55 mm. outside, 2.165 inches; 28 mm. inside,
+1.102 inches.
+Diameter of gudgeon pin, 30 mm. outside, 1.181 inches; 19 mm. inside,
+0.708 inch.
+Diameter of cam-shaft, 26 mm. outside, 1.023 inches; 18 mm. inside,
+0.708 inch.
+Number of crank-shaft bearings, 7.
+Projected area of crank-pin bearings, 36.85 square cm.; 5.72 square
+inches.
+Projected area of gudgeon pin bearings, 22.20 square cm.; 3.44 square
+inches.
+Firing sequence, 1, 5, 3, 6, 2, 4.
+Type of magnetos, ZH6 Bosch.
+Direction of rotation of magneto from driving end, one clock, one
+anti-clock.
+Magneto timing, full advance, 30° early (16 mm. early).
+Type of carburetors (2) Benz design.
+Fuel consumption per hour, normal horse-power, 0.57 pint.
+Normal speed of propeller, engine speed, 1,400 R. P. M.
+

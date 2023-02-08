@@ -1,0 +1,36 @@
+The high-tension magnetos, with double cam or two break per revolution
+interrupter, is located on the thrust plate in an inverted position, and
+is driven at such a speed as to produce nine sparks for every two
+revolutions; that is, at 2-1/4 times engine speed. A Splitdorf magneto
+is fitted. There is no distributor on the magneto. The high-tension
+collector brush of the magneto is connected to a distributor brush
+holder carried in the bearer plate of the engine. The brush in this
+brush holder is pressed against a distributor ring of insulating
+material molded in position in the web of a gear wheel keyed to the
+thrust plate, which gear serves also for starting the engine by hand.
+Molded in this ring of insulating material are nine brass contact
+sectors, connecting with contact screws at the back side of the gear,
+from which bare wires connect to the spark-plugs. The distributor
+revolves at engine speed, instead of at half engine speed as on ordinary
+engines, and the distributor brush is brought into electrical connection
+with each spark-plug every time the piston in the cylinder in which this
+spark-plug is located approaches the outer dead center. However, on the
+exhaust stroke no spark is being generated in the magneto, hence none is
+produced at the spark-plug.
+
+[Illustration: Fig. 212.--The Gnome Engine Cam-Gear Case, a Fine Example
+of Accurate Machine Work.]
+
+Ordinarily the engine is started by turning on the propeller, but for
+emergency purposes as in seaplanes or for a quick "get away" if landing
+inadvertently in enemy territory, a hand starting crank is provided.
+This is supported in bearings secured to the pressed steel carriers of
+the engine and is provided with a universal joint between the two
+supports so as to prevent binding of the crank in the bearings due to
+possible distortion of the supports. The gear on this starting crank and
+the one on the thrust plate with which it meshes are cut with helical
+teeth of such hand that the starting pinion is thrown out of mesh as
+soon as the engine picks up its cycle. A coiled spring surrounds part of
+the shaft of the starting crank and holds it out of gear when not in
+use.
+

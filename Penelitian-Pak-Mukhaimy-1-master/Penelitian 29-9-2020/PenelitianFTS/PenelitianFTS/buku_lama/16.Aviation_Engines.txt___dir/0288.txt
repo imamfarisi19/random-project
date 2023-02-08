@@ -1,0 +1,32 @@
+[Illustration: Fig. 241.--Timing Diagram, Wisconsin Aviation Engine.]
+
+Ignition is by two Bosch magnetos, each on a separate set of plugs fired
+simultaneously on opposite sides of the cylinders. Should one magneto
+fail, the other would still run the engine at only a slight loss in
+power. The Zenith double carburetor is used, three cylinders being
+supplied by each carburetor. This insures a higher volumetric
+efficiency, which means more power, as there is no overlapping of inlet
+valves whatever by this arrangement. All parts of these motors are very
+accessible. The water and oil pumps, carburetors, magnetos, oil strainer
+or other parts can be removed without disturbing other parts. The lower
+crank-case can be removed for inspection or adjustment of bearings, as
+the crank-shaft and bearing caps are carried by the upper half. The
+motor supporting lugs are also part of the upper crank-case.
+
+The six-cylinder motor, without carburetors or magnetos, weighs 547
+pounds. With carburetor and magnetos, the weight is 600 pounds. The
+weight of cooling water in the motor is 38 pounds. The sump will carry 4
+gallons of oil, or about 28 pounds. A radiator can be furnished suitable
+for the motor, weighing 50 pounds. This radiator will hold 3 gallons of
+water or about 25 pounds. The motor will drive a two-blade, 8 feet
+diameter by 6.25 feet pitch Paragon propeller 1400 revolutions per
+minute, developing 148 horse-power. The weight of this propeller is 42
+pounds. This makes a total weight of motor, complete with propeller,
+radiator filled with water, but without lubricating oil, 755 pounds, or
+about 5.1 pounds per horse-power for complete power plant. The fuel
+consumption is .5 pound per horse-power per hour. The lubricating oil
+consumption is .0175 pound per horse-power per hour, or a total of 2.6
+pounds per hour at 1400 revolutions per minute. This would make the
+weight of fuel and oil, per hour's run at full power at 1400 revolutions
+per minute, 76.6 pounds.
+

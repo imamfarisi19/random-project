@@ -1,0 +1,35 @@
+If the engine is allowed to stand long enough so that the tank becomes
+empty, it will be replenished after the motor has been cranked over four
+or five times with the throttle closed. The installation of the Stewart
+Vacuum-Gravity System is very simple. The suction pipe is tapped into
+the manifold at a point as near the cylinders as possible, while the
+fuel pipe is inserted into the gasoline tank and runs to the bottom of
+that member. There is a screen at the end of the fuel pipe to prevent
+any trouble due to deposits of sediment in the main container. As the
+fuel is sucked from the gasoline tank a small vent must be made in the
+tank filler cap so that the pressure in the main tank will always be
+that of the atmosphere.
+
+
+EARLY VAPORIZER FORMS
+
+The early types of carbureting devices were very crude and cumbersome,
+and the mixture of gasoline vapor and air was accomplished in three
+ways. The air stream was passed over the surface of the liquid itself,
+through loosely placed absorbent material saturated with liquid, or
+directly through the fuel. The first type is known as the surface
+carburetor and is now practically obsolete. The second form is called
+the "wick" carburetor because the air stream was passed over or through
+saturated wicking. The third form was known as a "bubbling" carburetor.
+While these primitive forms gave fairly good results with the early
+slow-speed engines and the high grade, or very volatile, gasoline which
+was first used for fuel, they would be entirely unsuitable for present
+forms of engines because they would not carburate the lower grades of
+gasoline which are used to-day, and would not supply the modern
+high-speed engines with gas of the proper consistency fast enough even
+if they did not have to use very volatile gasoline. The form of
+carburetor used at the present time operates on a different principle.
+These devices are known as "spraying carburetors." The fuel is reduced
+to a spray by the suction effect of the entering air stream drawing it
+through a fine opening.
+

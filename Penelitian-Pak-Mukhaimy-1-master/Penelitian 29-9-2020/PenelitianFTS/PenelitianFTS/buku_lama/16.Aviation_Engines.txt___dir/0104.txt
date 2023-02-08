@@ -1,0 +1,41 @@
+
+LOCATING TROUBLE
+
+Trouble in the ignition system is indicated by the motor "missing,"
+stopping entirely, or by inability to start.
+
+It is safe to assume that the trouble is not in the magneto, and the
+carburetor, gasoline supply and spark-plugs should first be
+investigated.
+
+[Illustration: Fig. 65.--The Berling Magneto Breaker Box Showing Contact
+Points Separated and Interruptor Lever on Cam.]
+
+If the magneto is suspected, the first thing to do is to determine if it
+will deliver a spark. To determine this, disconnect one of the
+high-tension leads from the spark-plug in one of the cylinders and place
+it so that there is approximately 1/16" between the terminal and the
+cylinder frame.
+
+Open the pet cocks on the other cylinders to prevent the engine from
+firing and turn over the engine until the piston is approaching the end
+of the compression stroke in the cylinder from which the cable has been
+removed. Set the magneto in the advance position and rapidly rock the
+engine over the top-center position, observing closely if a spark occurs
+between the end of the high-tension cable and the frame.
+
+If the magneto is of the dual type, the trouble may be either in the
+magneto or in the battery or coil system, therefore disconnect the
+battery and place the switch in the position marked "MAG." The magneto
+will then operate as an independent magneto and should spark in the
+proper manner. After this the battery system should be investigated. To
+test the operation of the battery and coil, examine all connections,
+making sure that they are clean and tight, and then with the switch, in
+the "BAT," rock the piston slowly back and forth. If a type "VN-1" coil
+is used, a shower of sparks should jump between the high-tension cable
+terminal and the cylinder frame when the piston is in the correct
+position for firing. If no spark occurs, remove the cover from the coil
+and see that the vibrating tongue is free. If a type "N-1" coil is used,
+a single spark will occur. The battery should furnish six volts when
+connected to the coil, and this should also be verified.
+

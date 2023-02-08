@@ -1,0 +1,60 @@
+[Illustration: Fig. 230.--The Simplex Model A Hispano-Suiza Aviation
+Engine, a Very Successful Form.]
+
+Oiling is by a positive pressure system. The oil is taken through a
+filter and steel tubes cast in the case to main bearings, through
+crank-shaft to crank-pins. The fourth main bearing is also provided with
+an oil lead from the system and through tubes running up the end of each
+cylinder block, oil is provided for the cam-shafts, cams and bearings.
+The surplus oil escapes through the end of the cam-shaft where the
+driving gears are mounted, and with the oil that has gathered in the top
+casing, descends through the drive shaft and gears to the sump.
+
+Ignition is by two eight-cylinder magnetos firing two spark-plugs per
+cylinder. The magnetos are driven from each of the two vertical shafts
+by small bevel pinions meshing in bevel gears. The carburetor is mounted
+between the two cylinder blocks and feeds the two blocks through
+aluminum manifolds which are partly water-jacketed. The engine can be
+equipped with a geared hand crank-starting device.
+
+
+STURTEVANT MODEL 5A 140 HORSE-POWER ENGINE
+
+These motors are of the eight-cylinder "V" type, four-stroke cycle,
+water-cooled, having a bore of 4 inches and a stroke of 5-1/2 inches,
+equivalent to 102 mm. × 140 mm. The normal operating speed of the
+crank-shaft is 2,000 R. P. M. The propeller shaft is driven through
+reducing gears which can be furnished in different gear ratios. The
+standard ratio is 5:3, allowing a propeller speed of 1,200 R. P. M.
+
+The construction of the motor is such as to permit of the application of
+a direct drive. The change from the direct drive to gear drive, or vice
+versa, can be accomplished in approximately one hour.
+
+The cylinders are cast in pairs from an aluminum alloy and are provided
+with steel sleeves, carefully fitted into each cylinder. A perfect
+contact is secured between cylinder and sleeve; at the same time a
+sleeve can be replaced without injury to the cylinder proper. No
+difficulties due to expansion occur on account of the rapid transmission
+of heat and the fact that the sleeve is always at higher temperature
+than the cylinder. A moulded copper asbestos gasket is placed between
+the cylinder and the head, permitting the cooling water to circulate
+freely and at the same time insuring a tight joint. The cylinder heads
+are cast in pairs from an aluminum alloy and contain ample water
+passages for circulation of cooling water over the entire head. Trouble
+due to hot valves is thereby eliminated, a most important consideration
+in the operation of an aeroplane motor. The water jacket of the head
+corresponds to the water jacket of the cylinders and large openings in
+both allow the unobstructed circulation of the cooling water. The
+cylinder heads and cylinders are both held to the base by six long
+bolts. The valves are located in the cylinder heads and are mechanically
+operated. The valves and valve springs are especially accessible and of
+such size as to permit high volumetric efficiency. The valves are
+constructed of hardened tungsten steel, the heads and stems being made
+from one piece. The valve rocker arms located on the top of the cylinder
+are provided with adjusting screws. A check nut enables the adjusting
+screw to be securely locked in position, once the correct clearance has
+been determined. The rocker arm bearings are adequately lubricated by a
+compression grease cup. Cam-rollers are interposed between the cams and
+the push rods in order to reduce the side thrust on the push rods.
+

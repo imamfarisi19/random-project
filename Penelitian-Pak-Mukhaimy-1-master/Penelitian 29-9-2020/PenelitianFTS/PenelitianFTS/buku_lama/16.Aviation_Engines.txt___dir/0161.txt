@@ -1,0 +1,40 @@
+
+FOUR VALVES PER CYLINDER
+
+[Illustration: Fig. 113.--Diagram Comparing Two Large Valves and Four
+Small Ones of Practically the Same Area. Note How Easily Small Valves
+are Installed to Open Directly Into the Cylinder.]
+
+Mention has been previously made of the sixteen-valve four-cylinder
+Duesenberg motor and its great power output for the piston displacement.
+This is made possible by the superior volumetric efficiency of a motor
+provided with four valves in each cylinder instead of but two. This
+principle was thoroughly tried out in racing automobile motors, and is
+especially valuable in permitting of greater speed and power output from
+simple four- and six-cylinder engines. On eight- and twelve-cylinder
+types, it is doubtful if the resulting complication due to using a very
+large number of valves would be worth while. When extremely large valves
+are used, as shown in diagram at Fig. 113, it is difficult to have them
+open directly into the cylinder, and pockets are sometimes necessary. A
+large valve would weigh more than two smaller valves having an area
+slightly larger in the aggregate; it would require a stiffer valve
+spring on account of its greater weight. A certain amount of metal in
+the valve-head is necessary to prevent warping; therefore, the inertia
+forces will be greater in the large valve than in the two smaller
+valves. As a greater port area is obtained by the use of two valves,
+the gases will be drawn into the cylinder or expelled faster than with a
+lesser area. Even if the areas are practically the same as in the
+diagram at Fig. 113, the smaller valves may have a greater lift without
+imposing greater stresses on the valve-operating mechanism and quicker
+gas intake and exhaust obtained. The smaller valves are not affected by
+heat as much as larger ones are. The quicker gas movements made
+possible, as well as reduction of inertia forces, permits of higher
+rotative speed, and, consequently, greater power output for a given
+piston displacement. The drawings at Fig. 114 show a sixteen-valve motor
+of the four-cylinder type that has been designed for automobile racing
+purposes, and it is apparent that very slight modifications would make
+it suitable for aviation purposes. Part of the efficiency is due to the
+reduction of bearing friction by the use of ball bearings, but the
+multiple-valve feature is primarily responsible for the excellent
+performance.
+

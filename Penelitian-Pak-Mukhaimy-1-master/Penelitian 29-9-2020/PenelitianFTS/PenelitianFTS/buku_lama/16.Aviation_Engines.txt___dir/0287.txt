@@ -1,0 +1,38 @@
+The connecting rods are tubular and machined from chrome vanadium steel
+forgings. Oil tubes are fitted to the rods which carry the oil up to the
+wrist-pins and pistons. The rods complete with bushings weigh 5-1/2
+pounds each. The pistons are made of aluminum alloy and are very light
+and strong, weighing only 2 pounds 2 ounces each. Two leak-proof rings
+are fitted to each piston. The wrist-pins are hollow, of hardened steel,
+and are free to turn either in the piston or the rod. A bronze bushing
+is fitted in the upper end of the rod, but no bushing is fitted in the
+pistons, the hardened steel wrist-pins making an excellent bearing in
+the aluminum alloy.
+
+[Illustration: Fig. 240.--Power, Torque and Efficiency Curves of
+Wisconsin Aviation Motor.]
+
+The water circulation is by centrifugal pump, which is mounted at the
+lower end of the vertical shaft. The water is pumped through brass pipes
+to the lower end of the cylinder water jackets and leaves the upper end
+of the jackets just above the exhaust valves. The lubricating system is
+one of the main features of the engines, being designed to work with the
+motor at any angle. The oil is carried in the sump, from where it is
+taken by the oil circulating pump through a strainer and forced through
+a header, extending the full length of the crank-case, and distributed
+to the main bearings. From the main bearings it is forced through the
+hollow crank-shaft to the connecting rod big ends and then through
+tubes on the rods to wrist-pins and pistons. Another lead takes oil from
+the main header to the cam-shaft bearings. The oil forced out of the
+ends of the cam-shaft bearings fills pockets under the cams and in the
+cam rocker levers. The excess flows back through pipes and through the
+train of gears to the crank-case. A strainer is fitted at each end of
+the crank-case, through which the oil is drawn by separate pumps and
+returned to the sump. Either one of these pumps is large enough to take
+care of all of the return oil, so that the operation is perfect whether
+the motor is inclined up or down. No splash is used in the crank-case,
+the system being a full force feed. An oil level indicator is provided,
+showing the amount of oil in the sump at all times. The oil pressure in
+these motors is carried at ten pounds, a relief valve being fitted to
+hold the pressure constant.
+

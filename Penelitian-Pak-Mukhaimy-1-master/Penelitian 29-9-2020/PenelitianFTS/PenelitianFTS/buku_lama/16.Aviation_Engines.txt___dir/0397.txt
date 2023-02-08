@@ -1,0 +1,86 @@
+=The subscription price of the magazine is one dollar per year of twelve
+numbers. Sample copy sent on receipt of ten cents.=
+
+Enter your subscription to this practical magazine with your bookseller.
+
+
+=The Norman W. Henley Publishing Co.,=
+
+=2 West 45th Street, New York=
+
+
+
+
++-----------------------------------------------------------------+
+|                      TRANSCRIBER'S NOTES                        |
+|                                                                 |
+| General remarks:                                                |
+|   There are some differences in wording between the Table of    |
+|   Contents, the lists of sections per chapter, and the actual   |
+|   section titles. Their meaning is clear, and they have been    |
+|   left as they were in the original work.                       |
+|   Page 56, table: Fig. 8 in the first column does not refer to  |
+|   Fig. 8 in this work.                                          |
+|   The original work does not have a Figure 89.                  |
+|   Page 303, table: it is uncertain what "free with kerosene"    |
+|   means, there may be a word omitted.                           |
+|   Page 544, entirely censored. It is not clear what this page   |
+|   originally contained (possibly a table), since text and       |
+|   numbering of illustrations are uninterrupted. The text        |
+|   "CENSORED" has been moved to after the first paragraph of the |
+|   section on Mercedes Engines.                                  |
+|   The List of Illustrations does not occur in the original work.|
+|                                                                 |
+| Changes made:                                                   |
+|   The text of the original work (including inconsistencies in   |
+|   accents, spelling, hyphenation and lay-out, and differences   |
+|   between the main text, illustrations and advertisements) has  |
+|   been followed, except when listed below. Only some minor      |
+|   obvious typographical errors have been corrected silently.    |
+|   Where the author used x for multiplication, this has been     |
+|   replaced by × in the body of the text (not in the             |
+|   advertisements or illustrations).                             |
+|   The illustrations have been moved so as not to disrupt the    |
+|   flow of the text.                                             |
+|   Engine and aircraft types are not always named consistently in|
+|   the original; Curtiss engine O X 2, OX-2 and 0X2 have all     |
+|   been changed to OX-2, Curtiss aircraft JN4 and JN-4 to JN-4.  |
+|   Multi-page tables: repeated headings have been removed, and   |
+|   the tables treated as one consecutive table.                  |
+|   Page 22: "The product of" has been moved into the first       |
+|   formula.                                                      |
+|   Page 25: "When B × r = M" changed to "When P × r = M".        |
+|   Page 74: ".225 ÷ 775 = .2905" changed to ".225 ÷ .775 =       |
+|   .2905".                                                       |
+|   Page 137 (caption): "Bavary" changed to "Baverey" as          |
+|   elsewhere.                                                    |
+|   Page 172: "evidently" changed to "evident".                   |
+|   Page 214: "drop to O" changed to "drop to 0".                 |
+|   Page 248: "actual from a common" changed to "actuated from a  |
+|   common".                                                      |
+|   Page 256: "values" changed to "valves".                       |
+|   Page 280: "Fig. 6" changed to "Fig. 112".                     |
+|   Page 306: "Fig. 127, B" changed to "Fig. 127, C" (2nd         |
+|   reference).                                                   |
+|   Page 324: "Rhone" changed to "Le Rhone" as elsewhere.         |
+|   Page 334: "Check values" changed to "Check valves".           |
+|   Page 364: "LeRhone" changed to "Le Rhone" as elsewhere.       |
+|   Page 390: "Fig. 62, D" changed to "Fig. 168, B".              |
+|   Page 408: "Stilson" changed to "Stillson" as elsewhere.       |
+|   Page 490: "both valves" changed to "both halves".             |
+|   Page 514: "standard ratio is 5.3" changed to "standard ratio  |
+|   is 5:3".                                                      |
+|   Page 529: "gallons per minute 1,400 R. P. M." changed to      |
+|   "gallons per minute at 1,400 R. P. M."                        |
+|   Page 546: "Hispano Suiza" changed to "Hispano-Suiza" as       |
+|   elsewhere.                                                    |
+|   Page 556: "Diameter of crank-shaft, 56 mm." changed to        |
+|   "Diameter of crank-shaft, 55 mm."                             |
+|   Page 7 (advertisements): "Hazlehurst Field" changed to        |
+|   "Hazelhurst Field".                                           |
+|   Page 21 (advertisements): "Rhose Island Compound" changed to  |
+|   "Rhode Island Compound".                                      |
+|   Index: "Shebler" changed to "Schebler", "camshaft" to         |
+|   "cam-shaft", "wristpin" to "wrist-pin", etc. (all as in text).|
++-----------------------------------------------------------------+
+

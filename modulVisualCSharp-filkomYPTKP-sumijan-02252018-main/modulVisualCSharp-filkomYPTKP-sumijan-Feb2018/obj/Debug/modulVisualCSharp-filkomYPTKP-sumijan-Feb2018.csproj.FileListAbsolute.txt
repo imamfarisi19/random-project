@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bin\Debug\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018.exe.config
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bin\Debug\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018.exe
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bin\Debug\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018.pdb
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\obj\Debug\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\obj\Debug\modulVisualCSharp_filkomYPTKP_sumijan_Feb2018.Form1.resources
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\obj\Debug\modulVisualCSharp_filkomYPTKP_sumijan_Feb2018.Properties.Resources.resources
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\obj\Debug\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\obj\Debug\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018.exe
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\obj\Debug\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018.pdb

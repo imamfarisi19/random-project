@@ -1,0 +1,47 @@
+[Illustration: Fig. 24.--Showing Three Possible Though Unconventional
+Arrangements of Four-Cylinder Engines.]
+
+The six-cylinder type of motor, the action of which is shown at Fig. 23,
+C, is superior to the four-cylinder, inasmuch as the power strokes
+overlap, and instead of having two explosions each revolution we have
+three explosions. The conventional crank-shaft arrangement in a
+six-cylinder engine is just the same as though one used two
+three-cylinder shafts fastened together, so pistons 1 and 6 are on the
+same plane as are pistons 2 and 5. Pistons 3 and 4 also travel together.
+With the cranks arranged as outlined at Fig. 23, C, the firing order is
+one, five, three, six, two, four. The manner in which the power strokes
+overlap is clearly shown in the diagram. An interesting comparison is
+also made in the diagrams at Fig. 25 and in the upper corner of Fig. 23,
+C.
+
+[Illustration: Fig. 25.--Diagrams Outlining Advantages of Multiple
+Cylinder Motors, and Why They Deliver Power More Evenly Than Single
+Cylinder Types.]
+
+A rectangle is divided into four columns; each of these corresponds to
+one hundred and eighty degrees, or half a revolution. Thus the first
+revolution of the crank-shaft is represented by the first two columns,
+while the second revolution is represented by the last two. Taking the
+portion of the diagram which shows the power impulse in a one-cylinder
+engine, we see that during the first revolution there has been no power
+impulse. During the first half of the second revolution, however, an
+explosion takes place and a power impulse is obtained. The last portion
+of the second revolution is devoted to exhausting the burned gases, so
+that there are three idle strokes and but one power stroke. The effect
+when two cylinders are employed is shown immediately below.
+
+[Illustration: Fig. 26.--Diagrams Showing Duration of Events for a
+Four-Stroke Cycle, Six-Cylinder Engine.]
+
+Here we have one explosion during the first half of the first revolution
+in one cylinder and another during the first half of the second
+revolution in the other cylinder. With a four-cylinder engine there is
+an explosion each half revolution, while in a six-cylinder engine there
+is one and one-half explosions during each half revolution. When six
+cylinders are used there is no lapse of time between power impulses, as
+these overlap and a continuous and smooth-turning movement is imparted
+to the crank shaft. The diagram shown at Fig. 26, prepared by E. P.
+Pulley, can be studied to advantage in securing an idea of the
+coordination of effort that takes place in an engine of the six-cylinder
+type.
+

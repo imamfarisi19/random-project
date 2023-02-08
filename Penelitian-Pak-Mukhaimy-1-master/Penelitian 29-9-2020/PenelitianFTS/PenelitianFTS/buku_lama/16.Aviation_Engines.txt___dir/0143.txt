@@ -1,0 +1,50 @@
+[Illustration: Fig. 93.--Sectional View of Engine Cylinder Showing Valve
+and Cage Installation.]
+
+The method of valve application shown at Fig. 87 is an ingenious method
+of overcoming some of the disadvantages inherent with valve-in-the-head
+motors. In the first place it is possible to water-jacket the valves
+thoroughly, which is difficult to accomplish when they are mounted in
+cages. The water circulates directly around the walls of the valve
+chambers, which is superior to a construction where separate cages are
+used, as there are two thicknesses of metal with the latter, that of the
+valve-cage proper and the wall of the cylinder. The cooling medium is in
+contact only with the outer wall, and as there is always a loss of heat
+conductivity at a joint it is practically impossible to keep the
+exhaust valves and their seats at a uniform temperature. The valves may
+be of larger size without the use of pockets when seating directly in
+the head. In fact, they could be equal in diameter to almost half the
+bore of the cylinder, which provides an ideal condition of charge
+placement and exhaust. When valve grinding is necessary the entire head
+is easily removed by taking off six nuts and loosening inlet manifold
+connections, which operation would be necessary even if cages were
+employed, as in the engine shown at Fig. 93.
+
+[Illustration: Fig. 94.--Diagrams Showing How Gas Enters Cylinder
+Through Overhead Valves and Other Types. A--Tee Head Cylinder. B--L Head
+Cylinder. C--Overhead Valve.]
+
+[Illustration: Fig. 95.--Conventional Methods of Operating Internal
+Combustion Motor Valves.]
+
+At Fig. 94, A and B, a section through a typical "L"-shaped cylinder is
+depicted. It will be evident that where a pocket construction is
+employed, in addition to its faculty for absorbing heat, the passage of
+gas would be impeded. For example, the inlet gas rushing in through the
+open valve would impinge sharply upon the valve-cap or combustion head
+directly over the valve and then must turn at a sharp angle to enter the
+combustion chamber and then at another sharp angle to fill the
+cylinders. The same conditions apply to the exhaust gases, though they
+are reversed. When the valve-in-the-head type of cylinder is employed,
+as at C, the only resistance offered the gas is in the manifold. As far
+as the passage of the gases in and out of the cylinder is concerned,
+ideal conditions obtain. It is claimed that valve-in-the-head motors are
+more flexible and responsive than other forms, but the construction has
+the disadvantage in that the valves must be opened through a rather
+complicated system of push rods and rocker arms instead of the simpler
+and direct plunger which can be used with either the "T" or "L" head
+cylinders. This is clearly outlined in the illustrations at Fig. 95,
+where A shows the valve in the head-operating mechanism necessary if the
+cam-shaft is carried at the cylinder base, while B shows the most direct
+push-rod action obtained with "T" or "L" head cylinder placing.
+

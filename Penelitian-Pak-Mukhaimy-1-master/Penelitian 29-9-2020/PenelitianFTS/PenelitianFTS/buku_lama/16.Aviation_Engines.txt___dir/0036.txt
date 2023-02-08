@@ -1,0 +1,51 @@
+TABLE III.--GAS-ENGINE CLEARANCE RATIOS, APPROXIMATE COMPRESSION,
+TEMPERATURES OF EXPLOSION AND EXPLOSIVE PRESSURES WITH A MIXTURE OF GAS
+OF 660 HEAT UNITS PER CUBIC FOOT AND MIXTURE OF GAS 1 TO 6 OF AIR.
+
+[A] Clearance Per Cent. of Piston Volume.
+[B] Ratio (_V_/_V_{c}_) = (_P_ + _C_ Vol.)/Clearance
+[C] Approximate Compression from 13 Pounds Absolute.
+[D] Approximate Gauge Pressure.
+[E] Absolute Temperature of Compression from 560 Deg. Fahrenheit in
+Cylinder.
+[F] Absolute Temperature of Explosion. Gas, 1 part; Air, 6 parts.
+[G] Approximate Explosion Pressure Absolute.
+[H] Approximate Gauge Pressure.
+[I] Approximate Temperature of Explosion, Fahrenheit.
+
+=====+======+======+=====+======+======+=====+=====+=====
+[A] | [B]  | [C]  | [D] | [E]  | [F]  | [G] | [H] | [I]
+-----+------+------+-----+------+------+-----+-----+-----
+1  |  2   |  3   |  4  |  5   |  6   |  7  |  8  |  9
+-----+------+------+-----+------+------+-----+-----+-----
+|      | Lbs. |     | Deg. | Deg. |Lbs. |Lbs. | Deg.
+.50  | 3.   |  57. | 42. | 822. | 2488 | 169 | 144 | 2027
+.444 | 3.25 |  65. | 50. | 846. | 2568 | 197 | 182 | 2107
+.40  | 3.50 |  70. | 55. | 868. | 2638 | 212 | 197 | 2177
+.363 | 3.75 |  77. | 62. | 889. | 2701 | 234 | 219 | 2240
+.333 | 4.   |  84. | 69. | 910. | 2751 | 254 | 239 | 2290
+.285 | 4.50 | 102. | 88. | 955. | 2842 | 303 | 288 | 2381
+.25  | 5.   | 114. | 99. | 983. | 2901 | 336 | 321 | 2440
+-----+------+------+-----+------+------+-----+-----+-----
+
+
+FACTORS GOVERNING ECONOMY
+
+In view of the experiments in this direction, it clearly shows that in
+practical work, to obtain the greatest economy per effective brake
+horse-power, it is necessary: 1st. To transform the heat into work with
+the greatest rapidity mechanically allowable. This means high piston
+speed. 2d. To have high initial compression. 3d. To reduce the duration
+of contact between the hot gases and the cylinder walls to the smallest
+amount possible; which means short stroke and quick speed, with a
+spherical cylinder head. 4th. To adjust the temperature of the jacket
+water to obtain the most economical output of actual power. This means
+water-tanks or water-coils, with air-cooling surfaces suitable and
+adjustable to the most economical requirement of the engine, which by
+late trials requires the jacket water to be discharged at about 200° F.
+5th. To reduce the wall surface of the clearance space or combustion
+chamber to the smallest possible area, in proportion to its required
+volume. This lessens the loss of the heat of combustion by exposure to a
+large surface, and allows of a higher mean wall temperature to
+facilitate the heat of compression.
+

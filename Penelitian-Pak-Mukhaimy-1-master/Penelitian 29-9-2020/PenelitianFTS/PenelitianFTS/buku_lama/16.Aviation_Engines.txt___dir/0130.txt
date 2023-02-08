@@ -1,0 +1,33 @@
+Some automobile engineers contend that the rapid water circulation
+obtained by using a pump may cool the cylinders too much, and that the
+temperature of the engine may be reduced so much that the efficiency
+will be lessened. For this reason there is a growing tendency to use the
+natural method of water circulation as the cooling liquid is supplied to
+the cylinder jackets just below the boiling point and the water issues
+from the jacket at the top of the cylinder after it has absorbed
+sufficient heat to raise it just about to the boiling point.
+
+As the water becomes heated by contact with the hot cylinder and
+combustion-chamber walls it rises to the top of the water jacket, flows
+to the cooler, where enough of the heat is absorbed to cause it to
+become sensibly greater in weight. As the water becomes cooler, it falls
+to the bottom of the radiator and it is again supplied to the water
+jacket. The circulation is entirely automatic and continues as long as
+there is a difference in temperature between the liquid in the water
+spaces of the engine and that in the cooler. The circulation becomes
+brisker as the engine becomes hotter and thus the temperature of the
+cylinders is kept more nearly to a fixed point. With the thermosyphon
+system the cooling liquid is nearly always at its boiling point, whereas
+if the circulation is maintained by a pump the engine will become cooler
+at high speed and will heat up more at low speed.
+
+With the thermosyphon, or natural system of cooling, more water must be
+carried than with the pump-maintained circulation methods. The water
+spaces around the cylinders should be larger, the inlet and discharge
+water manifolds should have greater capacity, and be free from sharp
+corners which might impede the flow. The radiator must also carry more
+water than the form used in connection with the pump because of the
+brisker pump circulation which maintains the engine temperature at a
+lower point. Consideration of the above will show why the pump system is
+almost universally used in connection with airplane power plant cooling.
+

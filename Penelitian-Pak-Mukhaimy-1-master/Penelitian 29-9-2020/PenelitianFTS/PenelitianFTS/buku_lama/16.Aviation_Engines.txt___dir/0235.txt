@@ -1,0 +1,34 @@
+Where the grooves in the cylinder are not deep or where it has warped
+enough so the rings do not bear equally at all parts of the cylinder
+bore, it is possible to obtain a fairly accurate degree of finish by a
+lapping process in which an old piston is coated with a mixture of fine
+emery and oil and is reciprocated up and down in the cylinder as well as
+turned at the same time. This may be easily done by using a dummy
+connecting rod having only a wrist pin end boss, and of such size at the
+other end so that it can be held in the chuck of a drill press. The
+cylinder casting is firmly clamped on the drill press table by suitable
+clamping blocks, and a wooden block is placed in the combustion chamber
+to provide a stop for the piston at its lower extreme position. The back
+gears are put in and the drill chuck is revolved slowly. All the while
+that the piston is turning the drill chuck should be raised up and down
+by the hand feed lever, as the best results are obtained when the
+lapping member is given a combination of rotary and reciprocating
+motion.
+
+
+VALVE REMOVAL AND INSPECTION
+
+One of the most important parts of the gasoline engine and one that
+requires frequent inspection and refitting to keep in condition, is the
+mushroom or poppet valve that controls the inlet and exhaust gas flow.
+In overhauling it is essential that these valves be removed from their
+seatings and examined carefully for various defects which will be
+enumerated at proper time. The problem that concerns us now is the best
+method of removing the valve. These are held against the seating in the
+cylinder by a coil spring which exerts its pressure on the cylinder
+casting at the upper end and against a suitable collar held by a key at
+the lower end of the valve stem. In order to remove the valve it is
+necessary to first compress the spring by raising the collar and pulling
+the retaining key out of the valve stem. Many forms of valve spring
+lifters have been designed to permit ready removal of the valves.
+

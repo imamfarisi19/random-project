@@ -1,0 +1,59 @@
+With this truth and the demand for small and safe prime movers, the
+manufacture of gas-engines increased in Europe and America at a more
+rapid rate, and improvements in perfecting the details of this cheap and
+efficient prime mover have finally raised it to the dignity of a
+standard motor and a dangerous rival of the steam-engine for small and
+intermediate powers, with a prospect of largely increasing its
+individual units to many hundred, if not to the thousand horse-power in
+a single cylinder. The unit size in a single cylinder has now reached to
+about 700 horse-power and by combining cylinders in the same machine,
+powers of from 1,500 to 2,000 horse-power are now available for large
+power-plants.
+
+
+MAIN TYPES OF INTERNAL-COMBUSTION ENGINES
+
+This form of prime mover has been built in so many different types, all
+of which have operated with some degree of success that the diversity in
+form will not be generally appreciated unless some attempt is made to
+classify the various designs that have received practical application.
+Obviously the same type of engine is not universally applicable, because
+each class of work has individual peculiarities which can best be met by
+an engine designed with the peculiar conditions present in view. The
+following tabular synopsis will enable the reader to judge the extent of
+the development of what is now the most popular prime mover for all
+purposes.
+
+A.  Internal Combustion (Standard Type)
+1. Single Acting (Standard Type)
+2. Double Acting (For Large Power Only)
+3. Simple (Universal Form)
+4. Compound (Rarely Used)
+5. Reciprocating Piston (Standard Type)
+6. Turbine (Revolving Rotor, not fully developed)
+
+A1. Two-Stroke Cycle
+a. Two Port
+b. Three Port
+c. Combined Two and Three Port
+d. Fourth Port Accelerator
+e. Differential Piston Type
+f. Distributor Valve System
+
+A2. Four-Stroke Cycle
+a. Automatic Inlet Valve
+b. Mechanical Inlet Valve
+c. Poppet or Mushroom Valve
+d. Slide Valve
+d 1. Sleeve Valve
+d 2. Reciprocating Ring Valve
+d 3. Piston Valve
+e. Rotary Valves
+e 1. Disc
+e 2. Cylinder or Barrel
+e 3. Single Cone
+e 4. Double Cone
+f. Two Piston (Balanced Explosion)
+g. Rotary Cylinder, Fixed Crank (Aerial)
+h. Fixed Cylinder, Rotary Crank (Standard Type)
+

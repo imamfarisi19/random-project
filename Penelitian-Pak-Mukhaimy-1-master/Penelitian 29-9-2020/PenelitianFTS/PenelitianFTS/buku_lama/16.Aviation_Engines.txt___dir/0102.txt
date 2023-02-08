@@ -1,0 +1,54 @@
+
+_First Method:_
+
+1. Designate one cylinder as cylinder No. 1.
+
+2. Turn the crank-shaft until the piston in cylinder No. 1 is in the
+position where the fully advanced spark is desired to occur.
+
+3. Remove the cover from the distributor block and turn the armature
+shaft in the direction of rotation of the magneto until the distributor
+finger-brush comes into such a position that this brush makes contact
+with the segment which is connected to the cable terminal marked "1."
+This is either one of the two bottom segments, depending upon the
+direction of rotation.
+
+4. Place the cam housing in extreme advance, i.e., turn the cam housing
+until it stops, in the direction opposite to the direction of rotation
+of the armature. With the cam housing in this position, open the cover.
+
+5. With the armature in the approximate position as described in "3,"
+turn the armature slightly in either direction to such a point that the
+platinum points of the magneto interrupter will just begin to open at
+the end of the cam, adjacent to the fibre lever on the interrupter.
+
+6. With this exact position of the armature, fix the magneto to the
+driving member of the engine.
+
+
+_Second Method:_
+
+1. Designate one cylinder as cylinder No. 1.
+
+2. Turn the crank-shaft until the piston in cylinder No. 1 is in the
+position at which the fully retarded spark is desired to occur.
+
+3. Same as No. 3 under First Method.
+
+4. Place the cam housing in extreme retard, i.e., turn the cam housing
+until it stops, in the same direction as the direction of rotation of
+the armature. With the cam housing in this position, open the cover.
+
+5. Same as No. 5 under First Method.
+
+6. Same as No. 6 under First Method.
+
+
+WIRING THE MAGNETO
+
+The wiring of the magneto is clearly shown by wiring diagram.
+
+First determine the sequence of firing for the cylinders and then
+connect the cables to the spark plug in the cylinders in proper
+sequence, beginning with cylinder No. 1 marked on the distributor block.
+

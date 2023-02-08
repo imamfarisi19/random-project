@@ -1,0 +1,48 @@
+During the revolution of the armature the grounded lever makes and
+breaks contact with the insulated point, short-circuiting the primary
+winding upon itself until the armature reaches the proper position of
+maximum intensity of current production, at which time the circuit is
+broken, as in the former instance. One end of the secondary winding
+(fine wire) is grounded on the live end of the primary, the other end
+being attached to the revolving arm of the distributor mechanism. So
+long as a closed circuit is maintained feeble currents will pass through
+the primary winding, and so long as the contact points are together this
+condition will exist. When the current reaches its maximum value,
+because of the armature being in the best position, the cam operates the
+interrupter and the points are separated, breaking the short circuit
+which has existed in the primary winding.
+
+The secondary circuit has been open while the distributor arm has moved
+from one contact to another and there has been no flow of energy through
+this winding. While the electrical pressure will rise in this, even if
+the distributor arm contacted with one of the segments, there would be
+no spark at the plug until the contact points separated, because the
+current in the secondary winding would not be of sufficient strength.
+When the interrupter operates, however, the maximum primary current will
+be diverted from its short circuit and can flow to the ground only
+through the secondary winding and spark-plug circuit. The high pressure
+now existing in the secondary winding will be greatly increased by the
+sudden flow of primary current, and energy of high enough potential to
+successfully bridge the gap at the plug is thereby produced in the
+winding.
+
+
+THE BERLING MAGNETO
+
+[Illustration: Fig. 63.--Type DD Berling High Tension Magneto.]
+
+The Berling magneto is a true high tension type delivering two impulses
+per revolution, but it is made in a variety of forms, both single and
+double spark. Its principle of action does not differ in essentials from
+the high tension type previously described. This magneto is used on
+Curtiss aviation engines and will deliver sparks in a positive manner
+sufficient to insure ignition of engines up to 200 horse-power and at
+rotative speeds of the magneto armature up to 4,000 r. p. m. which is
+sufficient to take care of an eight-cylinder V engine running up to
+2,000 r. p. m. The magneto is driven at crank-shaft speed on
+four-cylinder engines, at 1-1/2 times crank-shaft speed on six-cylinder
+engines and at twice crank-shaft speed on eight-cylinder V types. The
+types "D" and "DD" BERLING Magnetos are interchangeable with
+corresponding magnetos of other standard makes. The dimensions of the
+four-, six- and eight-cylinder types "D" and "DD" are all the same.
+

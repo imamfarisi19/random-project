@@ -1,0 +1,45 @@
+
+CENSORED
+
+
+GERMAN AIRPLANE MOTORS
+
+In a paper on "Aviation Motors," presented by E. H. Sherbondy before the
+Cleveland section of the S. A. E. in June, 1917, the Mercedes and Benz
+airplane motor is discussed in some detail and portions of the
+description follow.
+
+[Illustration: Fig. 244.--Side and End Sectional Views of Four-Cylinder
+Argus Engine, a German 100 Horse-Power Design Having Bore and Stroke of
+140 mm., or 5.60 inches, and Developing Its Power at 1,368 R.P.M.
+Weight, 350 Pounds.]
+
+
+MERCEDES MOTOR
+
+The 150 horse-power six-cylinder Mercedes motor is 140 millimeters bore
+and 160 millimeters stroke. The Mercedes company started with
+smaller-sized cylinders, namely 100 millimeters bore and 140 millimeters
+stroke, six-cylinders. The principal features of the design are forged
+steel cylinders with forged steel elbows for gas passages, pressed steel
+water jackets, which when welded together forms the cylinder
+assembly, the use of inclined overhead valves operated by means of an
+overhead cam-shaft through rocker arms which multiply with the motion of
+the cam. By the use of steel cylinders, not only is the weight greatly
+reduced, but certain freedom from distortion through unequal sections,
+leaks and cracks are entirely avoided. The construction is necessarily
+very expensive. It is certainly a sound job. In the details of this
+construction there are a number of important things, such as finished
+gas passages, water-cooled valve guides and a very small mass of metal,
+which is water-cooled, surrounding the spark-plug. Of course, it is
+necessary to use very high compression in aviation motors in order to
+secure high power and economy and owing to the fact that aviation motors
+are worked at nearly their maximum, the heat flow through the cylinder,
+piston, and valves is many times higher than that encountered in
+automobile motors. It has been found necessary to develop special types
+of pistons to carry the heat from the center of the head in order to
+prevent pre-ignition. In the Mercedes motor the pistons have a drop
+forged steel head which includes the piston boss and this head is
+screwed into a cast iron skirt which has been machined inside to secure
+uniform wall thickness.
+

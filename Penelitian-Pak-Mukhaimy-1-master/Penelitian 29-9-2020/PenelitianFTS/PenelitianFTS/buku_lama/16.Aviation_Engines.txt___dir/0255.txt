@@ -1,0 +1,43 @@
+When the connecting rods are being fitted with the crank-shaft in place
+in crank-case, and that member secured in the frame, a steel square may
+be used as it is reasonable to assume that the wrist-pin, and
+consequently the piston it carries, should observe a true relation with
+the top of the engine base. If the piston side is at right angles with
+the top of the engine base it is reasonable to assume that the wrist-pin
+and crank-pin are parallel. If the piston is canted to one side or the
+other, it will indicate that the brasses have been scraped tapering,
+which would mean considerable heating and undue friction if the piston
+is installed in the cylinder on account of the pressure against one
+portion of the cylinder wall. If the degree of canting is not too great,
+the connecting rods may be sprung very slightly to straighten up the
+piston, but this is a makeshift that is not advised. The height gauge
+method shown above may be used instead of the steel square, if desired,
+because the top of the crank-case is planed or milled true and should be
+parallel with the center line of the crank-shaft.
+
+[Illustration: Fig. 189.--Methods of Testing to Insure Parallelism of
+Bearings After Fitting.]
+
+
+CAM-SHAFTS AND TIMING GEARS
+
+Knocking sounds are also evident if the cam-shaft is loose in its
+bearings, and also if the cams or timing gears are loose on the shaft.
+The cam-shaft is usually supported by solid bearings of the removable
+bushing type, having no compensation for depreciation. If these bearings
+wear the only remedy is replacement with new ones. In the older makes of
+cars it was general practice to machine the cams separately and to
+secure these to the cam-shaft by means of taper pins or keys. These
+members sometimes loosened and caused noise. In the event of the cams
+being loose, care should be taken to use new keys or taper pins, as the
+case may be. If the fastening used was a pin, the hole through the
+cam-shaft will invariably be slightly oval from wear. In order to insure
+a tight job, the holes in cam and shaft must be reamed with the next
+larger size of standard taper reamer and a larger pin driven in. Another
+point to watch is the method of retaining the cam-shaft gear in place.
+On some engines the gear is fastened to a flange on the cam-shaft by
+retaining screws. These are not apt to become loose, but where reliance
+is placed on a key the cam-shaft gear may often be loose on its
+supporting member. The only remedy is to enlarge the key slot in both
+gear and shaft and to fit a larger retaining key.
+

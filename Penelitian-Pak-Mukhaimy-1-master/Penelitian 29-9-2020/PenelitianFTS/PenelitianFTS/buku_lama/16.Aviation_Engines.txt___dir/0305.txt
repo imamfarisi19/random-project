@@ -1,0 +1,49 @@
+An electric generator and motor do not complete a self-starting system,
+because some reservoir or container for electric current must be
+provided. The current from the generator is usually stored in a storage
+battery from which it can be made to return to the motor or to the same
+armature that produced it. The fundamental units of a self-starting
+system, therefore, are a generator to produce the electricity, a storage
+battery to serve as a reservoir, and an electric motor to rotate the
+motor crank-shaft. Generators are usually driven by enclosed gearing,
+though silent chains are used where the center distance between the
+motor shaft and generator shaft is too great for the gears. An electric
+starter may be directly connected to the gasoline engine, as is the case
+where the combined motor-generator replaces the fly-wheel in an
+automobile engine. The motor may also drive the engine by means of a
+silent chain or by direct gear reduction.
+
+Every electric starter must use a switch of some kind for starting
+purposes and most systems include an output regulator and a reverse
+current cut-out. The output regulator is a simple device that regulates
+the strength of the generator current that is supplied the storage
+battery. A reverse current cut-out is a form of check valve that
+prevents the storage battery from discharging through the generator.
+Brief mention is made of electric starting because such systems will
+undoubtedly be incorporated in some future airplane designs. Battery
+ignition is already being experimented with.
+
+
+BATTERY IGNITION SYSTEM PARTS
+
+A battery ignition system in its simplest form consists of a current
+producer, usually a set of dry cells or a storage battery, an induction
+coil to transform the low tension current to one having sufficient
+strength to jump the air gap at the spark-plug, an igniter member
+placed in the combustion chamber and a timer or mechanical switch
+operated by the engine so that the circuit will be closed only when it
+is desired to have a spark take place in the cylinders. Battery ignition
+systems may be of two forms, those in which the battery current is
+stepped up or intensified to enable it to jump an air gap between the
+points of the spark plug, these being called "high tension" systems and
+the low tension form (never used on airplane motors) in which the
+battery current is not intensified to a great degree and a spark
+produced in the cylinder by the action of a mechanical circuit breaker
+in the combustion chamber. The low tension system is the simplest
+electrically but the more complex mechanically. The high tension system
+has the fewest moving parts but numerous electrical devices. At the
+present time all airplane engines use high tension ignition systems, the
+magneto being the most popular at the present time. The current
+distribution and timing devices used with modern battery systems are
+practically the same as similar parts of a magneto.
+

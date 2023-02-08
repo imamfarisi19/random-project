@@ -1,0 +1,34 @@
+[Illustration: Fig. 128.--Connecting Rod Types Summarized.
+A--Single Connecting Rod Made in One Piece, Usually Fitted in Small
+Single-Cylinder Engines Having Built-Up Crank-Shafts. B--Marine Type, a
+Popular Form on Heavy Engines. C--Conventional Automobile Type, a
+Modified Marine Form. D--Type Having Hinged Lower Cap and Split Wrist
+Pin Bushing. E--Connecting Rod Having Diagonally Divided Big End.
+F--Ball-Bearing Rod. G--Sections Showing Structural Shapes Commonly
+Employed in Connecting Rod Construction.]
+
+In a number of instances, instead of plain bushed bearings anti-friction
+forms using ball or rollers have been used at the lower end. A
+ball-bearing connecting rod is shown at F. The big end may be made in
+one piece, because if it is possible to get the ball bearing on the
+crank-pins it will be easy to put the connecting rod in place. Ball
+bearings are not used very often on connecting rod big ends because of
+difficulty of installation, though when applied properly they give
+satisfactory service and reduce friction to a minimum. One of the
+advantages of the ball bearing is that it requires no adjustment,
+whereas the plain bushings depicted in the other connecting rods must be
+taken up from time to time to compensate for wear.
+
+This can be done in forms shown at B, C, D, and E by bringing the lower
+bearing caps closer to the upper one and scraping out the brasses to fit
+the shaft. A number of liners or shims of thin brass or copper stock,
+varying from .002 inch to .005 inch, are sometimes interposed between
+the halves of the bearings when it is first fitted to the crank-pin. As
+the brasses wear the shims may be removed and the portions of the
+bearings brought close enough together to take up any lost motion that
+may exist, though in some motors no shims are provided and depreciation
+can be remedied only by installing new brasses and scraping to fit.
+
+[Illustration: Fig. 129.--Double Connecting Rod Assembly For Use On
+Single Crank-Pin of Vee Engine.]
+

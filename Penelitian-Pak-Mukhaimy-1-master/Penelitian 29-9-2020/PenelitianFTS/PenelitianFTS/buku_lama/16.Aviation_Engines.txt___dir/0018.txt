@@ -1,0 +1,41 @@
+Of all the types enumerated above engines having less than eight
+cylinders are the most popular in everything but aircraft work. The
+four-cylinder vertical is without doubt the most widely used of all
+types owing to the large number employed as automobile power plants.
+Stationary engines in small and medium powers are invariably of the
+single or double form. Three-cylinder engines are seldom used at the
+present time, except in marine work and in some stationary forms.
+Eight- and twelve-cylinder motors have received but limited application
+and practically always in automobiles, racing motor boats or in aircraft.
+The only example of a fourteen-cylinder motor to be used to any extent
+is incorporated in aeroplane construction. This is also true of the
+sixteen- and eighteen-cylinder forms and of twenty-four-cylinder engines
+now in process of development.
+
+The duty an engine is designed for determines the weight per
+horse-power. High powered engines intended for steady service are always
+of the slow speed type and consequently are of very massive
+construction. Various forms of heavy duty type stationary engines are
+shown at Fig. 2. Some of these engines may weigh as much as 600 pounds
+per horse-power. A further study is possible by consulting data given on
+Figs. 3 and 4. As the crank-shaft speed increases and cylinders are
+multiplied the engines become lighter. While the big stationary power
+plants may run for years without attention, airplane engines require
+rebuilding after about 60 to 80 hours air service for the fixed cylinder
+types and 40 hours or less for the rotary cylinder air-cooled forms.
+There is evidently a decrease in durability and reliability as the
+weight is lessened. These illustrations also permit of obtaining a good
+idea of the variety of forms internal combustion engines are made in.
+
+
+
+
+CHAPTER II
+
+Operating Principles of Two- and Four-Stroke Engines--Four-cycle
+Action--Two-cycle Action--Comparing Two- and Four-cycle Types--
+Theory of Gas and Gasoline Engine--Early Gas-Engine Forms--
+Isothermal Law--Adiabatic Law--Temperature Computations--Heat
+and Its Work--Conversion of Heat to Power--Requisites for Best
+Power Effect.
+

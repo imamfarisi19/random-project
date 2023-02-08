@@ -1,0 +1,52 @@
+[Illustration: Fig. 96.--Examples of Direct Valve Actuation by Overhead
+Cam-Shaft. A--Mercedes. B--Hall-Scott. C--Wisconsin.]
+
+[Illustration: Fig. 97.
+
+CENSORED]
+
+[Illustration: Fig. 98.
+
+CENSORED]
+
+The objection can be easily met by carrying the cam-shaft above the
+cylinders and driving it by means of gearing. The types of engine
+cylinders using this construction are shown at Fig. 96, and it will be
+evident that a positive and direct valve action is possible by following
+the construction originated by the Mercedes (German) aviation engine
+designers and outlined at A. The other forms at B and C are very clearly
+adaptations of this design. The Hall-Scott engine at Fig. 97 is depicted
+in part section and no trouble will be experienced in understanding the
+bevel pinion and gear drive from the crank-shaft to the overhead
+cam-shaft through a vertical counter-shaft. A very direct valve action
+is used in the Duesenberg engines, one of which is shown in part section
+at Fig. 98. The valves are parallel with the piston top and are actuated
+by rocker arms, one end of which bears against the valve stem, and the
+other rides the cam-shaft.
+
+[Illustration: Fig. 99.--Sectional Views Showing Arrangement of Novel
+Concentric Valve Arrangement Devised by Panhard for Aerial Engines.]
+
+The form shown at Fig. 99 shows an ingenious application of the
+valve-in-the-head idea which permits one to obtain large valves. It has
+been used on some of the Panhard aviation engines and on the American
+Aeromarine power plants. The inlet passage is controlled by the sliding
+sleeve which is hollow and slotted so as to permit the inlet gases to
+enter the cylinder through the regular type poppet valve which seats in
+the exhaust sleeve. When the exhaust valve is operated by the tappet rod
+and rocker arm the intake valve is also carried down with it. The
+intake gas passage is closed, however, and the burned gases are
+discharged through the large annular passage surrounding the sleeve.
+When the inlet valve leaves its seat in the sleeve the passage of cool
+gas around the sleeve keeps the temperature of both valves to a low
+point and the danger of warping is minimized. A dome-shaped combustion
+chamber may be used, which is an ideal form in conserving heat
+efficiency, and as large valves may be installed the flow of both fresh
+and exhaust gases may be obtained with minimum resistance. The intake
+valve is opened by a small auxiliary rocker arm which is lifted when the
+cam follower rides into the depression in the cam by the action of the
+strong spring around the push rod. When the cam follower rides on the
+high point the exhaust sleeve is depressed from its seat against the
+cylinder. By using a cam having both positive and negative profiles, a
+single rod suffices for both valves because of its push and pull action.
+

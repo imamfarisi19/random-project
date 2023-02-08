@@ -1,0 +1,14 @@
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\LuceneSearch.exe.config
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\LuceneSearch.exe
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\LuceneSearch.pdb
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\obj\Debug\LuceneSearch.csprojAssemblyReference.cache
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\obj\Debug\LuceneSearch.csproj.CoreCompileInputs.cache
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\obj\Debug\LuceneSearch.exe
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\obj\Debug\LuceneSearch.pdb
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\Lucene.Net.dll
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\Lucene.Net.pdb
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\bin\Debug\Lucene.Net.xml
+C:\Work2020\Devel\01\LuceneSqliteTextSearch\LuceneSearch\obj\Debug\LuceneSearch.csproj.CopyComplete

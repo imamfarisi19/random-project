@@ -1,0 +1,38 @@
+
+VALVE DESIGN AND CONSTRUCTION
+
+Valve dimensions are an important detail to be considered and can be
+determined by several conditions, among which may be cited method of
+installation, operating mechanism, material employed, engine speed
+desired, manner of cylinder cooling and degree of lift desired. A review
+of various methods of valve location has shown that when the valves are
+placed directly in the head we can obtain the ideal cylinder form,
+though larger valves may be used if housed in a separate pocket, as
+afforded by the "T" head construction. The method of operation has much
+to do with the size of the valves. For example, if an automatic inlet
+valve is employed it is good practice to limit the lift and obtain the
+required area of port opening by augmenting the diameter. Because of
+this a valve of the automatic type is usually made twenty per cent.
+larger than one mechanically operated. When both are actuated by cam
+mechanism, as is now common practice, they are usually made the same
+size and are interchangeable, which greatly simplifies manufacture. The
+relation of valve diameter to cylinder bore is one that has been
+discussed for some time by engineers. The writer's experience would
+indicate that they should be at least half the bore, if possible. While
+the mushroom type or poppet valve has become standard and is the most
+widely used form at the present time, there is some difference of
+opinion among designers as to the materials employed and the angle of
+the seat. Most valves have a bevel seat, though some have a flat
+seating. The flat seat valve has the distinctive advantage of providing
+a clear opening with lesser lift, this conducing to free gas flow. It
+also has value because it is silent in operation, but the disadvantage
+is present that best material and workmanship must be used in their
+construction to obtain satisfactory results. As it can be made very
+light it is particularly well adapted for use as an automatic inlet
+valve. Among other disadvantages cited is the claim that it is more
+susceptible to derangement, owing to the particles of foreign matter
+getting under the seat. With a bevel seat it is argued that the foreign
+matter would be more easily dislodged by the gas flow, and that the
+valve would close tighter because it is drawn positively against the
+bevel seat.
+

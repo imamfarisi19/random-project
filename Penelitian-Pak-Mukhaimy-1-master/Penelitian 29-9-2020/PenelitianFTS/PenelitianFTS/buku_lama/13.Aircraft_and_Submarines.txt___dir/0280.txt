@@ -1,0 +1,100 @@
+Submarine warfare, allied losses, 344;
+British losses, 344, 345;
+neutral losses, 344
+
+Submarines:
+_Argonaut_, 282-295, 379
+_David_, 256, 257
+"E" class, 301
+_Fenian Ram_, 275
+"F-1," 300
+"F" (Holland type), 301
+German type, 304
+_Gustave Zédé_, 266, 267
+_Gymnote_, 265, 266
+_Holland No. 2_, 275
+_Holland No. 4_, 275
+_Holland No. 8_, 278
+_Holland No. 9_, 271-273, 278
+_Hundley_, 258-260
+_Intelligent Whale_, 261
+_Le Diable Marin_, 254
+Laurenti type, 306
+_Morse_, 267-270
+_Mute_, 253
+_Narval_, 267, 270
+_Nautilus_, 252
+_Nordenfeldt II._, 264
+_Octopus_, 299
+_Plongeur_, 260
+_Plunger_, 277, 278
+_Resurgam_, 263
+"S" class, 302 (Laurenti or "F. I. A. T." type)
+_Turtle_, 247, 249, 275
+"U-3," 314
+"U-20," 330
+"U-47," 328-331
+"V" class (Lake type), 302
+"W" class (Laubeuf type), 302
+"Viper" class, 299
+
+Submarines, aircraft as enemy of, 357, 358;
+armament of, 312;
+(general topic), 159, 188, 190-195, 209;
+marksmanship, 322;
+microphone, 357;
+motives powers of, 308, 309;
+precautions and devices against, 345, 346, 355, 361;
+requirements of modern, 307-317
+
+Sweden, submarine strength of, 306, 307
+
+Switzerland, 150
+
+
+T
+
+Taube, 126
+
+Thaw, Lieutenant William, 214
+
+Tissot, Professor, 357
+
+Torpedo chamber, 320;
+plane, 156, 157;
+tubes, 298, 301, 303-306, 312, 315, 317, 320, 353
+
+Trocadero, 49-51
+
+Tulasne, Major, 196, 199
+
+Turkey, submarine strength of, 307
+
+Turkish, 177, 188, 334
+
+
+U
+
+U-53, 12, 206, 353, 354
+
+U-Boat attacks on, allied merchantmen;
+_Amiral Ganteaume,_ 340;
+_Gulflight_, 343;
+_Lusitania_, 193, 210, 263, 343;
+_Laconia_, 347-351;
+_Strathend_, 354;
+_West Point_, 354;
+_Stephano_, 354;
+_Bloomersdijk_, 354;
+_Christian Knudsen_, 354;
+in general, 346-354
+
+United States, 56-58, 81, 91, 94-96, 103, 107, 111, 120, 142, 158,
+166, 180, 182, 185, 187, 193, 194, 200, 202, 209, 221, 228, 230,
+239, 260, 261, 271, 295, 297, 301, 303, 310, 334, 341, 343, 345,
+361, 364, 365, 381;
+government of, 96, 272, 273, 276, 296, 343;
+declares war upon Germany, 342;
+Navy, 297, 298, 300, 354;
+submarine strength, 350
+

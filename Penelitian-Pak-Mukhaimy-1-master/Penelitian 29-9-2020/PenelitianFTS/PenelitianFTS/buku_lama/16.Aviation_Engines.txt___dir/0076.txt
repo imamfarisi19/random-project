@@ -1,0 +1,37 @@
+[Illustration: Fig. 54.--Rear View of Curtiss OX-2 90 Horse-Power
+Airplane Motor Showing Carburetor Location and Hot Air Leads.]
+
+
+UTILITY OF GASOLINE STRAINERS
+
+Many carburetors include a filtering screen at the point where the
+liquid enters the float chamber in order to keep dirt or any other
+foreign matter which may be present in the fuel from entering the float
+chamber. This is not general practice, however, and the majority of
+vaporizers do not include a filter in their construction. It is very
+desirable that the dirt should be kept out of the carburetor because it
+may get under the float control fuel valve and cause flooding by keeping
+it raised from its seat. If it finds its way into the spray nozzle it
+may block the opening so that no gasoline will issue or may so constrict
+the passage that only very small quantities of fuel will be supplied the
+mixture. Where the carburetor itself is not provided with a filtering
+screen a simple filter is usually installed in the pipe line between the
+gasoline tank and the float chamber.
+
+Some simple forms of filters and separators are shown at Fig. 55. That
+at A consists of a simple brass casting having a readily detachable
+gauze screen and a settling chamber of sufficient capacity to allow the
+foreign matter to settle to the bottom, from which it is drained out by
+a pet cock. Any water or dirt in the gasoline will settle to the bottom
+of the chamber, and as all fuel delivered to the carburetor must pass
+through the wire gauze screen it is not likely to contain impurities
+when it reaches the float chamber. The heavier particles, such as scale
+from the tank or dirt and even water, all of which have greater weight
+than the gasoline, will sink to the bottom of the chamber, whereas
+light particles, such as lint, will be prevented from flowing into the
+carburetor by the filtering screen.
+
+[Illustration: Fig. 55.--Types of Strainers Interposed Between Vaporizer
+and Gasoline Tank to Prevent Water or Dirt Passing Into Carbureting
+Device.]
+

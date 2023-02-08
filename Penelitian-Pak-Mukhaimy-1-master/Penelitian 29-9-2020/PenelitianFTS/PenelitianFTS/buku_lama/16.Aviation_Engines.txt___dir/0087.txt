@@ -1,0 +1,38 @@
+It is a fact well known to experienced repairmen and motorists that
+atmospheric conditions have much to do with carburetor action. It is
+often observed that a motor seems to develop more power at night than
+during the day, a circumstance which is attributed to the presence of
+more moisture in the cooler night air. Likewise, taking a motor from sea
+level to an altitude of 10,000 feet involves using rarefied air in the
+engine cylinders and atmospheric pressures ranging from 14.7 pounds at
+sea level to 10.1 pounds per square inch at the high altitude. All
+carburetors will require some adjustment in the course of any material
+change from one level to another. Great changes of altitude also have a
+marked effect on the cooling system of an airplane. Water boils at 212
+degrees F. only at sea level. At an altitude of 10,000 feet it will boil
+at a temperature nineteen degrees lower, or 193 degrees F.
+
+In high altitudes the reduced atmospheric pressure, for 5,000 feet or
+higher than sea level, results in not enough air reaching the mixture,
+so that either the auxiliary air opening has to be increased, or the
+gasoline in the mixture cut down. If the user is to be continually at
+high altitudes he should immediately purchase either a larger dome or a
+smaller strangling tube, mentioning the size carburetor that is at
+present in use and the type of motor that it is on, including details as
+to the bore and stroke. The smaller strangling tube makes an increased
+suction at the spray nozzle; the air will have to be readjusted to meet
+it and you can use more auxiliary air, which is necessary. The effect
+on the motor without a smaller strangling tube is a perceptible
+sluggishness and failure to speed up to its normal crank-shaft
+revolutions, as well as failure to give power. It means that about
+one-third of the regular speed is cut out. The reduced atmospheric
+pressure reduces the power of the explosion, in that there is not the
+same quantity of oxygen in the combustion chamber as at sea level; to
+increase the amount taken in, you must also increase the gasoline speed,
+which is done by an increased suction through the smaller strangling
+aperture. Some forms of carburetors are affected more than others by
+changes of altitude, which explains why the Zenith is so widely employed
+for airplane engine use. The compensating nozzle construction is not
+influenced as much by changes of altitude as the simpler nozzle types
+are.
+

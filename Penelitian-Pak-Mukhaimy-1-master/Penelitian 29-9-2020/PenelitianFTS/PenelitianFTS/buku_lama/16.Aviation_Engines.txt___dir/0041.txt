@@ -1,0 +1,49 @@
+The explosive pressure varies to a considerable amount in proportion to
+the compression pressure by the difference in fuel value and the
+proportions of air mixtures, so that for good illuminating gas the
+explosive pressure may be from 2.5 to 4 times the compression pressure.
+For natural gas 3 to 4.5, for gasoline 3 to 5, for producer-gas 2 to 3,
+and for kerosene by injection 3 to 6.
+
+The compression temperatures, although well known and easily computed
+from a known normal temperature of the explosive mixture, are subject to
+the effect of the uncertain temperature of the gases of the previous
+explosion remaining in the cylinder, the temperature of its walls, and
+the relative volume of the charge, whether full or scant; which are
+terms too variable to make any computations reliable or available.
+
+For the theoretical compression temperatures from a known normal
+temperature, we append a table of the rise in temperature for the
+compression pressures in the following table:
+
+TABLE IV.--COMPRESSION TEMPERATURES FROM A NORMAL TEMPERATURE OF 60
+DEGREES FAHRENHEIT.
+
+===============================+==============================
+100 lbs. gauge            484° | 60 lbs. gauge            373°
+90 lbs. gauge            459° | 50 lbs. gauge            339°
+80 lbs. gauge            433° | 40 lbs. gauge            301°
+70 lbs. gauge            404° | 30 lbs. gauge            258°
+-------------------------------+------------------------------
+
+
+CHART FOR DETERMINING COMPRESSION PRESSURES
+
+A very useful chart (Fig. 16) for determining compression pressures in
+gasoline-engine cylinders for various ratios of compression space to
+total cylinder volume is given by P. S. Tice, and described in the
+Chilton Automobile Directory by the originator as follows:
+
+[Illustration: Fig. 16.--Chart Showing Relation Between Compression
+Volume and Pressure.]
+
+It is many times desirable to have at hand a convenient means for at
+once determining with accuracy what the compression pressure will be in
+a gasoline-engine cylinder, the relationship between the volume of the
+compression space and the total cylinder volume or that swept by the
+piston being known. The curve at Fig. 16 is offered as such a means. It
+is based on empirical data gathered from upward of two dozen modern
+automobile engines and represents what may be taken to be the results as
+found in practice. It is usual for the designer to find compression
+pressure values, knowing the volumes from the equation
+

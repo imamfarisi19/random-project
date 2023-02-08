@@ -1,0 +1,42 @@
+If the coil still refuses to give a spark and all connections are
+correct, the coil should be replaced and the defective coil returned to
+the manufacturer.
+
+If both magneto and coil give a spark when tested as just described, the
+spark-plugs should be investigated. To do this, disconnect the cables
+and remove the spark-plugs. Then reconnect the cables to the plugs and
+place them so that the frame portions of the plugs are in metallic
+connection with the frame of the motor. Then turn over the motor, thus
+revolving the magneto armature, and see if a spark is produced at the
+spark gaps of the plugs.
+
+The most common defects in spark-plugs are breaking down of the
+insulation, fouling due to carbon, or too large or small a spark gap. To
+clean the plugs a stiff brush and gasoline should be used. The spark
+gap should be about 1/32" and never less than 1/64". Too small a gap may
+have been caused by beads of metal forming due to the heat of the spark.
+Too long a gap may have been caused by the points burning off.
+
+If the magneto and spark plugs are in good condition and the engine does
+not run satisfactorily, the setting should be verified according to
+instructions previously given, and, if necessary, readjusted.
+
+[Illustration: Fig. 66.--The Dixie Model 60 for Six-Cylinder Airplane
+Engine Ignition.]
+
+Be careful to observe that both the type "VN-1" and type "N-1" coils are
+so arranged that the spark occurs on the opening of the contacts of the
+timer. As this is just the reverse of the usual operation, it should be
+carefully noted when any change in the setting of the timer is made. The
+timer on the dual type magneto is adjusted so that the battery spark
+occurs about 5° later than the magneto spark. This provides an
+automatic advance as soon as the switch is thrown to the magneto
+position "MAG." This relative timing can be easily adjusted by removing
+the interrupter and shifting the cam in the direction desired.
+
+
+THE DIXIE MAGNETO
+
+[Illustration: Fig. 67.--Installation Dimensions of Dixie Model 60
+Magneto.]
+

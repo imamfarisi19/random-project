@@ -1,0 +1,45 @@
+[Illustration: Fig. 162.--Front and Side Elevations of Sturtevant
+Airplane Engine, Giving Principal Dimensions to Facilitate
+Installation.]
+
+
+CONDITIONS THAT CAUSE FAILURE OF IGNITION SYSTEM
+
+If the first test of the motor had showed that the compression was as it
+should be and that there were no serious mechanical defects and there
+was plenty of gasoline at the carburetor, this would have demonstrated
+that the ignition system was not functioning properly. If a battery is
+employed to supply current the first step is to take the spark-plugs out
+of the cylinders and test the system by turning over the engine by hand.
+If there is no spark in any of the plugs, this may be considered a
+positive indication that there is a broken main current lead from the
+battery, a defective ground connection, a loose battery terminal, or a
+broken connector. If none of these conditions are present, it is safe to
+say that the battery is no longer capable of delivering current. While
+magneto ignition is generally used on airplane engines, there is apt to
+be some development of battery ignition, especially on engines equipped
+with electric self-starters which are now being experimented with. The
+spark-plugs may be short circuited by cracked insulation or carbon and
+oil deposits around the electrode. The secondary wires may be broken or
+have defective insulation which permits the current to ground to some
+metal part of the fuselage or motor. The electrodes of the spark-plug
+may be too far apart to permit a spark to overcome the resistance of the
+compressed gas, even if a spark jumps the air space, when the plug is
+laid on the cylinder.
+
+If magnetos are fitted as is usually the case at present and a spark is
+obtained between the points of the plug and that device or the wire
+leading to it from the magneto is in proper condition, the trouble is
+probably caused by the magneto being out of time. This may result if the
+driving gear is loose on the armature-shaft or crank-shaft, and is a
+rare occurrence. If no spark is produced at the plugs the secondary wire
+may be broken, the ground wire may make contact with some metallic
+portion of the chassis before it reaches the switch, the carbon
+collecting brushes may be broken or not making contact, the contact
+points of the make-and-break device may be out of adjustment, the wiring
+may be attached to wrong terminals, the distributor filled with metallic
+particles, carbon, dust or oil accumulations, the distributor contacts
+may not be making proper connection because of wear and there may be a
+more serious derangement, such as a burned out secondary winding or a
+punctured condenser.
+

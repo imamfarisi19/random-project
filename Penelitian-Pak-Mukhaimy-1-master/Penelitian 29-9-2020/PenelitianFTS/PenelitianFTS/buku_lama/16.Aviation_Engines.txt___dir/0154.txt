@@ -1,0 +1,42 @@
+It is a well-known fact that the exhaust valve should close after dead
+center and that a certain amount of lag should be given to opening of
+the inlet. The lag given the closing of the exhaust valve should not be
+as great as that given the closing of the inlet valve. Assuming that the
+excess pressure of the exhaust will equal the depression during
+aspiration, the time necessary to complete the emptying of the cylinder
+will be proportional to the volume of the gas within it. At the end of
+the suction stroke the volume of gas contained in the cylinder is equal
+to the cylindrical volume plus the space of the combustion chamber. At
+the end of the exhaust stroke the volume is but that of the dead space,
+and from one-third to one-fifth its volume before compression. While it
+is natural to assume that this excess of burned gas will escape faster
+than the fresh gas will enter the cylinder, it will be seen that if the
+inlet valve were allowed to lag twenty degrees, the exhaust valve lag
+need not be more than five degrees, providing that the capacity of the
+combustion chamber was such that the gases occupied one-quarter of their
+former volume.
+
+It is evident that no absolute rule can be given, as back pressure will
+vary with the design of the valve passages, the manifolds, and the
+construction of the muffler. The more direct the opening, the sooner the
+valve can be closed and the better the cylinder cleared. Ten degrees
+represent an appreciable angle of the crank, and the time required for
+the crank to cover this angular motion is not inconsiderable and an
+important quantity of the exhaust may escape, but the piston is very
+close to the dead center after the distance has been covered.
+
+Before the inlet valve opens there should be a certain depression in the
+cylinder, and considerable lag may be allowed before the depression is
+appreciable. So far as the volume of fresh gas introduced during the
+admission stroke is concerned, this is determined by the displacement of
+the piston between the point where the inlet valve opens and the point
+of closing, assuming that sufficient gas has been inspired so that an
+equilibrium of pressure has been established between the interior of the
+cylinder and the outer air. The point of inlet opening varies with
+different motors. It would appear that a fair amount of lag would be
+fifteen degrees past top center for the inlet opening, as a certain
+depression will exist in the cylinder, assuming that the exhaust valve
+has closed five or ten degrees after center, and at the same time the
+piston has not gone down far enough on its stroke to materially decrease
+the amount of gas which will be taken into the cylinder.
+

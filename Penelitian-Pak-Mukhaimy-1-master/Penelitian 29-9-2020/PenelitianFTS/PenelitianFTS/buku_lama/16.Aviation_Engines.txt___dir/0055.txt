@@ -1,0 +1,34 @@
+[Illustration: Fig. 33.--The Hall-Scott Four-Cylinder 100 Horse-Power
+Aviation Motor.]
+
+[Illustration: Fig. 34.--Two Views of the Duesenberg Sixteen Valve
+Four-Cylinder Aviation Motor.]
+
+The demand of aircraft designers for more power has stimulated designers
+to work out twelve-cylinder motors. These are high-speed motors
+incorporating all recent features of design in securing light
+reciprocating parts, large valve openings, etc. The twelve-cylinder
+motor incorporates the best features of high-speed motor design and
+there is no need at this time to discuss further the pros and cons of
+the twelve-cylinder versus the eight or six, because it is conceded by
+all that there is the same degree of steady power application in the
+twelve over the eight as there would be in the eight over the six. The
+question resolves itself into having a motor of high power that will
+run with minimum vibration and that produces smooth action. This is well
+shown by diagrams at Fig. 31. It should be remembered that if an
+eight-cylinder engine will give four explosions per revolution of the
+fly-wheel, a twelve-cylinder type will give six explosions per
+revolution, and instead of the impulses coming 90 degrees crank travel
+apart, as in the case of the eight-cylinder, these will come but 60
+degrees of crank travel apart in the case of the twelve-cylinder. For
+this reason, the cylinders of a twelve are usually separated by 60
+degrees while the eight has the blocks spaced 90 degrees apart. The
+comparison can be easily made by comparing the sectional views of Vee
+engines at Fig. 32. When one realizes that the actual duration of the
+power stroke is considerably greater than 120 degrees crank travel, it
+will be apparent that the overlapping of explosions must deliver a very
+uniform application of power. Vee engines have been devised having the
+cylinders spaced but 45 degrees apart, but the explosions cannot be
+timed at equal intervals as when 90 degrees separate the cylinder center
+lines.
+

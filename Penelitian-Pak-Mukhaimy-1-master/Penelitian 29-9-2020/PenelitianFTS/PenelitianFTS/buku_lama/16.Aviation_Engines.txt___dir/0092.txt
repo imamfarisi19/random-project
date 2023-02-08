@@ -1,0 +1,34 @@
+
+FORMS OF MAGNETS AND ZONE OF MAGNETIC INFLUENCE DEFINED
+
+Magnets are commonly made in two forms, either in the shape of a bar or
+horseshoe. These two forms are made in two types, simple or compound.
+The latter are composed of a number of magnets of the same form united
+so the ends of like polarity are laced together, and such a construction
+will be more efficient and have more strength than a simple magnet of
+the same weight. The two common forms of simple and compound magnets are
+shown at C, Fig. 57. The zone in which a magnetic influence occurs is
+called the magnetic field, and this force can be graphically shown by
+means of imaginary lines, which are termed "lines of force." As will be
+seen from the diagram at D, Fig. 57, the lines show the direction of
+action of the magnetic force and also show its strength, as they are
+closer together and more numerous when the intensity of the magnetic
+field is at its maximum. A simple method of demonstrating the presence
+of the force is to lay a piece of thin paper over the pole pieces of
+either a bar or horseshoe magnet and sprinkle fine iron filings on it.
+The particles of metal arrange themselves in very much the manner shown
+in the illustrations and prove that the magnetic field actually exists.
+
+The form of magnet used will materially affect the size and area of the
+magnetic field. It will be noted that the field will be concentrated to
+a greater extent with the horseshoe form because of the proximity of the
+poles. It should be understood that these lines have no actual
+existence, but are imaginary and assumed to exist only to show the way
+the magnetic field is distributed. The magnetic influence is always
+greater at the poles than at the center, and that is why a horseshoe or
+U-form magnet is used in practically all magnetos or dynamos. This
+greater attraction at the poles can be clearly demonstrated by
+sprinkling iron filings on bar and U magnets, as outlined at E, Fig. 57.
+A large mass gathers at the pole pieces, gradually tapering down toward
+the point where the attraction is least.
+

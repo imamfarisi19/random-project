@@ -1,0 +1,41 @@
+In experiments made by Dugald Clerk, in England, with a combustion
+chamber equal to 0.6 of the space swept by the piston, with a
+compression of 38 lbs., the consumption of gas was 24 cubic feet per
+indicated horse-power per hour. With 0.4 compression space and 61 lbs.
+compression, the consumption of gas was 20 cubic feet per indicated
+horse-power per hour; and with 0.34 compression space and 87 lbs.
+compression, the consumption of gas fell to 14.8 cubic feet per
+indicated horse-power per hour--the actual efficiencies being
+respectively 17, 21, and 25 per cent. This was with a Crossley
+four-cycle engine.
+
+
+VARIOUS MEASURES OF EFFICIENCY
+
+The efficiencies in regard to power in a heat-engine may be divided
+into four kinds, as follows: I. The first is known as the _maximum
+theoretical efficiency_ of a perfect engine (represented by the
+lines in the indicator diagram). It is expressed by the formula
+(T_{1} - T_{0})/T_{1} and shows the work of a perfect cycle in an engine
+working between the received temperature + absolute temperature (T_{1})
+and the initial atmospheric temperature + absolute temperature (T_{0}).
+II. The second is the _actual heat efficiency_, or the ratio of the heat
+turned into work to the total heat received by the engine. It expresses
+the _indicated horse-power_. III. The third is the ratio between the
+second or _actual heat efficiency_ and the first or _maximum theoretical
+efficiency_ of a perfect cycle. It represents the greatest possible
+utilization of the power of heat in an internal-combustion engine. IV.
+The fourth is the _mechanical efficiency_. This is the ratio between the
+actual horse-power delivered by the engine through a dynamometer or
+measured by a brake (brake horse-power), and the indicated horse-power.
+The difference between the two is the power lost by engine friction. In
+regard to the general heat efficiency of the materials of power in
+explosive engines, we find that with good illuminating gas the practical
+efficiency varies from 25 to 40 per cent.; kerosene-motors, 20 to 30;
+gasoline-motors, 20 to 32; acetylene, 25 to 35; alcohol, 20 to 30 per
+cent. of their heat value. The great variation is no doubt due to
+imperfect mixtures and variable conditions of the old and new charge in
+the cylinder; uncertainty as to leakage and the perfection of
+combustion. In the Diesel motors operating under high pressure, up to
+nearly 500 pounds, an efficiency of 36 per cent. is claimed.
+

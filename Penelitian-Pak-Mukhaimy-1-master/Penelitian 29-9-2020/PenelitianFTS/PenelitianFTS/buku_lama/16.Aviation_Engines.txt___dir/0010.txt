@@ -1,0 +1,49 @@
+If we give brief consideration to the requirements of the aviator it
+will be evident that one of the most important is securing maximum power
+with minimum mass, and it is desirable to conserve all of the good
+qualities existing in standard automobile motors. These are certainty of
+operation, good mechanical balance and uniform delivery of
+power--fundamental conditions which must be attained before a power
+plant can be considered practical. There are in addition, secondary
+considerations, none the less desirable, if not absolutely essential.
+These are minimum consumption of fuel and lubricating oil, which is
+really a factor of import, for upon the economy depends the capacity and
+flying radius. As the amount of liquid fuel must be limited the most
+suitable motor will be that which is powerful and at the same time
+economical. Another important feature is to secure accessibility of
+components in order to make easy repair or adjustment of parts possible.
+It is possible to obtain sufficiently light-weight motors without
+radical departure from established practice. Water-cooled power plants
+have been designed that will weigh but four or five pounds per
+horse-power and in these forms we have a practical power plant capable
+of extended operation.
+
+
+FACTORS INFLUENCING POWER NEEDED
+
+Work is performed whenever an object is moved against a resistance, and
+the amount of work performed depends not only on the amount of
+resistance overcome but also upon the amount of time utilized in
+accomplishing a given task. Work is measured in horse-power for
+convenience. It will take one horse-power to move 33,000 pounds one foot
+in one minute or 550 pounds one foot in one second. The same work would
+be done if 330 pounds were moved 100 feet in one minute. It requires a
+definite amount of power to move a vehicle over the ground at a certain
+speed, so it must take power to overcome resistance of an airplane in
+the air. Disregarding the factor of air density, it will take more power
+as the speed increases if the weight or resistance remains constant, or
+more power if the speed remains constant and the resistance increases.
+The airplane is supported by air reaction under the planes or lifting
+surfaces and the value of this reaction depends upon the shape of the
+aerofoil, the amount it is tilted and the speed at which it is drawn
+through the air. The angle of incidence or degree of wing tilt regulates
+the power required to a certain degree as this affects the speed of
+horizontal flight as well as the resistance. Resistance may be of two
+kinds, one that is necessary and the other that it is desirable to
+reduce to the lowest point possible. There is the wing resistance and
+the sum of the resistances of the rest of the machine such as fuselage,
+struts, wires, landing gear, etc. If we assume that a certain airplane
+offered a total resistance of 300 pounds and we wished to drive it
+through the air at a speed of sixty miles per hour, we can find the
+horse-power needed by a very simple computation as follows:
+

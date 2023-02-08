@@ -1,0 +1,40 @@
+The inlet ports in the cylinder wall remain open until 20 degrees of
+the compression half-revolution has been completed, and from that moment
+to near the end of the compression stroke the gases are compressed in
+the cylinder. Near the end of the stroke ignition takes place and this
+completes the cycle.
+
+The exact timing of the different phases of the cycle is shown in the
+diagram at Fig. 111. It will be seen that ignition occurs substantially
+20 degrees ahead of the outer dead center, and expansion of the burning
+gases continues until 85 degrees past the outer dead center, when the
+piston is a little past half-stroke. Then the exhaust-valve opens and
+remains open for somewhat more than a complete revolution of the
+cylinders, or, to be exact, for 390 degrees of cylinder travel, until
+115 degrees past the top dead center on the second revolution. Then for
+45 degrees of travel the charge within the cylinder is expanded,
+whereupon the inlet ports are uncovered and remain open for 40 degrees
+of cylinder travel, 20 degrees on each side of the inward dead center
+position.
+
+
+SPRINGLESS VALVES
+
+Springless valves are the latest development on French racing car
+engines, and it is possible that the positively-operated types will be
+introduced on aviation engines also. Two makes of positively-actuated
+valves are shown at Fig. 112. The positive-valve motor differs from the
+conventional form by having no necessity for valve-springs, as a cam not
+only assures the opening of the valve, but also causes it to return to
+the valve-seat. In this respect it is much like the sleeve-valve motor,
+where the uncovering of the ports is absolutely positive. The cars
+equipped with these valves were a success in long-distance auto races.
+Claims made for this type of valve mechanism include the possibility of
+a higher number of revolutions and consequently greater engine power.
+With the spring-controlled, single-cam operated valve a point is reached
+where the spring is not capable of returning the valve to its seat
+before the cam has again begun its opening movement. It is possible to
+extend the limits considerably by using a light valve on a strong
+spring, but the valve still remains a limiting factor in the speed of
+the motor.
+

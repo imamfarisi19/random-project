@@ -1,0 +1,40 @@
+11.25
+------- = 30.6 horse-power.
+14.7
+
+"If the original compression ratio of 4.5 were retained, the drop in
+horse-power would be even greater than this. These computations and
+remarks will make it clear that the designer who contemplates building
+an airplane for high altitude use should see to it that it is of
+sufficient power to compensate for the drop that is inevitable when it
+is up in the air. This is often illustrated in stationary gas-engine
+installations. An engine that had a sea-level rating amply sufficient
+for the work required, might not be powerful enough when brought up
+several thousand feet." When one considers that airplanes attain heights
+of over 18,000 feet, it will be evident that an ample margin of engine
+power is necessary.
+
+
+THE DIESEL SYSTEM
+
+A system of fuel supply developed by the late Dr. Diesel, a German
+chemist and engineer, is attracting considerable attention at the
+present time on account of the ability of the Diesel engine to burn
+low-grade fuels, such as crude petroleum. In this system the engines are
+built so that very high compressions are used, and only pure air is
+taken into the cylinder on the induction stroke. This is compressed to a
+pressure of about 500 pounds per square inch, and sufficient heat is
+produced by this compression to explode a hydrocarbon mixture. As the
+air which is compressed to this high point cannot burn, the fuel is
+introduced into the cylinder combustion chamber under still higher
+compression than that of the compressed air, and as it is injected in a
+fine stream it is immediately vaporized because of the heat. Just as
+soon as the compressed air becomes thoroughly saturated with the liquid
+fuel, it will explode on account of the degree of heat present in the
+combustion chamber. Such motors have been used in marine and stationary
+applications, but are not practical for airplanes or motor cars because
+of lack of flexibility and great weight in proportion to power
+developed. The Diesel engine is the standard power plant used in
+submarine boats and motor ships, as its efficiency renders it
+particularly well adapted for large units.
+

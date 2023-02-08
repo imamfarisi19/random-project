@@ -1,0 +1,53 @@
+[Illustration: Fig. 35.--The Hall-Scott Six-Cylinder Aviation Engine.]
+
+
+RADIAL CYLINDER ARRANGEMENTS
+
+[Illustration: Fig. 36.--The Curtiss Eight-Cylinder, 200 Horse-Power
+Aviation Engine.]
+
+While the fixed cylinder forms of engines, having the cylinders in
+tandem in the four- and six-cylinder models as shown at Figs. 33 to 35
+inclusive and the eight-cylinder V types as outlined at Figs. 36 and 37
+have been generally used and are most in favor at the present time,
+other forms of motors having unconventional cylinder arrangements have
+been devised, though most of these are practically obsolete. While many
+methods of decreasing weight and increasing mechanical efficiency of a
+motor are known to designers, one of the first to be applied to the
+construction of aeronautical power plants was an endeavor to group the
+components, which in themselves were not extremely light, into a form
+that would be considerably lighter than the conventional design. As an
+example, we may consider those multiple-cylinder forms in which the
+cylinders are disposed around a short crank-case, either radiating from
+a common center as at Fig. 38 or of the fan shape shown at Fig. 39. This
+makes it possible to use a crank-case but slightly larger than that
+needed for one or two cylinders and it also permits of a corresponding
+decrease in length of the crank-shaft. The weight of the engine is
+lessened because of the reduction in crank-shaft and crank-case weight
+and the elimination of a number of intermediate bearings and their
+supporting webs which would be necessary with the usual tandem
+construction. While there are six power impulses to every two
+revolutions of the crank-shaft, in the six-cylinder engine, they are
+not evenly spaced as is possible with the conventional arrangement.
+
+[Illustration: Fig. 37.--The Sturtevant Eight-Cylinder, High Speed
+Aviation Motor.]
+
+[Illustration: Fig. 38.--Anzani 40-50 Horse-Power Five-Cylinder Air
+Cooled Engine.]
+
+In the Anzani form, which is shown at Fig. 38, the crank-case is
+stationary and a revolving crank-shaft is employed as in conventional
+construction. The cylinders are five in number and the engine develops
+40 to 50 H.P. with a weight of 72 kilograms or 158.4 lbs. The cylinders
+are of the usual air-cooled form having cooling flanges only part of the
+way down the cylinder. By using five cylinders it is possible to have
+the power impulses come regularly, they coming 145° crank-shaft travel
+apart, the crank-shaft making two turns to every five explosions. The
+balance is good and power output regular. The valves are placed
+directly in the cylinder head and are operated by a common pushrod.
+Attention is directed to the novel method of installing the carburetor
+which supplies the mixture to the engine base from which inlet pipes
+radiate to the various cylinders. This engine is used on French school
+machines.
+

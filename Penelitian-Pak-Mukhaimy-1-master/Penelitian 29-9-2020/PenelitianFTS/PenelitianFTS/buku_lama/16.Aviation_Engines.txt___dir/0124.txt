@@ -1,0 +1,49 @@
+Oils best adapted for Hall-Scott engines have the following properties:
+A flash test of not less than 400° F.; viscosity of not less than 75 to
+85 taken at 21° F. with Saybolt's Universal Viscosimeter.
+
+_Zeroline heavy duty oil_, manufactured by the Standard Oil Company of
+California; also,
+
+_Gargoyle mobile B oil_, manufactured by the Vacuum Oil Company, both
+fulfill the above specifications. One or the other of these oils can be
+obtained all over the world.
+
+Monogram extra heavy is also recommended.
+
+
+OIL SUPPLY BY CONSTANT LEVEL SPLASH SYSTEM
+
+The splash system of lubrication that depends on the connecting rod to
+distribute the lubricant is one of the most successful and simplest
+forms for simple four- and six-cylinder vertical automobile engines, but
+is not as well adapted to the oiling of airplane power plants for
+reasons previously stated. If too much oil is supplied the surplus will
+work past the piston rings and into the combustion chamber, where it
+will burn and cause carbon deposits. Too much oil will also cause an
+engine to smoke and an excess of lubricating oil is usually manifested
+by a bluish-white smoke issuing from the exhaust.
+
+A good method of maintaining a constant level of oil for the successful
+application of the splash system is shown at Fig. 78. The engine base
+casting includes a separate chamber which serves as an oil container and
+which is below the level of oil in the crank-case. The lubricant is
+drawn from the sump or oil container by means of a positive oil pump
+which discharges directly into the engine case. The level is maintained
+by an overflow pipe which allows all excess lubricant to flow back into
+the oil container at the bottom of the cylinder. Before passing into the
+pump again the oil is strained or filtered by a screen of wire gauze and
+all foreign matter removed. Owing to the rapid circulation of the oil it
+may be used over and over again for quite a period of time. The oil is
+introduced directly into the crank-case by a breather pipe and the level
+is indicated by a rod carried by a float which rises when the container
+is replenished and falls when the available supply diminishes. It will
+be noted that with such system the only apparatus required besides the
+oil tank which is cast integral with the bottom of the crank-case is a
+suitable pump to maintain circulation of oil. This member is always
+positively driven, either by means of shaft and universal coupling or
+direct gearing. As the system is entirely automatic in action, it will
+furnish a positive supply of oil at all desired points, and it cannot be
+tampered with by the inexpert because no adjustments are provided or
+needed.
+

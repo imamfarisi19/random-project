@@ -1,0 +1,102 @@
+[33mcommit 30f1467899fbd2e41cc76f86eec9b8096ca7dda8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: imamfarisi19 <edwardindo1@gmail.com>
+Date:   Sat Dec 12 21:55:12 2020 +0700
+
+    fit the pictureBox size 300 x 300 px and complete add normal funtion
+
+[1mdiff --git a/Images/Thumbs.db b/Images/Thumbs.db[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c3c2372[m
+Binary files /dev/null and b/Images/Thumbs.db differ
+[1mdiff --git a/Images/adam - small - Copy.jpg b/Images/adam - small - Copy.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3359dcb[m
+Binary files /dev/null and b/Images/adam - small - Copy.jpg differ
+[1mdiff --git a/Images/squirrel-small - Copy.jpg b/Images/squirrel-small - Copy.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fe5d947[m
+Binary files /dev/null and b/Images/squirrel-small - Copy.jpg differ
+[1mdiff --git a/UTS_P9_VKPC/Form1.Designer.cs b/UTS_P9_VKPC/Form1.Designer.cs[m
+[1mindex 8b0fa5d..3669c4d 100644[m
+[1m--- a/UTS_P9_VKPC/Form1.Designer.cs[m
+[1m+++ b/UTS_P9_VKPC/Form1.Designer.cs[m
+[36m@@ -72,7 +72,7 @@[m
+             this.filterToolStripMenuItem});[m
+          this.menuStrip1.Location = new System.Drawing.Point(0, 0);[m
+          this.menuStrip1.Name = "menuStrip1";[m
+[31m-         this.menuStrip1.Size = new System.Drawing.Size(647, 24);[m
+[32m+[m[32m         this.menuStrip1.Size = new System.Drawing.Size(519, 24);[m
+          this.menuStrip1.TabIndex = 0;[m
+          this.menuStrip1.Text = "menuStrip1";[m
+          // [m
+[36m@@ -224,19 +224,17 @@[m
+          // [m
+          // pictureBox1[m
+          // [m
+[31m-         this.pictureBox1.Location = new System.Drawing.Point(12, 59);[m
+[32m+[m[32m         this.pictureBox1.Location = new System.Drawing.Point(12, 36);[m
+          this.pictureBox1.Name = "pictureBox1";[m
+[31m-         this.pictureBox1.Size = new System.Drawing.Size(300, 300);[m
+[31m-         this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;[m
+[32m+[m[32m         this.pictureBox1.Size = new System.Drawing.Size(200, 163);[m
+          this.pictureBox1.TabIndex = 1;[m
+          this.pictureBox1.TabStop = false;[m
+          // [m
+          // pictureBox2[m
+          // [m
+[31m-         this.pictureBox2.Location = new System.Drawing.Point(330, 59);[m
+[32m+[m[32m         this.pictureBox2.Location = new System.Drawing.Point(243, 36);[m
+          this.pictureBox2.Name = "pictureBox2";[m
+[31m-         this.pictureBox2.Size = new System.Drawing.Size(300, 300);[m
+[31m-         this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;[m
+[32m+[m[32m         this.pictureBox2.Size = new System.Drawing.Size(200, 163);[m
+          this.pictureBox2.TabIndex = 2;[m
+          this.pictureBox2.TabStop = false;[m
+          // [m
+[36m@@ -251,7 +249,7 @@[m
+          // [m
+          this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);[m
+          this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;[m
+[31m-         this.ClientSize = new System.Drawing.Size(647, 374);[m
+[32m+[m[32m         this.ClientSize = new System.Drawing.Size(519, 332);[m
+          this.Controls.Add(this.pictureBox2);[m
+          this.Controls.Add(this.pictureBox1);[m
+          this.Controls.Add(this.menuStrip1);[m
+[1mdiff --git a/UTS_P9_VKPC/Form1.cs b/UTS_P9_VKPC/Form1.cs[m
+[1mindex 3c424b8..72f86aa 100644[m
+[1m--- a/UTS_P9_VKPC/Form1.cs[m
+[1m+++ b/UTS_P9_VKPC/Form1.cs[m
+[36m@@ -39,7 +39,14 @@[m [mnamespace UTS_P9_VKPC[m
+          if (d == DialogResult.OK)[m
+          {[m
+             objBitmap = new Bitmap(openFileDialog1.FileName);[m
+[31m-            pictureBox1.Image = objBitmap;[m
+[32m+[m[32m            if (objBitmap.Width <= 300 && objBitmap.Height <= 300)[m[41m [m
+[32m+[m[32m            {[m
+[32m+[m[32m               pictureBox1.Image = objBitmap;[m
+[32m+[m[32m            }[m
+[32m+[m[32m            else[m
+[32m+[m[32m            {[m
+[32m+[m[32m               MessageBox.Show("The picture size was over than 300 x 300 px", "warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);[m
+[32m+[m[32m            }[m
+          }[m
+       }[m
+ [m
+[36m@@ -68,7 +75,7 @@[m [mnamespace UTS_P9_VKPC[m
+          }[m
+          else[m
+          {[m
+[31m-            MessageBox.Show("No picture", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);[m
+[32m+[m[32m            MessageBox.Show("No Picture", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);[m
+          }[m
+       }[m
+ [m
+[36m@@ -86,7 +93,7 @@[m [mnamespace UTS_P9_VKPC[m
+ [m
+       private void normalToolStripMenuItem_Click(object sender, EventArgs e)[m
+       {[m
+[31m-         [m
+[32m+[m[32m         pictureBox2.Image = objBitmap;[m
+       }[m
+    }[m
+ }[m

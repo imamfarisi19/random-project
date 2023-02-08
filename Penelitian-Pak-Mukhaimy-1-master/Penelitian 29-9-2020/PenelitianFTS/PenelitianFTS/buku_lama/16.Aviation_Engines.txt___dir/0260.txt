@@ -1,0 +1,41 @@
+
+CANTON AND UNNÉ ENGINE
+
+This engine, which has been devised specially for aviation service, is
+generally known as the "Salmson" and is manufactured in both France and
+Great Britain. It is a nine-cylinder water-cooled radial engine, the
+nine cylinders being symmetrically disposed around the crank-shaft while
+the nine connecting rods all operate on a common crank-pin in somewhat
+the same manner as the rods in the Gnome motor. The crank-shaft of the
+Salmson engine is not a fixed one and inasmuch as the cylinders do not
+rotate about the crank-shaft it is necessary for that member to revolve
+as in the conventional engine. The stout hollow steel crank-shaft is in
+two pieces and has a single throw. The crank-shaft is built up somewhat
+the same as that of the Gnome engine. Ball bearings are used throughout
+this engine as will be evident by inspecting the sectional view given at
+Fig. 199. The nine steel connecting rods are machined all over and are
+fitted at each end with bronze bushings, the distance between the
+bearing centers being about 3.25 times crank length. The method of
+connecting up the rods to the crank-pin is one of the characteristic
+features of this design. No "mother" rod as supplied in the Gnome engine
+is used in this type inasmuch as the steel cage or connecting rod
+carrier is fitted with symmetrically disposed big end retaining pins.
+Inasmuch as the carrier is mounted on ball bearings some means must be
+provided of regulating the motion of the carrier as if no means were
+provided the resulting motion of the pistons would be irregular.
+
+[Illustration: Fig. 198.--The Canton and Unné Nine-Cylinder Water-Cooled
+Radial Engine.]
+
+The method by which the piston strokes are made to occur at precise
+intervals involves a somewhat lengthy and detailed technical
+explanation. It is sufficient to say that an epicyclic train of gears,
+one of which is rigidly attached to the crank-case so it cannot rotate
+is used, while other gears make a connection between the fixed gear and
+with another gear which is exactly the same size as the fixed gear
+attached to the crank-case and which is formed integrally with the
+connecting rod carrier. The action of the gearing is such that the cage
+carrying the big end retaining pins does not rotate independently of
+the crank-shaft, though, of course, the crank-shaft or rather crank-pin
+bearings must turn inside of the big end carrier cage.
+

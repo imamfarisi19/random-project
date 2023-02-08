@@ -1,0 +1,32 @@
+*       *       *       *       *
+
+It had been our intention when building the machine to do most of the
+experimenting in the following manner:--When the wind blew 17 miles an
+hour, or more, we would attach a rope to the machine and let it rise as
+a kite with the operator upon it. When it should reach a proper height
+the operator would cast off the rope and glide down to the ground just
+as from the top of a hill. In this way we would be saved the trouble of
+carrying the machine uphill after each glide, and could make at least 10
+glides in the time required for one in the other way. But when we came
+to try it we found that a wind of 17 miles, as measured by Richards'
+anemometer, instead of sustaining the machine with its operator, a total
+weight of 240 lbs., at an angle of incidence of three degrees, in
+reality would not sustain the machine alone--100 lbs.--at this angle.
+Its lifting capacity seemed scarcely one-third of the calculated amount.
+In order to make sure that this was not due to the porosity of the
+cloth, we constructed two small experimental surfaces of equal size, one
+of which was air-proofed and the other left in its natural state; but we
+could detect no difference in their lifting powers. For a time we were
+led to suspect that the lift of curved surfaces little exceeded that of
+planes of the same size, but further investigation and experiment led to
+the opinion that (1) the anemometer used by us over-recorded the true
+velocity of the wind by nearly 15 per cent.; (2) that the well-known
+Smeaton coefficient of .005 V^2 for the wind pressure at 90 degrees is
+probably too great by at least 20 per cent.; (3) that Lilienthal's
+estimate that the pressure on a curved surface having an angle of
+incidence of three degrees equals .545 of the pressure at 90 degrees is
+too large, being nearly 50 per cent. greater than very recent
+experiments of our own with a special pressure testing machine indicate;
+(4) that the superposition of the surfaces somewhat reduced the lift per
+square foot, as compared with a single surface of equal area.
+

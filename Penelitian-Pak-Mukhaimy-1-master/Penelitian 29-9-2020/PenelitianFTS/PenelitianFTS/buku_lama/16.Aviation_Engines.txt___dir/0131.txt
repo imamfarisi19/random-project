@@ -1,0 +1,49 @@
+
+DIRECT AIR-COOLING METHODS
+
+The earliest known method of cooling the cylinder of gas-engines was by
+means of a current of air passed through a jacket which confined it
+close to the cylinder walls and was used by Daimler on his first
+gas-engine. The gasoline engine of that time was not as efficient as the
+later form, and other conditions which materialized made it desirable to
+cool the engine by water. Even as gasoline engines became more and more
+perfected there has always existed a prejudice against air cooling,
+though many forms of engines have been used, both in automobile and
+aircraft applications where the air-cooling method has proven to be very
+practical.
+
+The simplest system of air cooling is that in which the cylinders are
+provided with a series of flanges which increase the effective radiating
+surface of the cylinder and directing an air-current from a fan against
+the flanges to absorb the heat. This increase in the available radiating
+surface of an air-cooled cylinder is necessary because air does not
+absorb heat as readily as water and therefore more surface must be
+provided that the excess heat be absorbed sufficiently fast to prevent
+distortion of the cylinders. Air-cooling systems are based on a law
+formulated by Newton, which is: "The rate for cooling for a body in a
+uniform current of air is directly proportional to the speed of the air
+current and the amount of radiating surface exposed to the cooling
+effect."
+
+
+AIR-COOLED ENGINE DESIGN CONSIDERATIONS
+
+[Illustration: Fig. 85.--Anzani Testing His Five-Cylinder Air Cooled
+Aviation Motor Installed in Bleriot Monoplane. Note Exposure of Flanged
+Cylinders to Propeller Slip Stream.]
+
+There are certain considerations which must be taken into account in
+designing an air-cooled engine, which are often overlooked in those
+forms cooled by water. Large valves must be provided to insure rapid
+expulsion of the flaming exhaust gas and also to admit promptly the
+fresh cool mixture from the carburetor. The valves of air-cooled engines
+are usually placed in the cylinder-head, in order to eliminate any
+pockets or sharp passages which would impede the flow of gas or retain
+some of the products of combustion and their heat. When high power is
+desired multiple-cylinder engines should be used, as there is a certain
+limit to the size of a successful air-cooled cylinder. Much better
+results are secured from those having small cubical contents because the
+heat from small quantities of gas will be more quickly carried off than
+from greater amounts. All successful engines of the aviation type which
+have been air-cooled have been of the multiple-cylinder type.
+

@@ -1,0 +1,42 @@
+The crank-shaft is of the five bearing type, being machined from a
+special heat treated drop forging of the highest grade nickel steel. The
+forging is first drilled, then roughed out. After this the shaft is
+straightened, turned down to a grinding size, then ground accurately to
+size. The bearing surfaces are of extremely large size, over-size,
+considering general practice in the building of high speed engines of
+similar bore and stroke. The crank-shaft bearings are 2" in diameter by
+1-15/16" long, excepting the rear main bearing, which is 4-3/8" long,
+and front main bearing, which is 2-3/16" long. Steel oil scuppers are
+pinned and sweated onto the webs of the shaft, which allows of properly
+oiling the connecting rod bearings. Two thrust bearings are installed on
+the propeller end of the shaft, one for pull and the other for push. The
+propeller is driven by the crank-shaft flange, which is securely held in
+place upon the shaft by six keys. These drive an outside propeller
+flange, the propeller being clamped between them by six through bolts.
+The flange is fitted to a long taper on crank-shaft. This enables the
+propeller to be removed without disturbing the bolts. Timing gears and
+starting ratchets are bolted to a flange turned integral with shaft.
+
+The cam-shaft is of the one piece type, air pump eccentric, and gear
+flange being integral. It is made from a low carbon specially heat
+treated nickel forging, is first roughed out and drilled entire length;
+the cams are then formed, after which it is case hardened and ground to
+size. The cam-shaft bearings are extra long, made from Parson's White
+Brass. A small clutch is milled in gear end of shaft to drive revolution
+indicator. The cam-shaft is enclosed in an aluminum housing bolted
+directly on top of all six cylinders, being driven by a vertical shaft
+in connection with bevel gears. This shaft, in conjunction with rocker
+arms, rollers and other working parts, are oiled by forcing the oil into
+end of shaft, using same as a distributor, allowing the surplus supply
+to flow back into the crank-case through hollow vertical tube. This
+supply oils the magneto and pump gears. Extremely large Tungsten valves,
+being one-half the cylinder diameter, are seated in the cylinder heads.
+Large diameter oil tempered springs held in tool steel cups, locked with
+a key, are provided. The ports are very large and short, being designed
+to allow the gases to enter and exhaust with the least possible
+resistance. These valves are operated by overhead one piece cam-shaft in
+connection with short Chrome nickel rocker arms. These arms have
+hardened tool steel rollers on cam end with hardened tool steel
+adjusting screws opposite. This construction allows accurate valve
+timing at all speeds with least possible weight.
+

@@ -1,0 +1,35 @@
+[Illustration: Fig. 83.--How Water Cooling System of Thomas Airplane
+Engine is Installed in Fuselage.]
+
+The water is drawn from the lower header of the radiator by the pump and
+is forced through a manifold to the lower portion of the water jackets
+of the cylinder. It becomes heated as it passes around the cylinder
+walls and combustion chambers and the hot water passes out of the top of
+the water jacket to the upper portion of the radiator. Here it is
+divided in thin streams and directed against comparatively cool metal
+which abstracts the heat from the water. As it becomes cooler it falls
+to the bottom of the radiator because its weight increases as the
+temperature becomes lower. By the time it reaches the lower tank of the
+radiator it has been cooled sufficiently so that it may be again passed
+around the cylinders of the motor. The popular form of circulating pump
+is known as the "centrifugal type" because a rotary impeller of
+paddle-wheel form throws water which it receives at a central point
+toward the outside and thus causes it to maintain a definite rate of
+circulation. The pump is always a separate appliance attached to the
+engine and driven by positive gearing or direct-shaft connection. The
+centrifugal pump is not as positive as the gear form, and some
+manufacturers prefer the latter because of the positive pumping
+features. They are very simple in form, consisting of a suitable cast
+body in which a pair of spur pinions having large teeth are carried. One
+of these gears is driven by suitable means, and as it turns the other
+member they maintain a flow of water around the pump body. The pump
+should always be installed in series with the water pipe which conveys
+the cool liquid from the lower compartment of the radiator to the
+coolest portion of the water jacket.
+
+[Illustration: Fig. 84.--Finned Tube Radiators at the Side of Hall-Scott
+Airplane Power Plant Installed in Standard Fuselage.]
+
+
+WATER CIRCULATION BY NATURAL SYSTEM
+

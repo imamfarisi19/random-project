@@ -1,0 +1,48 @@
+
+AUSTRO-DAIMLER ENGINE
+
+One of the first very successful European flying engines which was
+developed in Europe is the Austro-Daimler, which is shown in end section
+in a preceding chapter. The first of these motors had four-cylinders,
+120 by 140 millimeters, bore and stroke, with cast iron cylinders,
+overhead valves operated by means of a single rocker arm, controlled by
+two cams and the valves were closed by a single leaf spring which
+oscillates with the rocker arm. The cylinders are cast singly and have
+either copper or steel jackets applied to them. The four-cylinder design
+was afterwards expanded to the six-cylinder design and still later a
+six-cylinder motor of 130 by 175 millimeters was developed. This motor
+uses an offset crank-shaft, as does the Benz motor, and the effect of
+offset has been discussed earlier on in this treatise. The Benz motor
+also uses an offset cam-shaft which improves the valve operation and
+changes the valve lift diagram. The lubrication also is different than
+any other aviation motor, since individual high pressure metering pumps
+are used to deliver fresh oil only to the bearings and cylinders, as was
+the custom in automobile practice some ten years ago.
+
+
+SUNBEAM AVIATION ENGINES
+
+These very successful engines have been developed by Louis Coatalen. At
+the opening of the war the largest sized Coatalen motor was 225
+horse-power and was of the L-head type having a single cam-shaft for
+operating valves and was an evolution from the twelve-cylinder racing
+car which the Sunbeam Company had previously built. Since 1914 the
+Sunbeam Company have produced engines of six-, eight-, twelve- and
+eighteen-cylinders from 150 to 500 horse-power with both iron and
+aluminum cylinders. For the last two years all the motors have had
+overhead cam-shafts with a separate shaft for operating the intake and
+exhaust valves. Cam-shafts are connected through to the crank-shaft by
+means of a train of spur gears, all of which are mounted on two double
+row ball bearings. In the twin six, 350 horse-power engine, operating at
+2100 R. P. M., requires about 4 horse-power to operate the cam-shafts.
+This motor gives 362 horse-power at 2100 revolutions and has a fuel
+consumption of 51/100 of a pint per brake horse-power hour. The
+cylinders are 110 by 160 millimeters. The same design has been expanded
+into an eighteen-cylinder which gives 525 horse-power at 2100 turns.
+There has also been developed a very successful eight-cylinder motor
+rated at 2220 horse-power which has a bore and stroke of 120 by 130
+millimeters, weight 450 pounds. This motor is an aluminum block
+construction with steel sleeves inserted. Three valves are operated, one
+for the inlet and two for the exhaust. One cam-shaft operates the three
+valves.
+

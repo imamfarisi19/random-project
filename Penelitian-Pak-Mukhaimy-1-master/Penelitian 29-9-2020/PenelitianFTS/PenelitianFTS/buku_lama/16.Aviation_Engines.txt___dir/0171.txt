@@ -1,0 +1,59 @@
+
+CONNECTING ROD FORMS
+
+The connecting rod is the simple member that joins the piston to the
+crank-shaft and which transmits the power imparted to the piston by the
+explosion so that it may be usefully applied. It transforms the
+reciprocating movement of the piston to a rotary motion at the
+crank-shaft. A typical connecting rod and its wrist pin are shown at
+Fig. 120. It will be seen that it has two bearings, one at either end.
+The small end is bored out to receive the wrist pin which joins it to
+the piston, while the large end has a hole of sufficient size to go on
+the crank-pin. The airplane and automobile engine connecting rod is
+invariably a steel forging, though in marine engines it is sometimes
+made a steel or high tensile strength bronze casting. In all cases it is
+desirable to have softer metals than the crank-shaft and wrist pin at
+the bearing point, and for this reason the connecting rod is usually
+provided with bushings of anti-friction or white metal at the lower end,
+and bronze at the upper. The upper end of the connecting rod may be one
+piece, because the wrist pin can be introduced after it is in place
+between the bosses of the piston. The lower bearing must be made in two
+parts in most cases, because the crank-shaft cannot be passed through
+the bearing owing to its irregular form. The rods of the Gnome engine
+are all one piece types, as shown at Fig. 127, owing to the construction
+of the "mother" rod which receives the crank-pins. The complete
+connecting rod assembly is shown in Fig. 121, also at A, Fig. 127. The
+"mother" rod, with one of the other rods in place and one about to be
+inserted, is shown at Fig. 127, B. The built-up crank-shaft which makes
+this construction feasible is shown at Fig. 127, C.
+
+[Illustration: Fig. 127.--Connecting Rod and Crank-Shaft Construction of
+Gnome "Monosoupape" Engine.]
+
+Some of the various designs of connecting rods that have been used are
+shown at Fig. 128. That at A is a simple form often employed in
+single-cylinder motors, having built-up crank-shafts. Both ends of the
+connecting rod are bushed with a one-piece bearing, as it can be
+assembled in place before the crank-shaft assembly is built up. A
+built-up crank-shaft such as this type of connecting rod would be used
+with is shown at Fig. 106. The pattern shown at B is one that has been
+used to some extent on heavy work, and is known as the "marine type." It
+is made in three pieces, the main portion being a steel forging having a
+flanged lower end to which the bronze boxes are secured by bolts. The
+modified marine type depicted at C is the form that has received the
+widest application in automobile and aviation engine construction. It
+consists of two pieces, the main member being a steel drop forging
+having the wrist-pin bearing and the upper crank-pin bearing formed
+integral, while the lower crank-pin bearing member is a separate forging
+secured to the connecting rod by bolts. In this construction bushings of
+anti-friction metal are used at the lower end, and a bronze bushing is
+forced into the upper- or wrist-pin end. The rod shown at D has also
+been widely used. It is similar in construction to the form shown at C,
+except that the upper end is split in order to permit of a degree of
+adjustment of the wrist-pin bushing, and the lower bearing cap is a
+hinged member which is retained by one bolt instead of two. When it is
+desired to assemble it on the crank-shaft the lower cap is swung to one
+side and brought back into place when the connecting rod has been
+properly located. Sometimes the lower bearing member is split diagonally
+instead of horizontally, such a construction being outlined at E.
+

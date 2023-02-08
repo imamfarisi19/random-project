@@ -1,0 +1,44 @@
+The cam-shaft is contained within the upper half of the base between the
+two groups of cylinders, and is supported in six bronze bearings. It is
+bored hollow throughout and the cams are formed integral with the shaft
+and ground to the proper shape and finish. An important development in
+the shape of cams has resulted in a maintained increase of power at high
+speeds. The gears operating the cam-shaft, magneto, oil and water pumps
+are contained within an oil-tight casing and operate in a bath of oil.
+
+Lubrication is of the complete forced circulating system, the oil being
+supplied to every bearing under high pressure by a rotary pump of large
+capacity. This is operated by gears from the crank-shaft. The oil
+passages from the pump to the main bearings are cast integral with the
+base, the hollow crank-shaft forming a passage through the connecting
+rod bearings and the hollow cam-shaft distributing the oil to the
+cam-shaft bearings. The entire surface of the lower half of the base is
+covered with a fine mesh screen through which the oil passes before
+reaching the pump. Approximately one gallon of oil is contained within
+the base and this is continually circulated through an external tank by
+a secondary pump operated by an eccentric on the cam-shaft. This also
+draws fresh oil from the external tank which can be made of any desired
+capacity.
+
+
+SPECIFICATIONS--MODEL 5A TYPE 8
+
+Horse-power rating, 140 at 2,000 R. P. M.
+Bore, 4 inches = 102 mm.
+Stroke, 5-1/2 inches = 140 mm.
+Number of cylinders, 8.
+Arrangement of cylinders, "V."
+Cooling, water. Circulation by centrifugal pump.
+Cycle, four stroke.
+Ignition (double), 2 Bosch or Splitdorf magnetos.
+Carburetor, Zenith duplex. Water jacket manifold.
+Oiling system, complete forced. Circulating gear pump.
+Normal crank-shaft speed, 2,000 R. P. M.
+Propeller shaft, 3/5 crank-shaft speed at normal, 1,200 R. P. M.
+Stated power at 30" barometer, 140 B. H. P.
+Stated weight with all accessories but without water, gasoline or oil,
+514 pounds = 234 kilos.
+Weight per B. H. P., 3.7 pounds = 1.68 kilos.
+Stated weight with all accessories with water, 550 pounds = 250 kilos.
+Weight per B. H. P. with water, 3.95 pounds = 1.79 kilos.
+

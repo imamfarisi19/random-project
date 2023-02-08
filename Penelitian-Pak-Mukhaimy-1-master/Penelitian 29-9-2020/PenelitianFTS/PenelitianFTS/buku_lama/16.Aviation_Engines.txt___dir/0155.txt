@@ -1,0 +1,42 @@
+
+CLOSING THE INLET VALVE
+
+As in the case with the other points of opening and closing, there is a
+wide diversity of practice as relates to closing the inlet valve. Some
+of the designers close this exactly at bottom center, but this practice
+cannot be commended, as there is a considerable portion of time, at
+least ten or fifteen degrees angular motion of the crank, before the
+piston will commence to travel to any extent on its compression stroke.
+The gases rushing into the cylinder have considerable velocity, and
+unless an equilibrium is obtained between the pressure inside and that
+of the atmosphere outside, they will continue to rush into the cylinder
+even after the piston ceases to exert any suction effect.
+
+For this reason, if the valve is closed exactly on center, a full charge
+may not be inspired into the cylinder, though if the time of closing is
+delayed, this momentum or inertia of the gas will be enough to insure
+that a maximum charge is taken into the cylinder. The writer considers
+that nothing will be gained if the valve is allowed to remain open
+longer than twenty degrees, and an analysis of practice in this respect
+would seem to confirm this opinion. From that point in the crank
+movement the piston travel increases and the compressive effect is
+appreciable, and it would appear that a considerable proportion of the
+charge might be exhausted into the manifold and carburetor if the valve
+were allowed to remain open beyond a point corresponding to twenty
+degrees angular movement of the crank.
+
+
+TIME OF IGNITION
+
+In this country engineers unite in providing a variable time of
+ignition, though abroad some difference of opinion is noted on this
+point. The practice of advancing the time of ignition, when affected
+electrically, was severely condemned by early makers, these maintaining
+that it was necessary because of insufficient heat and volume of the
+spark, and it was thought that advancing ignition was injurious. The
+engineers of to-day appreciate the fact that the heat of the electric
+spark, especially when from a mechanical generator of electrical energy,
+is the only means by which we can obtain practically instantaneous
+explosion, as required by the operation of motors at high speeds, and
+for the combustion of large volumes of gas.
+

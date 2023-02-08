@@ -1,0 +1,103 @@
+[Illustration]
+
+In gliding experiments, however, the amount of lift is of less relative
+importance than the ratio of lift to drift, as this alone decides the
+angle of gliding descent. In a plane the pressure is always
+perpendicular to the surface, and the ratio of lift to drift is
+therefore the same as that of the cosine to the sine of the angle of
+incidence. But in curved surfaces a very remarkable situation is found.
+The pressure, instead of being uniformly normal to the chord of the arc,
+is usually inclined considerably in front of the perpendicular. The
+result is that the lift is greater and the drift less than if the
+pressure were normal. While our measurements differ considerably from
+those of Lilienthal, Lilienthal was the first to discover this
+exceedingly important fact, which is fully set forth in his book, "Bird
+Flight the Basis of the Flying Art," but owing to some errors in the
+methods he used in making measurements, question was raised by other
+investigators not only as to the accuracy of his figures, but even as to
+the existence of any tangential force at all. Our experiments confirm
+the existence of this force. At Kitty Hawk we spent much time in
+measuring the horizontal pressure on our unloaded machine at various
+angles of incidence. We found that at 13 degrees the horizontal pressure
+was about 23 lbs. This included not only the drift proper, or horizontal
+component of the pressure on the side of the surface, but also the head
+resistance of the framing as well. The weight of the machine at the time
+of this test was about 108 lbs. Now, if the pressure had been normal to
+the chord of the surface, the drift proper would have been to the lift
+(108 lbs.) as the sine of 13 degrees is to the cosine of 13 degrees, or
+(.22 x 108) / .97 = 24+ lbs.; but this slightly exceeds the total pull
+of 23 lbs. on our scales. Therefore, it is evident that the average
+pressure on the surface, instead of being normal to the chord, was so
+far inclined toward the front that all the head resistance of framing
+and wires used in the construction was more than overcome. In a wind of
+14 miles per hour resistance is by no means a negligible factor, so that
+tangential is evidently a force of considerable value. In a higher wind,
+which sustained the machine at an angle of 10 degrees, the pull on the
+scales was 18 lbs. With the pressure normal to the chord the drift
+proper would have been (.17 x 98) / .98 = 17 lbs., so that, although the
+higher wind velocity must have caused an increase in the head
+resistance, the tangential force still came within one pound of
+overcoming it. After our return from Kitty Hawk we began a series of
+experiments to accurately determine the amount and direction of the
+pressure produced on curved surfaces when acted upon by winds at the
+various angles from zero to 90 degrees. These experiments are not yet
+concluded, but in general they support Lilienthal in the claim that the
+curves give pressures more favorable in amount and direction than
+planes; but we find marked differences in the exact values, especially
+at angles below 10 degrees. We were unable to obtain direct measurements
+of the horizontal pressures of the machine with the operator on board,
+but by comparing the distance traveled in gliding with the vertical
+fall, it was easily calculated that at a speed of 24 miles per hour the
+total horizontal resistance of our machine when bearing the operator,
+amounted to 40 lbs., which is equivalent to about 2-1/3 horse-power. It
+must not be supposed, however, that a motor developing this power would
+be sufficient to drive a man-bearing machine. The extra weight of the
+motor would require either a larger machine, higher speed, or a greater
+angle of incidence in order to support it, and therefore more power. It
+is probable, however, that an engine of six horse-power, weighing 100
+lbs., would answer the purpose. Such an engine is entirely practicable.
+Indeed, working motors of one-half this weight per horse-power (9 lbs.
+per horse-power) have been constructed by several different builders.
+Increasing the speed of our machine from 24 to 33 miles per hour
+reduced the total horizontal pressure from 40 to about 35 lbs. This was
+quite an advantage in gliding, as it made it possible to sail about 15
+per cent. further with a given drop. However, it would be of little or
+no advantage in reducing the size of the motor in a power-driven
+machine, because the lessened thrust would be counterbalanced by the
+increased speed per minute. Some years ago Professor Langley called
+attention to the great economy of thrust which might be obtained by
+using very high speeds, and from this many were led to suppose that high
+speed was essential to success in a motor-driven machine. But the
+economy to which Professor Langley called attention was in foot-pounds
+per mile of travel, not in foot-pounds per minute. It is the foot-pounds
+per minute that fixes the size of the motor. The probability is that the
+first flying machines will have a relatively low speed, perhaps not much
+exceeding 20 miles per hour, but the problem of increasing the speed
+will be much simpler in some respects than that of increasing the speed
+of a steamboat; for, whereas in the latter case the size of the engine
+must increase as the cube of the speed, in the flying machine, until
+extremely high speeds are reached, the capacity of the motor increases
+in less than simple ratio; and there is even a decrease in the fuel
+consumption per mile of travel. In other words, to double the speed of a
+steamship (and the same is true of the balloon type of airship) eight
+times the engine and boiler capacity would be required, and four times
+the fuel consumption per mile of travel; while a flying machine would
+require engines of less than double the size, and there would be an
+actual decrease in the fuel consumption per mile of travel. But looking
+at the matter conversely, the great disadvantage of the flying machine
+is apparent; for in the latter no flight at all is possible unless the
+proportion of horse-power to flying capacity is very high; but on the
+other hand a steamship is a mechanical success if its ratio of
+horse-power to tonnage is insignificant. A flying machine that would fly
+at a speed of 50 miles an hour with engines of 1,000 horse-power would
+not be upheld by its wings at all at a speed of less than 25 miles an
+hour, and nothing less than 500 horse-power could drive it at this
+speed. But a boat which could make 40 miles per hour with engines of
+1,000 horse-power would still move four miles an hour even if the
+engines were reduced to one horse-power. The problems of land and water
+travel were solved in the nineteenth century, because it was possible to
+begin with small achievements and gradually work up to our present
+success. The flying problem was left over to the twentieth century,
+because in this case the art must be highly developed before any flight
+of any considerable duration at all can be obtained.
+

@@ -1,0 +1,35 @@
+Dirigible balloons are divided into three classes: the rigid, the
+semi-rigid, and the non-rigid. The rigid has a frame or skeleton of
+either wood or metal inside of the bag, to stiffen it; the semi-rigid is
+reinforced by a wire net and metal attachments; while the non-rigid is
+just a bag filled with gas. The aeroplane, more than the dirigible and
+balloon, stands as the emblem of the conquest of the air. Two reasons
+for this are that power flight is a real conquest of the air, a real
+victory over the battling elements; secondly, because the aeroplane, or
+any flying machine that may follow, brings air travel within the reach
+of everybody. In practical development, the dirigible may be the
+steamship of the air, which will render invaluable services of a certain
+kind, and the aeroplane will be the automobile of the air, to be used by
+the multitude, perhaps for as many purposes as the automobile is now
+being used.
+
+
+ESSENTIAL REQUIREMENTS OF AERIAL MOTORS
+
+One of the marked features of aircraft development has been the effect
+it has had upon the refinement and perfection of the internal combustion
+motor. Without question gasoline-motors intended for aircraft are the
+nearest to perfection of any other type yet evolved. Because of the
+peculiar demands imposed upon the aeronautical motor it must possess all
+the features of reliability, economy and efficiency now present with
+automobile or marine engines and then must have distinctive points of
+its own. Owing to the unstable nature of the medium through which it is
+operated and the fact that heavier-than-air machines can maintain flight
+only as long as the power plant is functioning properly, an airship
+motor must be more reliable than any used on either land or water. While
+a few pounds of metal more or less makes practically no difference in a
+marine motor and has very little effect upon the speed or hill-climbing
+ability of an automobile, an airship motor must be as light as it is
+possible to make it because every pound counts, whether the motor is to
+be fitted into an aeroplane or in a dirigible balloon.
+

@@ -1,0 +1,56 @@
+[Illustration: Fig. 207.--Sectional Views of the Gnome Oil Pump.]
+
+The Gnome is a considerable consumer of lubricant, the makers' estimate
+being 7 pints an hour for the 100 horse-power motor; but in practice
+this is largely exceeded. The gasoline consumption is given as 300 to
+350 grammes per horse-power. The total weight of the fourteen-cylinder
+motor is 220 pounds without fuel or lubricating oil. Its full power is
+developed at 1,200 revolutions, and at this speed about 9 horse-power is
+lost in overcoming air resistance to cylinder rotation.
+
+[Illustration: Fig. 208.--Simplified Diagram Showing Gnome Motor Magneto
+Ignition System.]
+
+While the Gnome engine has many advantages, on the other hand, the head
+resistance offered by a motor of this type is considerable; there is a
+large waste of lubricating oil due to the centrifugal force which tends
+to throw the oil away from the cylinders; the gyroscopic effect of the
+rotary motor is detrimental to the best working of the aeroplane, and
+moreover it requires about seven per cent. of the total power developed
+by the motor to drive the revolving cylinders around the shaft. Of
+necessity, the compression of this type of motor is rather low, and an
+additional disadvantage manifests itself in the fact that there is as
+yet no satisfactory way of muffling the rotary type of motor.
+
+
+GNOME "MONOSOUPAPE" TYPE
+
+The latest type of Gnome engine is known as the "monosoupape" type
+because but one valve is used in the cylinder head, the inlet valve in
+the piston being dispensed with on account of the trouble caused by that
+member on earlier engines. The construction of this latest type follows
+the lines established in the earlier designs to some extent and it
+differs only in the method of charging. The very rich mixture of gas and
+air is forced into the crank-case through the jet inside the
+crank-shaft, and enters the cylinder when the piston is at its lowest
+position, through the half-round openings in the guiding flange and the
+small holes or ports machined in the cylinder and clearly shown at Fig.
+210. The returning piston covers the port, and the gas is compressed and
+fired in the usual way. The exhaust is through a large single valve in
+the cylinder head, which gives rise to the name "monosoupape," or
+single-valve motor, and this valve also remains open a portion of the
+intake stroke to admit air into the cylinder and dilute the rich gas
+forced in from the crank-case interior. Aviators who have used the early
+form of Gnome say that the inlet valve in the piston type was prone to
+catch on fire if any valve defect materialized, but the "monosoupape"
+pattern is said to be nearly free of this danger. The bore of the 100
+horse-power nine-cylinder engine is 110 mm., the piston stroke 150 mm.
+Extremely careful machine work and fitting is necessary. In many parts,
+tolerances of less than .0004" (four ten thousandths of an inch) are all
+that are allowed. This is about one-sixth the thickness of the average
+human hair, and in other parts the size must be absolutely standard, no
+appreciable variation being allowable. The manufacture of this engine
+establishes new mechanical standards of engine production in this
+country. Much machine work is needed in producing the finished
+components from the bar and forging.
+

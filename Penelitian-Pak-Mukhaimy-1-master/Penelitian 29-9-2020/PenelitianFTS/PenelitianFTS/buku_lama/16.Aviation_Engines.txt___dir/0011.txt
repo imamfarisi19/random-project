@@ -1,0 +1,50 @@
+The product of 300 pounds resistance times speed of
+88 feet per second times 60 seconds in a minute
+----------------------------------------------------- = H.P. needed.
+divided by 33,000 foot pounds per minute
+in one horse-power
+
+The result is the horse-power needed, or
+
+300 × 88 × 60
+--------------- = 48 H.P.
+33,000
+
+Just as it takes more power to climb a hill than it does to run a car on
+the level, it takes more power to climb in the air with an airplane than
+it does to fly on the level. The more rapid the climb, the more power it
+will take. If the resistance remains 300 pounds and it is necessary to
+drive the plane at 90 miles per hour, we merely substitute proper values
+in the above formula and we have
+
+300 pounds times 132 feet per second times 60
+seconds in a minute
+----------------------------------------------- = 72 H.P.
+33,000 foot pounds per minute in one
+horse-power
+
+The same results can be obtained by dividing the product of the
+resistance in pounds times speed in feet per second by 550, which is the
+foot-pounds of work done in one second to equal one horse-power.
+Naturally, the amount of propeller thrust measured in pounds necessary
+to drive an airplane must be greater than the resistance by a
+substantial margin if the plane is to fly and climb as well. The
+following formulæ were given in "The Aeroplane" of London and can be
+used to advantage by those desiring to make computations to ascertain
+power requirements:
+
+[Illustration: Fig. 1.--Diagrams Illustrating Computations for
+Horse-Power Required for Airplane Flight.]
+
+The thrust of the propeller depends on the power of the motor, and on
+the diameter and pitch of the propeller. If the required thrust to a
+certain machine is known, the calculation for the horse-power of the
+motor should be an easy matter.
+
+The required thrust is the sum of three different "resistances." The
+first is the "drift" (dynamical head resistance of the aerofoils), i.e.,
+tan [alpha] × lift (_L_), lift being equal to the total weight of
+machine (_W_) for horizontal flight and [alpha] equal to the angle of
+incidence. Certainly we must take the tan [alpha] at the maximum _K_{y}_
+value for minimum speed, as then the drift is the greatest (Fig. 1, A).
+

@@ -1,0 +1,39 @@
+Another class of engines developed to meet aviation requirements is a
+complete departure from the preceding class, though when the engines are
+at rest, it is difficult to differentiate between them. This class
+includes engines having a star-wise disposition of the cylinders but the
+cylinders themselves and the crank-case rotate and the crank-shaft
+remains stationary. The important rotary engines are the Gnome, the Le
+Rhone and the Clerget. By far the most important classification is that
+including engines which retain the approved design of the types of power
+plants that have been so widely utilized in automobiles and which have
+but slight modifications to increase reliability and mechanical strength
+and produce a reduction in weight. This class includes the vertical
+engines such as the Duesenberg and Hall-Scott four-cylinder; the
+Wisconsin, Aeromarine, Mercedes, Benz, and Hall-Scott six-cylinder
+vertical engines and the numerous eight- and twelve-cylinder Vee designs
+such as the Curtiss, Renault, Thomas-Morse, Sturtevant, Sunbeam, and
+others.
+
+
+ANZANI ENGINES
+
+The attention of the mechanical world was first directed to the great
+possibilities of mechanical flight when Bleriot crossed the English
+Channel in July, 1909, in a monoplane of his own design and
+construction, having the power furnished by a small three-cylinder
+air-cooled engine rated at about 24 horse-power and having cylinders
+4.13 inches bore and 5.12 inches stroke, stated to develop the power at
+about 1600 R.P.M. and weighing 145 pounds. The arrangement of this early
+Anzani engine is shown at Fig. 190, and it will be apparent that in the
+main, the lines worked out in motorcycle practice were followed to a
+large extent. The crank-case was of the usual vertically divided
+pattern, the cylinders and heads being cast in one piece and held to the
+crank-case by stud bolts passing through substantial flanges at the
+cylinder base. In order to utilize but a single crank-pin for the three
+cylinders it was necessary to use two forked rods and one rod of the
+conventional type. The arrangement shown at Fig. 190, called for the use
+of counter-balanced flywheels which were built up in connection with
+shafts and a crank-pin to form what corresponds to the usual crank-shaft
+assembly.
+

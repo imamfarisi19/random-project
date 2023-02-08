@@ -1,0 +1,43 @@
+While it is apparent that the chief function of a carbureting device is
+to mix hydrocarbon vapors with air to secure mixtures that will burn,
+there are a number of factors which must be considered before describing
+the principles of vaporizing devices. Almost any device which permits a
+current of air to pass over or through a volatile liquid will produce a
+gas which will explode when compressed and ignited in the motor
+cylinder. Modern carburetors are not only called upon to supply certain
+quantities of gas, but these must deliver a mixture to the cylinders
+that is accurately proportioned and which will be of proper composition
+at all engine speeds.
+
+[Illustration: Fig. 41.--How Gravity Feed Fuel Tank May Be Mounted Back
+of Engine and Secure Short Fuel Line.]
+
+Flexible control of the engine is sought by varying the engine speed by
+regulating the supply of gas to the cylinders. The power plant should
+run from its lowest to its highest speed without any irregularity in
+torque, i.e., the acceleration should be gradual rather than spasmodic.
+As the degree of compression will vary in value with the amount of
+throttle opening, the conditions necessary to obtain maximum power
+differ with varying engine speeds. When the throttle is barely opened
+the engine speed is low and the gas must be richer in fuel than when the
+throttle is wide open and the engine speed high.
+
+When an engine is turning over slowly the compression has low value and
+the conditions are not so favorable to rapid combustion as when the
+compression is high. At high engine speeds the gas velocity through the
+intake piping is higher than at low speeds, and regular engine action is
+not so apt to be disturbed by condensation of liquid fuel in the
+manifold due to excessively rich mixture or a superabundance of liquid
+in the stream of carbureted air.
+
+
+LIQUID FUEL STORAGE AND SUPPLY
+
+The problem of gasoline storage and method of supplying the carburetor
+is one that is determined solely by design of the airplane. While the
+object of designers should be to supply the fuel to the carburetor by as
+simple means as possible the fuel supply system of some airplanes is
+quite complex. The first point to consider is the location of the
+gasoline tank. This depends upon the amount of fuel needed and the space
+available in the fuselage.
+

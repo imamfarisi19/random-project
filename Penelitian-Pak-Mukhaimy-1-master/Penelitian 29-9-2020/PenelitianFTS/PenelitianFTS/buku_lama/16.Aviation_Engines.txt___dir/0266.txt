@@ -1,0 +1,46 @@
+[Illustration: Fig. 204.--Cam and Cam-Gear Case of the Gnome
+Seven-Cylinder Revolving Engine.]
+
+[Illustration: Fig. 205.--Diagrams Showing Why An Odd Number of
+Cylinders is Best for Rotary Cylinder Motors.]
+
+A good many people doubtless wonder why rotary engines are usually
+provided with an odd number of cylinders in preference to an even
+number. It is a matter of even torque, as can easily be understood from
+the accompanying diagram. Fig. 205, A, represents a six-cylinder rotary
+engine, the radial lines indicating the cylinders. It is possible to
+fire the charges in two ways, firstly, in rotation, 1, 2, 3, 4, 5, 6,
+thus having six impulses in one revolution and none in the next; or
+alternately, 1, 3, 5, 2, 4, 6, in which case the engine will have turned
+through an equal number of degrees between impulses 1 and 3, and 3 and
+5, but a greater number between 5 and 2, even again between 2 and 4, 4
+and 6, and a less number between 6 and 1, as will be clearly seen on
+reference to the diagram. Turning to Fig. 205, B, which represents a
+seven-cylinder engine. If the cylinders fire alternately it is obvious
+that the engine turns through an equal number of degrees between each
+impulse, thus, 1, 3, 5, 7, 2, 4, 6, 1, 3, etc. Thus supposing the engine
+to be revolving, the explosion takes place as each alternate cylinder
+passes, for instance, the point 1 on the diagram, and the ignition is
+actually operated in this way by a single contact.
+
+[Illustration: Fig. 206.--Simple Carburetor Used On Early Gnome Engines
+Attached to Fixed Crank-Shaft End.]
+
+The crank-shaft of the Gnome, as already explained, is fixed and hollow.
+For the seven- and nine-cylinder motors it has a single throw, and for
+the fourteen- and eighteen-cylinder models has two throws at 180
+degrees. It is of the built-up type, this being necessary on account of
+the distinctive mounting of the connecting rods. The carburetor shown at
+Fig. 206 is mounted at one end of the stationary crank-shaft, and the
+mixture is drawn in through a valve in the piston as already explained.
+There is neither float chamber nor jet. In many of the tests made at the
+factory it is said the motor will run with the extremity of the gasoline
+pipe pushed into the hollow crank-shaft, speed being regulated entirely
+by increasing or decreasing the flow through the shut-off valve in the
+base of the tank. Even under these conditions the motor has been
+throttled down to run at 350 revolutions without misfiring. Its normal
+speed is 1,000 to 1,200 revolutions a minute. Castor oil is used for
+lubricating the engine, the oil being injected into the hollow
+crank-shaft through slight-feed fittings by a mechanically operated pump
+which is clearly shown in sectional diagrams at Fig. 207.
+

@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\bin\Debug\bab2-membacaDataGambar-image2.exe.config
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\bin\Debug\bab2-membacaDataGambar-image2.exe
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\bin\Debug\bab2-membacaDataGambar-image2.pdb
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\obj\Debug\bab2_membacaDataGambar_image2.Form1.resources
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\obj\Debug\bab2_membacaDataGambar_image2.Properties.Resources.resources
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\obj\Debug\bab2-membacaDataGambar-image2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\obj\Debug\bab2-membacaDataGambar-image2.exe
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\obj\Debug\bab2-membacaDataGambar-image2.pdb
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab2-membacaDataGambar-image2\obj\Debug\bab2-membacaDataGambar-image2.csprojAssemblyReference.cache

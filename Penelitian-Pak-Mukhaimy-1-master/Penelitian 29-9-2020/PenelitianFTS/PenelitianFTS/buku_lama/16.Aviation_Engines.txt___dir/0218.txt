@@ -1,0 +1,39 @@
+Reamers must be very carefully sharpened or there will be a tendency
+toward chattering with a consequent production of a rough surface. There
+are several methods of preventing this chattering, one being to separate
+the cutting edges by irregular spaces, while the most common method, and
+that to be preferred on machine reamers, is to use spiral flutes, as
+shown at Fig. 170, D. Special taper reamers are made to conform to the
+various taper pin sizes which are sometimes used in holding parts
+together in an engine. A taper of 1/16 inch per foot is intended for
+holes where a pin, once driven in, is to remain in place. When it is
+desired that the pin be driven out, the taper is made steeper, generally
+1/4 inch per foot, which is the standard taper used on taper pins.
+
+[Illustration: Fig. 171.--Tools for Thread Cutting.]
+
+When threads are to be cut in a small hole, it will be apparent that it
+will be difficult to perform this operation economically on a lathe,
+therefore when internal threading is called for, a simple device known
+as a "tap" is used. There are many styles of taps, all conforming to
+different standards. Some are for metric or foreign threads, some
+conform to the American standards, while others are used for pipe and
+tubing. Hand taps are the form most used in repair shops, these being
+outlined at Fig. 171, A and B. They are usually sold in sets of three,
+known respectively as taper, plug, and bottoming. The taper tap is the
+one first put into the hole, and is then followed by the plug tap which
+cuts the threads deeper. If it is imperative that the thread should be
+full size clear to the bottom of the hole, the third tap of the set,
+which is straight-sided, is used. It would be difficult to start a
+bottoming tap into a hole because it would be larger in diameter at its
+point than the hole. The taper tap, as shown at A, Fig. 171, has a
+portion of the cutting lands ground away at the point in order that it
+will enter the hole. The manipulation of a tap is not hard, as it does
+not need to be forced into the work, as the thread will draw it into
+the hole as the tap is turned. The tapering of a tap is done so that no
+one thread is called upon to remove all of the metal, as for about half
+way up the length of the tap each succeeding thread is cut a little
+larger by the cutting edge until the full thread enters the hole. Care
+must be taken to always enter a tap straight in order to have the thread
+at correct angles to the surface.
+

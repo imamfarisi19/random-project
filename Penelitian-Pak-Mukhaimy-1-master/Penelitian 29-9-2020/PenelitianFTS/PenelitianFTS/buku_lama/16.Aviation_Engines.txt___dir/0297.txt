@@ -1,0 +1,43 @@
+The Benz cylinder is a simple, straightforward design and a very
+reliable construction and not particularly difficult to manufacture. The
+cylinder is cast of iron without a water jacket but including 45
+degrees angle elbows to the valve ports. The cylinders are machined
+wherever possible and at other points have been hand filed and scraped,
+after which a jacket, which is pressed in two halves, is gas welded by
+means of short pipes welded on to the jacket. The bottom and the top of
+the cylinders become water galleries, and by this means separate water
+pipes with their attendant weight and complication are eliminated.
+Rubber rings held in aluminum clamps serve to connect the cylinders
+together. The whole construction turns out very neat and light. The
+cylinder walls are 4 mm. or 3/16" thick and the combustion chamber is of
+cylindrical pancake form and is 140 mm. or 5.60 inch in diameter. The
+valve seats are 68 mm. in diameter and the valve port is 62 mm. in
+diameter.
+
+The passage joining the port is 57 mm. in diameter. In order to insert
+the valves into the cylinder the valve stem is made with two diameters
+and the valve has to be cocked to insert it in the guide, which has a
+bronze bushing at its upper end to compensate for the smaller valve stem
+diameter. The valve stem is 14 mm. or 9/16" in diameter and is reduced
+at its upper portion to 9-1/2 mm. The valves are operated through a push
+rod and rocker arm construction, which is 7/16" and exceedingly light.
+Rocker arm supports are steel studs with enlarged heads to take a double
+row ball bearing. A roller is mounted at one end of the rocker arm to
+impinge on the end of the valve stem, and the rocker arm has an
+adjustable globe stud at the other end. The push rods are light steel
+tubes with a wall thickness of 0.75 mm. and have a hardened steel cup at
+their upper end to engage the rocker arm globe stud and a hardened steel
+globe at their lower end to socket in the roller plunger.
+
+The Benz cam-shaft has a diameter of 26 mm. and is bored straight
+through 18 mm. and there is a spiral gear made integrally with the shaft
+in about the center of its length for driving the oil pump gear. The cam
+faces are 10 mm. wide. There is also, in addition to the intake and
+exhaust cams, a set of half compression cams. The shaft is moved
+longitudinally in its bearings by means of an eccentric to put these
+cams into action. At the fore end of the shaft is a driving gear flange
+which is very small in diameter and very thin. The flange is 68 mm. in
+diameter and 4 mm. thick and is tapped to take 6 mm. bolts. The total
+length of cam-shaft is 1038 mm., and it becomes a regular gun boring job
+to drill a hole of this length.
+

@@ -1,0 +1,56 @@
+[Illustration: Fig. 247.--At Top, the Sunbeam Overhead Valve 170
+Horse-Power Six-Cylinder Engine. Below, Side View of Sunbeam 350
+Horse-Power Twelve-Cylinder Vee Engine.]
+
+The modern Sunbeam engines operate with a mean effective pressure of 135
+pounds with a compression ratio of 6 to 1 sea level. The connecting rods
+are of the articulated type as in the Renault motor and are very short.
+The weight of these motors turns out at 2.6 pounds per brake
+horse-power, and they are able to go through a 100 hour test without any
+trouble of any kind. The lubricating system comprises a dry base and oil
+pump for drawing the oil off from the base, whence it is delivered to
+the filter and cooling system. It then is pumped by a separate high
+pressure gear pump through the entire motor. In these larger European
+motors, castor-oil is used largely for lubrication. It is said that
+without the use of castor-oil it is impossible to hold full power for
+five hours. Coatalen favors aluminum cylinders rather than cast iron.
+The series of views in Figs. 247 to 250 inclusive, illustrates the
+vertical, narrow type of engine; the V-form; and the broad arrow type
+wherein three rows, each of six-cylinders, are set on a common
+crank-case. In this water-cooled series the gasoline and oil consumption
+are notably low, as is the weight per horse-power.
+
+[Illustration: Fig. 248.--Side View of Eighteen-Cylinder Sunbeam
+Coatalen Aircraft Engine Rated at 475 B.H.P.]
+
+[Illustration: Fig. 249.--Sunbeam Eighteen-Cylinder Motor, Viewed from
+Pump and Magneto End.]
+
+In the eighteen-cylinder overhead valve Sunbeam-Coatalen aircraft engine
+of 475 brake horse-power, there are no fewer than half a dozen magnetos.
+Each magneto is inclosed. Two sparks are furnished to each cylinder
+from independent magnetos. On this engine there are also no fewer than
+six carburetors. Shortness of crank-shaft, and therefore of engine
+length, and absence of vibration are achieved by the linking of the
+connecting-rods. Those concerned with three-cylinders in the broad arrow
+formation work on one crank-pin, the outer rods being linked to the
+central master one. In consequence of this arrangement, the piston
+travel in the case of the central row of cylinders is 160 mm., while the
+stroke of the pistons of the cylinders set on either side is in each
+case 168 mm. Inasmuch as each set of six-cylinders is completely
+balanced in itself, this difference in stroke does not affect the
+balance of the engine as a whole. The duplicate ignition scheme also
+applies to the twelve-cylinder 350 brake horse-power Sunbeam-Coatalen
+overhead valve aircraft engine type. It is distinguishable,
+incidentally, by the passage formed through the center of each induction
+pipe for the sparking plug in the center cylinder of each block of
+three. In this, as in the eighteen-cylinder and the six-cylinder types,
+there are two cam-shafts for each set of cylinders. These cam-shafts are
+lubricated by low pressure and are operated through a train of inclosed
+spur wheels at the magneto end of the machine. The six-cylinder, 170
+brake horse-power vertical type employs the same general principles,
+including the detail that each carburetor serves gas to a group of
+three-cylinders only. It will be observed that this engine presents
+notably little head resistance, being suitable for multi-engined
+aircraft.
+

@@ -1,0 +1,41 @@
+The Vernier is a device for reading finer divisions on a scale than
+those into which the scale is divided. Sixty-fourths of an inch are
+about the finest division that can be read accurately with the naked
+eye. When fine work is necessary a Vernier is employed. This consists
+essentially of two rules so graduated that the true scale has each inch
+divided into ten equal parts, the upper or Vernier portion has ten
+divisions occupying the same space as nine of the divisions of the true
+scale. It is evident, therefore, that one of the divisions of the
+Vernier is equal to nine-tenths of one of those on the true scale. If
+the Vernier scale is moved to the right so that the graduations marked
+"1" shall coincide, it will have moved one-tenth of a division on the
+scale or one-hundredth of an inch. When the graduations numbered 5
+coincide the Vernier will have moved five-hundredths of an inch; when
+the lines marked 0 and 10 coincide, the Vernier will have moved
+nine-hundredths of an inch, and when 10 on the Vernier comes opposite 10
+on the scales, the upper rule will have moved ten-hundredths of an inch,
+or the whole of one division on the scale. By this means the scale,
+though it may be graduated only to tenths of an inch, may be accurately
+set at points with positions expressed in hundredths of an inch. When
+graduated to read in thousandths, the true scale is divided into fifty
+parts and the Vernier into twenty parts. Each division of the Vernier
+is therefore equal to nineteen-twentieths of one of the true scale. If
+the Vernier be moved so the lines of the first division coincide, it
+will have moved one-twentieth of one-fiftieth, or .001 inch. The Vernier
+principle can be readily grasped by studying the section of the Vernier
+scale and true scale shown at Fig. 176, A.
+
+[Illustration: Fig. 176.--At Left, Special Form of Vernier Caliper for
+Measuring Gear Teeth; at Right, Micrometer for Accurate Internal
+Measurements.]
+
+The caliper scale which is shown at Fig. 175, A, permits of taking the
+over-all dimension of any parts that will go between the jaws. This
+scale can be adjusted very accurately by means of a fine thread screw
+attached to a movable jaw and the divisions may be divided by eye into
+two parts if one sixty-fourth is the smallest of the divisions. A line
+is indicated on the movable jaw and coincides with the graduations on
+the scale. As will be apparent, if the line does not coincide exactly
+with one of the graduations it will be at some point between the lines
+and the true measurement may be approximated without trouble.
+

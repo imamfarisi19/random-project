@@ -1,0 +1,36 @@
+[Illustration: Fig. 121.--Cast Iron Piston of "Monosoupape" Gnome Engine
+Installed On One of the Short Connecting Rods.]
+
+The system shown at F is not so widely used as the simpler methods,
+because it is more costly and does not offer any greater security when
+the parts are new than the simple lock shown at A. In this a hollow
+wrist pin is used, having a tapered thread cut at each end. The wrist
+pin is slotted at three or four points, for a distance equal to the
+length of the boss, and when taper expansion plugs are screwed in place
+the ends of the wrist pin are expanded against the bosses. This method
+has the advantage of providing a certain degree of adjustment if the
+wrist pin should loosen up after it has been in use for some time. The
+taper plugs would be screwed in deeper and the ends of the wrist pin
+expanded proportionately to take up the loss motion. The method shown at
+G is an ingenious one. One of the piston bosses is provided with a
+projection which is drilled out to receive a plunger. The wrist pin is
+provided with a hole of sufficient size to receive the plunger, which is
+kept in place by means of a spring in back of it. This makes a very
+positive lock and one that can be easily loosened when it is desired to
+remove the wrist pin. To unlock, a piece of fine rod is thrust into the
+hole at the bottom of the boss which pushes the plunger back against the
+spring until the wrist pin can be pushed out of the piston.
+
+Some engineers think it advisable to oscillate the wrist pin in the
+piston bosses, instead of in the connecting rod small end. It is argued
+that this construction gives more bearing surface at the wrist pin and
+also provides for more strength because of the longer bosses that can be
+used. When this system is followed the piston pin is held in place by
+locking it to the connecting rod by some means. At H the simplest method
+is outlined. This consisted of driving a taper pin through both rod and
+wrist pin and then preventing it from backing out by putting a split
+cotter through the small end of the tapered locking pin. Another method,
+which is depicted at I, consists of clamping the wrist pin by means of a
+suitable bolt which brings the slit connecting rod end together as
+shown.
+

@@ -1,0 +1,47 @@
+
+KEEPING OIL OUT OF COMBUSTION CHAMBERS
+
+An examination of the engine design that is economical in oil
+consumption discloses the use of tight piston rings, large centrifugal
+rings on the crank-shaft where it passes through the case, ample cooling
+fins in the pistons, vents between the crank-case chamber and the valve
+enclosures, etc. Briefly put, cooling of the oil in this engine has been
+properly cared for and leakage reduced to a minimum. To be specific
+regarding details of design: Oil surplus can be kept out of the
+explosion chambers by leaving the lower edge of the piston skirt sharp
+and by the use of a shallow groove (C), Fig. 126, just below the lower
+piston ring. Small holes are bored through the piston walls at the base
+of this groove and communicate with the crank-case. The similarity of
+the sharp edges of piston skirt (D) and piston ring to a carpenter's
+plane bit, makes their operation plain.
+
+[Illustration: Fig. 126.--Sectional View of Engine Showing Means of
+Preventing Oil Leakage By Piston Rings.]
+
+The cooling of oil in the sump (A) can be accomplished most effectively
+by radiating fins on its outer surface. The lower crank-case should be
+fully exposed to the outer air. A settling basin for sediment (B) should
+be provided having a cubic content not less than one-tenth of the total
+oil capacity as outlined at Fig. 126. The depth of this basin should be
+at least 2-1/2 inches, and its walls vertical, as shown, to reduce the
+mixing of sediment with the oil in circulation. The inlet opening to the
+oil pump should be near the top of the sediment basin in order to
+prevent the entrance into the pump with the oil of any solid matter or
+water condensed from the products of combustion. This sediment basin
+should be drained after every five to seven hours air service of an
+airplane engine. Concerning filtering screens there is little to be
+said, save that their areas should be ample and the mesh coarse enough
+(one-sixteenth of an inch) to offer no serious resistance to the free
+flow of cold or heavy oil through them; otherwise the oil in the
+crank-case may build up above them to an undesirable level. The
+necessary frequency of draining and flushing out the oil sump differs
+greatly with the age (condition) of the engine and the suitability of
+the oil used. In broad terms, the oil sump of a new engine should be
+thoroughly drained and flushed with kerosene at the end of the first
+200 miles, next at the end of 500 miles and thereafter every 1,000
+miles. While these instructions apply specifically to automobile motors,
+it is very good practice to change the oil in airplane engines
+frequently. In many cases, the best results have been secured when the
+oil supply is completely replenished every five hours that the engine is
+in operation.
+

@@ -1,0 +1,46 @@
+The advantage of this construction is that a more thorough amalgamation
+of the gasoline and air particles is obtained. With the earlier types
+previously considered the air would combine with only the more volatile
+elements, leaving the heavier constituents in the tank. As the fuel
+became stale it was difficult to vaporize it, and it had to be drained
+off and fresh fuel provided before the proper mixture would be produced.
+It will be evident that when the fuel is sprayed into the air stream,
+all the fuel will be used up and the heavier portions of the gasoline
+will be taken into the cylinder and vaporized just as well as the more
+volatile vapors.
+
+[Illustration: Fig. 43.--Marine-Type Mixing Valve, by which Gasoline is
+Sprayed into Air Stream Through Small Opening in Air-Valve Seat.]
+
+The simplest form of spray carburetor is that shown at Fig. 43. In this
+the gasoline opening through which the fuel is sprayed into the
+entering air stream is closed by the spring-controlled mushroom valve
+which regulates the main air opening as well. When the engine draws in a
+charge of air it unseats the valve and at the same time the air flowing
+around it is saturated with gasoline particles through the gasoline
+opening. The mixture thus formed goes to the engine through the mixture
+passage. Two methods of varying the fuel proportions are provided. One
+of these consists of a needle valve to regulate the amount of gasoline,
+the other is a knurled screw which controls the amount of air by
+limiting the lift of the jump valve.
+
+
+DEVELOPMENT OF FLOAT-FEED CARBURETOR
+
+The modern form of spraying carburetor is provided with two chambers,
+one a mixing chamber through which the air stream passes and mixes with
+a gasoline spray, the other a float chamber in which a constant level of
+fuel is maintained by simple mechanism. A jet or standpipe is used in
+the mixing chamber to spray the fuel through and the object of the float
+is to maintain the fuel level to such a point that it will not overflow
+the jet when the motor is not drawing in a charge of gas. With the
+simple forms of generator valve in which the gasoline opening is
+controlled by the air valve, a leak anywhere in either valve or valve
+seat will allow the gasoline to flow continuously whether the engine is
+drawing in a charge or not. The liquid fuel collects around the air
+opening, and when the engine inspires a charge it is saturated with
+gasoline globules and is excessively rich. With a float-feed
+construction, which maintains a constant level of gasoline at the right
+height in the standpipe, liquid fuel will only be supplied when drawn
+out of the jet by the suction effect of the entering air stream.
+

@@ -1,0 +1,46 @@
+To demonstrate very clearly the advantages of multiple-cylinder engines
+the diagrams at Fig. 23 have been prepared. At A, a three-cylinder
+motor, having crank-pins at one hundred and twenty degrees, which means
+that they are spaced at thirds of the circle, we have a form of
+construction that gives a more even turning than that possible with a
+two-cylinder engine. Instead of one explosion per revolution of the
+crank-shaft, one will obtain three explosions in two revolutions. The
+manner in which the explosion strokes occur and the manner they overlap
+strokes in the other cylinder is shown at A. Assuming that the cylinders
+fire in the following order, first No. 1, then No. 2, and last No. 3, we
+will see that while cylinder No. 1, represented by the outer circle, is
+on the power stroke, cylinder No. 3 has completed the last two-thirds of
+its exhaust stroke and has started on its intake stroke. Cylinder No. 2,
+represented by the middle circle, during this same period has completed
+its intake stroke and two-thirds of its compression stroke. A study of
+the diagram will show that there is an appreciable lapse of time between
+each explosion.
+
+Three-cylinder engines are not used on aircraft at the present time,
+though Bleriot's flight across the British Channel was made with a
+three-cylinder Anzani motor. It was not a conventional form, however.
+The three-cylinder engine is practically obsolete at this time for any
+purpose except "penguins" or school machines that are incapable of
+flight and which are used in some French training schools for aviators.
+
+[Illustration: Fig. 23.--Diagrams Demonstrating Clearly Advantages which
+Obtain when Multiple-Cylinder Motors are Used as Power Plants.]
+
+
+FOUR- AND SIX-CYLINDER ENGINES
+
+In the four-cylinder engine operation which is shown at Fig. 23, B, it
+will be seen that the power strokes follow each other without loss of
+time, and one cylinder begins to fire and the piston moves down just as
+soon as the member ahead of it has completed its power stroke. In a
+four-cylinder motor, the crank-pins are placed at one hundred and eighty
+degrees, or on the halves of the crank circle. The crank-pins for
+cylinders No. 1 and No. 4 are on the same plane, while those for
+cylinders No. 2 and No. 3 also move in unison. The diagram describing
+sequence of operations in each cylinder is based on a firing order of
+one, two, four, three. The outer circle, as in previous instances,
+represents the cycle of operations in cylinder one. The next one toward
+the center, cylinder No. 2, the third circle represents the sequence of
+events in cylinder No. 3, while the inner circle outlines the strokes in
+cylinder four. The various cylinders are working as follows:
+

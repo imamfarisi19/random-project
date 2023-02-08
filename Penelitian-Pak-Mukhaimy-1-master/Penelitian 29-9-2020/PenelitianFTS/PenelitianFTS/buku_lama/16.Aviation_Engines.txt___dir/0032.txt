@@ -1,0 +1,43 @@
+The internal-combustion system of creating power is comparatively new in
+practice, and is but just settling into definite shape by repeated
+trials and modification of details, so as to give somewhat reliable data
+as to what may be expected from the rival of the steam-engine as a prime
+mover. For small powers, the gas, gasoline, and petroleum-oil engines
+are forging ahead at a rapid rate, filling the thousand wants of
+manufacture and business for a power that does not require expensive
+care, that is perfectly safe at all times, that can be used in any place
+in the wide world to which its concentrated fuel can be conveyed, and
+that has eliminated the constant handling of crude fuel and water.
+
+
+REQUISITES FOR BEST POWER EFFECT
+
+The utilization of heat in a gas-engine is mainly due to the manner in
+which the products entering into combustion are distributed in relation
+to the movement of the piston. The investigation of the foremost
+exponent of the theory of the explosive motor was prophetic in
+consideration of the later realization of the best conditions under
+which these motors can be made to meet the requirements of economy and
+practicability. As early as 1862, Beau de Rocha announced, in regard to
+the coming power, that four requisites were the basis of operation for
+economy and best effect. 1. The greatest possible cylinder volume with
+the least possible cooling surface. 2. The greatest possible rapidity of
+expansion. Hence, _high speed_. 3. The greatest possible expansion.
+_Long stroke._ 4. The greatest possible pressure at the commencement of
+expansion. _High compression._
+
+
+
+
+CHAPTER III
+
+Efficiency of Internal Combustion Engines--Various Measures of
+Efficiency--Temperatures and Pressures--Factors Governing
+Economy--Losses in Wall Cooling--Value of Indicator Cards--
+Compression in Explosive Motors--Factors Limiting Compression--
+Causes of Heat Losses and Inefficiency--Heat Losses to Cooling
+Water.
+
+
+EFFICIENCY OF INTERNAL COMBUSTION ENGINES
+

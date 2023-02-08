@@ -1,0 +1,43 @@
+Mention has been made of wear in the valve stem guide and its influence
+on engine action. When these members are an integral part of the
+cylinder the only method of compensating for this wear is to drill the
+guide out and fit a bushing, which may be made of steel tube.
+
+In some engines, especially those of recent development, the valve stem
+guide is driven or screwed into the cylinder casting and is a separate
+member which may be removed when worn and replaced with a new one. When
+the guides become enlarged to such a point that considerable play exists
+between them and the valve stems, they may be easily knocked out or
+unscrewed.
+
+
+PISTON TROUBLES
+
+If an engine has been entirely dismantled it is very easy to examine the
+pistons for deterioration. While it is important that the piston be a
+good fit in the cylinder it is mainly upon the piston rings that
+compression depends. The piston should fit the cylinder with but little
+looseness, the usual practice being to have the piston about .001-inch
+smaller than the bore for each inch of piston diameter at the point
+where the least heat is present or at the bottom of the piston. It is
+necessary to allow more than this at the top of the piston owing to its
+expansion due to the direct heat of the explosion. The clearance is
+usually graduated and a piston that would be .005-inch smaller than the
+cylinder bore at the bottom would be about .0065-inch at the middle and
+.0075-inch at the top. If much more play than this is evidenced the
+piston will "slap" in the cylinder and the piston will be worn at the
+ends more than in the center. Aluminum or alloy pistons require more
+clearance than cast iron ones do, usually 1.50 times as much. Pistons
+sometimes warp out of shape and are not truly cylindrical. This results
+in the high spots rubbing on the cylinder while the low spots will be
+blackened where a certain amount of gas has leaked by.
+
+Mention has been previously made of the necessity of reboring or
+regrinding a cylinder that has become scored or scratched and which
+allows the gas to leak by the piston rings. When the cylinder is ground
+out, it is necessary to use a larger piston to conform to the enlarged
+cylinder bore. Most manufacturers are prepared to furnish over-size
+pistons, there being four standard over-size dimensions adopted by the
+S. A. E. for rebored cylinders. These are .010-inch, .020-inch,
+.030-inch, and .040-inch larger than the original bore.
+

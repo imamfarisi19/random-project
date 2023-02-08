@@ -1,0 +1,67 @@
+Considered from a purely theoretical point of view, the individual
+cylinder casting has much in its favor. It is advanced that more uniform
+cooling is possible than where the cylinders are cast either in pairs or
+three or four in one casting. More uniform cooling insures that the
+expansion or change of form due to heating will be more equal. This is
+an important condition because the cylinder bore must remain true under
+all conditions of operation. If the heating effect is not uniform, which
+condition is liable to obtain if metal is not evenly distributed, the
+cylinder may become distorted by heat and the bore be out of truth. When
+separate cylinders are used it is possible to make a uniform water space
+and have the cooling liquid evenly distributed around the cylinder. In
+multiple cylinder castings this is not always the rule, as in many
+instances, especially in four-cylinder block motors where compactness is
+the main feature, there is but little space between the cylinders for
+the passage of water. Under such circumstances the cooling effect is not
+even, and the stresses which obtain because of unequal expansion may
+distort the cylinder to some extent. When steel cylinders are made from
+forgings, the water jackets are usually of copper or sheet steel
+attached to the forging by autogenous welding; in the case of the latter
+and, in some cases, the former may be electro-deposited on the
+cylinders.
+
+
+BLOCK CASTINGS
+
+[Illustration: Fig. 86.--Views of Four-Cylinder Duesenberg Airplane
+Engine Cylinder Block.]
+
+The advantage of casting the cylinders in blocks is that a motor may be
+much shorter than it would be if individual castings were used. It is
+admitted that when the cylinders are cast together a more compact,
+rigid, and stronger power plant is obtained than when cast separately.
+There is a disadvantage, however, in that if one cylinder becomes
+damaged it will be necessary to replace the entire unit, which means
+scrapping three good cylinders because one of the four has failed. When
+the cylinders are cast separately one need only replace the one that has
+become damaged. The casting of four cylinders in one unit is made
+possible by improved foundry methods, and when proper provision is made
+for holding the cores when the metal is poured and the cylinder casts
+are good, the construction is one of distinct merit. It is sometimes the
+case that the proportion of sound castings is less when cylinders are
+cast in block, but if the proper precautions are observed in molding and
+the proper mixtures of cast iron used, the ratio of defective castings
+is no more than when cylinders are molded individually. As an example of
+the courage of engineers in departing from old-established rules, the
+cylinder casting shown at Fig. 86 may be considered typical. This is
+used on the Duesenberg four-cylinder sixteen-valve 4-3/4" × 7" engine
+which has a piston displacement of 496 cu. in. At a speed of 2,000
+r.p.m., corresponding to a piston speed of 2,325 ft. per min., the
+engine is guaranteed to develop 125 horse-power. The weight of the model
+engine without gear reduction is 436 lbs., but a number of refinements
+have been made in the design whereby it is expected to get the weight
+down to 390 lbs. The four cylinders are cast from semi-steel in a single
+block, with integral heads. The cylinder construction is the same as
+that which has always been used by Mr. Duesenberg, inlet and exhaust
+valves being arranged horizontally opposite each other in the head.
+There are large openings in the water jacket at both sides and at the
+ends, which are closed by means of aluminum covers, water-tightness
+being secured by the use of gaskets. This results in a saving in weight
+because the aluminum covers can be made considerably lighter than it
+would be possible to cast the jacket walls, and, besides, it permits of
+obtaining a more nearly uniform thickness of cylinder wall, as the cores
+can be much better supported. The cooling water passes completely around
+each cylinder, and there is a very considerable space between the two
+central cylinders, this being made necessary in order to get the large
+bearing area desirable for the central bearing.
+

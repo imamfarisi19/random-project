@@ -1,0 +1,37 @@
+The mica plug shown at B is somewhat simpler in construction than that
+shown at A. The mica core which keeps the central electrode separated
+from the steel body is composed of several layers of pure sheet mica
+wound around the steel rod longitudinally, and hundreds of stamped steel
+washers which are forced over this member and compacted under high
+pressure with some form of a binding material between them. Porcelain
+insulators are usually molded from high-grade clay and are approximately
+of the shapes desired by the designers of the plug. The central
+electrode may be held in place by mechanical means such as nuts,
+packings, and a shoulder on the rod, as shown at A. Another method
+sometimes used is to cement the electrode in place by means of some form
+of fire-clay cement. Whatever method of fastening is used, it is
+imperative that the joints be absolutely tight so that no gas can escape
+at the time of explosion. Porcelain is the material most widely used
+because it can be glazed so that it will not absorb oil, and it is
+subjected to such high temperature in baking that it is not liable to
+crack when heated.
+
+The spark-plugs may be screwed into any convenient part of the
+combustion chamber, the general practice being to install them in the
+caps over the inlet valves, or in the side of the combustion chamber, so
+the points will be directly in the path of the entering fresh gases from
+the carburetor.
+
+Other insulating materials sometimes used are glass, steatite (which is
+a form of soapstone) and lava. Mica and porcelain are the two common
+materials used because they give the best results. Glass is liable to
+crack, while lava or the soapstone insulating bushings absorb oil. The
+spark gap of the average plug is equal to about 1/32 of an inch for coil
+ignition and 1/40 of an inch when used in magneto circuits. A simple
+gauge for determining the gap setting is the thickness of an ordinary
+visiting card for magneto plugs, or a space equal to the thickness of a
+worn dime for a coil plug. The insulating bushings are made in a number
+of different ways, and while details of construction vary, spark-plugs
+do not differ essentially in design. The dimensions of the standardized
+plug recommended by the S. A. E. are shown at Fig. 73.
+

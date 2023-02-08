@@ -1,0 +1,49 @@
+[Illustration: Fig. 110.--Timing Diagram of Typical Eight-Cylinder V
+Engine.]
+
+
+HOW AN ENGINE IS TIMED
+
+In timing a motor from the marks on the timing disc rim it is necessary
+to regulate the valves of but one cylinder at a time. Assuming that the
+disc is revolving in the direction of engine rotation, and that the
+firing order of the cylinders is 1-3-4-2, the operation of timing would
+be carried on as follows: The crank-shaft would be revolved until the
+line marked "Exhaust opens 1 and 4" registered with the trammel on the
+motor bed. At this point the exhaust-valve of either cylinder No. 1 or
+No. 4 should begin to open. This can be easily determined by noting
+which of these cylinders holds the compressed charge ready for ignition.
+Assuming that the spark has occurred in cylinder No. 1, then when the
+fly-wheel is turned from the position to that in which the line marked
+"Exhaust opens 1 and 4" coincides with the trammel point, the
+valve-plunger under the exhaust-valve of cylinder No. 1 should be
+adjusted in such a way that there is no clearance between it and the
+valve stem. Further movement of the wheel in the same direction should
+produce a lift of the exhaust valve. The disc is turned about two
+hundred and twenty-five degrees, or a little less than three-quarters of
+a revolution; then the line marked "Exhaust closes 1 and 4" will
+register with the trammel point. At this period the valve-plunger and
+the valve-stem should separate and a certain amount of clearance obtain
+between them. The next cylinder to time would be No. 3. The crank-shaft
+is rotated until mark "Exhaust opens 2 and 3" comes in line with the
+trammel. At this point the exhaust valve of cylinder No. 3 should be
+just about opening. The closing is determined by rotating the shaft
+until the line "Exhaust closes 2 and 3" comes under the trammel.
+
+This operation is carried on with all the cylinders, it being well to
+remember that but one cylinder is working at a time and that a
+half-revolution of the fly-wheel corresponds to a full working stroke of
+all the cylinders, and that while one is exhausting the others are
+respectively taking in a new charge, compressing and exploding. For
+instance, if cylinder No. 1 has just completed its power-stroke, the
+piston in cylinder No. 3 has reached the point where the gas may be
+ignited to advantage. The piston of cylinder No. 4, which is next to
+fire, is at the bottom of its stroke and will have inspired a charge,
+while cylinder No. 2, which is the last to fire, will have just finished
+expelling a charge of burned gas, and will be starting the intake
+stroke. This timing relates to a four-cylinder engine in order to
+simplify the explanation. The timing instructions given apply only to
+the conventional motor types. Rotary cylinder engines, especially the
+Gnome "monosoupape," have a distinctive valve timing on account of the
+peculiarities of design.
+

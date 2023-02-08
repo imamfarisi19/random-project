@@ -1,0 +1,44 @@
+[Illustration: Fig. 114.--Sectional Views of Sixteen-Valve Four-Cylinder
+Automobile Racing Engine That May Have Possibilities for Aviation
+Service.]
+
+[Illustration: Fig. 115.--Front View of Curtiss OX-3 Aviation Motor,
+Showing Unconventional Valve Action by Concentric Push Rod and Pull
+Tube.]
+
+
+
+
+CHAPTER IX
+
+Constructional Details of Pistons--Aluminum Cylinders and
+Pistons--Piston Ring Construction--Leak Proof Piston Rings--
+Keeping Oil Out of Combustion Chamber--Connecting Rod Forms--
+Connecting Rods for Vee Engines--Cam-Shaft and Crank-Shaft
+Designs--Ball Bearing Crank-Shafts--Engine Base Construction.
+
+
+CONSTRUCTIONAL DETAILS OF PISTONS
+
+The piston is one of the most important parts of the gasoline motor
+inasmuch as it is the reciprocating member that receives the impact of
+the explosion and which transforms the power obtained by the combustion
+of gas to mechanical motion by means of the connecting rod to which it
+is attached. The piston is one of the simplest elements of the motor,
+and it is one component which does not vary much in form in different
+types of motors. The piston is a cylindrical member provided with a
+series of grooves in which packing rings are placed on the outside and
+two bosses which serve to hold the wrist pin in its interior. It is
+usually made of cast iron or aluminum, though in some motors where
+extreme lightness is desired, such as those used for aëronautic work, it
+may be made of steel. The use of the more resisting material enables the
+engineer to use lighter sections where it is important that the weight
+of this member be kept as low as possible consistent with strength.
+
+[Illustration: Fig. 116.--Forms of Pistons Commonly Employed in Gasoline
+Engines. A--Dome Head Piston and Three Packing Rings. B--Flat Top Form
+Almost Universally Used. C--Concave Piston Utilized in Knight Motors and
+Some Having Overhead Valves. D--Two-Cycle Engine Member with Deflector
+Plate Cast Integrally. E--Differential of Two-Diameter Piston Used in
+Some Engines Operating on Two-Cycle Principle.]
+

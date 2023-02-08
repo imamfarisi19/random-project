@@ -1,0 +1,42 @@
+During the most of the armature rotation the changes in strength will be
+slight and the currents induced in the wire correspondingly small; but
+at the instant the core becomes remagnetized, as the armature leaves
+position C, the current produced will be at its maximum, and it is
+necessary to so time the rotation of the armature that at this instant
+one of the cylinders is in condition to be fired. It is imperative that
+the armature be driven in such relation to the crank-shaft that each
+production of maximum current coincides with the ignition point, this
+condition existing twice during each revolution of the armature, or at
+every 180 degrees travel. Each position shown corresponds to 45 degrees
+travel of the armature, or one-eighth of a turn, and it takes just
+three-eighths revolution to change the position from A to that shown at
+D.
+
+
+ESSENTIAL PARTS OF A MAGNETO AND THEIR FUNCTIONS
+
+The magnets which produce the influence that in turn induces the
+electrical energy in the winding or loops of wire on the armature, and
+which may have any even number of opposed poles, are called field
+magnets. The loops of wire which are mounted upon a suitable drum and
+rotate in the field of magnetic influence in order to cut the lines of
+force is called an armature winding, while the core is the metal
+portion. The entire assembly is called the armature. The exposed ends of
+the magnets are called pole pieces and the arrangement used to collect
+the current is either a commutator or a collector. The stationary pieces
+which bear against the collector or commutator and act as terminals for
+the outside circuit are called brushes. These brushes are often of
+copper, or some of its alloys, because copper has a greater electrical
+conductivity than any other metal.
+
+These brushes are nearly always of carbon, which is sometimes
+electroplated with copper to increase its electrical conductivity,
+though cylinders of copper wire gauze impregnated with graphite are
+utilized at times. Carbon is used because it is not so liable to cut the
+metal of the commutator as might be the case if the contact was of the
+metal to metal type. The reason for this is that carbon has the peculiar
+property in that it materially assists in the lubrication of the
+commutator, and being of soft, unctuous composition, will wear and
+conform to any irregularities on the surface of the metal collector
+rings.
+

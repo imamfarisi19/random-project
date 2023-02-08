@@ -1,0 +1,54 @@
+It is important that the joint should be as nearly gas-tight as
+possible, because if it were not a portion of the gases would escape
+through the slots in the piston rings. The joint shown at C is termed a
+"lap joint," because the ends of the ring are cut in such a manner that
+they overlap. This is the approved joint. The butt joint shown at D is
+seldom used and is a very poor form, the only advantage being its
+cheapness. The diagonal cut shown at E is a compromise between the very
+good form shown at C and the poor joint depicted at D. It is also widely
+used, though most constructors prefer the lap joint, because it does not
+permit the leakage of gas as much as the other two types.
+
+There seems to be some difference of opinion relative to the best piston
+ring type--some favoring the eccentric pattern, others the concentric
+form. The concentric ring has advantages from the lubricating engineer's
+point of view; as stated by the Platt & Washburn Company in their
+text-book on engine lubrication, the smaller clearance behind the ring
+possible with the ring of uniform section is advantageous.
+
+Fig. 124, A, shows a concentric piston ring in its groove. Since the
+ring itself is concentric with the groove, very small clearance between
+the back of the ring and the bottom of its groove may be allowed. Small
+clearance leaves less space for the accumulation of oil and carbon
+deposits. The gasket effect of this ring is uniform throughout the
+entire length of its edges, which is its marked advantage over the
+eccentric ring. This type of piston ring rarely burns fast in its
+groove. There are a large number of different concentric rings
+manufactured of different designs and of different efficiency.
+
+[Illustration: Fig. 124.--Diagrams Showing Advantages of Concentric
+Piston Rings.]
+
+Figs. 124, B and 124, C show eccentric rings assembled in the ring
+groove. It will be noted that there is a large space between the thin
+ends of this ring and the bottom of the groove. This empty space fills
+up with oil which in the case of the upper ring frequently is
+carbonized, restricting the action of the ring and nullifying its
+usefulness. The edges of the thin ends are not sufficiently wide to
+prevent rapid escape of gases past them. In a practical way this leakage
+means loss of compression and noticeable drop in power. When new and
+properly fitted, very little difference can be noted between the
+tightness of eccentric and concentric rings. Nevertheless, after several
+months' use, a more rapid leakage will always occur past the eccentric
+than past the concentric. If continuous trouble with the carbonization
+of cylinders, smoking and sooting of spark-plugs is experienced, it is
+a sure indication that mechanical defects exist in the engine, assuming
+of course, that a suitable oil has been used. Such trouble can be
+greatly lessened, if not entirely eliminated, by the application of
+concentric rings (lap joint), of any good make, properly fitted into the
+grooves of the piston. Too much emphasis cannot be put upon this point.
+If the oil used in the engine is of the correct viscosity, and serious
+carbon deposit, smoking, etc., still result, the only certain remedy
+then is to have the cylinders rebored and fitted with properly designed,
+oversized pistons and piston rings.
+

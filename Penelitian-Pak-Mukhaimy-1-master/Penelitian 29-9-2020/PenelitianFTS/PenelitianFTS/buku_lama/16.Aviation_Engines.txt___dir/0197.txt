@@ -1,0 +1,39 @@
+
+DEFECTS IN COOLING SYSTEMS OUTLINED
+
+Cooling systems are very simple and are not liable to give trouble as a
+rule if the radiator is kept full of clean water and the circulation is
+not impeded. When overheating is due to defective cooling the most
+common troubles are those that impede water circulation. If the radiator
+is clogged or the piping of water jackets filled with rust or sediment
+the speed of water circulation will be slow, which will also be the case
+if the water pump or its driving means fail. Any scale or sediment in
+the water jackets or in the piping or radiator passages will reduce the
+heat conductivity of the metal exposed to the air, and the water will
+not be cooled as quickly as though the scale was not present.
+
+The rubber hose often used in making the flexible connections demanded
+between the radiator and water manifolds of the engine may deteriorate
+inside and particles of rubber hang down that will reduce the area of
+the passage. The grease from the grease cups mounted on the pump-shaft
+bearing to lubricate that member often finds its way into the water
+system and rots the inner walls of the rubber hose, this resulting in
+strips of the partly decomposed rubber lining hanging down and
+restricting the passage. The cooling system is prone to overheat after
+antifreezing solutions of which calcium chloride forms a part have been
+used. This is due to the formation of crystals of salt in the radiator
+passages or water jackets, and these crystals can only be dissolved by
+suitable chemical means, or removed by scraping when the construction
+permits.
+
+Overheating is often caused by some condition in the fuel system that
+produces too rich or too lean mixture. Excess gasoline may be supplied
+if any of the following conditions are present: Bore of spray nozzle or
+standpipe too large, auxiliary air-valve spring too tight, gasoline
+level too high, loose regulating valve, fuel-soaked cork float,
+punctured sheet-metal float, dirt under float control shut-off valve or
+insufficient air supply because of a clogged air screen. If pressure
+feed is utilized there may be too much pressure in the tank, or the
+float controlled mechanism operating the shut-off in the float bowl of
+the carburetor may not act quickly enough.
+

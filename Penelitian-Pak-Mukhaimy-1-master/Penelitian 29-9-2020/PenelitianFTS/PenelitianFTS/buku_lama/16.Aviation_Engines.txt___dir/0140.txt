@@ -1,0 +1,51 @@
+[Illustration: Fig. 91.--Diagrams Demonstrating Advantages of Offset
+Crank-Shaft Construction.]
+
+Another important advantage is that greater efficiency is obtained from
+the explosion with an off-set crank-shaft, because the crank is already
+inclined when the piston is at top center, and all the energy imparted
+to the piston by the burning mixture can be exerted directly into
+producing a useful turning effort. When a cylinder is placed directly on
+a line with the crank-shaft, as shown at A, it will be evident that some
+of the force produced by the expansion of the gas will be exerted in a
+direct line and until the crank moves the crank throw and connecting rod
+are practically a solid member. The pressure which might be employed in
+obtaining useful turning effort is wasted by causing a direct pressure
+upon the lower half of the main bearing and the upper half of the
+crank-pin bushing.
+
+Very good and easily understood illustrations showing advantages of the
+off-set construction are shown at E and F. This is a bicycle
+crank-hanger. It is advanced that the effort of the rider is not as well
+applied when the crank is at position E as when it is at position F.
+Position E corresponds to the position of the parts when the cylinder is
+placed directly over the crank-shaft center. Position F may be compared
+to the condition which is present when the off-set cylinder construction
+is used.
+
+
+VALVE LOCATION OF VITAL IMPORT
+
+It has often been said that a chain is no stronger than its weakest
+link, and this is as true of the explosive motor as it is of any other
+piece of mechanism. Many motors which appeared to be excellently
+designed and which were well constructed did not prove satisfactory
+because some minor detail or part had not been properly considered by
+the designer. A factor having material bearing upon the efficiency of
+the internal combustion motor is the location of the valves and the
+shape of the combustion chamber which is largely influenced by their
+placing. The fundamental consideration of valve design is that the gases
+be admitted and discharged from the cylinder as quickly as possible in
+order that the speed of gas flow will not be impeded and produce back
+pressure. This is imperative in obtaining satisfactory operation in any
+form of motor. If the inlet passages are constricted the cylinder will
+not fill with explosive mixture promptly, whereas if the exhaust gases
+are not fully expelled the parts of the inert products of combustion
+retained dilute the fresh charge, making it slow burning and causing
+lost power and overheating. When an engine employs water as a cooling
+medium this substance will absorb the surplus heat readily, and the
+effects of overheating are not noticed as quickly as when air-cooled
+cylinders are employed. Valve sizes have a decided bearing upon the
+speed of motors and some valve locations permit the use of larger
+members than do other positions.
+

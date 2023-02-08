@@ -1,0 +1,56 @@
+[Illustration: Fig. 60.--Diagrams Explaining Action of Low Tension
+Transformer Coil and True High Tension Magneto Ignition Systems.]
+
+[Illustration: Fig. 60A.--Side Sectional View of Bosch High-Tension
+Magneto Shows Disposition of Parts. End Elevation Depicts Arrangement of
+Interruptor and Distributor Mechanism.]
+
+It will be noted that the points of the contact breaker are together
+except for the brief instant when separated by the action of the point
+of the cam upon the lever. It is obvious that the armature winding is
+short-circuited upon itself except when the contact points are
+separated. While the armature winding is thus short-circuited there will
+be practically no generation of current. When the points are separated
+there is a sudden flow of current through the primary winding of the
+transformer coil, inducing a secondary current in the other winding,
+which can be varied in strength by certain considerations in the
+preliminary design of the apparatus. This current of higher potential or
+voltage is conducted directly to the plug if the device is fitted to a
+single-cylinder engine, or to the distributor arm if fitted to a
+multiple-cylinder motor. The distributor consists of an insulator in
+which is placed a number of segments, one for each cylinder to be fired,
+and so spaced that the number of degrees between them correspond to the
+ignition points of the motor. A two-cylinder motor would have two
+segments, a three-cylinder, three segments, and so on within the
+capacity of the instrument. In the illustration a four-cylinder
+distributor is fitted, and the distributing arm is in contact with the
+segment corresponding to the cylinder about to be fired.
+
+[Illustration: Fig. 61.--Berling Two-Spark Dual Ignition System.]
+
+
+TRUE HIGH-TENSION MAGNETOS ARE SELF-CONTAINED
+
+[Illustration: Fig. 62.--Berling Double-Spark Independent System.]
+
+The true high-tension magneto differs from the preceding inasmuch as the
+current of high voltage is produced in the armature winding direct,
+without the use of the separate coil. Instead of but one coil, the
+armature carries two, one of comparatively coarse wire, the other of
+many turns of finer wire. The arrangement of these windings can be
+readily ascertained by reference to the diagram B, Fig. 60, which shows
+the principle of operation very clearly. The simplicity of the ignition
+system is evident by inspection of Fig. 62. One end of the primary
+winding (coarse wire) is coupled or grounded to the armature core, and
+the other passes to the insulated part of the interrupter. While in some
+forms the interrupter or contact breaker mechanism does not revolve, the
+desired motion being imparted to the contact lever to separate the
+points of a revolving cam, in this the cam or tripping mechanism is
+stationary and the contact breaker revolves. This arrangement makes it
+possible to conduct the current from the revolving primary coil to the
+interrupter by a direct connection, eliminating the use of brushes,
+which would otherwise be necessary. In other forms of this appliance
+where the winding is stationary, the interrupter may be operated by a
+revolving cam, though, if desired, the used of a brush at this point
+will permit this construction with a revolving winding.
+

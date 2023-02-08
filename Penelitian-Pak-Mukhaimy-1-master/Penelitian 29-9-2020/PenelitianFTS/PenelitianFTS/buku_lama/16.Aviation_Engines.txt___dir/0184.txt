@@ -1,0 +1,33 @@
+[Illustration: Fig. 153.--Plan View of Hall-Scott Type A-5 125
+Horse-Power Airplane Engine, Showing Installation Dimensions.]
+
+Gasoline giving the best results with this equipment is as follows:
+Gravity 58-62 deg. Baume A. Initial boiling point--Richmond method--102°
+Fahr. Sulphur .014. Calorimetric bomb test 20610 B. T. U. per pound. If
+the gasoline tank is placed in the fuselage below the level of the
+carburetor, a hand pump must be used to maintain air pressure in gas
+tank to force the gasoline to the carburetor. After starting the engine
+the small auxiliary air pump upon the engine will maintain sufficient
+pressure. A-7a and A-5a engines are furnished with a new type auxiliary
+air pump. This should be frequently oiled and care taken so no grit or
+sand will enter which might lodge between the valve and its seat, which
+would make it fail to operate properly. An air relief valve is furnished
+with each engine. It should be screwed into the gas tank and properly
+regulated to maintain the pressure required. This is done by screwing
+the ratchet on top either up or down. If two tanks are used in a plane
+one should be installed in each tank. All air pump lines should be
+carefully gone over quite frequently to ascertain if they are tight.
+Check valves have to be placed in these lines. In some cases the
+gasoline tank is placed above the engine, allowing it to drain by
+gravity to the carburetor. When using this system there should be a drop
+of not less than two feet from the lowest portion of the gasoline tank
+to the upper part of the carburetor float chamber. Even this height
+might not be sufficient to maintain the proper volume of gasoline to the
+carburetor at high speeds. Air pressure is advised upon all tanks to
+insure the proper supply of gasoline. When using gravity feed without
+air pressure be sure to vent the tank to allow circulation of air. If
+gravity tank is used and the engine runs satisfactorily at low speeds
+but cuts out at high speeds the trouble is undoubtedly due to
+insufficient height of the tank above the carburetor. The tank should be
+raised or air pressure system used.
+

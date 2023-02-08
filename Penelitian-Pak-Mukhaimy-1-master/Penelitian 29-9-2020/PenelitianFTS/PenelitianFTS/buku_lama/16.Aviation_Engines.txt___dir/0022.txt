@@ -1,0 +1,42 @@
+The distribution of the charge and its degree of mixture with the
+remains of the previous explosion in the clearance space, has been a
+matter of discussion for both types of explosive motors, with doubtful
+results. In Fig. 10, A we illustrate what theory suggests as to the
+distribution of the fresh charge in a two-cycle motor, and in Fig. 10, B
+what is the probable distribution of the mixture when the piston starts
+on its compressive stroke. The arrows show the probable direction of
+flow of the fresh charge and burnt gases at the crucial moment.
+
+[Illustration: Fig. 10.--Diagrams Contrasting Action of Two- and
+Four-Cycle Cylinders on Exhaust and Intake Stroke.]
+
+In Fig. 10, C is shown the complete out-sweep of the products of
+combustion for the full extent of the piston stroke of a four-cycle
+motor, leaving only the volume of the clearance to mix with the new
+charge and at D the manner by which the new charge sweeps by the
+ignition device, keeping it cool and avoiding possibilities of
+pre-ignition by undue heating of the terminals of the sparking device.
+Thus, by enveloping the sparking device with the pure mixture, ignition
+spreads through the charge with its greatest possible velocity, a most
+desirable condition in high-speed motors with side-valve chambers and
+igniters within the valve chamber.
+
+
+THEORY OF THE GAS AND GASOLINE ENGINE
+
+The laws controlling the elements that create a power by their expansion
+by heat due to combustion, when properly understood, become a matter of
+computation in regard to their value as an agent for generating power in
+the various kinds of explosive engines. The method of heating the
+elements of power in explosive engines greatly widens the limits of
+temperature as available in other types of heat-engines. It disposes of
+many of the practical troubles of hot-air, and even of steam-engines, in
+the simplicity and directness of application of the elements of power.
+In the explosive engine the difficulty of conveying heat for producing
+expansive effect by convection is displaced by the generation of the
+required heat within the expansive element and at the instant of its
+useful work. The low conductivity of heat to and from air has been the
+great obstacle in the practical development of the hot-air engine;
+while, on the contrary, it has become the source of economy and
+practicability in the development of the internal-combustion engine.
+

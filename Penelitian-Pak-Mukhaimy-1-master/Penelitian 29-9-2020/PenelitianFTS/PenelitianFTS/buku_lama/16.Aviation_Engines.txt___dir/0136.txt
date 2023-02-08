@@ -1,0 +1,33 @@
+It is common practice to cast the water jackets integral with the
+cylinders, if cast iron or aluminum is used, and this is also the most
+economical method of applying it because it gives good results in
+practice. An important detail is that the water spaces must be
+proportioned so that they are equal around the cylinders whether these
+members are cast individually, in pairs, threes or fours. When cylinders
+are cast in block form it is good practice to leave a large opening in
+the jacket wall which will assist in supporting the core and make for
+uniform water space. It will be noticed that the casting shown at Fig.
+86 has a large opening in the side of the cylinder block. These openings
+are closed after the interior of the casting is thoroughly cleaned of
+all sand, core wire, etc., by brass, cast iron or aluminum plates. These
+also have particular value in that they may be removed after the motor
+has been in use, thus permitting one to clean out the interior of the
+water jacket and dispose of the rust, sediment, and incrustation which
+are always present after the engine has been in active service for a
+time.
+
+Among the advantages claimed for the practice of casting cylinders in
+blocks may be mentioned compactness, lightness, rigidity, simplicity of
+water piping, as well as permitting the use of simple forms of inlet and
+exhaust manifolds. The light weight is not only due to the reduction of
+the cylinder mass but because the block construction permits one to
+lighten the entire motor. The fact that all cylinders are cast together
+decreases vibration, and as the construction is very rigid, disalignment
+of working parts is practically eliminated. When inlet and exhaust
+manifolds are cored in the block casting, as is sometimes the case, but
+one joint is needed on each of these instead of the multiplicity of
+joints which obtain when the cylinders are individual castings. The
+water piping is also simplified. In the case of a four-cylinder block
+motor but two pipes are used; one for the water to enter the cylinder
+jacket, the other for the cooling liquid to discharge through.
+

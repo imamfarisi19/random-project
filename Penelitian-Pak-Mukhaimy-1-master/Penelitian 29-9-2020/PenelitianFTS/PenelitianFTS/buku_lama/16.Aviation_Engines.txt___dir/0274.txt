@@ -1,0 +1,38 @@
+[Illustration: Fig. 226.--End Sectional View of Renault Air-Cooled
+Aviation Engine.]
+
+[Illustration: Fig. 227.--Side Sectional View of Renault Twelve-Cylinder
+Air-Cooled Aviation Engine Crank-Case, Showing Use of Plain and Ball
+Bearings for Crank-Shaft Support.]
+
+As will be seen by the sectional view at Fig. 227, the steel crank-shaft
+is carried in a combination of plain bearings inside the crank-case and
+by ball bearings at the ends. Owing to air cooling, special precautions
+are taken with the lubrication system, though the lubrication is not
+forced or under high pressure. An oil pump of the gear-wheel type
+delivers oil from the sump at the bottom of the crank-case to a chamber
+above, from which the oil flows by gravity along suitable channels to
+the various main bearings. It flows from the bearings into hollow rings
+fastened to the crank-webs, and the oil thrown from the whirling
+connecting rod big ends bathes the internal parts in an oil mist. In the
+eight-cylinder designs ignition is effected by a magneto giving four
+sparks per revolution and is accordingly driven at engine speed. In the
+twelve-cylinder machine two magnetos of the ordinary revolving armature
+or two-spark type, each supplying six cylinders, are fitted as outlined
+at Fig. 228. The carburetor is a float feed form. Warm air is supplied
+for Winter and damp weather by air pipes surrounding the exhaust pipes.
+The normal speed of the Renault engine is 1,800 R. P. M., but as the
+propeller is mounted upon an extension of the cam-shaft the normal
+propeller speed is but half that of the engine, which makes it possible
+to use a propeller of large diameter and high efficiency. Owing to the
+air cooling, but low compression may be used, this being about 60 pounds
+per square inch, which, of course, lowers the mean effective pressure
+and makes the engine less efficient than water-cooled forms where it is
+possible to use compression pressure of 100 or more pounds per square
+inch. The 70 horse-power engine has cylinders with a bore of 3.78 inches
+and a stroke of 5.52 inches. Its weight is given as 396 pounds, when in
+running order, which figures 5.7 pounds per horse-power. The same
+cylinder size is used on the twelve-cylinder 100 horse-power and the
+stroke is the same. This engine in running order weighs 638 pounds,
+which figures approximately 6.4 pounds per B. H. P.
+

@@ -1,0 +1,40 @@
+The usual methods of valve grinding are clearly outlined at Fig. 184.
+The view at the left shows the method of turning the valve by an
+ordinary screw driver and also shows a valve head at A, having both the
+drilled holes and the screw-driver slot for turning the member and two
+special forms of fork-end valve grinding tools. In the sectional view
+shown at the right, the use of the light spring between the valve head
+and the bottom of the valve chamber to lift the valve head from the seat
+whenever pressure on the grinding tool is released is clearly indicated.
+It will be noted also that a ball of waste or cloth is interposed in the
+passage between the valve chamber and the cylinder interior to prevent
+the abrasive material from passing into the cylinder from the valve
+chamber. When a bitstock is used, instead of being given a true rotary
+motion the chuck is merely oscillated through the greater part of the
+circle and back again. It is necessary to lift the valve from its seat
+frequently as the grinding operation continues; this is to provide an
+even distribution of the abrasive material placed between the valve head
+and its seat. Only sufficient pressure is given to the bitstock to
+overcome the uplift of the spring and to insure that the valve will be
+held against the seat. Where the spring is not used it is possible to
+raise the valve from time to time with the hand which is placed under
+the valve stem to raise it as the grinding is carried on. It is not
+always possible to lift the valve in this manner when the cylinders are
+in place on the engine base owing to the space between the valve lift
+plunger and the end of the valve stem. In this event the use of the
+spring as shown in sectional view will be desirable.
+
+The abrasive generally used is a paste made of medium or fine emery and
+lard oil or kerosene. This is used until the surfaces are comparatively
+smooth, after which the final polish or finish is given with a paste of
+flour emery, grindstone dust, crocus, or ground glass and oil. An
+erroneous impression prevails in some quarters that the valve head
+surface and the seating must have a mirror-like polish. While this is
+not necessary it is essential that the seat in the cylinder and the
+bevel surface of the head be smooth and free from pits or scratches at
+the completion of the operation. All traces of the emery and oil should
+be thoroughly washed out of the valve chamber with gasoline before the
+valve mechanism is assembled and in fact it is advisable to remove the
+old grinding compound at regular intervals, wash the seat thoroughly and
+supply fresh material as the process is in progress.
+

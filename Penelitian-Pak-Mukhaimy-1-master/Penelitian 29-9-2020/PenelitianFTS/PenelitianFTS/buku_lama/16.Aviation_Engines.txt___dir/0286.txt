@@ -1,0 +1,48 @@
+
+WISCONSIN AVIATION ENGINES
+
+[Illustration: Fig. 238.--Dimensioned End Elevation of Wisconsin Six
+Motor.]
+
+The new six-cylinder Wisconsin aviation engines, one of which is shown
+at Fig. 237, are of the vertical type, with cylinders in pairs and
+valves in the head. Dimensioned drawings of the six-cylinder vertical
+type are given at Figs. 238 and 239. The cylinders are made of aluminum
+alloy castings, are bored and machined and then fitted with hardened
+steel sleeves about 1/16 inch in thickness. After these sleeves have
+been shrunk into the cylinders, they are finished by grinding in place.
+Gray iron valve seats are cast into the cylinders. The valve seats and
+cylinders, as well as the valve ports, are entirely surrounded by water
+jackets. The valves set in the heads at an angle of 25° from the
+vertical, are made of tungsten steel and are provided with double
+springs, the outer or main spring and the inner or auxiliary spring,
+which is used as a precautionary measure to prevent a valve falling into
+the cylinder in remote case of a main spring breaking. The cam-shaft is
+made of one solid forging, case-hardened. It is carried in an aluminum
+housing bolted to the top of the cylinders. This housing is split
+horizontally, the upper half carrying the chrome vanadium steel rocker
+levers. The lower half has an oil return trough cast integral, into
+which the excess oil overflows and then drains back to the crank-case.
+Small inspection plates are fitted over the cams and inner ends of the
+cam rocker levers. The cam-shaft runs in bronze bearings and the drive
+is through vertical shaft and bevel gears.
+
+[Illustration: Fig. 239.--Dimensioned Side Elevation of Wisconsin Six
+Motor.]
+
+The crank-case is made of aluminum, the upper half carrying the
+bearings for the crank-shaft. The lower half carries the oil sump in
+which all of the oil except that circulating through the system at the
+time is carried. The crank-shaft is made of chrome vanadium steel of an
+elastic limit of 115,000 pounds. The crank-pins and ends of the shaft
+are drilled for lightness and the cheeks are also drilled for oil
+circulation. The crank-shaft runs in bronze-backed, Fahrig metal-lined
+bearings, four in number. A double thrust bearing is also provided, so
+that the motor may be used either in a tractor or pusher type of
+machine. Outside of the thrust bearing an annular ball bearing is used
+to take the radial load of the propeller. The propeller is mounted on a
+taper. At the opposite end of the shaft a bevel gear is fitted which
+drives the cam-shaft, through a vertical shaft, and also drives the
+water and oil pumps and magnetos. All gears are made of chrome vanadium
+steel, heat-treated.
+

@@ -1,0 +1,49 @@
+On the other hand, if considered from a viewpoint of actual heat
+efficiency, it is theoretically the worst form of combustion chamber.
+This disadvantage is probably compensated for by uniformity of expansion
+of the cylinder because of balanced design. The ignition spark-plug may
+be located directly over the inlet valve in the path of the incoming
+fresh gases, and both valves may be easily removed and inspected by
+unscrewing the valve caps without taking off the manifolds.
+
+The valve installation shown at C is somewhat unusual, though it
+provides for the use of valves of large diameter. Easy charging is
+insured because of the large inlet valve directly in the top of the
+cylinder. Conditions may be reversed if necessary, and the gases
+discharged through this large valve. Both methods are used, though it
+would seem that the free exhaust provided by allowing the gases to
+escape directly from the combustion chamber through the overhead valve
+to the exhaust manifold would make for more power. The method outlined
+at Fig. 92, F and at Fig. 90 is one that has been widely employed on
+large automobile racing motors where extreme power is required, as well
+as in engines constructed for aviation service. The inclination of the
+valves permits the use of large valves, and these open directly into the
+combustion chamber. There are no pockets to retain heat or dead gas, and
+free intake and outlet of gas is obtained. This form is quite
+satisfactory from a theoretical point of view because of the almost
+ideal combustion chamber form. Some difficulty is experienced, however,
+in properly water-jacketing the valve chamber which experience has shown
+to be necessary if the engine is to have high power.
+
+The motor shown at Fig. 92, B and Fig. 88 employs cylinders of the "L"
+type. Both valves are placed in a common extension from the combustion
+chamber, and being located side by side both are actuated from a common
+cam-shaft. The inlet and exhaust pipes may be placed on the same side of
+the engine and a very compact assemblage is obtained, though this is
+optional if passages are cored in the cylinder pairs to lead the gases
+to opposite sides. The valves may be easily removed if desired, and the
+construction is fairly good from the viewpoint of both foundry man and
+machinist. The chief disadvantage is the limited area of the valves and
+the loss of heat efficiency due to the pocket. This form of combustion
+chamber, however, is more efficient than the "T" head construction,
+though with the latter the use of larger valves probably compensates for
+the greater heat loss. It has been stated as an advantage of this
+construction that both manifolds can be placed at the same side of the
+engine and a compact assembly secured. On the other hand, the
+disadvantage may be cited that in order to put both pipes on the same
+side they must be of smaller size than can be used when the valves are
+oppositely placed. The "L" form cylinder is sometimes made more
+efficient if but one valve is placed in the pocket while the other is
+placed over it. This construction is well shown at Fig. 92, D and is
+found on Anzani motors.
+

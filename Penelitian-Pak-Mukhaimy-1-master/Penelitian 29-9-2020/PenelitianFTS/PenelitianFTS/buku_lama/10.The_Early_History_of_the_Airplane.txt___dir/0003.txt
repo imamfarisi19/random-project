@@ -1,0 +1,37 @@
+The balancing of a flyer may seem, at first thought, to be a very simple
+matter, yet almost every experimenter had found in this one point which
+he could not satisfactorily master. Many different methods were tried.
+Some experimenters placed the center of gravity far below the wings, in
+the belief that the weight would naturally seek to remain at the lowest
+point. It is true, that, like the pendulum, it tended to seek the lowest
+point; but also, like the pendulum, it tended to oscillate in a manner
+destructive of all stability. A more satisfactory system, especially for
+lateral balance, was that of arranging the wings in the shape of a broad
+V, to form a dihedral angle, with the center low and the wing-tips
+elevated. In theory this was an automatic system, but in practice it had
+two serious defects: first, it tended to keep the machine oscillating;
+and second, its usefulness was restricted to calm air.
+
+In a slightly modified form the same system was applied to the
+fore-and-aft balance. The main aeroplane was set at a positive angle,
+and a horizontal tail at a negative angle, while the center of gravity
+was placed far forward. As in the case of lateral control, there was a
+tendency to constant undulation, and the very forces which caused a
+restoration of balance in calms caused a disturbance of the balance in
+winds. Notwithstanding the known limitations of this principle, it had
+been embodied in almost every prominent flying machine which had been
+built.
+
+After considering the practical effect of the dihedral principle, we
+reached the conclusion that a flyer founded upon it might be of interest
+from a scientific point of view, but could be of no value in a practical
+way. We therefore resolved to try a fundamentally different principle.
+We would arrange the machine so that it would not tend to right itself.
+We would make it as inert as possible to the effects of change of
+direction or speed, and thus reduce the effects of wind-gusts to a
+minimum. We would do this in the fore-and-aft stability by giving the
+aeroplanes a peculiar shape; and in the lateral balance by arching the
+surfaces from tip to tip, just the reverse of what our predecessors had
+done. Then by some suitable contrivance, actuated by the operator,
+forces should be brought into play to regulate the balance.
+

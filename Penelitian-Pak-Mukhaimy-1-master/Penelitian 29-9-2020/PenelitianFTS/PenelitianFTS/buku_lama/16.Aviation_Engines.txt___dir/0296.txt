@@ -1,0 +1,62 @@
+The cylinder sizes of six-cylinder aviation motors which have been built
+by Mercedes are
+
+Bore      Stroke    Horse-power
+105 mm.    140 mm.       100
+120 mm.    140 mm.       135
+140 mm.    150 mm.       150
+140 mm.    160 mm.       160
+
+The largest of these motors has recently had its horse-power increased
+to 176 at 1450 R. P. M. This general design of motor has been the
+foundation for a great many other aviation motor designs, some of which
+have proved very successful but none of which is equal to the original.
+Among the motors which follow more or less closely the scheme of design
+and arrangement are the Hall-Scott, the Wisconsin motor, the Renault
+water-cooled, the Packard, the Christofferson and the Rolls-Royce. Each
+of these motors show considerable variation in detail. The Rolls-Royce
+and Renault are the only ones who have used the steel cylinder with the
+steel jacket. The Wisconsin motor uses an aluminum cylinder with a
+hardened steel liner and cast-iron valve seats. The Christofferson has
+somewhat similar design to the Wisconsin with the exception that the
+valve seats are threaded into the aluminum jacket and the cylinder head
+has a blank end which is secured to the aluminum casting by means of the
+valve seat pieces. The Rolls-Royce motors show small differences in
+details of design in cylinder head and cam-shaft housing from the
+Mercedes on which it has taken out patents, not only abroad but in this
+country.
+
+
+THE BENZ MOTOR
+
+In the Kaiser prize contest for aviation motors a four-cylinder Benz
+motor of 130 by 180 mm. won first prize, developing 103 B. H. P. at 1290
+R. P. M. The fuel consumption was 210 grams per horse-power hour. Total
+weight of the motor was 153 kilograms. The oil consumption was .02 of a
+kilogram per horse-power hour. This motor was afterward expanded into a
+six-cylinder design and three different sizes were built.
+
+The accompanying table gives some of the details of weight, horse-power,
+etc.
+
+Motor type                                    B      FD      FF
+Rated horse-power                            85     100     150
+Horse-power at 1250 r.p.m                    88     108     150
+Horse-power at 1350 r.p.m                    95     115     160
+Bore in millimeters                         106     116     130
+Stroke in millimeters                       150     160     180
+Offset of the cylinders in millimeters       18      20      20
+Rate of gasoline consumption in grams       240     230     225
+Oil consumption in grams per b.h.p. hour     10      10      10
+Oil capacity in kilograms                    36       4       4-1/2
+Water capacity in litres                      5-1/2   7-1/2   9-1/2
+The weight with water and oil but with
+two magnetos, fuel feeder and air pump in
+kilograms                                   170     200     245
+The weight of motors, including the water
+pump, two magnetos, double ignition, etc.   160     190     230
+The weight of the exhaust pipe, complete
+in kilograms                                  4       4.8     5-1/2
+The weight of the propeller hub in
+kilograms.                                    3-1/2   4       4
+

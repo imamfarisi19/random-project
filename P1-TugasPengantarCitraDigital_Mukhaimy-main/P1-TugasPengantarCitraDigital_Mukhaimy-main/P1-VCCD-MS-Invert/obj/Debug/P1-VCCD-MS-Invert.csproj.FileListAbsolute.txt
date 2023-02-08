@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\bin\Debug\P1-VCCD-MS-Invert.exe.config
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\bin\Debug\P1-VCCD-MS-Invert.exe
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\bin\Debug\P1-VCCD-MS-Invert.pdb
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\obj\Debug\P1_VCCD_MS_Invert.Form1.resources
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\obj\Debug\P1_VCCD_MS_Invert.Properties.Resources.resources
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\obj\Debug\P1-VCCD-MS-Invert.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\obj\Debug\P1-VCCD-MS-Invert.exe
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\obj\Debug\P1-VCCD-MS-Invert.pdb
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Invert\obj\Debug\P1-VCCD-MS-Invert.csprojAssemblyReference.cache

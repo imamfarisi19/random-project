@@ -1,0 +1,37 @@
+The spark-plug electrodes may be easily set by means of the gauge
+attached to the screwdriver. _The setting of the spark-plug points is an
+important function which is usually overlooked, with the result that the
+magneto is blamed when it is not at fault._
+
+
+TIMING OF THE DIXIE MAGNETO
+
+[Illustration: Fig. 69A.--Sectional Views Outlining Construction of
+Dixie Magneto with Compound Distributor for Eight-Cylinder Engine
+Ignition.]
+
+In order to obtain the utmost efficiency from the engine, the magneto
+must be correctly timed to it. This operation is usually performed when
+the magneto is fitted to the engine at the factory. The correct setting
+may vary according to individuality of the engine, and some engines
+may require an earlier setting in order to obtain the best results.
+However, should the occasion arise to retime the magneto, the procedure
+is as follows: Rotate the crank-shaft of the engine until one of the
+pistons, preferably that of cylinder No. 1, is 1/16 of an inch ahead of
+the end of the compression stroke. With the timing lever in full retard
+position, the driving shaft of the magneto should be rotated in the
+direction in which it will be driven. The circuit breaker should be
+closely observed and when the platinum contact points are about to
+separate, the drive gear or coupling should be secured to the drive
+shaft of the magneto. Care should be taken not to alter the position of
+the magneto shaft when tightening the nut to secure the gear or
+coupling, after which the magneto should be secured to its base. Remove
+the distributor block and determine which terminal of the block is in
+contact with the carbon brush of the distributor finger and connect with
+plug wire leading to No. 1 cylinder to this terminal. Connect the
+remaining plug wires in turn according to the proper sequence of firing
+of the cylinders. (See the wiring diagram for a typical six-cylinder
+engine at Fig. 70.) A terminal on the end of the cover spring of the
+magneto is provided for the purpose of connecting the wire leading to a
+ground switch for stopping the engine.
+

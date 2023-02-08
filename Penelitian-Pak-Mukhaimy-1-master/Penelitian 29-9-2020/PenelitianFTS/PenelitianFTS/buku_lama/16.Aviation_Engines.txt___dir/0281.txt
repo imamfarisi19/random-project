@@ -1,0 +1,33 @@
+The statement often made in the past, that the gearing down of an engine
+costs more in the weight of reduction gears and propeller shaft than is
+warranted by the increase in horse-power, is seldom heard to-day.
+
+The mean effective pressure remaining the same, the brake horse-power of
+any engine increases as the speed. That is, an engine delivering 100
+brake horse-power at 1,500 revolutions per minute will show 133 brake
+horse-power at 2,000 revolutions per minute, an increase of 33 brake
+horse-power. To utilize this increase in horse-power, a matter of some
+fifteen pounds must be spent in gearing and another fifteen perhaps on
+larger valves, bearings, etc. Two per cent. may be assumed lost in the
+gears. In other words, the increase in horse-power due to increasing the
+speed has been attained at the expense of about one pound per brake
+horse-power.
+
+The advantages of the eight-cylinder engine over the six and twelve,
+briefly stated, are: lower weight per horse-power, shorter length,
+simpler and stiffer crank-shaft, cam-shaft and crank-case, and simpler
+and more direct manifold arrangement. As to torque, the eight is
+superior to the six, and yet in practice not enough inferior to the
+twelve to warrant the addition of four more cylinders. It must, however,
+be recognized that the eight is subject to the action of inherent
+unbalanced inertia couples, which set up horizontal vibrations,
+impossible of total elimination. These vibrations are functions of the
+reciprocating weights, which, as already mentioned, are cut down to the
+minimum. Vibrations due to the elasticity of crank-case, crank-shaft,
+etc., can be and are reduced in the Thomas engine to minor quantities by
+ample webbing of the crank-case and judicious use of metal elsewhere.
+All things considered, there is actually so little difference to be
+discerned between the balance of a properly designed eight-cylinder
+engine and that of a six or twelve as to make a discussion of the pros
+and cons more one of theory than of practice.
+

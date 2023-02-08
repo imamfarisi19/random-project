@@ -1,0 +1,49 @@
+For a given amount of heat taken from the cylinder by the largest volume
+of circulating water, the difference in temperature between inlet and
+outlet of the water-jacket should be the least possible, and this
+condition of the water circulation gives a more even temperature to all
+parts of the cylinder; while, on the contrary, a cold-water supply, say
+at 60° F., so slow as to allow the ejected water to flow off at a
+temperature near the boiling-point, must make a great difference in
+temperature between the bottom and top of the cylinder, with a loss in
+economy in gas and other fuels, as well as in water, if it is obtained
+by measurement.
+
+From the foregoing considerations of losses and inefficiencies, we find
+that the practice in motor design and construction has not yet reached
+the desired perfection in its cycular operation. Step by step
+improvements have been made with many changes in design though many have
+been without merit as an improvement, farther than to gratify the
+longings of designers for something different from the other thing, and
+to establish a special construction of their own. These efforts may in
+time produce a motor of normal or standard design for each kind of fuel
+that will give the highest possible efficiency for all conditions of
+service.
+
+
+
+
+CHAPTER IV
+
+Engine Parts and Functions--Why Multiple Cylinder Engines Are
+Best--Describing Sequence of Operations--Simple Engines--Four
+and Six Cylinder Vertical Tandem Engines--Eight and Twelve
+Cylinder V Engines--Radial Cylinder Arrangement--Rotary Cylinder
+Forms.
+
+
+ENGINE PARTS AND FUNCTIONS
+
+The principal elements of a gas engine are not difficult to understand
+and their functions are easily defined. In place of the barrel of the
+gun one has a smoothly machined cylinder in which a small cylindrical or
+barrel-shaped element fitting the bore closely may be likened to a
+bullet or cannon ball. It differs in this important respect, however, as
+while the shot is discharged from the mouth of the cannon the piston
+member sliding inside of the main cylinder cannot leave it, as its
+movements back and forth from the open to the closed end and back again
+are limited by simple mechanical connection or linkage which comprises
+crank and connection rod. It is by this means that the reciprocating
+movement of the piston is transformed into a rotary motion of the
+crank-shaft.
+

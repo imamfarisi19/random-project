@@ -1,0 +1,24 @@
+01.A_Tale_of_Two_Cities__A_Story_of_the_French_Revolution.txt_	343	00:01:35.4230231
+02.Treasure_Island.txt_	174	00:00:50.5894295
+03.Emma.txt_	373	00:01:59.9031448
+04.Great_Expectations.txt_	445	00:03:51.7490696
+05.The_Mayflower_and_Her_Log__Complete.txt_	215	00:01:48.4330845
+06.Monumental_Java.txt_	174	00:01:18.9463747
+07.Aviation_in_Canada_19171918.txt_	122	00:01:10.4548566
+08.Ships__Ways_of_Other_Days.txt_	214	00:01:49.0948142
+09.The_History_of_Sumatra.txt_	420	00:03:50.1428374
+10.The_Early_History_of_the_Airplane.txt_	30	00:00:18.0568704
+11.British_Borneo.txt_	137	00:01:21.9090216
+12.Children_of_Borneo.txt_	84	00:00:52.7809250
+13.Aircraft_and_Submarines.txt_	291	00:02:43.1940155
+14.Folklore_in_Borneo.txt_	26	00:00:15.5294842
+15.Ancient_and_Modern_Ships.txt_	112	00:01:01.6383009
+16.Aviation_Engines.txt_	397	00:03:35.8310083
+17.With_the_Dyaks_of_Borneo.txt_	334	00:03:10.5146418
+18.The_Opium_Fiend.txt_	549	00:05:35.6785125
+19.The_Secret_Agent__A_Simple_Tale.txt_	217	00:02:19.4035832
+20.The_Sign_of_the_Four.txt_	111	00:01:13.1276255
+
+
+------------------------------------------------
+TOTAL EXECUTION TIME: 2442,4006233 seconds

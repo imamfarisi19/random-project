@@ -1,0 +1,39 @@
+[Illustration: Fig. 107.--Cross Sectional View of Knight Type Eight
+Cylinder V Engine.]
+
+Most of the readers should be familiar with the cycle of operation of
+the internal combustion motor of the four-stroke type, and it seems
+unnecessary to go into detail except to present a review. The first
+stroke of the piston is one in which a charge of gas is taken into the
+motor; the second stroke, which is in reverse direction to the first, is
+a compression stroke, at the end of which the spark takes place,
+exploding the charge and driving the piston down on the third or
+expansion stroke, which is in the same direction as the intake stroke,
+and finally, after the piston has nearly reached the end of this stroke,
+another valve opens to allow the burned gases to escape, and remains
+open until the piston has reached the end of the fourth stroke and is in
+a position to begin the series over again. The ends of the strokes are
+reached when the piston comes to a stop at either top or bottom of the
+cylinder and reverses its motion. That point is known as a center, and
+there are two for each cylinder, top and bottom centers, respectively.
+
+All circles may be divided into 360 parts, each of which is known as a
+degree, and, in turn, each of these degrees may be again divided into
+minutes and seconds, though we need not concern ourselves with anything
+less than the degree. Each stroke of the piston represents 180 degrees
+travel of the crank, because two strokes represent one complete
+revolution of three hundred and sixty degrees. The top and bottom
+centers are therefore separated by 180 degrees. Theoretically each phase
+of a four-cycle engine begins and ends at a center, though in actual
+practice the inertia or movement of the gases makes it necessary to
+allow a lead or lag to the valve, as the case may be. If a valve opens
+before a center, the distance is called "lead"; if it closes after a
+center, this distance is known as "lag." The profile of the cams
+ordinarily used to open or close the valves represents a considerable
+time in relation to the 180 degrees of the crank-shaft travel, and the
+area of the passages through which the gases are admitted or exhausted
+is quite small owing to the necessity of having to open or close the
+valves at stated times; therefore, to open an adequately large passage
+for the gases it is necessary to open the valves earlier and close them
+later than at centers.
+

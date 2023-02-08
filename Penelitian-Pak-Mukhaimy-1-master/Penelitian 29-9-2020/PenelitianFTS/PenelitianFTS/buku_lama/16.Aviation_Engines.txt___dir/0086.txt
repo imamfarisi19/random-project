@@ -1,0 +1,43 @@
+A rich mixture should be avoided because the excessive fuel used will
+deposit carbon and will soot the cylinder walls, combustion chamber
+interior, piston top and valves and also tend to overheat the motor. A
+rich mixture will also seriously interfere with flexible control of the
+engine, as it will choke up on low throttle and run well on open
+throttle when the full amount of gas is needed. A rich mixture may be
+quickly discovered by black smoke issuing from the muffler, the exhaust
+gas having a very pungent odor. If the mixture contains a surplus of air
+there will be popping sounds in the carburetor, which is commonly termed
+"blowing back." To adjust a carburetor is not a difficult matter when
+the purpose of the various control members is understood. The first
+thing to do in adjusting a carburetor is to start the motor and to
+retard the sparking lever so the motor will run slowly leaving the
+throttle about half open. In order to ascertain if the mixture is too
+rich cut down the gasoline flow gradually by screwing down the needle
+valve until the motor commences to run irregularly or misfire. Close the
+needle valves as far as possible without having the engine come to a
+stop, and after having found the minimum amount of fuel gradually
+unscrew the adjusting valve until you arrive at the point where the
+engine develops its highest speed. When this adjustment is secured the
+lock nut is screwed in place so the needle valve will keep the
+adjustment. The next point to look out for is regulation of the
+auxiliary air supply on those types of carburetors where an adjustable
+air valve is provided. This is done by advancing the spark lever and
+opening the throttle. The air valve is first opened or the spring
+tension reduced to a point where the engine misfires or pops back in the
+carburetor. When the point of maximum air supply the engine will run on
+is thus determined, the air valve spring may be tightened by screwing in
+on the regulating screw until the point is reached where an appreciable
+speeding up of the engine is noticed. If both fuel and air valves are
+set right, it will be possible to accelerate the engine speed uniformly
+without interfering with regularity of engine operation by moving the
+throttle lever or accelerator pedal from its closed to its wide open
+position, this being done with the spark lever advanced. All types of
+carburetors do not have the same means of adjustment; in fact, some
+adjust only with the gasoline regulating needle; others must have a
+complete change of spray nozzles; while in others the mixture
+proportions may be varied only by adjustment of the quantity of entering
+air. Changing the float level is effective in some carburetors, but this
+should never be done unless it is certain that the level is not correct.
+Full instructions for locating carburetion troubles will be given in
+proper sequence.
+

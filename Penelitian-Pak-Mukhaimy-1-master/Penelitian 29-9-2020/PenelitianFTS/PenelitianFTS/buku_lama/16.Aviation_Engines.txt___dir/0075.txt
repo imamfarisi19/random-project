@@ -1,0 +1,43 @@
+By combining these two types of rich and poor mixture carburetors the
+Zenith compound nozzle was evolved. In Fig. 52, E, we have both the
+direct suction or richer type leading through pipe E and nozzle G and
+the "constant flow" device of Baverey shown at J, I, K and nozzle H. One
+counteracts the defects of the other, so that from the cranking of the
+motor to its highest speed there is a constant ratio of air and
+gasoline to supply efficient combustion.
+
+In addition to the compound nozzle the Zenith is equipped with a
+starting and idling well, shown in the cut of Model L carburetor at P
+and J. This terminates in a priming hole at the edge of the butterfly
+valve, where the suction is greatest when this valve is slightly open.
+The gasoline is drawn up by the suction at the priming hole and, mixed
+with the air rushing by the butterfly, gives an ideal slow speed
+mixture. At higher speeds with the butterfly valve opened further the
+priming well ceases to operate and the compound nozzle drains the well
+and compensates correctly for any motor speed.
+
+[Illustration: Fig. 53.--The Zenith Duplex Carburetor for Airplane
+Motors of the V Type.]
+
+With the coming of the double motor containing eight or twelve cylinders
+arranged in two V blocks, the question of good carburetion has been a
+problem requiring much study. The single carburetor has given only
+indifferent results due to the strong cross suction in the inlet
+manifold from one set of cylinders to the other. This naturally led to
+the adoption of two carburetors in which each set of cylinders was
+independently fed by a separate carburetor. Results from this system
+were very good when the two carburetors were working exactly in unison,
+but as it was extremely difficult to accomplish this co-operation,
+especially where the adjustable type was employed, this system never
+gained in favor. The next logical step was the Zenith Duplex, shown at
+Fig. 53. This consists of two separate and distinct carburetors joined
+together so that a common gasoline float chamber and air inlet could be
+used by both. It does away with cross suction in the manifold because
+each set of cylinders has a separate intake of its own. It does away
+with two carburetors and makes for simplicity. The practical application
+of the Zenith carburetor to the Curtiss 90 horse-power OX-2 motor used
+on the JN-4 standard training machine is shown at Fig. 54, which
+outlines a rear view of the engine in question. The carburetor is
+carried low to permit of fuel supply from a gravity tank carried back of
+the motor.
+

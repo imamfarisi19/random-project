@@ -1,0 +1,37 @@
+
+DESCRIBING SEQUENCE OF OPERATIONS
+
+Referring to Fig. 22, A, the sequence of operation in a single-cylinder
+motor can be easily understood. Assuming that the crank-shaft is turning
+in the direction of the arrow, it will be seen that the intake stroke
+comes first, then the compression, which is followed by the power
+impulse, and lastly the exhaust stroke. If two cylinders are used, it is
+possible to balance the explosions in such a way that one will occur
+each revolution. This is true with either one of two forms of four-cycle
+motors. At B, a two-cylinder vertical engine using a crank-shaft in
+which the crank-pins are on the same plane is shown. The two pistons
+move up and down simultaneously. Referring to the diagram describing the
+strokes, and assuming that the outer circle represents the cycle of
+operations in one cylinder while the inner circle represents the
+sequence of events in the other cylinder, while cylinder No. 1 is taking
+in a fresh charge of gas, cylinder No. 2 is exploding. When cylinder No.
+1 is compressing, cylinder No. 2 is exhausting. During the time that the
+charge in cylinder No. 1 is exploded, cylinder No. 2 is being filled
+with fresh gas. While the exhaust gases are being discharged from
+cylinder No. 1, cylinder No. 2 is compressing the gas previously taken.
+
+[Illustration: Fig. 22.--Diagrams Illustrating Sequence of Cycles in
+One- and Two-Cylinder Engines Showing More Uniform Turning Effort on
+Crank-Shaft with Two-Cylinder Motors.]
+
+The same condition obtains when the crank-pins are arranged at one
+hundred and eighty degrees and the cylinders are opposed, as shown at C.
+The reason that the two-cylinder opposed motor is more popular than
+that having two vertical cylinders is that it is difficult to balance
+the construction shown at B, so that the vibration will not be
+excessive. The two-cylinder opposed motor has much less vibration than
+the other form, and as the explosions occur evenly and the motor is a
+simple one to construct, it has been very popular in the past on light
+cars and has received limited application on some early, light
+airplanes.
+

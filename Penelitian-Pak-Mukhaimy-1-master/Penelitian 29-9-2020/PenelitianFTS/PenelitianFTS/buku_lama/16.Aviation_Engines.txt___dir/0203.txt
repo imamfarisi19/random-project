@@ -1,0 +1,60 @@
+
+IGNITION SYSTEM TROUBLES ONLY
+
+
+_Motor Will Not Start or Starts Hard_
+
+Loose Battery Terminal.
+Magneto Ground Wire Shorted.
+Magneto Defective (No Spark at Plugs).
+Broken Spark Plug Insulation.
+Carbon Deposits or Oil Between Plug Points.
+Spark-Plug Points Too Near Together or Far Apart.
+Wrong Cables to Plugs.
+Short Circuited Secondary Cable.
+Broken Secondary Cable.
+Dry Battery Weak.            }
+Storage Battery Discharged.  } Battery Systems
+Poor Contact at Timer.       } Only.
+Timer Points Dirty.          }
+Poor Contact at Switch.                    }
+Primary Wires Broken, or Short Circuited.  } Battery and
+Battery Grounded in Metal Container.       } Coil Ignition
+Battery Connectors Broken or Loose.        } System Only.
+Timer Points Out of Adjustment.            }
+Defects in Induction Coil.                 }
+Ignition Timing Wrong, Spark Too Late or Too Early.
+Defective Platinum Points in Breaker Box (Magneto).
+Points Not Separating.
+Broken Contact Maker Spring.
+No Contact at Secondary Collector Brush.
+Platinum Contact Points Burnt or Pitted.
+Contact Breaker Bell Crank Stuck.
+Fiber Bushing in Bell Crank Swollen.
+Short Circuiting Spring Always in Contact.
+Dirt or Water in Magneto Casing.
+Oil in Contact Breaker.
+Oil Soaked Brush and Collector Ring.
+Distributor Filled with Carbon Particles.
+
+
+_Motor Stops Without Warning_
+
+Broken Magneto Carbon Brush.
+Broken Lead Wire.
+Broken Ground Wire.
+Battery Ignition Systems.
+Water on High Tension Magneto Terminal.
+Main Secondary Cable Burnt Through by Hot Exhaust
+Pipe (Transformer Coil, Magneto Systems).
+Particle of Carbon Between Spark Plug Points.
+Magneto Short Circuited by Ground Wire.
+Magneto Out of Time, Due to Slipping Drive.
+Water or Oil in Safety Spark Gap (Multi-cylinder Magneto).
+Magneto Contact Breaker or Timer Stuck in Retard
+Position.
+Worn Fiber Block in Magneto Contact Breaker.
+Binding Fiber Bushing in Contact Breaker Bell Crank.
+Spark Advance Rod or Wire Broken.
+Contact Breaker Parts Stuck.
+

@@ -1,0 +1,38 @@
+[Illustration: Fig. 219.--Diagrams Showing Important Components of Le
+Rhone Motor.]
+
+[Illustration: Fig. 220.--How the Cams of the Le Rhone Motor Can Operate
+Two Valves with a Single Push Rod.]
+
+A carburetor of peculiar construction is employed in the Le Rhone
+engine, this being a very simple type as outlined at Fig. 221. It is
+attached to the threaded end of the hollow crank-shaft by a right and
+left coupling. The fuel is pumped to the spray nozzle, the opening in
+which is controlled by a fuel regulating needle having a long taper
+which is lifted out of the jet opening when the air-regulating slide is
+moved. The amount of fuel supplied the carburetor is controlled by a
+special needle valve fitting which combines a filter screen and which is
+shown at B. In regulating the speed of the Le Rhone engine, there are
+two possible means of controlling the mixture, one by altering the
+position of the air-regulating slide, which also works the metering
+needle in the jet, and the other by controlling the amount of fuel
+supplied to the spray nozzle through the special fitting provided for
+that purpose.
+
+[Illustration: Fig. 221.--The Le Rhone Carburetor at A and Fuel Supply
+Regulating Device at B.]
+
+In considering the action of this engine one can refer to Fig. 222. The
+crank O. M. is fixed, while the cylinders can turn about the crank-shaft
+center O and the piston turns around the crank-pin M, because of the
+eccentricity of the centers of rotation the piston will reciprocate in
+the cylinders. This distance is at its maximum when the cylinder is
+above O and at a minimum when it is above M, and the difference between
+these two positions is equal to the stroke, which is twice the distance
+of the crank-throw O, M. The explosion pressure resolves itself into the
+force F exerted along the line of the connecting rod A, M, and also into
+a force N, which tends to make the cylinders rotate around point O in
+the direction of the arrow. An odd number of cylinders acting on one
+crank-pin is desirable to secure equally spaced explosions, as the basic
+action is the same as the Gnome engine.
+

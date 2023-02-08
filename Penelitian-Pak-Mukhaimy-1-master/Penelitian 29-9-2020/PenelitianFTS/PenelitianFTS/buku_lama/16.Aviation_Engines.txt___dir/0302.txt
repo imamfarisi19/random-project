@@ -1,0 +1,46 @@
+[Illustration: Fig. 250.--Propeller End of Sunbeam Eighteen-Cylinder 475
+B.H.P. Aviation Engine.]
+
+
+INDICATING METERS FOR AUXILIARY SYSTEMS
+
+[Illustration: Fig. 251.--View of Airplane Cowl Board, Showing the
+Various Navigating and Indicating Instruments to Aid the Aviator in
+Flight.]
+
+The proper functioning of the power plant and the various groups
+comprising it may be readily ascertained at any time by the pilot
+because various indicating meters and pressure gauges are provided which
+are located on a dash or cowl board in front of the aviator, as shown at
+Fig. 251. The speed indicator corresponds to the speedometer of an
+automobile and gives an indication of the speed the airplane is making,
+which taken in conjunction with the clock will make it possible to
+determine the distance covered at a flight. The altimeter, which is an
+aneroid barometer, outlines with fair accuracy the height above the
+ground at which a plane is flying. These instruments are furnished to
+enable the aviator to navigate the airplane when in the air, and if the
+machine is to be used for cross-country flying, they may be supplemented
+by a compass and a drift set. It will be evident that these are purely
+navigating instruments and only indicate the motor condition in an
+indirect manner. The best way of keeping track of the motor action is to
+watch the tachometer or revolution counter which is driven from the
+engine by a flexible shaft. This indicates directly the number of
+revolutions the engine is making per minute and, of course, any slowing
+up of the engine in normal flights indicates that something is not
+functioning as it should. The tachometer operates on the same principle
+as the speed indicating device or speedometer used in automobiles except
+that the dial is calibrated to show revolutions per minute instead of
+miles per hour. At the extreme right of the dash at Fig. 251 the spark
+advance and throttle control levers are placed. These, of course,
+regulate the motor speed just as they do in an automobile. Next to the
+engine speed regulating levers is placed a push button cut-out switch to
+cut out the ignition and stop the motor. Three pressure gauges are
+placed in a line. The one at the extreme right indicates the pressure of
+air on the fuel when a pressure feed system is used. The middle one
+shows oil pressure, while that nearest the center of the dash board is
+employed to show the air pressure available in the air starting system.
+It will be evident that the character of the indicating instruments will
+vary with the design of the airplane. If it was provided with an
+electrical starter instead of an air system electrical indicating
+instruments would have to be provided.
+

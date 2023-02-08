@@ -1,0 +1,106 @@
+[Illustration: Fig. 179.--Special Tools for Maintaining Curtiss OX-2
+Motor Used in Curtiss JN-4 Training Biplane.]
+
+
+SPECIAL HALL-SCOTT TOOLS
+
+NO.             TOOL                        DIRECTIONS FOR USE
+1  Engine hoisting hook, 6-cylinder  Hook under cam-shaft housing,
+when hoisting engine.
+2  Engine hoisting hook, 4-cylinder  Hook under cam-shaft housing,
+when hoisting engine.
+3  Water plug wrench                 For use on water plugs on top
+and end of cylinders.
+4  Vertical shaft flange puller      For pulling lower pinion shaft
+flange from shaft. (Used on A-5
+and A-7 engines only.)
+5  Oil gun                           For general lubrication use.
+6  Magneto gear puller               For pulling magneto gears from
+magneto shaft.
+7  Socket wrench, 1/4" A.L.A.M.      For use on bolts and nuts on
+crank cases.
+8  Socket wrench, 1/4" A.L.A.M       For use on crank cases and
+magneto gear housings.
+9  Socket wrench, 1/4" A.L.A.M.      For use on magneto gear
+housings.
+10  Socket wrench, 3/8" standard      For bolts and nuts which fasten
+magnetos to crank-case.
+11  Socket wrench, 1/4" A.L.A.M.      For use on magneto gear
+housings.
+12  Vertical shaft gear puller        For removing water pump and
+magneto drive gear.
+13  Brace and facing cutter           For facing lugs on cylinders for
+cylinder hold down stud washers.
+14  Handle for brace                  Use with brace.
+15  Valve grinding brace              For grinding in valves.
+16  Socket wrench base, 3/8" A.L.A.M. For thrust bearing cap screws.
+17  Brace and facing cutter, 5/16"    For facing lugs on rocker arm
+A.L.A.M.                          covers.
+18  Valve grinding screw driver       For grinding in valves.
+19  Valve spring tool                 For putting on and taking off
+valve springs.
+20  Block-valve spring tool           For use with valve spring tool.
+21  Socket wrench, 5/8" A.L.A.M.      For main bearing nuts.
+22  Socket wrench, 1/4" A.L.A.M.      For use on cam-shaft housing.
+23  Socket wrench, 5/16" A.L.A.M.     For cam-shaft housing hold down
+stud nuts.
+24  Socket wrench, 1/2" A.L.A.M.      For cylinder hold down stud
+nuts.
+25  Socket wrench, 5/16" A.L.A.M.     For carburetor and water pump
+bolts and nuts.
+26  Socket wrench, 5/16" A.L.A.M.     For carburetor and water pump
+bolts and nuts.
+27  Socket wrench                     For use on carburetor jets.
+28  Magneto screw driver              For general magneto use.
+29  Brass bar, 1" diameter × 7" long  For driving piston pins from
+pistons.
+30  Hack saw                          For general use.
+31  Oil can                           For cam-shaft housing
+lubrication.
+32  Gasoline or distillate can        For priming or other use.
+33  Oil can                           For magneto gear lubrication.
+34  Shellac can                       For rubber hose connections and
+gaskets.
+35  Magneto cleaner                   For use on magnetos.
+36  Clamps                            For holding cylinder hold down
+studs, when fitting main
+bearings.
+37  Piston guards                     For use in pistons, when out of
+engine, to protect them.
+38  Screw driver                      For general use.
+39  Vertical shaft clamps             For clamping vertical shaft
+flanges, when timing engine.
+40  Thrust adjusting nut wrench       For adjusting propeller thrust
+bearing.
+41  Stuffing box spanner wrench       For adjusting stuffing box nut
+on vertical shaft.
+42  Water pump spanner wrench         For adjusting water pump
+stuffing nut.
+43  Wrench                            For use on cylinder relief cocks
+and cylinder priming cocks.
+44  Hose clamp wrench                 For use on hose clamps.
+45  Scraper                           For cleaning piston ring grooves
+on pistons.
+46  Crank-shaft nut wrench            For adjusting crank-shaft nut.
+47  Spark-plug wrench                 For putting in and taking out
+spark-plugs in cylinders.
+48  Timing disc (single disc)         For use on crank-shaft to time
+engine.
+Specify type motor disc should be made for. If double disc is
+required, specify the two types of motors the disc is to be made
+for. Double disc.
+49  Main bearing scraper              For scraping in bearings.
+50  Cylinder carbon scraper           For removing carbon from heads
+of cylinders.
+51  Valve seating tool                For seating valves in cylinder
+heads.
+52  Scraper, small                    For general bearing use.
+53  Scraper, large                    For general bearing use.
+54  Crank-shaft flange puller         For pulling crank-shaft flange
+from crank-shaft.
+55  Piston and connecting rod racks.
+56  Main bearing stud nuts and shim
+rack.
+57  Main bearing board rack.
+58  Rocker arm and cover rack.
+

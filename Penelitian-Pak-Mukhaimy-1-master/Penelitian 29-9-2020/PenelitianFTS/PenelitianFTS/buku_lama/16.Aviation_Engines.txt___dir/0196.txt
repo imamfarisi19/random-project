@@ -1,0 +1,36 @@
+Remember that the main jet and compensating jet have no appreciable
+effect on the idling of the engine. The idling mixture is drawn directly
+through the opening determined by the knurled screw and enters the
+carburetor barrel through the small hole at the edge of each butterfly.
+This is called the priming hole and is only effective during idling.
+Beyond that point the suction is transferred to the main jet and
+compensator, which controls the power of the engine beyond the idling
+position of the throttle.
+
+
+DEFECTS IN OILING SYSTEMS
+
+While troubles existing in the ignition or carburetion groups are
+usually denoted by imperfect operation of the motor, such as lost power,
+and misfiring, derangements of the lubrication or cooling systems are
+usually evident by overheating, diminution in engine capacity, or noisy
+operation. Overheating may be caused by poor carburetion as much as by
+deficient cooling or insufficient oiling. When the oiling group is not
+functioning as it should the friction between the motor parts produces
+heat. If the cooling system is in proper condition, as will be evidenced
+by the condition of the water in the radiator, and the carburetion group
+appears to be in good condition, the overheating is probably caused by
+some defect in the oiling system.
+
+The conditions that most commonly result in poor lubrication are:
+Insufficient oil in the engine crank-case or sump, broken or clogged oil
+pipes, screen at filter filled with lint or dirt, broken oil pump, or
+defective oil-pump drive. The supply of oil may be reduced by a
+defective inlet or discharge-check valve at the mechanical oiler or worn
+pumps. A clogged oil passage or pipe leading to an important bearing
+point will cause trouble because the oil cannot get between the working
+surfaces. It is well to remember that much of the trouble caused by
+defective oiling may be prevented by using only the best grades of
+lubricant, and even if all parts of the oil system are working properly,
+oils of poor quality will cause friction and overheating.
+

@@ -1,0 +1,40 @@
+
+DRILLING MACHINES
+
+[Illustration: Fig. 167.--Forms of Hand Operated Drilling Machines.]
+
+Drilling machines may be of two kinds, hand or power operated. For
+drilling small holes in metal it is necessary to run the drill fast,
+therefore the drill chuck is usually driven by gearing in order to
+produce high drill speed without turning the handle too fast. A small
+hand drill is shown at Fig. 167, A. As will be observed, the chuck
+spindle is driven by a small bevel pinion, which in turn, is operated by
+a large bevel gear turned by a crank. The gear ratio is such that one
+turn of the handle will turn the chuck five or six revolutions. A drill
+of this design is not suited for drills any larger than one-quarter
+inch. For use with drills ranging from one-eighth to three-eighths, or
+even half-inch the hand drill presses shown at C and D are used. These
+have a pad at the upper end by which pressure may be exerted with the
+chest in order to feed the drill into the work, and for this reason they
+are termed "breast drills." The form at C has compound gearing, the
+drill chuck being driven by the usual form of bevel pinion in mesh with
+a larger bevel gear at one end of a countershaft. A small helical spur
+pinion at the other end of this countershaft receives its motion from a
+larger gear turned by the hand crank. This arrangement of gearing
+permits of high spindle speed without the use of large gears, as would
+be necessary if but two were used. The form at D gives two speeds, one
+for use with small drills is obtained by engaging the lower bevel pinion
+with the chuck spindle and driving it by the large ring gear. The slow
+speed is obtained by shifting the clutch so that the top bevel pinion
+drives the drill chuck. As this meshes with a gear but slightly larger
+in diameter, a slow speed of the drill chuck is possible. Breast drills
+are provided with a handle screwed into the side of the frame, these
+are used to steady the drill press. For drilling extremely large holes
+which are beyond the capacity of the usual form of drill press the
+ratchet form shown at B, may be used or the bit brace outlined at E. The
+drills used with either of these have square shanks, whereas those used
+in the drill presses have round shanks. The bit brace is also used
+widely in wood work and the form shown is provided with a ratchet by
+which the bit chuck may be turned through only a portion of a revolution
+in either direction if desired.
+

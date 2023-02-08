@@ -1,0 +1,50 @@
+
+STORAGE BATTERY
+
+DEFECT                       TROUBLE CAUSED          REMEDY
+Electrolyte low.             Weak current.           Replenish with
+distilled water.
+Loose terminals.             Misfiring.              Tighten.
+Sulphated terminals.         Misfiring.              Clean thoroughly
+and coat with
+vaseline.
+Battery discharged.          Misfiring or no spark.  New charge.
+Electrolyte weak.            Weak current.           Bring to proper
+specific gravity.
+Plates sulphated.            Poor capacity.          Special slow charge.
+Sediment or mud in bottom.   Weak current.           Clean out.
+Active material loose in     Poor capacity.          New plates.
+grids.
+Moisture or acid on top of   Shorts terminals.       Remove.
+cells.
+Plugged vent cap.            Buckles cell jars.      Make vent hole.
+Cracked vent cap.            Acid spills out.        New cap.
+Cracked cell jar.            Electrolyte runs out.   New jar.
+
+DRY CELL BATTERY
+
+DEFECT                       TROUBLE CAUSED          REMEDY
+Broken wires.                No current.             New wires.
+Loose terminals.             Misfiring.              Tighten.
+Weak cell (7 amperes or      Misfiring.              New cells.
+less).
+Cells in contact.            Short circuit.          Separate and
+insulate.
+Water in battery box.        Short circuit.          Dry out.
+
+
+TIMER
+
+DEFECT                       TROUBLE CAUSED          REMEDY
+Contact segments worn or     Misfiring.              Grind down
+pitted.                                              smooth.
+Platinum points pitted.      Misfiring.              Smooth with oil
+stone.
+Dirty oil or metal dust in   Misfiring.              Clean out.
+interior.
+Worn bearing.                Misfiring.              Replace.
+Loose terminals.             Misfiring.              Tighten.
+Worn revolving contact       Misfiring.              Replace.
+brush.
+Out of time.                 Irregular spark.        Reset.
+

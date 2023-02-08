@@ -1,0 +1,45 @@
+[Illustration: Fig. 209.--The G. V. Gnome "Monosoupape" Nine-Cylinder
+Rotary Engine Mounted on Testing Stand.]
+
+[Illustration: Fig. 210.--Sectional View Showing Construction of General
+Vehicle Co. "Monosoupape" Gnome Engine.]
+
+The cylinders, for example, are machined from 6 inch solid steel bars,
+which are sawed into blanks 11 inches in length and weighing about 97
+pounds. The first operation is to drill a 2-1/16 inch hole through the
+center of the block. A heavy-duty drilling machine performs this work,
+then the block goes to the lathe for further operations. Fig. 211 shows
+six stages of the progress of a cylinder, a few of the intermediate
+steps being omitted. These give, however, a good idea of the work done.
+The turning of the gills, or cooling flanges, is a difficult
+proposition, owing to the depth of the cut and the thin metal that forms
+the gills. This operation requires the utmost care of tools and the use
+of a good lubricant to prevent the metal from tearing as the tools
+approach their full depth. These gills are only 0.6 mm., or 0.0237 in.,
+thick at the top, tapering to a thickness of 1.4 mm. (0.0553 in.) at the
+base, and are 16 mm. (0.632 in.) deep. When the machine work is
+completed the cylinder weighs but 5-1/2 pounds.
+
+[Illustration: Fig. 211.--How a Gnome Cylinder is Reduced from Solid
+Chunk of Steel Weighing 97 Pounds to Finished Cylinder Weighing 5-1/2
+Pounds.]
+
+
+GNOME FUEL SYSTEM, IGNITION AND LUBRICATION
+
+The following description of the fuel supply, ignition and oiling of the
+"monosoupape," or single valve Gnome, is taken from "The Automobile."
+
+Gasoline is fed to the engine by means of air pressure at 5 pounds per
+sq. in., which is produced by the air pump on the engine clearly shown
+at Fig. 210. A pressure gauge convenient to the operator indicates this
+pressure, and a valve enables the operator to control it. No carburetor
+is used. The gasoline flows from the tank through a shut-off valve near
+the operator and through a tube leading through the hollow crank-shaft
+to a spray nozzle located in the crank-case. There is no throttle valve,
+and as each cylinder always receives the same amount of air as long as
+the atmospheric pressure is the same, the output cannot be varied by
+reducing the fuel supply, except within narrow limits. A fuel capacity
+of 65 gallons is provided. The fuel consumption is at the rate of 12 U.
+S. gallons per hour.
+

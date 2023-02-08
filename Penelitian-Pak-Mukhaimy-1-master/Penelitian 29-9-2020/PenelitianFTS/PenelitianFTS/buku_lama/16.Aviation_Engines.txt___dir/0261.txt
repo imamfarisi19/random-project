@@ -1,0 +1,32 @@
+[Illustration: Fig. 199.--Sectional View Showing Construction of Canton
+and Unné Water-Cooled Radial Cylinder Engine.]
+
+Cylinders of this engine are of nickel steel machined all over and carry
+water-jackets of spun copper which are attached to the cylinders by
+brazing. The water jackets are corrugated to permit the cylinder to
+expand freely. The ignition is similar to that of the fixed crank
+rotating cylinder engine. An ordinary magneto of the two spark type
+driven at 1-3/4 times crank-shaft speed is sufficient to ignite the
+seven-cylinder form, while in the nine-cylinder engines the ignition
+magneto is of the "shield" type giving four sparks per revolution. The
+magneto is driven at 1-1/9 times crank-shaft speed. Nickel steel valves
+are used and are carried in castings or cages which screw into bosses in
+the cylinder head. Each valve is cam operated through a tappet, push rod
+and rocker arm, seven cams being used on a seven-cylinder engine and
+nine cams on the nine-cylinder. One cam serves to open both valves as in
+its rotation it lifts the tappets in succession and so operates the
+exhaust and inlet valves respectively. This method of operation involves
+the same period of intake and exhaust. In normal engine practice the
+inlet valve opens 12 degrees late and closes 20 degrees late. The
+exhaust opens 45 degrees early and closes 6 degrees late. This means
+about 188 degrees in the case of inlet valve and 231 degrees crank-shaft
+travel for exhaust valves. In the Salmson engine, the exhaust closes and
+the inlet opens at the outer dead center and the exhaust opens and the
+inlet closes at about the inner dead center. This engine is also made in
+a fourteen-cylinder 200 B. H. P. design which is composed of two groups
+of seven-cylinders, and it has been made in an eighteen-cylinder design
+of 600 horse-power. The nine-cylinder 130 horse-power has a cylinder
+bore of 4.73 inches and a stroke of 5.52 inches. Its normal speed of
+rotation is 1250 R. P. M. Owing to the radial arrangement of the
+cylinders, the weight is but 4-1/4 pounds per B. H. P.
+

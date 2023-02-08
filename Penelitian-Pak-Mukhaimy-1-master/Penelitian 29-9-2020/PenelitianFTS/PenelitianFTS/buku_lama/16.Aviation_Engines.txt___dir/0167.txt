@@ -1,0 +1,42 @@
+
+PISTON RING CONSTRUCTION
+
+As all pistons must be free to move up and down in the cylinder with
+minimum friction, they must be less in diameter than the bore of the
+cylinder. The amount of freedom or clearance provided varies with the
+construction of the engine and the material the piston is made of, as
+well as its size, but it is usual to provide from .005 to .010 of an
+inch to compensate for the expansion of the piston due to heat and also
+to leave sufficient clearance for the introduction of lubricant between
+the working surfaces. Obviously, if the piston were not provided with
+packing rings, this amount of clearance would enable a portion of the
+gases evolved when the charge is exploded to escape by it into the
+engine crank-case. The packing members or piston rings, as they are
+called, are split rings of cast iron, which are sprung into suitable
+grooves machined on the exterior of the piston, three or four of these
+being the usual number supplied. These have sufficient elasticity so
+that they bear tightly against the cylinder wall and thus make a
+gas-tight joint. Owing to the limited amount of surface in contact with
+the cylinder wall and the elasticity of the split rings the amount of
+friction resulting from the contact of properly fitted rings and the
+cylinder is not of enough moment to cause any damage and the piston is
+free to slide up and down in the cylinder bore.
+
+[Illustration: Fig. 123.--Types of Piston Rings and Ring Joints.
+A--Concentric Ring. B--Eccentrically Machined Form. C--Lap Joint Ring.
+D--Butt Joint, Seldom Used. E--Diagonal Cut Member, a Popular Form.]
+
+These rings are made in two forms, as outlined at Fig. 123. The design
+shown at A is termed a "concentric ring," because the inner circle is
+concentric with the outer one and the ring is of uniform thickness at
+all points. The ring shown at B is called an "eccentric ring," and it is
+thicker at one part than at others. It has theoretical advantages in
+that it will make a tighter joint than the other form, as it is claimed
+its expansion due to heat is more uniform. The piston rings must be
+split in order that they may be sprung in place in the grooves, and also
+to insure that they will have sufficient elasticity to take the form of
+the cylinder at the different points in their travel. If the cylinder
+bore varies by small amounts the rings will spring out at the points
+where the bore is larger than standard, and spring in at those portions
+where it is smaller than standard.
+

@@ -1,0 +1,49 @@
+
+DEFECTS IN CYLINDERS
+
+After the cylinders have been removed and stripped of all fittings, they
+should be thoroughly cleaned and then carefully examined for defects.
+The interior or bore should be looked at with a view of finding score
+marks, grooves, cuts or scratches in the interior, because there are
+many faults that may be ascribed to depreciation at this point. The
+cylinder bore may be worn out of round, which can only be determined by
+measuring with an internal caliper or dial indicator even if the
+cylinder bore shows no sign of wear. The flange at the bottom of the
+cylinder by which it is held to the engine base may be cracked. The
+water jacket wall may have opened up due to freezing of the jacket
+water at some time or other or it may be filled with scale and sediment
+due to the use of impure cooling water. The valve seat may be scored or
+pitted, while the threads holding the valve chamber cap may be worn so
+that the cap will not be a tight fit. The detachable head construction
+makes it possible to remove that member and obtain ready access to the
+piston tops for scraping out carbon without taking the main cylinder
+portion from the crank-case. When the valves need grinding the head may
+be removed and carried to the bench where the work may be performed with
+absolute assurance that none of the valve grinding compound will
+penetrate into the interior of the cylinder as is sometimes unavoidable
+with the I-head cylinder. If the cylinder should be scored, the water
+jacket and combustion head may be saved and a new cylinder casting
+purchased at considerably less cost than that of the complete unit
+cylinder.
+
+The detachable head construction has only recently been applied on
+airplane engines, though it was one of the earliest forms of automobile
+engine construction. In the early days it was difficult to procure
+gaskets or packings that would be both gas and water tight. The sheet
+asbestos commonly used was too soft and blew out readily. Besides a new
+gasket had to be made every time the cylinder head was removed. Woven
+wire and asbestos packings impregnated with rubber, red lead, graphite
+and other filling materials were more satisfactory than the soft sheet
+asbestos, but were prone to burn out if the water supply became low.
+Materials such as sheet copper or brass proved to be too hard to form a
+sufficiently yielding packing medium that would allow for the inevitable
+slight inaccuracies in machining the cylinder head and cylinder. The
+invention of the copper-asbestos gasket, which is composed of two sheets
+of very thin, soft copper bound together by a thin edging of the same
+material and having a piece of sheet asbestos interposed solved this
+problem. Copper-asbestos packings form an effective seal against leakage
+of water and a positive retention means for keeping the explosion
+pressure in the cylinder. The great advantage of the detachable head is
+that it permits of very easy inspection of the piston tops and
+combustion chamber and ready removal of carbon deposits.
+

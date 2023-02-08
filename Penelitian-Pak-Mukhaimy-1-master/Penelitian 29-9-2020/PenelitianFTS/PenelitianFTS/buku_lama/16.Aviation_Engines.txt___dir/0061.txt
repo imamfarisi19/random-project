@@ -1,0 +1,45 @@
+
+PRINCIPLES OF CARBURETION OUTLINED
+
+The process of carburetion is combining the volatile vapors which
+evaporate from the hydrocarbon liquids with certain proportions of air
+to form an inflammable gas. The quantities of air needed vary with
+different liquids and some mixtures burn quicker than do other
+combinations of air and vapor. Combustion is simply burning and it may
+be rapid, moderate or slow. Mixtures of gasoline and air burn quickly,
+in fact the combustion is so rapid that it is almost instantaneous and
+we obtain what is commonly termed an "explosion." Therefore the
+explosion of gas in the automobile engine cylinder which produces the
+power is really a combination of chemical elements which produce heat
+and an increase in the volume of the gas because of the increase in
+temperature.
+
+If the gasoline mixture is not properly proportioned the rate of
+burning will vary, and if the mixture is either too rich or too weak the
+power of the explosion is reduced and the amount of power applied to the
+piston is decreased proportionately. In determining the proper
+proportions of gasoline and air, one must take the chemical composition
+of gasoline into account. The ordinary liquid used for fuel is said to
+contain about eight-four per cent. carbon and sixteen per cent.
+hydrogen. Air is composed of oxygen and nitrogen and the former has a
+great affinity, or combining power, with the two constituents of
+hydrocarbon liquids. Therefore, what we call an explosion is merely an
+indication that oxygen in the air has combined with the carbon and
+hydrogen of the gasoline.
+
+
+AIR NEEDED TO BURN GASOLINE
+
+In figuring the proper volume of air to mix with a given quantity of
+fuel, one takes into account the fact that one pound of hydrogen
+requires eight pounds of oxygen to burn it, and one pound of carbon
+needs two and one-third pounds of oxygen to insure its combustion. Air
+is composed of one part of oxygen to three and one-half portions of
+nitrogen by weight. Therefore for each pound of oxygen one needs to burn
+hydrogen or carbon four and one-half pounds of air must be allowed. To
+insure combustion of one pound of gasoline which is composed of hydrogen
+and carbon we must furnish about ten pounds of air to burn the carbon
+and about six pounds of air to insure combustion of hydrogen, the other
+component of gasoline. This means that to burn one pound of gasoline one
+must provide about sixteen pounds of air.
+

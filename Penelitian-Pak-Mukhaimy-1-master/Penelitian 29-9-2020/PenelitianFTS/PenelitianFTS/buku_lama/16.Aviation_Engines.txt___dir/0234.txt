@@ -1,0 +1,56 @@
+It is suggested by those favoring this process that the night before the
+oxygen is to be used the engine be given a conventional kerosene
+treatment. A half tumbler full of this liquid or of denatured alcohol is
+to be poured into each cylinder and permitted to remain there over
+night. As a precaution against fire, the gasoline is shut off from the
+carburetor before the torch is inserted in the cylinder and the motor
+started so that the gasoline in the pipe and carburetor float chamber
+will be consumed. Work is done on one cylinder at a time. A note of
+caution was recently sounded by a prominent spark-plug manufacturer
+recommending that the igniter member be removed from the cylinder in
+order not to injure it by the heat developed. The outfits on the market
+consist of a special torch having a trigger controlled valve and a
+length of flexible tubing such as shown at Fig. 182, A, and a regulating
+valve and oxygen tank as shown at B. The gauge should be made to
+register about twelve pounds pressure.
+
+The method of operation is very simple and is outlined at C. The burner
+tube is placed in the cylinder and the trigger valve is opened and the
+oxygen permitted to circulate in the combustion chamber. A lighted match
+or wax taper is dropped in the chamber and the injector tube is moved
+around as much as possible so as to cover a large area. The carbon takes
+fire and burns briskly in the presence of the oxygen. The combustion of
+the carbon is accompanied by sparks and sometimes by flame if the
+deposit is of an oily nature. Once the carbon begins to burn the
+combustion continues without interruption as long as the oxygen flows
+into the cylinder. Full instructions accompany each outfit and the
+amount of pressure for which the regulator should be set depends upon
+the design of the torch and the amount of oxygen contained in the
+storage tank.
+
+
+REPAIRING SCORED CYLINDERS
+
+If the engine has been run at any time without adequate lubrication, one
+or more of the cylinders may be found to have vertical scratches running
+up and down the cylinder walls. The depth of these will vary according
+to the amount of time the cylinder was without lubrication, and if the
+grooves are very deep the only remedy is to purchase a new member. Of
+course, if sufficient stock is available in the cylinder walls, the
+cylinders may be rebored and new pistons which are oversize, _i.e._,
+larger than standard, may be fitted. Where the scratches are not deep
+they may be ground out with a high speed emery wheel or lapped out if
+that type of machine is not available. Wrist pins have been known to
+come loose, especially when these are retained by set screws that are
+not properly locked, and as wrist-pins are usually of hardened steel it
+will be evident that the sharp edge of that member can act as a cutting
+tool and make a pronounced groove in the cylinder. Cylinder grinding is
+a job that requires skilled mechanics, but may be accomplished on any
+lathe fitted with an internal grinding attachment. While automobile
+engine cylinders usually have sufficient wall thickness to stand
+reboring, those of airplane engines seldom have sufficient metal to
+permit of enlarging the bore very much by a boring tool. A few
+thousandths of an inch may be ground out without danger, however. An
+airplane engine cylinder with deep grooves must be scrapped as a general
+rule.
+

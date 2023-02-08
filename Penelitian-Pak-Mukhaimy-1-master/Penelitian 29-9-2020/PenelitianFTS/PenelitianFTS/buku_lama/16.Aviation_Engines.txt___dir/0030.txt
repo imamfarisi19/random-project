@@ -1,0 +1,44 @@
+TABLE II.--PROPERTIES AND EXPLOSIVE TEMPERATURE OF A MIXTURE OF ONE PART
+OF ILLUMINATING GAS OF 660 THERMAL UNITS PER CUBIC FOOT WITH VARIOUS
+PROPORTIONS OF AIR WITHOUT MIXTURE OF CHARGE WITH THE PRODUCTS OF A
+PREVIOUS EXPLOSION.
+
+[A] Proportion, Air to Gas by Volumes.
+[B] Pounds in One Cubic Foot of Mixture.
+[C] Specific Heat. Heat Units Required to Raise 1 Lb. 1 Deg.
+Fahrenheit. Constant Pressure.
+[D] Specific Heat. Heat Units Required to Raise 1 Lb. 1 Deg.
+Fahrenheit. Constant Volume.
+[E] Heat to Raise One Cubic Foot of Mixture 1 Deg. Fahr.
+[F] Heat Units Evolved by Combustion.
+[G] Ratio Col. 6/5
+[H] Usual Combustion Efficiency.
+[I] Usual Rise of Temperature due to Explosion at Constant Volume.
+
+=======+========+======+======+========+======+=======+=====+=====
+[A]  |   [B]  |  [C] |  [D] |   [E]  |  [F] |  [G]  | [H] | [I]
+-------+--------+------+------+--------+------+-------+-----+-----
+6 to 1| .074195| .2668| .1913| .014189| 94.28| 6644.6| .465| 3090
+7 to 1| .075012| .2628| .1882| .014116| 82.  | 5844.4| .518| 3027
+8 to 1| .075647| .2598| .1858| .014059| 73.33| 5216.1| .543| 2832
+9 to 1| .076155| .2575| .1846| .014013| 66.  | 4709.9| .56 | 2637
+10 to 1| .076571| .2555| .1825| .013976| 60.  | 4293. | .575| 2468
+11 to 1| .076917| .2540| .1813| .013945| 55.  | 3944. | .585| 2307
+12 to 1| .077211| .2526| .1803| .013922| 50.77| 3646.7| .58 | 2115
+-------+--------+------+------+--------+------+-------+-----+-----
+
+The weight of a cubic foot of gas and air mixture as given in Col. 2 is
+found by adding the number of volumes of air multiplied by its weight,
+.0807, to one volume of gas of weight .035 pound per cubic foot and
+dividing by the total number of volumes; for example, as in the table, 6
+× .0807 = .5192/7 = .074195 as in the first line, and so on for any
+mixture or for other gases of different specific weight per cubic foot.
+The heat units evolved by combustion of the mixture (Col. 6) are
+obtained by dividing the total heat units in a cubic foot of gas by the
+total proportion of the mixture, 660/7 = 94.28 as in the first line of
+the table. Col. 5 is obtained by multiplying the weight of a cubic foot
+of the mixture in Col. 2 by the specific heat at a constant volume (Col.
+4), Col. 6/Col. 5 = Col. 7 the total heat ratio, of which Col. 8 gives
+the usual combustion efficiency--Col. 7 × Col. 8 gives the absolute rise
+in temperature of a pure mixture, as given in Col. 9.
+

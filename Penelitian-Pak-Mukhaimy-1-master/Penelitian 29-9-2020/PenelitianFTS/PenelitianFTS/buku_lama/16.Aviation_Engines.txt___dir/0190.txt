@@ -1,0 +1,36 @@
+[Illustration: Fig. 160.--Side Elevation of Thomas 135 Horse-Power
+Airplane Engine, Giving Important Dimensions.]
+
+If the carburetor appears to be in good condition, the trouble may be
+caused by the ignition being out of time, which condition is possible
+when the magneto timing gear or coupling is attached to the armature
+shaft by a taper and nut retention instead of the more positive key or
+taper-pin fastening. It is possible that the inlet manifold may be
+broken or perforated, that the exhaust valve is stuck on its seat
+because of a broken or bent stem, broken or loose cam, or failure of the
+cam-shaft drive because the teeth are stripped from the engine shaft or
+cam-shaft gears; or because the key or other fastening on either gear
+has failed, allowing that member to turn independently of the shaft to
+which it normally is attached. The gasoline feed pipe may be clogged or
+broken, the fuel supply may be depleted, or the shut-off cock in the
+gasoline line may have jarred closed. The gasoline filter may be filled
+with dirt or water which prevents passage of the fuel.
+
+[Illustration: Fig. 161.--Front Elevation of Thomas-Morse 135
+Horse-Power Aeromotor, Showing Main Dimensions.]
+
+The defects outlined above, except the failure of the gasoline supply,
+are very rare, and if the container is found to contain fuel and the
+pipe line to be clear to the carburetor, it is safe to assume the
+vaporizing device is at fault. If fuel continually runs out of the
+mixing chamber the carburetor is said to be flooded. This condition
+results from failure of the shut-off needle to seat properly or from a
+punctured hollow metal float or a gasoline-soaked cork float. It is
+possible that not enough gasoline is present in the float chamber. If
+the passage controlled by the float-needle valve is clogged or if the
+float was badly out of adjustment, this contingency would be probable.
+When the carburetor is examined, if the gasoline level appears to be at
+the proper height, one may suspect that a particle of lint, or dust, or
+fine scale, or rust from the gasoline tank has clogged the bore of the
+jet in the mixing chamber.
+

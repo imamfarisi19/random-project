@@ -1,0 +1,41 @@
+[Illustration: Fig. 31.--Diagrams Showing How Increasing Number of
+Cylinders Makes for More Uniform Power Application.]
+
+The reason that practically continuous torque is obtained in an
+eight-cylinder engine is that one cylinder fires every ninety degrees of
+crank-shaft rotation, and as each impulse lasts nearly seventy-five per
+cent. of the stroke, one can easily appreciate that an engine that will
+give four explosions per revolution of the crank-shaft will run more
+uniformly than one that gives but three explosions per revolution, as
+the six-cylinder does, and will be twice as smooth running as a
+four-cylinder, in which but two explosions occur per revolution of the
+crank-shaft. The comparison is so clearly shown in graphical diagrams
+and in Fig. 31 that further description is unnecessary.
+
+Any eight-cylinder engine may be considered a "twin-four,"
+twelve-cylinder engines may be considered "twin sixes."
+
+[Illustration: Fig. 32.--How the Angle Between the Cylinders of an
+Eight- and Twelve-Cylinder V Motor Varies.]
+
+The only points in which an eight-cylinder motor differs from a
+four-cylinder is in the arrangement of the connecting rod, as in many
+designs it is necessary to have two rods working from the same
+crank-pin. This difficulty is easily overcome in some designs by
+staggering the cylinders and having the two connecting rod big ends of
+conventional form side by side on a common crank-pin. In other designs
+one rod is a forked form and works on the outside of a rod of the
+regular pattern. Still another method is to have a boss just above the
+main bearing on one connecting rod to which the lower portion of the
+connecting rod in the opposite cylinder is hinged. As the eight-cylinder
+engine may actually be made lighter than the six-cylinder of equal
+power, it is possible to use smaller reciprocating parts, such as
+pistons, connecting rods and valve gear, and obtain higher engine speed
+with practically no vibration. The firing order in nearly every case is
+the same as in a four-cylinder except that the explosions occur
+alternately in each set of cylinders. The firing order of an
+eight-cylinder motor is apt to be confusing to the motorist,
+especially if one considers that there are eight possible sequences. The
+majority of engineers favor the alternate firing from side to side.
+Firing orders will be considered in proper sequence.
+

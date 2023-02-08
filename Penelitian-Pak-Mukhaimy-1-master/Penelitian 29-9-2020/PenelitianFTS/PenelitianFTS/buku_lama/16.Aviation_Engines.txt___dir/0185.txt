@@ -1,0 +1,45 @@
+[Illustration: Fig. 154.--Three-Quarter View of Hall-Scott Type A-5 125
+Horse-Power Six-Cylinder Engine, with One of the Side Radiators Removed
+to Show Installation in Standard Fuselage.]
+
+[Illustration: Fig. 155.--Diagram Showing Proper Installation of
+Hall-Scott Type A-5 125 Horse-Power Engine with Pressure Feed Fuel
+Supply System.]
+
+
+IGNITION SWITCHES
+
+Two "DIXIE" switches are furnished with each engine. Both of these
+should be installed in the pilot's seat, one controlling the R. H., and
+the other the L. H. magneto. By shorting either one or the other it can
+be quickly determined if both magnetos, with their respective
+spark-plugs, are working correctly. Care should be taken not to use
+spark-plugs having _special extensions or long protruding points_. Plugs
+giving best results are extremely small with short points.
+
+
+WATER SYSTEMS
+
+A temperature gauge should be installed in the water pipe, coming
+directly from the cylinder nearest the propeller (note illustration
+above). This instrument installed in the radiator cap has not always
+given satisfactory results. This is especially noticeable when the water
+in the radiator becomes low, not allowing it to touch the bulb on the
+moto-meter. For ordinary running, it should not indicate over 150
+degrees Fahr. In climbing tests, however, a temperature of 160 degrees
+Fahr. can be maintained without any ill effects upon the engine. In case
+the engine becomes overheated, the indicator will register above 180
+degrees Fahr., in which case it should be stopped immediately.
+Overheating is most generally caused by retarded spark, excessive carbon
+in the cylinders, insufficient lubrication, improperly timed valves,
+lack of water, clogging of water system in any way which would obstruct
+the free circulation of the water.
+
+Overheating will cause the engine to knock, with possible damaging
+results. Suction pipes should be made out of thin tubing, and run within
+a quarter or an eighth of an inch of each other, so that when a hose is
+placed over the two, it will not be possible to suck together. This is
+often the case when a long rubber hose is used, which causes
+overheating. Radiators should be flushed out and cleaned thoroughly
+quite often. A dirty radiator may cause overheating.
+

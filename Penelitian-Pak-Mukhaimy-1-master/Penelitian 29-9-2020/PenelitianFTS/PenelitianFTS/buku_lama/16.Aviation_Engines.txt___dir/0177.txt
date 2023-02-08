@@ -1,0 +1,40 @@
+[Illustration: Fig. 139.--Counterbalanced Crank-Shafts Reduce Engine
+Vibration and Permit of Higher Rotative Speeds.]
+
+In some automobile engines, extremely good results have been secured in
+obtaining steady running with minimum vibration by counterbalancing the
+crank-shafts as outlined at Fig. 139. The shaft at A is a type suitable
+for a high speed four-cylinder vertical or an eight-cylinder Vee type.
+That at B is for a six-cylinder vertical or a twelve-cylinder V with
+scissors joint rods. If counterbalancing crank-shafts helps in an
+automobile engine, it should have advantages of some moment in airplane
+engines, even though the crank-shaft weight is greater.
+
+
+BALL-BEARING CRANK-SHAFTS
+
+While crank-shafts are usually supported in plain journals there seems
+to be a growing tendency of late to use anti-friction bearings of the
+ball type for their support. This is especially noticeable on block
+motors where but two main bearings are utilized. When ball bearings are
+selected with proper relation to the load which obtains they will give
+very satisfactory service. They permit the crank-shaft to turn with
+minimum friction, and if properly selected will never need adjustment.
+The front end is supported by a bearing which is clamped in such a
+manner that it will take a certain amount of load in a direction
+parallel to the axis of the shaft, while the rear end is so supported
+that the outer race of the bearing has a certain amount of axial freedom
+or "float." The inner race or cone of each bearing is firmly clamped
+against shoulders on the crank-shaft. At the front end of the
+crank-shaft timing gear and a suitable check nut are used, while at the
+back end the bearing is clamped by a threaded retention member between
+the fly-wheel and a shoulder on the crank-shaft. The fly-wheel is held
+in place by a taper and key retention. The ball bearings are carried in
+a light housing of bronze or malleable iron, which in turn are held in
+the crank-case by bolts. The Renault engine uses ball bearings at front
+and rear ends of the crank-shaft, but has plain bearings around
+intermediate crank-shaft journals. The rotary engines of the Gnome, Le
+Rhone and Clerget forms would not be practical if ball bearings were not
+used as the bearing friction and consequent depreciation would be very
+high.
+

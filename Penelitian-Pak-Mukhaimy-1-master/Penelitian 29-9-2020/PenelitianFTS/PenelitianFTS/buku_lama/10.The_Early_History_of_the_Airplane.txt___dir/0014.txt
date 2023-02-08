@@ -1,0 +1,50 @@
+Finally we decided to undertake the building of the motor ourselves. We
+estimated that we could make one of four cylinders with 4-inch bore and
+4-inch stroke, weighing not over two hundred pounds, including all
+accessories. Our only experience up to that time in the building of
+gasoline motors had been in the construction of an air-cooled motor,
+5-inch bore and 7-inch stroke, which was used to run the machinery of
+our small workshop. To be certain that four cylinders of the size we had
+adopted (4" x 4") would develop the necessary 8 horse-power, we first
+fitted them in a temporary frame of simple and cheap construction. In
+just six weeks from the time the design was started, we had the motor on
+the block testing its power. The ability to do this so quickly was
+largely due to the enthusiastic and efficient services of Mr. C. E.
+Taylor, who did all the machine work in our shop for the first as well
+as the succeeding experimental machines. There was no provision for
+lubricating either cylinders or bearings while this motor was running.
+For that reason it was not possible to run it more than a minute or two
+at a time. In these short tests the motor developed about nine
+horse-power. We were then satisfied that, with proper lubrication and
+better adjustments, a little more power could be expected. The
+completion of the motor according to drawing was, therefore, proceeded
+with at once.
+
+[Illustration]
+
+While Mr. Taylor was engaged with this work, Wilbur and I were busy in
+completing the design of the machine itself. The preliminary tests of
+the motor having convinced us that more than 8 horse-power would be
+secured, we felt free to add enough weight to build a more substantial
+machine than we had originally contemplated.
+
+*       *       *       *       *
+
+For two reasons we decided to use two propellers. In the first place we
+could, by the use of two propellers, secure a reaction against a greater
+quantity of air, and at the same time use a larger pitch angle than was
+possible with one propeller; and in the second place by having the
+propellers turn in opposite directions, the gyroscopic action of one
+would neutralize that of the other. The method we adopted of driving the
+propellers in opposite directions by means of chains is now too well
+known to need description here. We decided to place the motor to one
+side of the man, so that in case of a plunge headfirst, the motor could
+not fall upon him. In our gliding experiments we had had a number of
+experiences in which we had landed upon one wing, but the crushing of
+the wing had absorbed the shock, so that we were not uneasy about the
+motor in case of a landing of that kind. To provide against the machine
+rolling over forward in landing, we designed skids like sled runners,
+extending out in front of the main surfaces. Otherwise the general
+construction and operation of the machine was to be similar to that of
+the 1902 glider.
+

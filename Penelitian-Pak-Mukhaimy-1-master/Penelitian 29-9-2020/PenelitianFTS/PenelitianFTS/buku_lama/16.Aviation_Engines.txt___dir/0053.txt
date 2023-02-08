@@ -1,0 +1,59 @@
+
+EIGHT- AND TWELVE-CYLINDER V ENGINES
+
+Those who have followed the development of the gasoline engine will
+recall the arguments that were made when the six-cylinder motor was
+introduced at a time that the four-cylinder type was considered
+standard. The arrival of the eight-cylinder has created similar futile
+discussion of its practicability as this is so clearly established as to
+be accepted without question. It has been a standard power plant for
+aeroplanes for many years, early exponents having been the Antoinette,
+the Woolsley, the Renault, the E. N. V. in Europe and the Curtiss in the
+United States.
+
+[Illustration: Fig. 29.--Types of Eight-Cylinder Engines Showing the
+Advantage of the V Method of Cylinder Placing.]
+
+The reason the V type shown at Fig. 29, A is favored is that the
+"all-in-line form" which is shown at Fig. 29, B is not practical for
+aircraft because of its length. Compared to the standard four-cylinder
+engine it is nearly twice as long and it required a much stronger and
+longer crank-shaft. It will be evident that it could not be located to
+advantage in the airplane fuselage. These undesirable factors are
+eliminated in the V type eight-cylinder motor, as it consists of two
+blocks of four cylinders each, so arranged that one set or block is at
+an angle of forty-five degrees from the vertical center line of the
+motor, or at an angle of ninety degrees with the other set. This
+arrangement of cylinders produces a motor that is no longer than a
+four-cylinder engine of half the power would be.
+
+[Illustration: Fig. 30.--Curves Showing Torque of Various Engine Types
+Demonstrate Graphically Marked Advantage of the Eight-Cylinder Type.]
+
+Apparently there is considerable misconception as to the advantage of
+the two extra cylinders of the eight as compared with the six-cylinder.
+It should be borne in mind that the multiplication in the number of
+cylinders noticed since the early days of automobile development has not
+been for solely increasing the power of the engine, but to secure a more
+even turning movement, greater flexibility and to eliminate destructive
+vibration. The ideal internal combustion motor, is the one having the
+most uniform turning movement with the least mechanical friction loss.
+Study of the torque outlines or plotted graphics shown at Figs. 25 and
+30 will show how multiplication of cylinders will produce steady power
+delivery due to overlapping impulses. The most practical form would be
+that which more nearly conforms to the steady running produced by a
+steam turbine or electric motor. The advocates of the eight-cylinder
+engine bring up the item of uniform torque as one of the most important
+advantages of the eight-cylinder design. A number of torque diagrams are
+shown at Fig. 30. While these appear to be deeply technical, they may be
+very easily followed when their purpose is explained. At the top is
+shown the torque diagram of a single-cylinder motor of the four-cycle
+type. The high point in the line represents the period of greatest
+torque or power generation, and it will be evident that this occurs
+early in the first revolution of the crank-shaft. Below this diagram is
+shown a similar curve except that it is produced by a four-cylinder
+engine. Inspection will show that the turning-moment is much more
+uniform than in the single cylinder; similarly, the six-cylinder
+diagram is an improvement over the four, and the eight-cylinder diagram
+is an improvement over the six-cylinder.
+

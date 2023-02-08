@@ -1,0 +1,46 @@
+When the cylinder is of the valve in-the-head form, the method of valve
+removal will depend entirely upon the system of cylinder construction
+followed. In the Sturtevant cylinder design it is possible to remove the
+head from the cylinder castings and the valve springs may be easily
+compressed by any suitable means when the cylinder head is placed on the
+work bench where it can be easily worked on. The usual method is to
+place the head on a soft cloth with the valves bearing against the
+bench. The valve springs may then be easily pushed down with a simple
+forked lever and the valve stem key removed to release the valve spring
+collar. In the Curtiss OX-2 (see Fig. 182-1/2) and Hall-Scott engines it
+is not possible to remove the valves without taking the cylinder off
+the crank-case, because the valve seats are machined directly in the
+cylinder head and the valve domes are cast integrally with the cylinder.
+This means that if the valves need grinding the cylinder must be removed
+from the engine base to provide access to the valve heads which are
+inside of that member, and which cannot be reached from the outside as
+is true of the L-cylinder construction. In the Curtiss VX engines, the
+valves are carried in detachable cages which may be removed when the
+valves need attention.
+
+[Illustration: Fig. 182-1/2.--Part Sectional View, Showing Valve
+Arrangement in Cylinder of Curtiss OX-2 Aviation Engine.]
+
+
+RESEATING AND TRUING VALVES
+
+Much has been said relative to valve grinding, and despite the mass of
+information given in the trade prints it is rather amusing to watch the
+average repairman or the engine user who prides himself on maintaining
+his own motor performing this essential operation. The common mistakes
+are attempting to seat a badly grooved or pitted valve head on an
+equally bad seat, which is an almost hopeless job, and of using coarse
+emery and bearing down with all one's weight on the grinding tool with
+the hope of quickly wearing away the rough surfaces. The use of improper
+abrasive material is a fertile cause of failure to obtain a satisfactory
+seating. Valve grinding is not a difficult operation if certain
+precautions are taken before undertaking the work. The most important of
+these is to ascertain if the valve head or seat is badly scored or
+pitted. If such is found to be the case no ordinary amount of grinding
+will serve to restore the surfaces. In this event the best thing to do
+is to remove the valve from its seating and to smooth down both the
+valve head and the seat in the cylinder before attempt is made to fit
+them together by grinding. Another important precaution is to make sure
+that the valve stem is straight, and that the head is not warped out of
+shape.
+

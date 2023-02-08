@@ -1,0 +1,40 @@
+It has been stated that volumes of similar cylinders increase as the
+cube of their diameters, while the surface of their cold walls varies as
+the square of their diameters; so that for large cylinders the ratio of
+surface to volume is less than for small ones. This points to greater
+economy in the larger engines. The study of many experiments goes to
+prove that combustion takes place gradually in the gas-engine cylinder,
+and that the rate of increase of pressure or rapidity of firing is
+controlled by dilution and compression of the mixture, as well as by the
+rate of expansion or piston speed. The rate of combustion also depends
+on the size and shape of the explosion chamber, and is increased by the
+mechanical agitation of the mixture during combustion, and still more by
+the mode of firing.
+
+
+VALUE OF INDICATOR CARDS
+
+[Illustration: Fig. 13.--Otto Four-Cycle Card.]
+
+To the uninitiated, indicator cards are considerable of a mystery; to
+those capable of reading them they form an index relative to the action
+of any engine. An indicator card, such as shown at Fig. 13, is merely a
+graphical representation of the various pressures existing in the
+cylinder for different positions of the piston. The length is to some
+scale that represents the stroke of the piston. During the intake
+stroke, the pressure falls below the atmospheric line. During
+compression, the curve gradually becomes higher owing to increasing
+pressure as the volume is reduced. After ignition the pressure line
+moves upward almost straight, then as the piston goes down on the
+explosion stroke, the pressure falls gradually to the point of exhaust
+valve, opening when the sudden release of the imprisoned gas causes a
+reduction in pressure to nearly atmospheric. An indicator card, or a
+series of them, will always show by its lines the normal or defective
+condition of the inlet valve and passages; the actual line of
+compression; the firing moment; the pressure of explosion; the velocity
+of combustion; the normal or defective line of expansion, as measured by
+the adiabatic curve, and the normal or defective operation of the
+exhaust valve, exhaust passages, and exhaust pipe. In fact, all the
+cycles of an explosive motor may be made a practical study from a close
+investigation of the lines of an indicator card.
+

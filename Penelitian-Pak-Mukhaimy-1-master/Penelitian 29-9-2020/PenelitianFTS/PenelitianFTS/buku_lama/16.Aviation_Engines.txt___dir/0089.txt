@@ -1,0 +1,45 @@
+Some engineers utilized the property of gases firing themselves if
+compressed to a sufficient degree, while others depended upon the heat
+stored in the cylinder-head to fire the highly compressed gas. None of
+these methods were practical in their application to motor car engines
+because they did not permit flexible engine action which is so
+desirable. At the present time, electrical ignition systems in which the
+compressed gas is exploded by the heating value of the minute electric
+arc or spark in the cylinder are standard, and the general practice
+seems to be toward the use of mechanical producers of electricity rather
+than chemical batteries.
+
+
+ELECTRICAL IGNITION BEST
+
+Two general forms of electrical ignition systems may be used, the most
+popular being that in which a current of electricity under high tension
+is made to leap a gap or air space between the points of the sparking
+plug screwed into the cylinder. The other form, which has been almost
+entirely abandoned in automobile and which was never used with airplane
+engine practice, but which is still used to some extent on marine
+engines, is called the low-tension system because current of low voltage
+is used and the spark is produced by moving electrodes in the combustion
+chamber.
+
+The essential elements of any electrical ignition system, either high or
+low tension, are: First, a simple and practical method of current
+production; second, suitable timing apparatus to cause the spark to
+occur at the right point in the cycle of engine action; third, suitable
+wiring and other apparatus to convey the current produced by the
+generator to the sparking member in the cylinder.
+
+The various appliances necessary to secure prompt ignition of the
+compressed gases should be described in some detail because of the
+importance of the ignition system. It is patent that the scope of a work
+of this character does not permit one to go fully into the theory and
+principles of operation of all appliances which may be used in
+connection with gasoline motor ignition, but at the same time it is
+important that the elementary principles be considered to some extent in
+order that the reader should have a proper understanding of the very
+essential ignition apparatus. The first point considered will be the
+common methods of generating the electricity, then the appliances to
+utilize it and produce the required spark in the cylinder. Inasmuch as
+magneto ignition is universally used in connection with airplane engine
+ignition it will not be necessary to consider battery ignition systems.
+

@@ -1,0 +1,43 @@
+
+DRILLS, REAMERS, TAPS AND DIES
+
+In addition to the larger machine tools and the simple hand tools
+previously described, an essential item of equipment of any engine or
+plane repair shop, even in cases where the ordinary machine tools are
+not provided, is a complete outfit of drills, reamers, and threading
+tools. Drills are of two general classes, the flat and the twist drills.
+The flat drill has an angle between cutting edges of about 110 degrees
+and is usually made from special steel commercially known as drill rod.
+
+A flat drill cannot be fed into the work very fast because it removes
+metal by a scraping, rather than a cutting process. The twist drill in
+its simplest form is cylindrical throughout the entire length and has
+spiral flutes which are ground off at the end to form the cutting lip
+and which also serve to carry the metal chips out of the holes. The
+simplest form of twist drill used is shown at Fig. 168, C, and is known
+as a "chuck" drill, because it must be placed in a suitable chuck to
+turn it. A twist drill removes metal by cutting and it is not necessary
+to use a heavy feed as the drill will tend to feed itself into the work.
+
+[Illustration: Fig. 168.--Forms of Drills Used in Hand and Power
+Drilling Machines.]
+
+Larger drills than 3/4-inch are usually made with a tapered shank as
+shown at Fig. 168, B. At the end of the taper a tongue is formed which
+engages with a suitable opening in the collet, as the piece used to
+support the drill is called. The object of this tongue is to relieve
+the tapered portion of the drill from the stress of driving by
+frictional contact alone, as this would not turn the drill positively
+and the resulting slippage would wear the socket, this depreciation
+changing the taper and making it unfit for other drills. The tongue is
+usually proportioned so it is adequate to drive the drill under any
+condition. A small keyway is provided in the collet into which a
+tapering key of flat stock may be driven against the end of the tongue
+to drive the drill from the spindle. A standard taper for drill shanks
+generally accepted by the machine trade is known as the Morse and is a
+taper of five-eighths of an inch to the foot. The Brown and Sharp form
+tapers six-tenths of an inch to the foot. Care must be taken, therefore,
+when purchasing drills and collets, to make sure that the tapers
+coincide, as no attempt should be made to run a Morse taper in a Brown
+and Sharp collet, or vice versa.
+

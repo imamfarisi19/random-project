@@ -1,0 +1,34 @@
+The various structural shapes in which connecting rods are formed are
+shown in section at G. Of these the I section is most widely used in
+airplane engines, because it is strong and a very easy shape to form by
+the drop-forging process or to machine out of the solid bar when extra
+good steel is used. Where extreme lightness is desired, as in small
+high-speed motors used for cycle propulsion, the section shown at the
+extreme left is often used. If the rod is a cast member as in some
+marine engines, the cross, hollow cylinder, or U sections are sometimes
+used. If the sections shown at the right are employed, advantage is
+often taken of the opportunity for passing lubricant through the center
+of the hollow round section on vertical motors or at the bottom of the U
+section, which would be used on a horizontal cylinder power plant.
+
+[Illustration: Fig. 130.--Another Type of Double Connecting Rod for Vee
+Engines.]
+
+Connecting rods of Vee engines are made in two distinct styles. The
+forked or "scissors" joint rod assembly is employed when the cylinders
+are placed directly opposite each other. The "blade" rod, as shown at
+Fig. 129, fits between the lower ends of the forked rod, which oscillate
+on the bearing which encircles the crank-pin. The lower end of the
+"blade" rod is usually attached to the bearing brasses, the ends of the
+"forked" rod move on the outer surfaces of the brasses. Another form of
+rod devised for use under these conditions is shown at Fig. 130 and
+installed in an aviation engine at Fig. 132. In this construction the
+shorter rod is attached to a boss on the master rod by a short pin to
+form a hinge and to permit the short rod to oscillate as the conditions
+dictate. This form of rod can be easily adjusted when the bearing
+depreciates, a procedure that is difficult with the forked type rod. The
+best practice, in the writer's opinion, is to stagger the cylinders and
+use side-by-side rods as is done in the Curtiss engine. Each rod may be
+fitted independently of the other and perfect compensation for wear of
+the big ends is possible.
+

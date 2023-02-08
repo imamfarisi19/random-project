@@ -1,0 +1,41 @@
+[Illustration: Fig. 6.--Outlining Second Two Strokes of Piston in
+Four-Cycle Engine.]
+
+[Illustration: Fig. 7.--Sectional View of L Head Gasoline Engine
+Cylinder Showing Piston Movements During Four-Stroke Cycle.]
+
+The illustrations at Fig. 7 show how the various cycle functions take
+place in an L head type water cooled cylinder engine. The sections at A
+and C are taken through the inlet valve, those at B and D are taken
+through the exhaust valve.
+
+The two-cycle engine works on a different principle, as while only the
+combustion chamber end of the piston is employed to do useful work in
+the four-cycle engine, both upper and lower portions are called upon to
+perform the functions necessary to two-cycle engine operation. Instead
+of the gas being admitted into the cylinder as is the case with the
+four-stroke engine, it is first drawn into the engine base where it
+receives a preliminary compression prior to its transfer to the working
+end of the cylinder. The views at Fig. 8 should indicate clearly the
+operation of the two-port two-cycle engine. At A the piston is seen
+reaching the top of its stroke and the gas above the piston is being
+compressed ready for ignition, while the suction in the engine base
+causes the automatic valve to open and admits mixture from the
+carburetor to the crank case. When the piston reaches the top of its
+stroke, the compressed gas is ignited and the piston is driven down on
+the power stroke, compressing the gas in the engine base.
+
+[Illustration: Fig. 8.--Showing Two-port, Two-cycle Engine Operation.]
+
+When the top of the piston uncovers the exhaust port the flaming gas
+escapes because of its pressure. A downward movement of the piston
+uncovers the inlet port opposite the exhaust and permits the fresh gas
+to bypass through the transfer passage from the engine base to the
+cylinder. The conditions with the intake and exhaust port fully opened
+are clearly shown at Fig. 8, C. The deflector plate on the top of the
+piston directs the entering fresh gas to the top of the cylinder and
+prevents the main portion of the gas stream from flowing out through the
+open exhaust port. On the next upstroke of the piston the gas in the
+cylinder is compressed and the inlet valve opened, as shown at A to
+permit a fresh charge to enter the engine base.
+

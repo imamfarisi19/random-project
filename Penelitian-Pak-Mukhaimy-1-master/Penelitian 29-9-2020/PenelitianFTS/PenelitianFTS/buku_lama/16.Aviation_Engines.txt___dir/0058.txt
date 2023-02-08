@@ -1,0 +1,45 @@
+While the Gnome engine has many advantages, on the other hand the head
+resistance offered by a motor of this type is considerable; there is a
+large waste of lubricating oil due to the centrifugal force which tends
+to throw the oil away from the cylinders; the gyroscopic effect of the
+rotary motor is detrimental to the best working of the aeroplane, and
+moreover it requires about seven per cent. of the total power developed
+by the motor to drive the revolving cylinders around the shaft. Of
+necessity, the compression of this type of motor is rather low, and an
+additional disadvantage manifests itself in the fact that there is as
+yet no satisfactory way of muffling the rotary type of motor. The modern
+Gnome engine has been widely copied in various European countries, but
+its design was originated in America, the early Adams-Farwell engine
+being the pioneer form. It has been made in seven- and nine-cylinder
+types and forms of double these numbers. The engine illustrated at Fig.
+40 is a fourteen-cylinder form. The simple engines have an odd number of
+cylinders in order to secure evenly spaced explosions. In the
+seven-cylinder, the impulses come 102.8° apart. In the nine-cylinder
+form, the power strokes are spaced 80° apart. The fourteen-cylinder
+engine is virtually two seven-cylinder types mounted together, the
+cranks being just the same as in a double cylinder opposed motor, the
+explosions coming 51.4° apart; while in the eighteen-cylinder model the
+power impulses come every 40° cylinder travel. Other rotary motors have
+been devised, such as the Le Rhone and the Clerget in France and several
+German copies of these various types. The mechanical features of these
+motors will be fully considered later.
+
+
+
+
+CHAPTER V
+
+Properties of Liquid Fuels--Distillates of Crude Petroleum--
+Principles of Carburetion Outlined--Air Needed to Burn Gasoline
+--What a Carburetor Should Do--Liquid Fuel Storage and Supply--
+Vacuum Fuel Feed--Early Vaporizer Forms--Development of Float
+Feed Carburetor--Maybach's Early Design--Concentric Float and
+Jet Type--Schebler Carburetor--Claudel Carburetor--Stewart
+Metering Pin Type--Multiple Nozzle Vaporizers--Two-Stage
+Carburetor--Master Multiple Jet Type--Compound Nozzle Zenith
+Carburetor--Utility of Gasoline Strainers--Intake Manifold
+Design and Construction--Compensating for Various Atmospheric
+Conditions--How High Altitude Affects Power--The Diesel System--
+Notes on Carburetor Installation--Notes on Carburetor
+Adjustment.
+

@@ -1,0 +1,47 @@
+Inconsistencies in the hypenation of words preserved. ( blood-thirsty,
+bloodthirsty; head-quarters, headquarters; kina-balu, kinabalu;
+kina-batangan, kinabatangan; salt-water, saltwater; sand-stone,
+sandstone; sea-board, seaboard; shop-keepers, shopkeepers; war-like,
+warlike)
+
+Treatment of Blockquotes. There are several blocks of text where the
+author quoted extensively from other documentary sources. In some
+cases, very long paragraphs contain a mixture of the author's words and
+quoted material. In order to enhance readability, the portions of text
+which are quoted material have been separated out and indented as
+blockquotes. This treatment has been given to:
+
+Pg. 33-37. The block of text beginning '"When," says he....' to
+'maintaining their gravity.' which was originally a single
+contiguous paragraph.
+
+Pg. 37-40, several paragraphs beginning 'Mr. Darymple's
+description....' to 'Singapore is to the straits of Malacca.' The
+first paragraph from 'Mr. Darymple's description....' to
+'commercial enterprise' was originally a single contiguous
+paragraph. This block of text is also unusual in that while
+elsewhere, each new paragraph of quoted material began with a
+doublequote mark, in this block, only some paragraphs do so while
+others do not. This inconsistency on the part of the author has
+been preserved.
+
+Pg. 54-55, several paragraphs beginning 'Javanese element, and
+Hindu work....' to 'make a stone fort."' The section from
+'Javanese element, and Hindu work....' to 'country of
+Saguntang.' was originally one contiguous paragraph. The quoted
+material was originally printed with a doublequote mark at the
+beginning of each line. These doublequote marks have been
+removed except for those indicating the beginning and end of a
+quotation.
+
+Pg. 58-62, several paragraphs beginning 'The agreement to so
+transfer....' to 'reference will be made hereafter.' The
+section from 'The agreement to so transfer....' to 'twenty in
+number' was originally one contiguous paragraph. The block from
+'Mr. Brooke concludes....' to 'reference will be made
+hereafter.' was also one contiguous paragraph. The quoted
+material was originally printed with a doublequote mark at the
+beginning of each line. These doublequote marks have been
+removed except for those indicating the beginning and end of a
+quotation.
+

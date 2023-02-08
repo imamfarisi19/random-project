@@ -1,0 +1,45 @@
+
+CONSTRUCTION OF EARLY GNOME MOTOR
+
+It cannot be denied that for a time one of the most widely used of
+aeroplane motors was the seven-cylinder revolving air-cooled Gnome, made
+in France. For a total weight of 167 pounds this motor developed 45 to
+47 horse-power at 1,000 revolutions, being equal to 3.35 pounds per
+horse-power, and has proved its reliability by securing many
+long-distance and endurance records. The same engineers have produced
+a nine-cylinder and by combining two single engines a fourteen-cylinder
+revolving Gnome, having a nominal rating of 100 horse-power, with which
+world's speed records were broken. A still more powerful engine has been
+made with eighteen-cylinders. The nine-cylinder "monosoupape" delivers
+100 horse-power at 1200 R. P. M., the engine of double that number of
+cylinders is rated at about 180 horse-power.
+
+[Illustration: Fig. 200.--Sectional View Outlining Construction of Early
+Type Gnome Valve-in-Piston Type Motor.]
+
+Except in the number of cylinders and a few mechanical details the
+fourteen-cylinder motor is identical with the seven-cylinder one; fully
+three-quarters of the parts used by the assemblers would do just as well
+for one motor as for the other. Owing to the greater power demands of
+the modern airplane the smaller sizes of Gnome engines are not used as
+much as they were except for school machines. There is very little in
+this motor that is common to the standard type of vertical motorcar
+engine. The cylinders are mounted radially round a circular crank-case;
+the crank-shaft is fixed, and the entire mass of cylinders and
+crank-case revolves around it as outlined at Fig. 200. The explosive
+mixture and the lubricating oil are admitted through the fixed hollow
+crank-shaft, passed into the explosion chamber through an automatic
+intake valve in the piston head in the early pattern, and the spent
+gases exhausted through a mechanically operated valve in the cylinder
+head. The course of the gases is practically a radial one. A peculiarity
+of the construction of the motor is that nickel steel is used
+throughout. Aluminum is employed for the two oil pump housings; the
+single compression ring known as the "obdurator" for each piston is made
+of brass; there are three or four brass bushes; gun metal is employed
+for certain pins--the rest is machined out of chrome nickel steel. The
+crank-case is practically a steel hoop, the depth depending on whether
+it has to receive seven-or fourteen-cylinders; it has seven or fourteen
+holes bored as illustrated on its circumference. When fourteen or
+eighteen cylinders are used the holes are bored in two distinct planes,
+and offset in relation one to the other.
+

@@ -1,0 +1,52 @@
+
+COOLING SYSTEMS GENERALLY APPLIED
+
+There are two general systems of engine cooling in common use, that in
+which water is heated by the absorption of heat from the engine and then
+cooled by air, and the other method in which the air is directed onto
+the cylinder and absorbs the heat directly instead of through the medium
+of water. When the liquid is employed in cooling it is circulated
+through jackets which surround the cylinder casting and the water may be
+kept in motion by two methods. The one generally favored is to use a
+positive circulating pump of some form which is driven by the engine to
+keep the water in motion. The other system is to utilize a natural
+principle that heated water is lighter than cold liquid and that it will
+tend to rise to the top of the cylinder when it becomes heated to the
+proper temperature and cooled water takes its place at the bottom of the
+water jacket.
+
+Air-cooling methods may be by radiation or convection. In the former
+case the effective outer surface of the cylinder is increased by the
+addition of flanges machined or cast thereon, and the air is depended on
+to rise from the cylinder as heated and be replaced by cooler air. This,
+of course, is found only on stationary engines. When a positive air
+draught is directed against the cylinder by means of the propeller slip
+stream in an airplane, cooling is by convection and radiation both.
+Sometimes the air draught may be directed against the cylinder walls by
+some form of jacket which confines it to the heated portions of the
+cylinder.
+
+
+COOLING BY POSITIVE WATER CIRCULATION
+
+[Illustration: Fig. 82.--Water Cooling of Salmson Seven-Cylinder Radial
+Airplane Engine.]
+
+A typical water-cooling system in which a pump is depended upon to
+promote circulation of the cooling liquid is shown at Figs. 82 and 83.
+The radiator is carried at the front end of the fuselage in most cases,
+and serves as a combined water tank and cooler, but in some cases it is
+carried at the side of the engine, as in Fig. 84, or attached to the
+central portion of the aerofoil or wing structure. It is composed of an
+upper and lower portion joined together by a series of pipes which may
+be round and provided with a series of fins to radiate the heat, or
+which may be flat in order to have the water pass through in thin sheets
+and cool it more easily. Cellular or honeycomb coolers are composed of a
+large number of bent tubes which will expose a large area of surface to
+the cooling influence of the air draught forced through the radiator
+either by the forward movement of the vehicle or by some type of fan.
+The cellular and flat tube types have almost entirely displaced the
+flange tube radiators which were formerly popular because they cool the
+water more effectively, and may be made lighter than the tubular
+radiator could be for engines of the same capacity.
+

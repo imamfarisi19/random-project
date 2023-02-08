@@ -1,0 +1,60 @@
+
+INSTALLING ROTARY AND RADIAL CYLINDER ENGINES
+
+[Illustration: Fig. 156.--Diagram Defining Installation of Gnome
+"Monosoupape" Motor in Tractor Biplane. Note Necessary Piping for Fuel,
+Oil, and Air Lines.]
+
+When rotary engines are installed simple steel stamping or "spiders,"
+are attached to the fuselage to hold the fixed crank-shaft. Inasmuch as
+the motor projects clear of the fuselage proper there is plenty of room
+back of the front spider plate to install the auxiliary parts such as
+the oil pump, air pump and ignition magneto and also the fuel and oil
+containers. The diagram given at Fig. 156 shows how a Gnome
+"monosoupape" engine is installed on the anchorage plates and it also
+outlines clearly the piping necessary to convey the oil and fuel and
+also the air-piping needed to put pressure on both fuel and oil tanks to
+insure positive supply of these liquids which may be carried in tanks
+placed lower than the motor in some installations. The diagram given at
+Figs. 157 and 158 shows other mountings of Gnome engines and are
+self-explanatory. The simple mounting possible when the Anzani
+ten-cylinder radial fixed type engine is used given at Fig. 159. The
+front end of the fuselage is provided with a substantial pressed steel
+plate having members projecting from it which may be bolted to the
+longerons. The bolts that hold the two halves of the crank-case together
+project through the steel plate and hold the engine securely to the
+front end of the fuselage.
+
+[Illustration: Fig. 157.--Showing Two Methods of Placing Propeller on
+Gnome Rotary Motor.]
+
+
+PRACTICAL HINTS TO LOCATE ENGINE TROUBLES
+
+[Illustration: Fig. 158.--How Gnome Rotary Motor May Be Attached to
+Airplane Fuselage Members.]
+
+One who is not thoroughly familiar with engine construction will seldom
+locate troubles by haphazard experimenting and it is only by a
+systematic search that the cause can be discovered and the defects
+eliminated. In this chapter the writer proposes to outline some of the
+most common power-plant troubles and to give sufficient advice to enable
+those who are not thoroughly informed to locate them by a logical
+process of elimination. The internal-combustion motor, which is the
+power plant of all gasoline automobiles as well as airplanes, is
+composed of a number of distinct groups, which in turn include distinct
+components. These various appliances are so closely related to each
+other that defective action of any one may interrupt the operation of
+the entire power plant. Some of the auxiliary groups are more necessary
+than others and the power plant will continue to operate for a time even
+after the failure of some important parts of some of the auxiliary
+groups. The gasoline engine in itself is a complete mechanism, but it
+is evident that it cannot deliver any power without some means of
+supplying gas to the cylinders and igniting the compressed gas charge
+after it has been compressed in the cylinders. From this it is patent
+that the ignition and carburetion systems are just as essential parts of
+the power plant as the piston, connecting rod, or cylinder of the motor.
+The failure of either the carburetor or igniting means to function
+properly will be immediately apparent by faulty action of the power
+plant.
+

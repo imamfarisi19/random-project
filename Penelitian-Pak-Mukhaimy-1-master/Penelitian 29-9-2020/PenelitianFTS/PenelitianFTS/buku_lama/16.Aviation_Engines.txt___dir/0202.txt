@@ -1,0 +1,108 @@
+
+"SKIPPING" OR IRREGULAR OPERATION
+
+------------------+------------------+------------------+--------------------
+PART AFFECTED    |NATURE OF TROUBLE |   SYMPTOMS AND   |      REMEDY
+|                  |     EFFECTS      |
+------------------+------------------+------------------+--------------------
+Compression Relief|Leak in threads or|Dilutes mixture   |Screw down tighter.
+Cock.             |spigot.           |with air, causes  |Grind spigot to seat
+|                  |blowback.         |with emery.
+|                  |                  |
+Spark-Plug.       |Leak in threads.  |Dilutes mixture.  |Screw down tighter.
+|Defective gasket. |Allows short      |Replace with new.
+|Cracked insulator.|circuit. No spark.|Set points 1/64"
+|Points too near.  |                  |apart for magneto,
+|Points covered    |                  |1/32" for battery
+|with carbon. Too  |                  |spark.
+|much air gap.     |                  |
+|                  |                  |
+Valve Chamber Cap.|Leak in threads.  |Dilutes mixture by|Previously given.
+|Defective gasket. |allowing air to   |
+|                  |enter cylinder on |
+|                  |suction stroke.   |
+|                  |                  |
+Combustion        |Carbon deposits.  |Preignition.      |Scrape out.
+Chamber.          |                  |                  |
+|                  |                  |
+Valve Head.       |Warped or pitted. |Dilutes charge    |Previously given.
+|Loose on stem.    |with poor air or  |
+|                  |gas.              |
+|                  |                  |
+Valve Stem.       |Binding in guide. |Irregular valve   |Previously given.
+|Sticking.         |action.           |
+|                  |                  |
+Valve Seat.       |Scored or warped. |Gas leak, poor    |Previously given.
+|Cracked. Covered  |mixture. Poor com-|
+|with scale. Dirt  |pression. Valve   |
+|under valve.      |will not close.   |
+|                  |                  |
+Induction Pipe.   |Leak at joints.   |Mixture diluted   |Stop all leaks.
+|Crack or blowhole.|with excess air.  |
+|                  |                  |
+Inlet Valve.      |Closes too late.  |Blowback in carbu-|Time properly.
+|Opens too early.  |retor.            |
+|                  |                  |
+Exhaust Valve.    |Opens too late.   |Retention of burnt|Time properly.
+|Closes too early. |gas dilutes       |
+|                  |charge.           |
+|                  |                  |
+Valve Stem Guide. |Bent or carbon-   |Causes valve to   |Previously given.
+|ized.             |stick.            |
+|                  |                  |
+Inlet Valve Stem  |Worn, stem loose. |Air drawn in on   |Bush guide or use
+Guide.            |                  |suction thins gas.|new member.
+|                  |                  |
+Valve Spring.     |Weakened or       |Irregular action. |Use new spring.
+|broken.           |                  |
+|                  |                  |
+Valve Stem        |Too little. Too   |Valve will not    |Adjust gap .009"
+Clearance.        |much.             |shut. Valve opens |inlet, .010"
+|                  |late, closes      |exhaust.
+|                  |early.            |
+Valve Spring      |Broken.           |Releases spring.  |Replace.
+Collar Key.       |                  |                  |
+|                  |                  |
+Cam.              |Worn cam contour. |Valve lift re-    |Previously given.
+|Loose on shaft.   |duced. Does not   |
+|Out of time.      |lift valve. Valves|
+|                  |operate at wrong  |
+|                  |time.             |
+|                  |                  |
+Cam-shaft Bearing.|Looseness or wear.|Valve timing      |Replace.
+|                  |altered. Valve    |
+|                  |lift decreased.   |
+|                  |                  |
+Cam-shaft.        |Twisted.          |Valves out of     |Previously given.
+|                  |time.             |
+|                  |                  |
+Cam Fastening.    |Worn or broken.   |Valve action      |Replace with new.
+|                  |irregular.        |
+|                  |                  |
+Valve Operating   |Loose in guide.   |Alters valve      |Replace with new.
+Plunger.          |                  |timing.           |
+|                  |                  |
+Valve Plunger     |Wear in bore.     |Alters valve      |Replace or bush.
+Guide.            |Loose on engine   |timing.           |Fasten securely.
+|base.             |                  |
+|                  |                  |
+Timing Gears.     |Not properly      |Valves out of     |Retime properly.
+|meshed. Loose on  |time. Valves do   |Fasten to shaft.
+|shaft.            |not operate.      |
+|                  |                  |
+Piston.           |Walls scored.     |Leakage of gas.   |Smooth up if
+|                  |                  |possible.
+|                  |                  |
+Piston Head.      |Carbon deposits.  |Cause premature   |Previously given.
+|Crack or blowhole |ignition.         |
+|(rare).           |                  |
+|                  |                  |
+Piston Rings.     |No spring. Loose  |Leakage weakens   |Previously given.
+|in grooves. Worn  |suction.          |
+|or broken.        |                  |
+|                  |                  |
+Cylinder Wall.    |Scored by wrist-  |Gas leaks by. Poor|Previously given.
+|pin. Scored by    |suction.          |
+|lack of oil.      |                  |
+------------------+------------------+------------------+--------------------
+

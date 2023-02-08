@@ -1,0 +1,38 @@
+When available, an electric motor with a length of flexible shaft and a
+small circular cleaning brush having wire bristles can be used in the
+interior of the engine. The electric motor need not be over one-eighth
+horse-power running 1,200 to 1,600 R. P. M., and the wire brush must, of
+course, be of such size that it can be easily inserted through the valve
+chamber cap. The flexible shaft permits one to reach nearly all parts of
+the cylinder interior without difficulty and the spreading out and
+flattening of the brush insures that considerable surface will be
+covered by that member.
+
+
+BURNING OUT CARBON WITH OXYGEN
+
+A process of recent development that gives very good results in removing
+carbon without disassembling the motor depends on the process of burning
+out that material by supplying oxygen to support the combustion and to
+make it energetic. A number of concerns are already offering apparatus
+to accomplish this work, and in fact any shop using an autogenous
+welding outfit may use the oxygen tank and reducing valve in connection
+with a simple special torch for burning the carbon. Results have
+demonstrated that there is little danger of damaging the motor parts,
+and that the cost of oxygen and labor is much lower than the old method
+of removing the cylinders and scraping the carbon out, as well as being
+very much quicker than the alternative process of using carbon solvent.
+The only drawback to this system is that there is no absolute insurance
+that every particle of carbon will be removed, as small protruding
+particles may be left at points that the flame does not reach and cause
+pre-ignition and consequent pounding, even after the oxygen treatment.
+It is generally known that carbon will burn in the presence of oxygen,
+which supports combustion of all materials, and this process takes
+advantage of this fact and causes the gas to be injected into the
+combustion chamber over a flame obtained by a match or wax taper.
+
+[Illustration: Fig. 182.--Showing Where Carbon Deposits Collect in
+Engine Combustion Chamber, and How to Burn Them Out with the Aid of
+Oxygen. A--Special Torch. B--Torch Coupled to Oxygen Tank. C--Torch in
+Use.]
+

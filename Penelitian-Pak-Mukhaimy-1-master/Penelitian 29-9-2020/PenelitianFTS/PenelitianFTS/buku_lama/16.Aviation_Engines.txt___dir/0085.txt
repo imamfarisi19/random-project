@@ -1,0 +1,44 @@
+"On the whole, it seems that it might be better practice to set
+the carburetors thwartwise of engines, for then jets and floats
+would always be at approximately the same level, no matter what
+the longitudinal position of the machine, and it is never long
+enough in one position at a big lateral angle to raise any
+serious carburetor troubles. Car manufacturers who dive
+cheerfully into the troubled waters of aero-engine designs are
+a trifle apt to forget that their engines are put into positions
+on airplanes which would be positively indecent in a motor car.
+An angle of 1 in 10 is the exception on a car, but it is common
+on an airplane, and no one ever heard of a car going down a hill
+of 10 to 1--which is not quite a vertical dive. Therefore, there
+is every excuse for a well-designed and properly brought-up
+carburetor misbehaving itself in an aeroplane.
+
+"It seems, then, that it is up to the manufacturers to produce
+better carburetors--say, with the jet central with the float.
+But it also behooves the user to show ordinary common sense in
+handling the material at present available, and not to make a
+practice of burning up $25,000 worth or so of airplane just
+because he is too lazy to turn off his gasoline, or to have the
+tail of his machine lifted up while he is tinkering with his
+engines."
+
+
+NOTES ON CARBURETOR ADJUSTMENT
+
+The modern float feed carburetor is a delicate and nicely balanced
+appliance that requires a certain amount of attention and care in order
+to obtain the best results. The adjustments can only be made by one
+possessing an intelligent knowledge of carburetor construction and must
+never be made unless the reason for changing the old adjustment is
+understood. Before altering the adjustment of the leading forms of
+carburetors, a few hints regarding the quality to be obtained in the
+mixture should be given some consideration, as if these are properly
+understood this knowledge will prove of great assistance in adjusting
+the vaporizer to give a good working proportion of fuel and air. There
+is some question regarding the best mixture proportions and it is
+estimated that gas will be explosive in which the proportions of fuel
+vapor and air will vary from one part of the former to a wide range
+included between four and eighteen parts of the latter. A one to four
+mixture is much too rich, while the one in eighteen is much too lean to
+provide positive ignition.
+

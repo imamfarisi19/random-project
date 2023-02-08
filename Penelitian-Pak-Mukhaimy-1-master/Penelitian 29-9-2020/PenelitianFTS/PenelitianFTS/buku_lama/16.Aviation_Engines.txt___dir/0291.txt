@@ -1,0 +1,46 @@
+The pistons as provided in the A-7 engines are cast from a mixture of
+steel and gray iron. These are extremely light, yet provided with six
+deep ribs under the arch head, greatly aiding the cooling of the piston
+as well as strengthening it. The piston pin bosses are located very low
+in order to keep the heat from the piston head away from the upper end
+of the connecting rod, as well as to arrange them at the point where the
+piston fits the cylinder best. Three 1/4" rings are carried. The pistons
+as provided in the A-7a engines are cast from aluminum alloy. Four 1/4"
+rings are carried. In both piston types a large diameter, heat treated,
+Chrome nickel steel wrist-pin is provided, assembled in such a way as to
+assist the circular rib between the wrist-pin bosses to keep the piston
+from being distorted from the explosions.
+
+The oiling system is known as the high pressure type, oil being forced
+to the under side of the main bearings with from 5 to 30 points
+pressure. This system is not affected by extreme angles obtained in
+flying, or whether the motor is used for push or pull machines. A large
+gear pump is located in the lowest point of the oil sump, and being
+submerged at all times with oil, does away with troublesome stuffing
+boxes and check valves. The oil is first drawn from the strainer in oil
+sump to the long jacket around the intake manifold, then forced to the
+main distributor pipe in crank-case, which leads to all main bearings. A
+bi-pass, located at one end of the distributor pipe, can be regulated to
+provide any pressure required, the surplus oil being returned to the
+case. A special feature of this system is the dirt, water and sediment
+trap, located at the bottom of the oil sump. This can be removed without
+disturbing or dismantling the oil pump or any oil pipes. A small oil
+pressure gauge is provided, which can be run to the aviator's instrument
+board. This registers the oil pressure, and also determines its
+circulation.
+
+The cooling of this motor is accomplished by the oil as well as the
+water, this being covered by patent No. 1,078,919. This is accomplished
+by circulating the oil around a long intake manifold jacket; the
+carburetion of gasoline cools this regardless of weather conditions.
+Crank-case heat is therefore kept at a minimum. The uniform temperature
+of the cylinders is maintained by the use of ingenious internal outlet
+pipes, running through the head of each of the six-cylinders, rubber
+hose connections being used so that any one of the cylinders may be
+removed without disturbing the others. Slots are cut in these pipes so
+that cooler water is drawn directly around the exhaust valves. Extra
+large water jackets are provided upon the cylinders, two inches of water
+space is left above the valves and cylinder head. The water is
+circulated by a large centrifugal pump insuring ample circulation at all
+speeds.
+

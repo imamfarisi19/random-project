@@ -1,0 +1,35 @@
+If the gasoline flows from the pipe in a steady stream the carburetor
+demands examination. There may be dirt or water in the float chamber,
+which will constrict the passage between the float chamber and the spray
+nozzle, or a particle of foreign matter may have entered the nozzle and
+stopped up the fine holes therein. The float may bind on its guide, the
+needle valve regulating the gasoline-inlet opening in bowl may stick to
+its seat. Any of the conditions mentioned would cut down the gasoline
+supply and the engine would not receive sufficient quantities of gas.
+The air-valve spring may be weak or the air valve broken. The
+gasoline-adjusting needle may be loose and jar out of adjustment, or the
+air-valve spring-adjusting nuts may be such a poor fit on the stem that
+adjustments will not be retained. These instructions apply only to
+carburetors having air valves and mixture regulating means which are
+used only in rare instances in airplane work. Air may leak in through
+the manifold, due to a porous casting, or leaky joints in a built up
+form and dilute the mixture. The air-intake dust screen may be so
+clogged with dirt and lint that not enough air will pass through the
+mesh. Water or sediment in the gasoline will cause misfiring because the
+fuel feed varies when the water or dirt constricts the standpipe bore.
+
+It is possible that the carburetor may be out of adjustment. If clouds
+of black smoke are emitted at the exhaust pipe it is positive indication
+that too much gasoline is being supplied the mixture and the supply
+should be cut down by screwing in the needle valve on types where this
+method of regulation is provided, and by making sure that the fuel level
+is at the proper height, or that the proper nozzle is used in those
+forms where the spray nozzle has no means of adjustment. If the mixture
+contains too much air there will be a pronounced popping back in the
+carburetor. This may be overcome by screwing in the air-valve adjustment
+so the spring tension is increased or by slightly opening up the
+gasoline-supply regulation needle. When a carburetor is properly
+adjusted and the mixture delivered the cylinder burns properly, the
+exhaust gas will be clean and free from the objectionable odor present
+when gasoline is burned in excess.
+

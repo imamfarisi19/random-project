@@ -1,0 +1,49 @@
+The oiling system of this sixteen-valve Duesenberg motor is one of its
+vital features. An oil pump located in the base and submerged in oil
+forces oil through cored passages to the three main bearings, then
+through tubes under each connecting rod into which the rod dips. The oil
+is thrown off from these and lubricates every part of the motor. This
+constitutes the main oiling system; it is supplemented by a splash
+system, there being a trough under each connecting rod into which the
+rod slips. The oil is returned to the main supply sump by gravity, where
+it is strained and re-used. Either system is in itself sufficient to
+operate the motor. A pressure gauge is mounted for observation on a
+convenient part of the system. A pressure of approximately 25 pounds is
+maintained by the pressure system, which insures efficient lubrication
+at all speeds of the motor. The troughs under the connecting rods are so
+constructed that no matter what the angle of flight may be, oil is
+retained in each individual trough so that each connecting rod can dip
+up its supply of oil at each revolution.
+
+
+AEROMARINE SIX-CYLINDER VERTICAL MOTOR
+
+[Illustration: Fig. 236.--The Six-Cylinder Aeromarine Engine.]
+
+These motors are four-stroke cycle, six-cylinder vertical type, with
+cylinder 4-5/16" bore by 5-1/8" stroke. The general appearance of this
+motor is shown in illustration at Fig. 236. This engine is rated at
+85-90 horse-power. All reciprocating and revolving parts of this motor
+are made of the highest grades of steel obtainable as are the studs,
+nuts and bolts. The upper and lower parts of crank-case are made of
+composition aluminum casting. Lower crank-case is made of high grade
+aluminum composition casting and is bolted directly to the upper half.
+The oil reservoir in this lower half casting provides sufficient oil
+capacity for five hours' continuous running at full power. Increased
+capacity can be provided if needed to meet greater endurance
+requirements. Oil is forced under pressure to all bearings by means of
+high-pressured duplex-geared pumps. One side of this pump delivers oil
+under pressure to all the bearings, while the other side draws the oil
+from the splash case and delivers it to the main sump. The oil reservoir
+is entirely separate from the crank-case chamber. Under no circumstances
+will oil flood the cylinder, and the oiling system is not affected in
+any way by any angle of flight or position of motor. An oil pressure
+gauge is placed on instrument board of machine, which gives at all
+times the pressure in oil system, and a sight glass at lower half of
+case indicates the amount of oil contained. The oil pump is external on
+magneto end of motor, and is very accessible. An external oil strainer
+is provided, which is removable in a few minutes' time without the loss
+of any oil. All oil from reservoir to the motor passes through this
+strainer. Pressure gauge feed is also attached and can be piped to any
+part of machine desired.
+

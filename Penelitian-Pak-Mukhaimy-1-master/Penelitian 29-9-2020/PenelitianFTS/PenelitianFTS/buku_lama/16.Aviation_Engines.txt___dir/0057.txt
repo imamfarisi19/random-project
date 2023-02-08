@@ -1,0 +1,53 @@
+[Illustration: Fig. 39.--Unconventional Six-Cylinder Aircraft Motor of
+Masson Design.]
+
+In the form shown at Fig. 39 six cylinders are used, all being placed
+above the crank-shaft center line. This engine is also of the air-cooled
+form and develops 50 H. P. and weighs 105 kilograms, or 231 lbs. The
+carburetor is connected to a manifold casting attached to the engine
+base from which the induction pipes radiate to the various cylinders.
+The propeller design and size relative to the engine is clearly shown in
+this view. While flights have been made with both of the engines
+described, this method of construction is not generally followed and has
+been almost entirely displaced abroad by the revolving motors or by the
+more conventional eight-cylinder V engines. Both of the engines shown
+were designed about eight years ago and would be entirely too small and
+weak for use in modern airplanes intended for active duty.
+
+
+ROTARY ENGINES
+
+[Illustration: Fig. 40.--The Gnome Fourteen-Cylinder Revolving Motor.]
+
+Rotary engines such as shown at Fig. 40 are generally associated with
+the idea of light construction and it is rather an interesting point
+that is often overlooked in connection with the application of this idea
+to flight motors, that the reason why rotary engines are popularly
+supposed to be lighter than the others is because they form their own
+fly-wheel, yet on aeroplanes, engines are seldom fitted with a fly-wheel
+at all. As a matter of fact the Gnome engine is not so light because it
+is a rotary motor, and it is a rotary motor because the design that has
+been adopted as that most conducive to lightness is also most suited to
+an engine working in this way. The cylinders could be fixed and
+crank-shaft revolve without increasing the weight to any extent. There
+are two prime factors governing the lightness of an engine, one being
+the initial design, and the other the quality of the materials employed.
+The consideration of reducing weight by cutting away metal is a
+subsidiary method that ought not to play a part in standard practice,
+however useful it may be in special cases. In the Gnome rotary engine
+the lightness is entirely due to the initial design and to the materials
+employed in manufacture. Thus, in the first case, the engine is a radial
+engine, and has its seven or nine cylinders spaced equally around a
+crank-chamber that is no wider or rather longer than would be required
+for any one of the cylinders. This shortening of the crank-chamber not
+only effects a considerable saving of weight on its own account, but
+there is a corresponding saving in the shafts and other members, the
+dimensions of which are governed by the size of the crank-chamber. With
+regard to materials, nothing but steel is used throughout, and most of
+the metal is forged chrome nickel steel. The beautifully steady running
+of the engine is largely due to the fact that there are literally no
+reciprocating parts in the absolute sense, the apparent reciprocation
+between the pistons and cylinders being solely a relative reciprocation
+since both travel in circular paths, that of the pistons, however, being
+electric by one-half of the stroke length to that of the cylinder.
+

@@ -1,0 +1,44 @@
+In building up the core a small section of washers, I, is built up
+before the mica insulating tube D is placed on. This construction gives
+a better support to section I. Baffle plate O is bored out to allow the
+electrode J to pass through, and the clearance between baffle plate and
+electrode is made larger than the width of the gap between the firing
+points, so that there is no danger of the spark jumping from the
+electrode to the baffle plate.
+
+This plug will be furnished either with or without the finned portion,
+to meet individual requirements. The manufacturers lay special stress
+upon the simplicity of construction and upon the method of clamping,
+which is claimed to make the plug absolutely gas-tight.
+
+
+
+
+CHAPTER VII
+
+Why Lubrication Is Necessary--Friction Defined--Theory of
+Lubrication--Derivation of Lubricants--Properties of Cylinder
+Oils--Factors Influencing Lubrication System Selection--Gnome
+Type Engines Use Castor Oil--Hall-Scott Lubrication System--Oil
+Supply by Constant Level Splash System--Dry Crank-Case System
+Best for Airplane Engines--Why Cooling Systems Are Necessary--
+Cooling Systems Generally Applied--Cooling by Positive Pump
+Circulation--Thermo-Syphon System--Direct Air-Cooling Methods--
+Air-Cooled Engine Design Considerations.
+
+
+WHY LUBRICATION IS NECESSARY
+
+The importance of minimizing friction at the various bearing surfaces of
+machines to secure mechanical efficiency is fully recognized by all
+mechanics, and proper lubricity of all parts of the mechanism is a very
+essential factor upon which the durability and successful operation of
+the motor car power plant depends. All of the moving members of the
+engine which are in contact with other portions, whether the motion is
+continuous or intermittent, of high or low velocity, or of rectilinear
+or continued rotary nature, should be provided with an adequate supply
+of oil. No other assemblage of mechanism is operated under conditions
+which are so much to its disadvantage as the motor car, and the tendency
+is toward a simplification of oiling methods so that the supply will be
+ample and automatically applied to the points needing it.
+

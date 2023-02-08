@@ -1,0 +1,14 @@
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\lucenePath.conf.txt
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\textFolder.conf.txt
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\PenelitianFTS.LuceneRun.exe.config
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\PenelitianFTS.LuceneRun.exe
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\Lucene.Net.dll
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\ICSharpCode.SharpZipLib.pdb
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\ICSharpCode.SharpZipLib.xml
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\Lucene.Net.pdb
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\bin\x86\Release\Lucene.Net.xml
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\obj\x86\Release\PenelitianFTS.LuceneRun.csprojAssemblyReference.cache
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\obj\x86\Release\PenelitianFTS.LuceneRun.csproj.CoreCompileInputs.cache
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\obj\x86\Release\PenelitianFTS.LuceneRun.csproj.CopyComplete
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.LuceneRun\obj\x86\Release\PenelitianFTS.LuceneRun.exe

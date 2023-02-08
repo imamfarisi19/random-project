@@ -1,0 +1,53 @@
+
+PRINCIPAL DIMENSIONS
+
+Following are the principal dimensions of the six-cylinder motor:
+
+Bore 5 inches.
+Stroke 6-1/2 inches.
+Crank-shaft diameter throughout 2 inches.
+Length of crank-pin and main bearings 3-1/2 inches.
+Diameter of valves 3 inches (2-3/4 inches clear).
+Lift of valves 1/2 inch.
+Volume of compression space 22 per cent. of total.
+Diameter of wrist-pins 1-3/16 inches.
+Firing order 1-4-2-6-3-5.
+
+The horse-power developed at 1200 revolutions per minute is 130, at 1300
+revolutions per minute 140, at 1400 revolutions per minute 148. 1400 is
+the maximum speed at which it is recommended to run these motors.
+
+
+TWELVE-CYLINDER ENGINE
+
+A twelve-cylinder V-type engine illustrated, is also being built by this
+company, similar in dimensions of cylinders to the six. The principal
+differences being in the drive to cam-shaft, which is through spur gears
+instead of bevel. A hinged type of connecting rod is used which does not
+increase the length of the motor and, at the same time, this
+construction provides for ample bearings. A double centrifugal water
+pump is provided for this motor, so as to distribute the water uniformly
+to both sets of cylinders. Four magnetos are used, two for each set of
+six cylinders. The magnetos are very accessibly located on a bracket on
+the spur gear cover. The carburetors are located on the outside of the
+motors, where they are very accessible, while the exhaust is in the
+center of the valley. The crank-shaft on the twelve is 2-1/2 inches in
+diameter and the shaft is bored to reduce weight. Dimensioned drawings
+of the twelve-cylinder engine are given at Figs. 242 and 243 and should
+prove useful for purposes of comparison with other motors.
+
+
+HALL-SCOTT AVIATION ENGINES
+
+The following specifications of the Hall-Scott "Big Four" engines apply
+just as well to the six-cylinder vertical types which are practically
+the same in construction except for the structural changes necessary to
+accommodate the two extra cylinders. Cylinders are cast separately from
+a special mixture of semi-steel, having cylinder head with valve seats
+integral. Special attention has been given to the design of the water
+jacket around the valves and head, there being two inches of water space
+above same. The cylinder is annealed, rough machined, then the inner
+cylinder wall and valve seats ground to mirror finish. This adds to the
+durability of the cylinder, and diminishes a great deal of the excess
+friction.
+

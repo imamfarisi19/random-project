@@ -1,0 +1,65 @@
+------------------------------------------------------------------
+|   Total No. of    |   Total tonnage of
+Flag.        | steam and sailing | steam (gross) and of
+|     vessels.      | sailing-vessels (net).
+----------------------+-------------------+-----------------------
+United Kingdom        |      8,973        |      12,926,924
+Colonies              |      2,025        |       1,061,584
++-------------------+-----------------------
+Total                 |     10,998        |       13,988,508
+|                   |
+United States of     }|                   |
+America, including   }|      3,010        |        2,465,387
+Great Lakes          }|                   |
+|                   |
+Danish                |        796        |          511,958
+French                |      1,182        |        1,242,091
+German                |      1,676        |        2,453,334
+Italian               |      1,150        |          875,851
+Japanese              |        841        |          533,381
+Norwegian             |      2,528        |        1,694,230
+Russian               |      1,218        |          643,527
+Spanish               |        701        |          608,885
+Swedish               |      1,408        |          605,991
+All other             |                   |
+countries           |      2,672        |        2,050,385
++-------------------+-----------------------
+Total                 |     28,180        |       27,673,528
+----------------------+-------------------+-----------------------
+
+
+The part played by technical improvements in the maintenance of our
+present position cannot be over-estimated; for that position, such as it
+is, is not due to any inherent permanent advantages possessed by this
+country. Time was when our mercantile marine was severely threatened by
+competition from foreign states. To quote the most recent example, about
+the middle of last century the United States of America fought a
+well-contested struggle with us for the carrying trade of the world.
+Shortly after the abolition of the navigation laws, the competition was
+very severe, and United States ships had obtained almost exclusive
+possession of the China trade, and of the trade between Europe and North
+America, and in the year 1850 the total tonnage of the shipping of the
+States was 3,535,434, against 4,232,960 tons owned by Great Britain. The
+extraordinary progress in American mercantile shipbuilding was due, in
+part, to special circumstances connected with their navigation laws, and
+in part to the abundance and cheapness of excellent timber; but, even
+with these advantages, the Americans would never have been able to run
+such a close race with us for the carrying trade of the world, had it
+not been for the great technical skill and intelligence of their
+shipbuilders, who produced vessels which were the envy and admiration of
+our own constructors. As a proof of this statement, it may be mentioned
+that, the labour-saving mechanical contrivances adopted by the Americans
+were such that, on board their famous liners and clippers, twenty men
+could do the work which in a British ship of equal size required thirty,
+and, in addition to this advantage, the American vessels could sail
+faster and carry more cargo in proportion to their registered tonnage
+than our own vessels. It was not till new life was infused into British
+naval architecture that we were enabled to conquer the American
+competition; and then it was only by producing still better examples of
+the very class of ship which the Americans had been the means of
+introducing, that we were eventually enabled to wrest from them the
+China trade. Another triumph in the domain of technical shipbuilding,
+viz., the introduction and successful development of the iron-screw
+merchant steamer, eventually secured for the people of this country that
+dominion of the seas which remains with them to this day.
+

@@ -1,0 +1,37 @@
+
+MASTER MULTIPLE-JET CARBURETOR
+
+[Illustration: Fig. 49.--The Master Carburetor.]
+
+This carburetor, shown in detail in Figs. 49 and 50, has been very
+popular in racing cars and aviation engines because of exceptionally
+good pick-up qualities and its thorough atomization of fuel. Its
+principle of operation is the breaking up of the fuel by a series of
+jets, which vary in number from fourteen to twenty-one, according to
+the size of the carburetor. These are uncovered by opening the throttle,
+which is curved--a patented feature--to secure the correct progression
+of jets. The carburetor has an eccentric float chamber, from which the
+gasoline is led to the jet piece from which the jets stand up in a row.
+The tops of these jets are closed until the throttle is opened far
+enough to pass them, which it does progressively. The air opening is at
+the bottom, and the throttle opening is such that a modified venturi is
+formed. The throttle is carried in a cylindrical barrel with the jets
+placed below it, and the passage from the barrel to the intake is
+arranged so that there is no interruption in the flow. For easy starting
+a dash-controlled shutter closes off the air, throwing the suction on
+the jets, thus giving a rich mixture.
+
+[Illustration: Fig. 50.--Sectional View of Master Carburetor Showing
+Parts.]
+
+The only adjustment is for idling, and once that is fixed it need never
+be touched. This is in the form of a screw and regulates the position of
+the throttle when at idling position. The dash control has high-speed,
+normal and rich-starting positions. In installing the Master carburetor
+the float chamber may be turned either toward the radiator or driver's
+seat. If the float is turned toward the radiator, however, a forward lug
+plate should be ordered; otherwise it will be difficult to install the
+control. The throttle lever must go all the way to the stop lug or
+maximum power will not be secured. In adjusting the idle screw it is
+turned in for rich and out for lean.
+

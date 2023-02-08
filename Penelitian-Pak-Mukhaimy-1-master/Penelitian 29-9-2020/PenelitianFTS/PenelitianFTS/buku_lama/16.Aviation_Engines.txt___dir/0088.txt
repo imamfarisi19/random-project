@@ -1,0 +1,45 @@
+
+
+
+CHAPTER VI
+
+Early Ignition Systems--Electrical Ignition Best--Fundamentals
+of Magnetism Outlined--Forms of Magneto--Zones of Magnetic
+Influence--How Magnets are Made--Electricity and Magnetism
+Related--Basic Principles of Magneto Action--Essential Parts of
+Magneto and Functions--Transformer Coil Systems--True High
+Tension Type--The Berling Magneto--Timing and Care--The Dixie
+Magneto--Spark Plug Design and Application--Two-Spark Ignition--
+Special Airplane Plug.
+
+
+EARLY IGNITION SYSTEMS
+
+One of the most important auxiliary groups of the gasoline engine
+comprising the airplane power plant and one absolutely necessary to
+insure engine action is the ignition system or the method employed of
+kindling the compressed gas in the cylinder to produce an explosion and
+useful power. The ignition system has been fully as well developed as
+other parts of the engine, and at the present time practically all
+ignition systems follow principles which have become standard through
+wide acceptance.
+
+During the early stages of development of the gasoline engine various
+methods of exploding the charge of combustible gas in the cylinder were
+employed. On some of the earliest engines a flame burned close to the
+cylinder head, and at the proper time for ignition a slide or valve
+moved to provide an opening which permitted the flame to ignite the gas
+back of the piston. This system was practical only on the primitive form
+of gas engines in which the charge was not compressed before ignition.
+Later, when it was found desirable to compress the gas a certain degree
+before exploding it, an incandescent platinum tube in the combustion
+chamber, which was kept in a heated condition by a flame burning in it,
+exploded the gas. The naked flame was not suitable in this application
+because when the slide was opened to provide communication between the
+flame and the gas the compressed charge escaped from the cylinder with
+enough pressure to blow out the flame at times and thus cause irregular
+ignition. When the flame was housed in a platinum tube it was protected
+from the direct action of the gas, and as long as the tube was
+maintained at the proper point of incandescence regular ignition was
+obtained.
+

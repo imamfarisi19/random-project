@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1-VCCD-MS-Grayscale", "P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Grayscale.csproj", "{43A484D9-A086-42B8-AC2A-C84C5764E5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1-VCCD-MS-Invert", "P1-VCCD-MS-Invert\P1-VCCD-MS-Invert.csproj", "{7F212165-3B31-4931-8583-788FDDDDEE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1-VCCD-MS-MakeRandomBoxOfColor", "P1-VCCD-MS-MakeRandomBoxOfColor\P1-VCCD-MS-MakeRandomBoxOfColor.csproj", "{8A8A35ED-74C9-4972-A2F6-ADFB8F929750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1-VCCD-MS-FullProjectOfP1", "P1-VCCD-MS-FullProjectOfP1\P1-VCCD-MS-FullProjectOfP1.csproj", "{99C60313-A00A-489E-A398-401E3128CAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1-VCCD-MS-Half-Grayscale-Invert", "P1-VCCD-MS-Half_Grayscale_invert\P1-VCCD-MS-Half-Grayscale-Invert.csproj", "{5C2FC56F-A37F-410C-8696-65FE7D3D0B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A484D9-A086-42B8-AC2A-C84C5764E5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A484D9-A086-42B8-AC2A-C84C5764E5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A484D9-A086-42B8-AC2A-C84C5764E5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A484D9-A086-42B8-AC2A-C84C5764E5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F212165-3B31-4931-8583-788FDDDDEE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F212165-3B31-4931-8583-788FDDDDEE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F212165-3B31-4931-8583-788FDDDDEE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F212165-3B31-4931-8583-788FDDDDEE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8A35ED-74C9-4972-A2F6-ADFB8F929750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8A35ED-74C9-4972-A2F6-ADFB8F929750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8A35ED-74C9-4972-A2F6-ADFB8F929750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8A35ED-74C9-4972-A2F6-ADFB8F929750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C60313-A00A-489E-A398-401E3128CAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C60313-A00A-489E-A398-401E3128CAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C60313-A00A-489E-A398-401E3128CAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C60313-A00A-489E-A398-401E3128CAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2FC56F-A37F-410C-8696-65FE7D3D0B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2FC56F-A37F-410C-8696-65FE7D3D0B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2FC56F-A37F-410C-8696-65FE7D3D0B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2FC56F-A37F-410C-8696-65FE7D3D0B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDEA11F8-876D-4BAD-A2FC-169976C344DE}
+	EndGlobalSection
+EndGlobal

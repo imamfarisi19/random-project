@@ -1,0 +1,35 @@
+Make sure that a spark occurs in each cylinder as follows: If magneto or
+magneto and battery with non-vibrating coil is used: Disconnect wire
+from spark-plug, hold end about 1/8 inch from cylinder or terminal of
+spark-plug. Have motor cranked briskly and see if spark occurs. Examine
+adjustment of interrupter points. See that wires are placed correctly
+and not short circuited. Take out spark-plug and lay it on the cylinder,
+being careful that base of plug only touches the cylinder and that
+ignition wire is connected. Have motor cranked briskly and see if spark
+occurs. Check timing of magneto and see that all brushes are making
+contact.
+
+See if there is gasoline in the carburetor. See that there is gasoline
+in the tank. Examine valve at tank. Prime carburetor and see that spray
+nozzle passage is clear. Be sure throttle is open. Prime cylinders by
+putting about a teaspoonful of gasoline in through pet cock or
+spark-plug opening. Adjust carburetor if necessary.
+
+
+LOCATION OF ENGINE TROUBLES MADE EASY
+
+The following tabulation has been prepared and originated by the writer
+to outline in a simple manner the various troubles and derangements that
+interfere with efficient internal-combustion engine action. The parts
+and their functions are practically the same in all gas or gasoline
+engines of the four-cycle type, and the general instructions given apply
+just as well to all hydro-carbon engines, even if the parts differ in
+form materially. The essential components are clearly indicated in the
+many part sectional drawings in this book so they may be easily
+recognized. The various defects that may materialize are tabulated in a
+manner that makes for ready reference, and the various defective
+conditions are found opposite the part affected, and under a heading
+that denotes the main trouble to which the others are contributing
+causes. The various symptoms denoting the individual troubles outlined
+are given to facilitate their recognition in a positive manner.
+

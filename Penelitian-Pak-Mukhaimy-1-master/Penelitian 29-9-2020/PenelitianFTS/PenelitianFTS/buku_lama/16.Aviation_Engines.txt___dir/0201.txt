@@ -1,0 +1,129 @@
+
+NOISY OPERATION OF POWER PLANT
+
+------------------+------------------+------------------+--------------------
+PART AFFECTED    |NATURE OF TROUBLE |   CHARACTER OF   |      REMEDY
+|                  |      NOISE       |
+------------------+------------------+------------------+--------------------
+Compression Re-   |Leakage.          |Hissing.          |Previously given.
+lease Cock.       |                  |                  |
+|                  |                  |
+Spark Plug.       |Leakage.          |Hissing.          |Previously given.
+|                  |                  |
+Valve Chamber Cap.|Leakage.          |Hiss or whistle.  |Previously given.
+|                  |                  |
+Combustion        |Carbon deposits.  |Knocking.         |Previously given.
+Chamber.          |                  |                  |
+|                  |                  |
+Inlet Valve Seat. |Defects previously|Popping in carbu- |Previously given.
+|given.            |retor.            |
+|                  |                  |
+Valve Head.       |Loose on stem.    |Clicking.         |Previously given.
+|                  |                  |
+Valve Stem. Valve |Wear or looseness.|Rattle or click-  |Previously given.
+Stem Guide.       |                  |ing.              |
+|                  |                  |
+Inlet Valve.      |Closes too late.  |Blowback in carbu-|Previously given.
+|Opens too early.  |retor.            |
+|                  |                  |
+Valve Spring.     |Weak or broken.   |Blowback in carbu-|Previously given.
+|                  |retor.            |
+|                  |                  |
+Cylinder Casting. |Retaining bolts   |Sharp metallic    |Tighten bolts. Round
+|loose. Piston     |knock.            |edges of  piston
+|strikes at upper  |                  |top.
+|end.              |                  |
+|                  |                  |
+Cylinder Wall.    |Scored.           |Hissing.          |Previously given.
+|                  |                  |
+Valve Stem        |Too much.         |Clicking. Blowback|Previously given.
+Clearance.        |Too little (inlet |in carburetor.    |
+|valve).           |                  |
+|                  |                  |
+Valve Operating   |Looseness.        |Rattle or click-  |Previously given.
+Plunger. Plunger  |                  |ing.              |
+Guide.            |                  |                  |
+|                  |                  |
+Timing Gears.     |Loose on fasten-  |Metallic knock.   |Previously given.
+|ings. Worn teeth. |Rattle. Grinding. |
+|                  |                  |
+Cylinder or       |No oil, or poor   |Grinding.         |Repair oil system.
+Piston.           |lubricant.        |                  |
+|                  |                  |
+Cam.              |Loose on shaft.   |Metallic knock.   |Previously given.
+|Worn contour.     |                  |
+|                  |                  |
+Cam-shaft Bearing.|Looseness or wear.|Slight knock.     |Previously given.
+|                  |                  |
+Cam Fastening.    |Looseness.        |Clicking.         |Previously given.
+|                  |                  |
+Piston.           |Binding in cylin- |Grinding or dull  |Previously given.
+|der. Worn oval,   |squeak. Dull      |
+|causes side slap  |hammering.        |
+|in cylinder.      |                  |
+|                  |                  |
+Piston Head.      |Carbon deposits.  |Knocking.         |Previously given.
+|                  |                  |
+Piston Rings.     |Defective oiling. |Squeaking. Hiss-  |Previously given.
+|Leakage. Binding  |ing. Grinding.    |
+|in cylinder.      |                  |
+|                  |                  |
+Wrist-pin.        |Loose in piston.  |Dull metallic     |Replace with new
+|Worn.             |knock.            |member.
+|                  |                  |
+Connecting Rod.   |Wear in upper     |Distinct knock.   |Adjust or replace.
+|bushing. Wear at  |                  |Scrape and fit. Use
+|crank-pin. Side   |                  |longer wrist-pin
+|play in piston.   |                  |bushing.
+|                  |                  |
+Crank Bearings.   |Looseness. Exces- |Metallic knock.   |Refit bearings.
+|sive end play.    |Intermittent      |Longer bushings
+|Binding, fitted   |knock. Squeaking. |needed. Insert shims
+|too tight.        |                  |to allow more play.
+|                  |                  |
+Main Bearings.    |Looseness. Defec- |Metallic knock.   |Fit brasses closer
+|tive lubrication. |Squeaking.        |to shaft. Clean out
+|                  |                  |oil holes and
+|                  |                  |grooves.
+|                  |                  |
+Connecting Rod    |Loose.            |Sharp knock.      |Tighten.
+Bolts. Main       |                  |                  |
+Bearing Bolts.    |                  |                  |
+|                  |                  |
+Crank-shaft.      |Defective oiling. |Squeaking.        |Previously given.
+|                  |                  |
+Engine Base.      |Loose on frame.   |Sharp pounding.   |Tighten bolts.
+|                  |                  |
+Lower Half Crank- |Bolts loose.      |Knocking.         |Tighten bolts.
+case.             |                  |                  |
+|                  |                  |
+Fly-wheel.        |Loose on crank-   |Very sharp knock. |Tighten retention
+|shaft.            |                  |bolts or fit new
+|                  |                  |keys.
+|                  |                  |
+Oil Sump.         |Oil level too low.|Grinding and      |Replenish with best
+|Poor lubricant.   |squeak in all     |cylinder oil.
+|                  |bearings.         |
+|                  |                  |
+Valve Plunger Re- |Looseness.        |Clicking.         |Tighten nuts.
+tention Stirrups. |                  |                  |
+|                  |                  |
+Fan.              |Blade loose. Blade|Clicking or       |Tighten. Bend back.
+|strikes cooler.   |rattle.           |
+|                  |                  |
+Exhaust Pipe      |Leakage.          |Sharp hissing.    |Tighten or use new
+Joints.           |                  |                  |gasket.
+|                  |                  |
+Crank-case        |Leakage.          |Blowing sound.    |Use new packing.
+Packing.          |                  |                  |Tighten bolts.
+|                  |                  |
+Water Pipe.       |Leaks. Loss of    |Pounding because  |Previously given.
+|water. Clogged    |engine heats.     |
+|with sediment.    |                  |
+|                  |                  |
+Water Jacket.     |Clogged with sedi-|Knocking because  |Dissolve scale and
+|ment. Walls       |engine heats.     |flush out water
+|covered with      |                  |space with water
+|scale.            |                  |under pressure.
+--------------------+------------------+------------------+--------------------
+

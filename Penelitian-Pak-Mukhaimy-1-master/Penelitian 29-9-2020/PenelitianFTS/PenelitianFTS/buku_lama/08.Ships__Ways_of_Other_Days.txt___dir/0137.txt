@@ -1,0 +1,49 @@
+A Traverse-Booke made by M. John Davis in his third voyage for the
+discoverie of the North-West passage, Anno 1587.
+
+-----------------------------------------------------------------------------
+Moneth.  |       |         |        |ELEVATION |  THE   |
+|HOURES.|COURSE.  |LEAGUES.|  OF THE  | WINDE. |
+DAYES.|       |         |        |  POLE.   |        | THE DISCOURSE.
+|       |         |        |          |        |
+MAY.     |       |         |        |Deg.|Mins.|        |
+---------+-------+---------+--------+----+-----+--------+--------------------
+19  |       | W S W   |        | 50 | 30  |  N E   |This day we departed
+|       |Westerly |        |    |     |        |  from Dartmouth at
+|       |         |        |    |     |        |  two of the clocke
+|       |         |        |    |     |        |  at night.
+20  |       |         |        |    |     |        |
+21  |  35   | W S W   |   50   | 50 |     |  N E   |This day we descried
+|       |Westerly |        |    |     |        |  Silly N W by W
+|       |         |        |    |     |        |  from us.
+|       |         |        |    |     |        |
+22  |  15   | W N W   |   14   |    |     |N E by E|This day at noone
+|       |         |        |    |     |        |  we departed
+|       |         |        |    |     |        |  from Silly.
+22  |   6   | W N W   |    6   |    |     |N E by E|
+22  |   3   | W N W   |    2   |    |     |        |
+23  |  15   |N W by W |   18   |    |     |  N E   |
+|  39   | W N W   |   36   | 50 |  40 |        |The true course,
+|       |         |        |    |     |        |  distance and
+|       |         |        |    |     |        |  latitude.
+|   3   | W N W   |    2   |    |     | N N E  |
+|   6   |N W by W |    5   |    |     |N E by N|
+|   3   | W N W   |    3   |    |     | N N E  |
+|  12   | W N W   |   12   |    |     |  N E   |
+Noone the|  24   | W N W   |   25   | 51 |  16 |        |The true course,
+24    |       |Northerly|        |    |     |        |   distance, and
+|       |         |        |    |     |        |   latitude.
+|   3   | W N W   |    3   |    |     | N N E  |
+|   3   | W N W   |    2½  |    |     | N by E |
+|   6   | W by N  |    5   |    |     |   N    |
+|   6   | W by N  |    5   |    |     |   N    |
+|   2   |   S     |    ½   |    |     |   N    |Now we lay upon the
+|       |         |        |    |     |        |  lee for the
+|       |         |        |    |     |        |  Sunshine, which
+|       |         |        |    |     |        |  had taken a leake
+|       |         |        |    |     |        |  of 500 strokes in
+|       |         |        |    |     |        |  a watch.
+|       |         |        |    |     |        |
+|       |         |        |    |     |        |
+-----------------------------------------------------------------------------
+

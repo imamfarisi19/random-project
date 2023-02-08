@@ -1,0 +1,45 @@
+[Illustration: Fig. 201.--Sectional View of Early Type Gnome Cylinder
+and Piston Showing Construction and Application of Inlet and Exhaust
+Valves.]
+
+The pistons, like the cylinders, are machined out of the solid bar of
+nickel steel, and have a portion of their wall cut away, so that the two
+adjacent ones will not come together at the extremity of their stroke.
+The head of the piston is slightly reduced in diameter and is provided
+with a groove into which is fitted a very light L-section brass split
+ring; back of this ring and carried within the groove is sprung a light
+steel compression ring, serving to keep the brass ring in expansion. As
+already mentioned, the intake valves are automatic, and are mounted in
+the head of the piston as outlined at Fig. 202, C. The valve seating is
+in halves, the lower portion being made to receive the wrist-pin and
+connecting rod, and the upper portion, carrying the valve, being screwed
+into it. The spring is composed of four flat blades, with the hollowed
+stem of the automatic valve passing through their center and their two
+extremities attached to small levers calculated to give balance against
+centrifugal force. The springs are naturally within the piston, and are
+lubricated by splash from the crank chamber. They are of a delicate
+construction, for it is necessary that they shall be accurately balanced
+so as to have no tendency to fly open under the action of centrifugal
+force. The intake valve is withdrawn by the use of special tools through
+the cylinder head, the exhaust valve being first dismounted.
+
+[Illustration: Fig. 202.--Details of Old Style Gnome Motor Inlet and
+Exhaust Valve Construction and Operation.]
+
+The fourteen-cylinder motor shown at Fig. 203, has a two-throw
+crank-shaft with the throws placed at 180 degrees, each one receiving
+seven connecting rods. The parts are the same as for the seven-cylinder
+motor, the larger one consisting of two groups placed side by side. For
+each group of seven-cylinders there is one main connecting rod, together
+with six auxiliary rods. The main connecting rod, which, like the
+others, is of H section, has machined with it two L-section rings bored
+with six holes--51-1/2 degrees apart to take the six other connecting
+rods. The cage of the main connecting rod carries two ball races, one on
+either side, fitting onto the crank-pin and receiving the thrust of the
+seven connecting rods. The auxiliary connecting rods are secured in
+position in each case by a hollow steel pin passing through the two
+rings. It is evident that there is a slightly greater angularity for the
+six shorter rods, known as auxiliary connecting rods, than for the
+longer main rods; this does not appear to have any influence on the
+running of the motor.
+

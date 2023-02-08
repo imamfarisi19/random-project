@@ -1,0 +1,40 @@
+A very simple and compact fuel supply system is shown at Fig. 41. In
+this instance the fuel container is placed immediately back of the
+engine cylinder. The carburetor which is carried as indicated is joined
+to the tank by a short piece of copper or flexible rubber tubing. This
+is the simplest possible form of fuel supply system and one used on a
+number of excellent airplanes.
+
+As the sizes of engines increase and the power plant fuel consumption
+augments it is necessary to use more fuel, and to obtain a satisfactory
+flying radius without frequent landings for filling the fuel tank it is
+necessary to supply large containers.
+
+When a very powerful power plant is fitted, as on battle planes of high
+capacity, it is necessary to carry large quantities of gasoline. In
+order to use a tank of sufficiently large capacity it may be necessary
+to carry it lower than the carburetor. When installed in this manner it
+is necessary to force fuel out of the tank by air pressure or to pump it
+with a vacuum tank because the gasoline tank is lower than the
+carburetor it supplies and the gasoline cannot flow by gravity as in the
+simpler systems. While the pressure and gravity feed systems are
+generally used in airplanes, it may be well to describe the vacuum lift
+system which has been widely applied to motor cars and which may have
+some use in connection with airplanes as these machines are developed.
+
+
+STEWART VACUUM FUEL FEED
+
+One of the marked tendencies has been the adoption of a vacuum fuel feed
+system to draw the gasoline from tanks placed lower than the carburetor
+instead of using either exhaust gas or air pressure to achieve this end.
+The device generally fitted is the Stewart vacuum feed tank which is
+clearly shown in section at Fig. 42. In this system the suction of a
+motor is employed to draw gasoline from the main fuel tank to the
+auxiliary tank incorporated in the device and from this tank the liquid
+flows to the carburetor. It is claimed that all the advantages of the
+pressure system are obtained with very little more complication than is
+found on the ordinary gravity feed. The mechanism is all contained in
+the cylindrical tank shown, which may be mounted either on the front of
+the dash or on the side of the engine as shown.
+

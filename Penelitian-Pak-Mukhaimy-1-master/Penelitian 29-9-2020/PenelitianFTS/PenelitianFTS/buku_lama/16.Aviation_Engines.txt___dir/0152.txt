@@ -1,0 +1,41 @@
+That advancing the opening of the exhaust valve was of value was
+discovered on the early motors and is explained by the necessity of
+releasing a large amount of gas, the volume of which has been greatly
+raised by the heat of combustion. When the inlet valves were
+mechanically operated it was found that allowing them to lag at closing
+enabled the inspiration of a greater volume of gas. Disregarding the
+inertia or flow of the gases, opening the exhaust at center would enable
+one to obtain full value of the expanding gases the entire length of the
+piston stroke, and it would not be necessary to keep the valve open
+after the top center, as the reverse stroke would produce a suction
+effect which might draw some of the inert charge back into the cylinder.
+On the other hand, giving full consideration to the inertia of the gas,
+opening the valve before center is reached will provide for quick
+expulsion of the gases, which have sufficient velocity at the end of the
+stroke, so that if the valve is allowed to remain open a little longer,
+the amount of lag varying with the opinions of the designer, the
+cylinder is cleared in a more thorough manner.
+
+
+BLOWING BACK
+
+When the factor of retarded opening is considered without reckoning the
+inertia of the gases, it would appear that if the valve were allowed to
+remain open after center had passed, say, on the closing of the inlet,
+the piston, having reversed its motion, would have the effect of
+expelling part of the fresh charge through the still open valve as it
+passed inward at its compression stroke. This effect is called blowing
+back, and is often noted with motors where the valve settings are not
+absolutely correct, or where the valve-springs or seats are defective
+and prevent proper closing.
+
+This factor is not of as much import as might appear, as on closer
+consideration it will be seen that the movement of the piston as the
+crank reaches either end of the stroke is less per degree of angular
+movement than it is when the angle of the connecting rod is greater.
+Then, again, a certain length of time is required for the reversal of
+motion of the piston, during which time the crank is in motion but the
+piston practically at a standstill. If the valves are allowed to remain
+open during this period, the passage of the gas in or out of the
+cylinder will be by its own momentum.
+

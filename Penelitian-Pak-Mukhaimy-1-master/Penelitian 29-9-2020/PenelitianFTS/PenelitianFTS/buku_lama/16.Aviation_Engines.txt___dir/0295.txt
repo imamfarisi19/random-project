@@ -1,0 +1,41 @@
+The carburetor used on this 150 horse-power Mercedes motor is precisely
+of the same type used on the Twin Six motor. It has two venturi throats,
+in the center of which is placed the gasoline spray nozzle of
+conventional type, fixed size orifices, immediately above which are
+placed two panel type throttles with side outlets. An idling or primary
+nozzle is arranged to discharge above the top of the venturi throat. The
+carburetor body is of cast aluminum and is water jacketed. It is bolted
+directly to air passage passing through the top and bottom half of the
+crank-case which passes down through the oil reservoir. The air before
+reaching the carburetor proper to some extent has cooled the oil in the
+crank chamber and has itself been heated to assist in the vaporization.
+The inlet pipes themselves are copper. All the passages between the
+venturi throat and the inlet valve have been carefully finished and
+polished. The only abnormal thing in the design of this motor is the
+short connecting rod which is considerably less than twice the stroke
+and would be considered very bad practice in motor car engines. A short
+connecting rod, however, possesses two very real virtues in that it cuts
+down height of the motor and the piston passes over the bottom dead
+center much more slowly than with a long rod.
+
+[Illustration: Fig. 245.--Part Sectional View of 90 Horse-Power Mercedes
+Engine, Which is Typical of the Design of Larger Sizes.]
+
+Other features of the design are a very stiff crank-case, both halves of
+which are bolted together by means of long through bolts, the
+crank-shaft main bearings are seated in the lower half of the case
+instead of in the usual caps and no provision is made for taking up the
+main bearings. The Mercedes company uses a plunger type of pump having
+mechanically operated piston valves and it is driven by means of worm
+gearing.
+
+The overhead cam-shaft construction is extremely light. The cam-shaft is
+mounted in a nearly cylindrical cast bronze case and is driven by means
+of bevel gears from the crank-shaft. The vertical bevel gear shaft
+through which the drive is taken from the crank-shaft to the cam-shaft
+operates at one and one-half times the crank-shaft speeds and the
+reduction to the half-time cam-shaft is secured through a pair of
+bevels. On this vertical shaft there is mounted the water pump and a
+bevel gear for driving two magnetos. The water pump mounted on this
+shaft tends to steady the drive and avoid vibration in the gearing.
+

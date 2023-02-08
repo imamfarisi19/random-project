@@ -1,0 +1,36 @@
+When a force-feed lubricating system is used, the oil, escaping past the
+cheeks of both ends of the crank-pin bearings, is thrown off at a
+tangent to the crank-pin circle in all directions, supplying the
+cylinders on both sides with an equal quantity of oil, as at Fig. 80, B.
+
+
+WHY COOLING SYSTEMS ARE NECESSARY
+
+The reader should understand from preceding chapters that the power of
+an internal-combustion motor is obtained by the rapid combustion and
+consequent expansion of some inflammable gas. The operation in brief is
+that when air or any other gas or vapor is heated, it will expand and
+that if this gas is confined in a space which will not permit expansion,
+pressure will be exerted against all sides of the containing chamber.
+The more a gas is heated, the more pressure it will exert upon the walls
+of the combustion chamber it confines. Pressure in a gas may be
+created by increasing its temperature and inversely heat may be created
+by pressure. When a gas is compressed its total volume is reduced and
+the temperature is augmented.
+
+[Illustration: Fig. 80.--Why Pressure Feed System is Best for
+Eight-Cylinder Vee Airplane Engines.]
+
+The efficiency of any form of heat engine is determined by the power
+obtained from a certain fuel consumption. A definite amount of energy
+will be liberated in the form of heat when a pound of any fuel is
+burned. The efficiency of any heat engine is proportional to the power
+developed from a definite quantity of fuel with the least loss of
+thermal units. If the greater proportion of the heat units derived by
+burning the explosive mixture could be utilized in doing useful work,
+the efficiency of the gasoline engine would be greater than that of any
+other form of energizing power. There is a great loss of heat from
+various causes, among which can be cited the reduction of pressure
+through cooling the motor and the loss of heat through the exhaust
+valves when the burned gases are expelled from the cylinder.
+

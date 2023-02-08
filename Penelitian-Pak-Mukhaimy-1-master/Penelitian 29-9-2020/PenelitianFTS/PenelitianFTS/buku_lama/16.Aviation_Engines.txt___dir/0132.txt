@@ -1,0 +1,36 @@
+An air-cooled engine must be placed in the fuselage, as at Fig. 85, in
+such a way that there will be a positive circulation of air around it
+all the time that it is in operation. The air current may be produced by
+the tractor screw at the front end of the motor, or by a suction or
+blower fan attached to the crank-shaft as in the Renault engine or by
+rotating the cylinders as in the Le Rhone and Gnome motors. Greater care
+is required in lubrication of the air-cooled cylinders and only the best
+quality of oil should be used to insure satisfactory oiling.
+
+The combustion chambers must be proportioned so that distribution of
+metal is as uniform as possible in order to prevent uneven expansion
+during increase in temperature and uneven contraction when the cylinder
+is cooled. It is essential that the inside walls of the combustion
+chamber be as smooth as possible because any sharp angle or projection
+may absorb sufficient heat to remain incandescent and cause trouble by
+igniting the mixture before the proper time. The best grades of cast
+iron or steel should be used in the cylinder and piston and the machine
+work must be done very accurately so the piston will operate with
+minimum friction in the cylinder. The cylinder bore should not exceed
+4-1/2 or 5 inches and the compression pressure should never exceed 75
+pounds absolute, or about five atmospheres, or serious overheating will
+result.
+
+As an example of the care taken in disposing of the exhaust gases in
+order to obtain practical air-cooling, some cylinders are provided with
+a series of auxiliary exhaust ports uncovered by the piston when it
+reaches the end of its power stroke. The auxiliary exhaust ports open
+just as soon as the full force of the explosion has been spent and a
+portion of the flaming gases is discharged through the ports in the
+bottom of the cylinder. Less of the exhaust gases remains to be
+discharged through the regular exhaust member in the cylinder-head and
+this will not heat the walls of the cylinder nearly as much as the
+larger quantity of hot gas would. That the auxiliary exhaust port is of
+considerable value is conceded by many designers of fixed and fan-shaped
+air-cooled motors for airplanes.
+

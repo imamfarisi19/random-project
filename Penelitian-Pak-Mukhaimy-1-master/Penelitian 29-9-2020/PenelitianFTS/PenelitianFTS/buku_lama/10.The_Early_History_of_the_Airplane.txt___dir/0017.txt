@@ -1,0 +1,41 @@
+While in the bicycle business we had become well acquainted with the use
+of hard tire cement for fastening tires on the rims. We had once used it
+successfully in repairing a stop watch after several watchsmiths had
+told us it could not be repaired. If tire cement was good for fastening
+the hands on a stop watch, why should it not be good for fastening the
+sprockets on the propeller shaft of a flying machine? We decided to try
+it. We heated the shafts and sprockets, melted cement into the threads,
+and screwed them together again. This trouble was over. The sprockets
+stayed fast.
+
+Just as the machine was ready for test bad weather set in. It had been
+disagreeably cold for several weeks, so cold that we could scarcely work
+on the machine for some days. But now we began to have rain and snow,
+and a wind of 25 to 30 miles blew for several days from the north. While
+we were being delayed by the weather we arranged a mechanism to measure
+automatically the duration of a flight from the time the machine started
+to move forward to the time it stopped, the distance traveled through
+the air in that time, and the number of revolutions made by the motor
+and propeller. A stop watch took the time; an anemometer measured the
+air traveled through; and a counter took the number of revolutions made
+by the propellers. The watch, anemometer and revolution counter were all
+automatically started and stopped simultaneously. From data thus
+obtained we expected to prove or disprove the accuracy of our propeller
+calculations.
+
+On November 28, while giving the motor a run indoors, we thought we
+again saw something wrong with one of the propeller shafts. On stopping
+the motor we discovered that one of the tubular shafts had cracked!
+
+[Illustration]
+
+Immediate preparation was made for returning to Dayton to build another
+set of shafts. We decided to abandon the use of tubes, as they did not
+afford enough spring to take up the shocks of premature or missed
+explosions of the motor. Solid tool-steel shafts of smaller diameter
+than the tubes previously used were decided upon. These would allow a
+certain amount of spring. The tubular shafts were many times stronger
+than would have been necessary to transmit the power of our motor if the
+strains upon them had been uniform. But the large hollow shafts had no
+spring in them to absorb the unequal strains.
+

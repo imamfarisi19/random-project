@@ -1,0 +1,44 @@
+Among the advantages stated for direct air cooling, the greatest is the
+elimination of cooling water and its cooling auxiliaries, which is a
+factor of some moment, as it permits considerable reduction in
+horse-power-weight ratio of the engine, something very much to be
+desired. In the temperate zone, where the majority of airplanes are
+used, the weather conditions change in a very few months from the warm
+summer to the extreme cold winter, and when water-cooled systems are
+employed it is necessary to add some chemical substance to the water to
+prevent it from freezing. The substances commonly employed are
+glycerine, wood alcohol, or a saturated solution of calcium chloride.
+Alcohol has the disadvantage in that it vaporizes readily and must be
+often renewed. Glycerine affects the rubber hose, while the calcium
+chloride solution crystallizes and deposits salt in the radiator and
+water pipes.
+
+One of the disadvantages of an air-cooling method, as stated by those
+who do not favor this system, is that engines cooled by air cannot be
+operated for extended periods under constant load or at very high speed
+without heating up to such a point that premature ignition of the charge
+may result. The water-cooling systems, at the other hand, maintain the
+temperature of the engine more nearly constant than is possible with an
+air-cooled motor, and an engine cooled by water can be operated under
+conditions of inferior lubrication or poor mixture adjustment that would
+seriously interfere with proper and efficient cooling by air.
+
+Air-cooled motors, as a rule, use less fuel than water-cooled engines,
+because the higher temperature of the cylinder does not permit of a full
+charge of gas being inspired on the intake stroke. As special care is
+needed in operating an air-cooled engine to obtain satisfactory results
+and because of the greater difficulty which obtains in providing proper
+lubrication and fuel mixtures which will not produce undue heating, the
+air-cooled system has but few adherents at the present time, and
+practically all airplanes, with but very few exceptions, are provided
+with water-cooled power plants. Those fitted with air-cooled engines are
+usually short-flight types where maximum lightness is desired in order
+to obtain high speed and quick climb. The water-cooled engines are best
+suited for airplanes intended for long flights. The Gnome, Le Rhone and
+Clerget engines are thoroughly practical and have been widely used in
+France and England. These are rotary radial cylinder types. The Anzani
+is a fixed cylinder engine used on training machines, while the Renault
+is a V-type engine made in eight- and twelve-cylinder V forms that has
+been used on reconnaissance and bombing airplanes with success. These
+types will be fully considered in proper sequence.
+

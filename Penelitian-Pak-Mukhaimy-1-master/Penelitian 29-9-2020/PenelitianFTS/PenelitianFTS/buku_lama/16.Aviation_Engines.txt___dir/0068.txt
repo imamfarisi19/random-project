@@ -1,0 +1,41 @@
+
+MAYBACH'S EARLY DESIGN
+
+The first form of spraying carburetor ever applied successfully was
+evolved by Maybach for use on one of the earliest Daimler engines. The
+general principles of operation of this pioneer float-feed carburetor
+are shown at Fig. 44, A. The mixing chamber and valve chamber were one
+and the standpipe or jet protruded into the mixing chamber. It was
+connected to the float compartment by a pipe. The fuel from the tank
+entered the top of the float compartment and the opening was closed by a
+needle valve carried on top of a hollow metal float. When the level of
+gasoline in the float chamber was lowered the float would fall and the
+needle valve uncover the opening. This would permit the gasoline from
+the tank to flow into the float chamber, and as the chamber filled the
+float would rise until the proper level had been reached, under which
+conditions the float would shut off the gasoline opening. On every
+suction stroke of the engine the inlet valve, which was an automatic
+type, would leave its seat and a stream of air would be drawn through
+the air opening and around the standpipe or jet. This would cause the
+gasoline to spray out of the tube and mix with the entering air stream.
+
+[Illustration: Fig. 44.--Tracing Evolution of Modern Spray Carburetor.
+A--Early Form Evolved by Maybach. B.--Phoenix-Daimler Modification of
+Maybach's Principle. C--Modern Concentric Float Automatic Compensating
+Carburetor.]
+
+The form shown at B was a modification of Maybach's simple device and
+was first used on the Phoenix-Daimler engines. Several improvements are
+noted in this device. First, the carburetor was made one unit by casting
+the float and mixing chambers together instead of making them separate
+and joining them by a pipe, as shown at A. The float construction was
+improved and the gasoline shut-off valve was operated through leverage
+instead of being directly fastened to the float. The spray nozzle was
+surrounded by a choke tube which concentrated the air stream around it
+and made for more rapid air flow at low engine speeds. A conical piece
+was placed over the jet to break up the entering spray into a mist and
+insure more intimate admixture of air and gasoline. The air opening was
+provided with an air cone which had a shutter controlling the opening so
+that the amount of air entering could be regulated and thus vary the
+mixture proportions within certain limits.
+

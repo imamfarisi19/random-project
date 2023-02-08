@@ -1,0 +1,53 @@
+1.           2.           3.           4.
+
+Explosion    Compression  Exhaust      Intake
+Exhaust      Explosion    Intake       Compression
+Intake       Exhaust      Compression  Explosion
+Compression  Intake       Explosion    Exhaust
+
+It will be obvious that regardless of the method of construction, or the
+number of cylinders employed, exactly the same number of parts must be
+used in each cylinder assembly and one can conveniently compare any
+multiple-cylinder power plant as a series of single-cylinder engines
+joined one behind the other and so coupled that one will deliver power
+and produce useful energy at the crank-shaft where the other leaves off.
+The same fundamental laws governing the action of a single cylinder
+obtain when a number are employed, and the sequence of operation is the
+same in all members, except that the necessary functions take place at
+different times. If, for instance, all the cylinders of a four-cylinder
+motor were fired at the same time, one would obtain the same effect as
+though a one-piston engine was used, which had a piston displacement
+equal to that of the four smaller members. As is the case with a
+single-cylinder engine, the motor would be out of correct mechanical
+balance because all the connecting rods would be placed on crank-pins
+that lie in the same plane. A very large fly-wheel would be necessary to
+carry the piston through the idle strokes, and large balance weights
+would be fitted to the crank-shaft in an effort to compensate for the
+weight of the four pistons, and thus reduce vibratory stresses which
+obtain when parts are not in correct balance.
+
+There would be no advantage gained by using four cylinders in this
+manner, and there would be more loss of heat and more power consumed in
+friction than in a one-piston motor of the same capacity. This is the
+reason that when four cylinders are used the arrangement of crank-pins
+is always as shown at Fig. 23, B--i.e., two pistons are up, while the
+other two are at the bottom of the stroke. With this construction, we
+have seen that it is possible to string out the explosions so that there
+will always be one cylinder applying power to the crank-shaft. The
+explosions are spaced equally. The parts are in correct mechanical
+balance because two pistons are on the upstroke while the other two are
+descending. Care is taken to have one set of moving members weigh
+exactly the same as the other. With a four-cylinder engine one has
+correct balance and continuous application of energy. This insures a
+smoother running motor which has greater efficiency than the simpler
+one-, two-, and three-cylinder forms previously described. Eliminating
+the stresses which would obtain if we had an unbalanced mechanism and
+irregular power application makes for longer life. Obviously a large
+number of relatively light explosions will produce less wear and strain
+than would a lesser number of powerful ones. As the parts can be built
+lighter if the explosions are not heavy, the engine can be operated at
+higher rotative speeds than when large and cumbersome members are
+utilized. Four-cylinder engines intended for aviation work have been
+built according to the designs shown at Fig. 24, but these forms are
+unconventional and seldom if ever used.
+

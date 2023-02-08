@@ -1,0 +1,37 @@
+
+LOSSES IN WALL COOLING
+
+In an experimental investigation of the efficiency of a gas-engine under
+variable piston speeds made in France, it was found that the useful
+effect increases with the velocity of the piston--that is, with the rate
+of expansion of the burning gases with mixtures of uniform volumes: so
+that the variations of time of complete combustion at constant pressure,
+and the variations due to speed, in a way compensate in their
+efficiencies. The dilute mixture, being slow burning, will have its time
+and pressure quickened by increasing the speed.
+
+Careful trials give unmistakable evidence that the useful effect
+increases with the velocity of the piston--that is, with the rate of
+expansion of the burning gases. The time necessary for the explosion to
+become complete and to attain its maximum pressure depends not only on
+the composition of the mixture, but also upon the rate of expansion.
+This has been verified in experiments with a high-speed motor, at speeds
+from 500 to 2,000 revolutions per minute, or piston speeds of from 16 to
+64 feet per second. The increased speed of combustion due to increased
+piston speed is a matter of great importance to builders of gas-engines,
+as well as to the users, as indicating the mechanical direction of
+improvements to lessen the wearing strain due to high speed and to
+lighten the vibrating parts with increased strength, in order that the
+balancing of high-speed engines may be accomplished with the least
+weight.
+
+From many experiments made in Europe and in the United States, it has
+been conclusively proved that excessive cylinder cooling by the
+water-jacket results in a marked loss of efficiency. In a series of
+experiments with a simplex engine in France, it was found that a saving
+of 7 per cent. in gas consumption per brake horse-power was made by
+raising the temperature of the jacket water from 141° to 165° F. A still
+greater saving was made in a trial with an Otto engine by raising the
+temperature of the jacket water from 61° to 140° F.--it being 9.5 per
+cent. less gas per brake horse-power.
+

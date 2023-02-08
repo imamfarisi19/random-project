@@ -1,0 +1,47 @@
+An oil pressure gauge is provided. This should be run to the pilot's
+instrument board. The gauge registers the oil pressure upon the
+bearings, also determining its circulation. Strict watch should be
+maintained of this instrument by pilot, and if for any reason its hand
+should drop to 0 the motor should be immediately stopped and the trouble
+found before restarting engine. Care should be taken that the oil does
+not work up into the gauge, as it will prevent the correct gauge
+registering of oil pressure. The oil pressure will vary according to
+weather conditions and viscosity of oil used. In normal weather, with
+the engine properly warmed up, the pressure will register on the oil
+gauge from 5 to 10 pounds when the engine is turning from 1,275 to 1,300
+r. p. m. This does not apply to all aviation engines, however, as the
+proper pressure advised for the Curtiss OX-2 motor is from 40 to 55
+pounds at the gauge.
+
+The oil sump plug is located at the lowest point of the lower
+crank-case. This is a combination dirt, water and sediment trap. It is
+easily removed by unscrewing. Oil is furnished mechanically to the
+cam-shaft housing under pressure through a small tube leading from the
+main distributing pipe at the propeller end of engine directly into the
+end of cam-shaft housing. The opposite end of this housing is amply
+relieved to allow the oil to rapidly flow down upon cam-shaft, magneto,
+pinion-shaft, and crank-shaft gears, after which it returns to lower
+crank-case. An outside overflow pipe is also provided to carry away the
+surplus oil.
+
+
+DRAINING OIL FROM CRANK-CASE
+
+The oil strainer is placed at the lowest point of the lower crank-case.
+This strainer should be removed after every five to eight hours running
+of the engine and cleaned thoroughly with gasoline. It is also advisable
+to squirt distillate up into the case through the opening where the
+strainer has been removed. Allow this distillate to drain out thoroughly
+before replacing the plug with strainer attached. Be sure gasket is in
+place on plug before replacing. Pour new oil in through either of the
+two breather pipes on exhaust side of motor. Be sure to replace strainer
+screens if removed. If, through oversight, the engine does not receive
+sufficient lubrication and begins to heat or pound, it should be stopped
+immediately. After allowing engine to cool pour at least three gallons
+of oil into oil sump. Fill radiator with water after engine has cooled.
+Should there be apparent damage, the engine should be thoroughly
+inspected immediately without further running. If no obvious damage has
+been done, the engine should be given a careful examination at the
+earliest opportunity to see that the running without oil has not burned
+the bearings or caused other trouble.
+

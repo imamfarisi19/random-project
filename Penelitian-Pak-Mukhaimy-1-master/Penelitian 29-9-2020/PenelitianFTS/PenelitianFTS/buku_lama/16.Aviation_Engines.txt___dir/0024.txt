@@ -1,0 +1,47 @@
+
+THE ISOTHERMAL LAW
+
+The natural laws, long since promulgated by Boyle, Gay Lussac, and
+others, on the subject of the expansion and compression of gases by
+force and by heat, and their variable pressures and temperatures when
+confined, are conceded to be practically true and applicable to all
+gases, whether single, mixed, or combined.
+
+The law formulated by Boyle only relates to the compression and
+expansion of gases without a change of temperature, and is stated in
+these words:
+
+_If the temperature of a gas be kept constant, its pressure or elastic
+force will vary inversely as the volume it occupies._
+
+It is expressed in the formula P × V = C, or pressure × volume =
+constant. Hence, C/P = V and C/V = P.
+
+Thus the curve formed by increments of pressure during the expansion or
+compression of a given volume of gas without change of temperature is
+designated as the isothermal curve in which the volume multiplied by the
+pressure is a constant value in expansion, and inversely the pressure
+divided by the volume is a constant value in compressing a gas.
+
+But as compression and expansion of gases require force for their
+accomplishment mechanically, or by the application or abstraction of
+heat chemically, or by convection, a second condition becomes involved,
+which was formulated into a law of thermodynamics by Gay Lussac under
+the following conditions: A given volume of gas under a free piston
+expands by heat and contracts by the loss of heat, its volume causing a
+proportional movement of a free piston equal to 1/273 part of the
+cylinder volume for each degree Centigrade difference in temperature, or
+1/492 part of its volume for each degree Fahrenheit. With a fixed piston
+(constant volume), the pressure is increased or decreased by an increase
+or decrease of heat in the same proportion of 1/273 part of its pressure
+for each degree Centigrade, or 1/492 part of its pressure for each
+degree Fahrenheit change in temperature. This is the natural sequence of
+the law of mechanical equivalent, which is a necessary deduction from
+the principle that nothing in nature can be lost or wasted, for all the
+heat that is imparted to or abstracted from a gaseous body must be
+accounted for, either as heat or its equivalent transformed into some
+other form of energy. In the case of a piston moving in a cylinder by
+the expansive force of heat in a gaseous body, all the heat expended in
+expansion of the gas is turned into work; the balance must be accounted
+for in absorption by the cylinder or radiation.
+

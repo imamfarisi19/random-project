@@ -1,0 +1,52 @@
+Before assembling on the shaft, it is necessary to fit the bearings by
+scraping, the same instructions given for restoring the contour of the
+main bearings applying just as well in this case. It is apparent that if
+the crank-pins are not round no amount of scraping will insure a true
+bearing. A point to observe is to make sure that the heads of the bolts
+are imbedded solidly in their proper position, and that they are not
+raised by any burrs or particles of dirt under the head which will
+flatten out after the engine has been run for a time and allow the bolts
+to slack off. Similarly, care should be taken that there is no foreign
+matter under the brasses and the box in which they seat. To guard
+against this the bolts should be struck with a hammer several times
+after they are tightened up, and the connecting rod can be hit sharply
+several times under the cap with a wooden mallet or lead hammer. It is
+important to pin the brasses in place to prevent movement, as
+lubrication may be interfered with if the bushing turns round and breaks
+the correct register between the oil hole in the cap and brasses.
+
+Care should be taken in screwing on the retaining nuts to insure that
+they will remain in place and not slack off. Spring washers should not
+be used on either connecting rod ends or main bearing nuts, because
+these sometimes snap in two pieces and leave the nut slack. The best
+method of locking is to use well-fitting split pins and castellated
+nuts.
+
+
+TESTING BEARING PARALLELISM
+
+It is not possible to give other than general directions regarding the
+proper degree of tightening for a connecting rod bearing, but as a guide
+to correct adjustment it may be said that if the connecting rod cap is
+tightened sufficiently so the connecting rod will just about fall over
+from a vertical position due to the piston weight when the bolts are
+fully tightened up, the adjustment will be nearly correct. As previously
+stated, babbitt or white metal bearings can be set up more tightly than
+bronze, as the metal is softer and any high spots will soon be leveled
+down with the running of the engine. It is important that care be taken
+to preserve parallelism of the wrist-pins and crank-shafts while
+scraping in bearings. This can be determined in two ways. That shown at
+Fig. 189, A, is used when the parts are not in the engine assembly and
+when the connecting rod bearing is being fitted to a mandrel or arbor
+the same size as the crank-pin. The arbor, which is finished very smooth
+and of uniform diameter, is placed in two V blocks, which in turn are
+supported by a level surface plate. An adjustable height gauge may be
+tried, first at one side of the wrist-pin which is placed at the upper
+end of the connecting rod, then at the other, and any variation will be
+easily determined by the degree of tilting of the rod. This test may be
+made with the wrist-pin alone, or if the piston is in place, a straight
+edge or spirit level may be employed. The spirit level will readily show
+any inclination while the straight edge is used in connection with the
+height gauge as indicated. Of course, the surface plate must be
+absolutely level when tests are made.
+

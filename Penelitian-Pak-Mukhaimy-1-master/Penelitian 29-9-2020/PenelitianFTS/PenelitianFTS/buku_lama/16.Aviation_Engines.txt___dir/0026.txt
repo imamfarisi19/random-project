@@ -1,0 +1,48 @@
+[Illustration: Fig. 11.--Diagram Isothermal and Adiabatic Lines.]
+
+The expansion of a gas 1/273 of its volume for every degree Centigrade,
+added to its temperature, is equal to the decimal .00366, the
+coefficient of expansion for Centigrade units. To any given volume of a
+gas, its expansion may be computed by multiplying the coefficient by
+the number of degrees, and by reversing the process the degree of
+acquired heat may be obtained approximately. These methods are not
+strictly in conformity with the absolute mathematical formula, because
+there is a small increase in the increment of expansion of a dry gas,
+and there is also a slight difference in the increment of expansion due
+to moisture in the atmosphere and to the vapor of water formed by the
+union of the hydrogen and oxygen in the combustion chamber of explosive
+engines.
+
+
+TEMPERATURE COMPUTATIONS
+
+The ratio of expansion on the Fahrenheit scale is derived from the
+absolute temperature below the freezing-point of water (32°) to
+correspond with the Centigrade scale; therefore 1/492.66 = .0020297, the
+ratio of expansion from 32° for each degree rise in temperature on the
+Fahrenheit scale. As an example, if the temperature of any volume of air
+or gas at constant volume is raised, say from 60° to 2000° F., the
+increase in temperature will be 1940°. The ratio will be 1/520.66 =
+.0019206. Then by the formula:
+
+Ratio × acquired temp. × initial pressure = the gauge pressure; and
+.0019206 × 1940° × 14.7 = 54.77 lbs.
+
+By another formula, a convenient ratio is obtained by (absolute
+pressure)/(absolute temp.) or 14.7/520.66 = .028233; then, using the
+difference of temperature as before, .028233 × 1940° = 54.77 lbs.
+pressure.
+
+By another formula, leaving out a small increment due to specific heat
+at high temperatures:
+
+Atmospheric pressure × absolute temp. + acquired temp.
+I. -------------------------------------------------------- =
+Absolute temp. + initial temp.
+
+absolute pressure due to the acquired temperature, from which the
+atmospheric pressure is deducted for the gauge pressure. Using the
+foregoing example, we have (14.7 × 460.66° + 2000°)/(460.66 + 60°) =
+69.47 - 14.7 = 54.77, the gauge pressure, 460.66 being the absolute
+temperature for zero Fahrenheit.
+

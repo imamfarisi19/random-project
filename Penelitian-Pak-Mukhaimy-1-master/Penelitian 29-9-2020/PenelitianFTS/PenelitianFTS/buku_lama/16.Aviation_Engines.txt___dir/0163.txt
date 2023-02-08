@@ -1,0 +1,36 @@
+A number of piston types are shown at Fig. 116. That at A has a round
+top and is provided with four split packing rings and two oil grooves. A
+piston of this type is generally employed in motors where the combustion
+chamber is large and where it is desired to obtain a higher degree of
+compression than would be possible with a flat top piston. This
+construction is also stronger because of the arched piston top. The most
+common form of piston is that shown at B, and it differs from that
+previously described only in that it has a flat top. The piston outlined
+in section at C is a type used on some of the sleeve-valve motors of the
+Knight pattern, and has a concave head instead of the convex form shown
+at A. The design shown at D in side and plan views is the conventional
+form employed in two-cycle engines. The deflector plate on the top of
+the cylinder is cast integral and is utilized to prevent the incoming
+fresh gases from flowing directly over the piston top and out of the
+exhaust port, which is usually opposite the inlet opening. On these
+types of two-cycle engines where a two-diameter cylinder is employed,
+the piston shown at E is used. This is known as a "differential
+piston," and has an enlarged portion at its lower end which fits the
+pumping cylinder. The usual form of deflector plate is provided at the
+top of the piston and one may consider it as two pistons in one.
+
+[Illustration: Fig. 117.--Typical Methods of Piston Pin Retention
+Generally Used in Engines of American Design. A--Single Set Screw and
+Lock Nut. B--Set Screw and Check Nut Fitting Groove in Wrist Pin. C,
+D--Two Locking Screws Passing Into Interior of Hollow Wrist Pin.
+E--Split Ring Holds Pin in Place. F--Use of Taper Expanding Plugs
+Outlined. G--Spring Pressed Plunger Type. H--Piston Pin Pinned to
+Connecting Rod. I--Wrist Pin Clamped in Connecting Rod Small End by
+Bolt.]
+
+[Illustration: Fig. 118.--Typical Piston and Connecting Rod Assembly.]
+
+[Illustration: Fig. 119.--Parts of Sturtevant Aviation Engine.
+A--Cylinder Head Showing Valves. B--Connecting Rod. C--Piston and
+Rings.]
+

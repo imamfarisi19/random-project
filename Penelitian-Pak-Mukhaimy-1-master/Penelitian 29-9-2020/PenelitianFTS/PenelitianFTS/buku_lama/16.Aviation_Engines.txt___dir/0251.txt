@@ -1,0 +1,51 @@
+Bearings of white metal or babbitt can be fitted tighter than those of
+bronze, and care must be observed in supplying lubricant as considerably
+more than the usual amount is needed until the bearings are run in by
+several hours of test block work. Before the scraping process is started
+it is well to chisel an oil groove in the bearing as shown at Fig. 187,
+L. Grooves are very helpful in insuring uniform distribution of oil over
+the entire width of bearing and at the same time act as reservoirs to
+retain a supply of oil. The tool used is a round-nosed chisel, the
+effort being made to cut the grooves of uniform depth and having smooth
+sides. Care should be taken not to cut the grooves too deeply, as this
+will seriously reduce the strength of the bearing bushing. The shape of
+the groove ordinarily provided is clearly shown at Fig. 187, G, and it
+will be observed that the grooves do not extend clear to the edge of the
+bearing, but stop about a quarter of an inch from that point. The hole
+through which the oil is supplied to the bearing is usually drilled in
+such a way that it will communicate with the groove.
+
+The tool shown at Fig. 187, K, is of recent development, and is known as
+a "crank-shaft equalizer." This is a hand-operated turning tool,
+carrying cutters which are intended to smooth down scored crank-pins
+without using a lathe. The feed may be adjusted by suitable screws and
+the device may be fitted to crank-pins and shaft-journals of different
+diameters by other adjusting screws. This device is not hard to operate,
+being merely clamped around the crank-shaft in the same manner as the
+lapping tool previously described, and after it has been properly
+adjusted it is turned around by the levers provided for the purpose, the
+continuous rotary motion removing the metal just as a lathe tool would.
+
+
+FITTING CONNECTING RODS
+
+In the marine type rod, which is the form generally used in airplane
+engines, one or two bolts are employed at each side and the cap must be
+removed entirely before the bearing can be taken off of the crank-pin.
+The tightness of the brasses around the crank-pin can never be
+determined solely by the adjustment of the bolts, as while it is
+important that these should be drawn up as tightly as possible, the
+bearing should fit the shaft without undue binding, even if the brasses
+must be scraped to insure a proper fit. As is true of the main bearings,
+the marine form of connecting rod in some engines has a number of liners
+or shims interposed between the top and lower portions of the rod end,
+and these may be reduced in number when necessary to bring the brasses
+closer together. The general tendency in airplane engines is to
+eliminate shims in either the main or connecting rod bearings, and when
+wear is noticed the boxes or liners are removed and new ones supplied.
+The brasses are held in the connecting rod and cap by brass rivets and
+are generally attached in the main bearing by small brass machine
+screws. The form of box generally favored is a brass sand casting rich
+in copper to secure good heat conductivity which forms a backing for a
+thin layer of white brass, babbitt or similar anti-friction metal.
+

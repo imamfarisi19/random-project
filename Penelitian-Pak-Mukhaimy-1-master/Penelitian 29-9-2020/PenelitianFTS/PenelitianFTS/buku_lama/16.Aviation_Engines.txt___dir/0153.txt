@@ -1,0 +1,44 @@
+
+LEAD GIVEN EXHAUST VALVE
+
+The faster a motor turns, all other things being equal, the greater the
+amount of lead or advance it is necessary to give the opening of the
+exhaust valve. It is self-evident truth that if the speed of a motor is
+doubled it travels twice as many degrees in the time necessary to lower
+the pressure. As most designers are cognizant of this fact, the valves
+are proportioned accordingly. It is well to consider in this respect
+that the cam profile has much to do with the manner in which the valve
+is opened; that is, the lift may be abrupt and the gas allowed to escape
+in a body, or the opening may be gradual, the gas issuing from the
+cylinder in thin streams. An analogy may be made with the opening of any
+bottle which contains liquid highly carbonated. If the cork is removed
+suddenly the gas escapes with a loud pop, but, on the other hand, if the
+bottle is uncorked gradually, the gas escapes from the receptacle in
+thin streams around the cork, and passage of the gases to the air is
+accomplished without noise. While the second plan is not harsh, it is
+slower than the former, as must be evident.
+
+
+EXHAUST CLOSING, INLET OPENING
+
+A point which has been much discussed by engineers is the proper
+relation of the closing of the exhaust valve and the opening of the
+inlet. Theoretically they should succeed each other, the exhaust closing
+at upper dead center and the inlet opening immediately afterward. The
+reason why a certain amount of lag is given the exhaust closing in
+practice is that the piston cannot drive the gases out of the cylinder
+unless they are compressed to a degree in excess of that existing in the
+manifold or passages, and while toward the end of the stroke this
+pressure may be feeble, it is nevertheless indispensable. At the end of
+the piston's stroke, as marked by the upper dead center, this
+compression still exists, no matter how little it may be, so that if the
+exhaust valve is closed and the inlet opened immediately afterward, the
+pressure which exists in the cylinder may retard the entrance of the
+fresh gas and a certain portion of the inert gas may penetrate into the
+manifold. As the piston immediately begins to aspirate, this may not be
+serious, but as these gases are drawn back into the cylinder the fresh
+charge will be diluted and weakened in value. If the spark-plug is in a
+pocket, the points may be surrounded by this weak gas, and the explosion
+will not be nearly as energetic as when the ignition spark takes place
+in pure mixture.
+

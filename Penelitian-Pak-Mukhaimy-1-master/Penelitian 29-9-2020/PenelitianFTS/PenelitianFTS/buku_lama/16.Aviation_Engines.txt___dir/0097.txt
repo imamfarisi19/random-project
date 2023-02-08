@@ -1,0 +1,45 @@
+The magneto in common use consists of a number of horseshoe magnets
+which are compound in form and attached to suitable cast-iron pole
+pieces used to collect and concentrate the magnetic influence of the
+various magnets. Between these pole pieces an armature rotates. This is
+usually shaped like a shuttle, around which are wound coils of insulated
+wire. These are composed of a large number of turns and the current
+produced depends in great measure upon the size of the wire and the
+number of turns per coil. An armature winding of large wire will deliver
+a current of great amperage, but of small voltage. An armature wound
+with very fine wire will deliver a current of high voltage but of low
+amperage. In the ordinary form of magneto, such as used for ignition,
+the current is alternating in character and the break in the circuit
+should be timed to occur when the armature is at the point of its
+greatest potential or pressure. Where such a generator is designed for
+direct current production the ends of the winding are attached to the
+segments of a commutator, but where the instrument is designed to
+deliver an alternating current one end of the winding is fastened to an
+insulator ring on one end of the armature shaft and the other end is
+grounded on the frame of the machine.
+
+The quantity of the current depends upon the strength of the magnetic
+field and the number of lines of magnetic influence acting through the
+armature. The electro-motive force varies as to the length of the
+armature winding and the number of revolutions at which the armature is
+rotated.
+
+
+THE TRANSFORMER SYSTEM USES LOW VOLTAGE MAGNETO
+
+The magneto in the various systems which employ a transformer coil is
+very similar to a low-tension generator in general construction, and the
+current delivered at the terminals seldom exceeds 100 volts. As it
+requires many times that potential or pressure to leap the gap which
+exists between the points of the conventional spark plug, a separate
+coil is placed in circuit to intensify the current to one of greater
+capacity. The essential parts of such a system and their relation to
+each other are shown in diagrammatic form at Fig. 60 and as a complete
+system at Fig. 61. As is true of other systems the magnetic influence is
+produced by permanent steel magnets clamped to the cast-iron pole pieces
+between which the armature rotates. At the point of greatest potential
+in the armature winding the current is broken by the contact breaker,
+which is actuated by a cam, and a current of higher value is induced in
+the secondary winding of the transformer coil when the low voltage
+current is passed through the primary winding.
+

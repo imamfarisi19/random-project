@@ -1,0 +1,40 @@
+[Illustration: Fig. 108.--Diagrams Explaining Valve and Ignition Timing
+of Hall-Scott Aviation Engine.]
+
+It is apparent that a motor with a fixed point of ignition is not as
+desirable, in every way, as one in which the ignition can be advanced to
+best meet different requirements, and the writer does not readily
+perceive any advantage outside of simplicity of control in establishing
+a fixed point of ignition. In fact, there seems to be some difference of
+opinion among those designers who favor fixed ignition, and in one case
+this is located forty-three degrees ahead of center, and in another
+motor the point is fixed at twenty degrees, so that it may be said that
+this will vary as much as one hundred per cent. in various forms. This
+point will vary with different methods of ignition, as well as the
+location of the spark-plug or igniter. For the sake of simplicity, most
+airplane engines use set spark; if an advancing and retarding mechanism
+is fitted, it is only to facilitate starting, as the spark is kept
+advanced while in flight, and control is by throttle alone.
+
+[Illustration: Fig. 109.--Timing Diagram of Typical Six-Cylinder
+Engine.]
+
+It is obvious by consideration of the foregoing that there can be no
+arbitrary rules established for timing, because of the many conditions
+which determine the best times for opening and closing the valves. It is
+customary to try various settings when a new motor is designed until the
+most satisfactory points are determined, and the setting which will be
+very suitable for one motor is not always right for one of different
+design. The timing diagram shown at Fig. 108 applies to the Hall-Scott
+engine, and may be considered typical. It should be easily followed in
+view of the very complete explanation given in preceding pages. Another
+six-cylinder engine diagram is shown at Fig. 109, and an eight-cylinder
+timing diagram is shown at Fig. 110. In timing automobile engines no
+trouble is experienced, because timing marks are always indicated on
+the engine fly-wheel register with an indicating trammel on the
+crank-case. To time an airplane engine accurately, as is necessary to
+test for a suspected cam-shaft defect, a timing disc of aluminum is
+attached to the crank-shaft which has the timing marks indicated
+thereon. If the disc is made 10 or 12 inches in diameter, it may be
+divided into degrees without difficulty.
+

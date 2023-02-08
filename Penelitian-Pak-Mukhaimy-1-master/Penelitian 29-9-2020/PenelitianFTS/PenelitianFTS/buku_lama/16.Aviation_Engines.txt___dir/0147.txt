@@ -1,0 +1,50 @@
+[Illustration: Fig. 101.--Forms of Valve-Lifting Cams Generally
+Employed. A--Cam Profile for Long Dwell and Quick Lift. B--Typical Inlet
+Cam Used with Mushroom Type Follower. C--Average Form of Cam.
+D--Designed to Give Quick Lift and Gradual Closing.]
+
+The cam forms outlined at Fig. 101 are those commonly used. That at A is
+used on engines where it is desired to obtain a quick lift and to keep
+the valve fully opened as long as possible. It is a noisy form, however,
+and is not very widely employed. That at B is utilized more often as an
+inlet cam while the profile shown at C is generally depended on to
+operate exhaust valves. The cam shown at D is a composite form which has
+some of the features of the other three types. It will give the quick
+opening of form A, the gradual closing of form B, and the time of
+maximum valve opening provided by cam profile C.
+
+[Illustration: Fig. 102.--Showing Principal Types of Cam Followers which
+Have Received General Application.]
+
+The various types of valve plungers used are shown at Fig. 102. That
+shown at A is the simplest form, consisting of a simple cylindrical
+member having a rounded end which follows the cam profile. These are
+sometimes made of square stock or kept from rotating by means of a key
+or pin. A line contact is possible when the plunger is kept from
+turning, whereas but a single point bearing is obtained when the plunger
+is cylindrical and free to revolve. The plunger shown at A will follow
+only cam profiles which have gradual lifts. The plunger shown at B is
+left free to revolve in the guide bushing and is provided with a flat
+mushroom head which serves as a cam follower. The type shown at C
+carries a roller at its lower end and may follow very irregular cam
+profiles if abrupt lifts are desired. While forms A and B are the
+simplest, that outlined at C in its various forms is more widely used.
+Compound plungers are used on the Curtiss OX-2 motors, one inside the
+other. The small or inner one works on a cam of conventional design, the
+outer plunger follows a profile having a flat spot to permit of a pull
+rod action instead of a push rod action. All the methods in which levers
+are used to operate valves are more or less noisy because clearance must
+be left between the valve stem and the stop of the plunger. The space
+must be taken up before the valve will leave its seat, and when the
+engine is operated at high speeds the forcible contact between the
+plunger and valve stem produces a rattling sound until the valves become
+heated and expand and the stems lengthen out. Clearance must be left
+between the valve stems and actuating means. This clearance is clearly
+shown in Fig. 103 and should be .020" (twenty thousandths) when engine
+is cold. The amount of clearance allowed depends entirely upon the
+design of the engine and length of valve stem. On the Curtiss OX-2
+engines the clearance is but .010" (ten thousandths) because the valve
+stems are shorter. Too little clearance will result in loss of power or
+misfiring when engine is hot. Too much clearance will not allow the
+valve to open its full amount and will disturb the timing.
+

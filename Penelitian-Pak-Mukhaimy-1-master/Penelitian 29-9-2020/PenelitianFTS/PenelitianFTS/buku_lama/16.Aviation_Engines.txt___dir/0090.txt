@@ -1,0 +1,37 @@
+
+FUNDAMENTALS OF MAGNETISM OUTLINED
+
+To properly understand the phenomena and forces involved in the
+generation of electrical energy by mechanical means it is necessary to
+become familiar with some of the elementary principles of magnetism and
+its relation to electricity. The following matter can be read with
+profit by those who are not familiar with the subject. Most persons know
+that magnetism exists in certain substances, but many are not able to
+grasp the terms used in describing the operation of various electrical
+devices because of not possessing a knowledge of the basic facts upon
+which the action of such apparatus is based.
+
+Magnetism is a property possessed by certain substances and is
+manifested by the ability to attract and repel other materials
+susceptible to its effects. When this phenomenon is manifested by a
+conductor or wire through which a current of electricity is flowing it
+is termed "electro-magnetism." Magnetism and electricity are closely
+related, each being capable of producing the other. Practically all of
+the phenomena manifested by materials which possess magnetic qualities
+naturally can be easily reproduced by passing a current of electricity
+through a body which, when not under electrical influence, is not a
+magnetic substance. Only certain substances show magnetic properties,
+these being iron, nickel, cobalt and their alloys.
+
+The earliest known substance possessing magnetic properties was a stone
+first found in Asia Minor. It was called the lodestone or leading stone,
+because of its tendency, if arranged so it could be moved freely, of
+pointing one particular portion toward the north. The compass of the
+ancient Chinese mariners was a piece of this material, now known to be
+iron ore, suspended by a light thread or floated on a cork in some
+liquid so one end would point toward the north magnetic pole of the
+earth. The reason that this stone was magnetic was hard to define for a
+time, until it was learned that the earth was one huge magnet and that
+the iron ore, being particularly susceptible, absorbed and retained some
+of this magnetism.
+

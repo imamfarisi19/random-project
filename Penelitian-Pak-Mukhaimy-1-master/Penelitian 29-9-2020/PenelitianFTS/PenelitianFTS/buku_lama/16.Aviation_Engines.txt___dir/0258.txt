@@ -1,0 +1,58 @@
+[Illustration: Fig. 190.--Views Outlining Construction of Three-Cylinder
+Anzani Aviation Motor.]
+
+The inlet valves were of the automatic type so that a very simple valve
+mechanism consisting only of the exhaust valve push rods was provided.
+One of the difficulties of this arrangement of cylinders was that the
+impulses are not evenly spaced. For instance, in the forms where the
+cylinders were placed 60 degrees apart the space between the firing of
+the first cylinder and that next in order was 120 degrees crank-shaft
+rotation, after which there was an interval of 300 degrees before the
+last cylinder to fire delivered its power stroke. In order to increase
+the power given by the simple three-cylinder air-cooled engine a
+six-cylinder water-cooled type, as shown at Figs. 191 and 192, was
+devised. This was practically the same in action as the three-cylinder
+except that a double throw crank-shaft was used and while the
+explosions were not evenly spaced the number of explosions obtained
+resulted in fairly uniform application of power.
+
+[Illustration: Fig. 190a.--Illustrations Depicting Wrong and Right
+Methods of "Swinging the Stick" to Start Airplane Engine. At Top, Poor
+Position to Get Full Throw and Get Out of the Way. Below, Correct
+Position to Get Quick Turn Over of Crank-Shaft and Spring Away from
+Propeller.]
+
+[Illustration: Fig. 191.--The Anzani Six-Cylinder Water-Cooled Aviation
+Engine.]
+
+[Illustration: Fig. 192.--Sectional View of Anzani Six-Cylinder
+Water-Cooled Aviation Engine.]
+
+The latest design of three-cylinder Anzani engine, which is used to some
+extent for school machines, is shown at Fig. 193. In this, the
+three-cylinders are symmetrically arranged about the crank-case or 120
+degrees apart. The balance is greatly improved by this arrangement and
+the power strokes occur at equal intervals of 240 degrees of crank-shaft
+rotation. This method of construction is known as the Y design. By
+grouping two of these engines together, as outlined at Fig. 194, which
+gives an internal view, and at Fig. 195, which shows the sectional view,
+and using the ordinary form of double throw crank-shaft with crank-pins
+separated by 180 degrees, a six-cylinder radial engine is produced which
+runs very quietly and furnishes a steady output of power. The
+peculiarity of the construction of this engine is in the method of
+grouping the connecting rod about the common crank-pin without using
+forked rods or the "Mother rod" system employed in the Gnome engines. In
+the Anzani the method followed is to provide each connecting rod big end
+with a shoe which consists of a portion of a hollow cylinder held
+against the crank-pin by split clamping rings. The dimensions of these
+shoes are so proportioned that the two adjacent connecting rods of a
+group of three will not come into contact even when the connecting rods
+are at the minimum relative angle. The three shoes of each group rest
+upon a bronze sleeve which is in halves and which surrounds the
+crank-pin and rotates relatively to it once in each crank-shaft
+revolution. The collars, which are of tough bronze, resist the inertia
+forces while the direct pressure of the explosions is transmitted
+directly to the crank-pin bushing by the shoes at the big end of the
+connecting rod. The same method of construction, modified to some
+extent, is used in the Le Rhone rotary cylinder engine.
+

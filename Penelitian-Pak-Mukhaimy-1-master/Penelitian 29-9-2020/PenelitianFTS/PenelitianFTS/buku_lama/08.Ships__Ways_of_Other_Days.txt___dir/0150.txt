@@ -1,0 +1,51 @@
+If the sixteenth century forms the climax of English seamanship, it is
+the seventeenth century which unfortunately is the anti-climax. Abuses
+crept into the Navy, so that by the year 1618 a complete reorganisation
+had to be undertaken, and the bribery, embezzlement, and general
+corruption had to be stopped so far as was possible. And yet, for all
+that, there was still being made important progress both in navigation
+and in shipbuilding. John Napier, in the year 1614, provided his
+tables of logarithms, which simplified the intricate calculations of
+navigators. In 1678 was published “The Complete Ship-Wright,” by Edmund
+Bushnell, which I believe to be the earliest treatise on shipbuilding
+printed in English. The way the London shipwrights were wont to measure
+their ships was as follows: They multiplied the length of the keel
+“into the breadth of the ship, at the broadest place, taken from
+outside to outside, and the produce of that by the half breadth. This
+second product of the multiplication they divide by 94 or sometimes by
+100, and according to that division, 60 the quotient thereof, they are
+paid for so many Tuns.”
+
+For example, take the case of a ship 60 feet long and 20 feet broad:--
+
+60
+20
+----
+1200
+10
+-----
+100)12000(120 Ans.      120 tons.
+
+But, says this same writer, the true way to measure must be by
+measuring the body and bulk of the ship underwater. He also gives some
+of the rule of thumb standards to which they worked. For instance, the
+mainmast of small ships was three times as long as the breadth of the
+ship. Thus the ship just mentioned with a beam of 20 feet would have a
+mainmast 60 feet high. The topmast, in like manner, was two-thirds the
+length of the lower mast in all cases. The mainyard was two-thirds of
+the mainmast plus one-twelfth of the mainmast.
+
+There is an illustration in “The Mariner’s Jewel,” by James Lightbody,
+published in London in the year 1695, that shows the method which was
+employed in launching a ship at that time. It is demonstrated that the
+vessel was allowed to rest her weight on a cradle and then hauled into
+the water by means of a crab winch. As there was a paucity of dry docks
+in those days it was usual, when any painting of, or repairs to, the
+bottom of a ship had to be carried out, to careen the ship. She was
+hove down on one side by a strong purchase attached to her masts, the
+latter having been properly supported for the occasion to prevent their
+breaking under so great a strain. This was in vogue until about the
+beginning of the nineteenth century, when the custom of sheathing ships
+with copper, and thereby keeping a clean bottom for several years,
+superseded careening.
+

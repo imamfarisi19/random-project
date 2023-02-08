@@ -1,0 +1,40 @@
+The character of combustion may be judged by the color of the flame
+which issues from it when the engine is running with an open throttle
+after nightfall. If the flame is red, it indicates too much gasoline. If
+yellowish, it shows an excess of air, while a properly proportioned
+mixture will be evidenced by a pronounced blue flame, such as given by a
+gas-stove burner.
+
+The Duplex Model O. D. Zenith carburetor used upon most of the six- and
+eight-cylinder airplane engines consists of a single float chamber, and
+a single air intake, joined to two separate and distinct spray nozzles,
+venturi and idling adjustments. It is to be noted that as the carburetor
+barrels are arranged side by side, both valves are mounted on the same
+shaft, and work in unison through a single operating lever. It is not
+necessary to alter their position. In order to make the engine idle
+well, it is essential that the ignition, especially the spark-plugs,
+should be in good condition. The gaskets between carburetor and
+manifold, and between manifold and cylinders should be absolutely
+air-tight. The adjustment for low speed on the carburetor is made by
+turning in or out the two knurled screws, placed one on each side of the
+float chamber. After starting the engine and allowing it to become
+thoroughly warmed, one side of the carburetor should be adjusted so that
+the three cylinders it affects fire properly at low speed. The other
+side should be adjusted in the same manner until all six cylinders fire
+perfectly at low speed. As the adjustment is changed on the knurled
+screw a difference in the idling of the engine should be noticed. If the
+engine begins to run evenly or speeds up it shows that the mixture
+becomes right in its proportion.
+
+Be sure the butterfly throttle is closed as far as possible by screwing
+out the stop screw which regulates the closed position for idling. Care
+should be taken to have the butterfly held firmly against this stop
+screw at all times while idling engine. If three cylinders seem to run
+irregularly after changing the position of the butterfly, still another
+adjustment may have to be made with the knurled screw. Unscrewing this
+makes the mixture leaner. Screwing in closes off some of the air supply
+to the idling jet, making it richer. After one side has been made to
+idle satisfactorily repeat the same procedure with the opposite three
+cylinders. In other words, each side should be idled independently to
+about the same speed.
+

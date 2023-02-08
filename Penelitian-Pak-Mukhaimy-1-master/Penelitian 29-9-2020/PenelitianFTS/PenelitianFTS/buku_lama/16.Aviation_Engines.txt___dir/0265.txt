@@ -1,0 +1,37 @@
+[Illustration: Fig. 203.--The Gnome Fourteen-Cylinder 100 Horse-Power
+Aviation Engine.]
+
+Coming to the manner in which the earliest design exhaust valves are
+operated on the old style motor, this at first sight appears to be one
+of the most complicated parts of the motor, probably because it is one
+in which standard practice is most widely departed from. Within the
+cylindrical casing bolted to the rear face of the crank-case are seven,
+thin flat-faced steel rings, forming female cams. Across a diameter of
+each ring is a pair of projecting rods fitting in brass guides and
+having their extremities terminating in a knuckle eye receiving the
+adjustable push rods operating the overhead rocker arms of the exhaust
+valve. The guides are not all in the same plane, the difference being
+equal to the thickness of the steel rings, the total thickness being
+practically 2 inches. Within the female cams is a group of seven male
+cams of the same total thickness as the former and rotating within them.
+As the boss of the male cam comes into contact with the flattened
+portion of the ring forming the female cam, the arm is pushed outward
+and the exhaust valve opened through the medium of the push-rod and
+overhead rocker. This construction was afterwards changed to seven male
+cams and simple valve operating plunger and roller cam followers as
+shown at Fig. 204.
+
+On the face of the crank-case of the fourteen-cylinder motor opposite to
+the valve mechanism is a bolted-on end plate, carrying a pinion for
+driving the two magnetos and the two oil pumps, and having bolted to it
+the distributor for the high-tension current. Each group of
+seven-cylinders has its own magneto and lubricating pump. The two
+magnetos and the two pumps are mounted on the fixed platform carrying
+the stationary crank-shaft, being driven by the pinion on the revolving
+crank chamber. The magnetos are geared up in the proportion of 4 to 7.
+Mounted on the end plate back of the driving pinion are the two
+high-tension distributor plates, each one with seven brass segments let
+into it and connection made to the plugs by means of plain brass wire.
+The wire passes through a hole in the plug and is then wrapped round
+itself, giving a loose connection.
+

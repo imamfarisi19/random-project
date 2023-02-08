@@ -1,0 +1,46 @@
+
+SOME CAUSES OF NOISY OPERATION
+
+There are a number of power-plant derangements which give positive
+indication because of noisy operation. Any knocking or rattling sounds
+are usually produced by wear in connecting rods or main bearings of the
+engine, though sometimes a sharp metallic knock, which is very much the
+same as that produced by a loose bearing, is due to carbon deposits in
+the cylinder heads, or premature ignition due to advanced spark-time
+lever. Squeaking sounds invariably indicate dry bearings, and whenever
+such a sound is heard it should be immediately located and oil applied
+to the parts thus denoting their dry condition. Whistling or blowing
+sounds are produced by leaks, either in the engine itself or in the gas
+manifolds. A sharp whistle denotes the escape of gas under pressure and
+is usually caused by a defective packing or gasket that seals a portion
+of the combustion chamber or that is used for a joint as the exhaust
+manifold. A blowing sound indicates a leaky packing in crank-case.
+Grinding noises in the motor are usually caused by the timing gears and
+will obtain if these gears are dry or if they have become worn. Whenever
+a loud knocking sound is heard careful inspection should be made to
+locate the cause of the trouble. Much harm may be done in a few minutes
+if the engine is run with loose connecting rod or bearings that would be
+prevented by taking up the wear or looseness between the parts by some
+means of adjustment.
+
+
+BRIEF SUMMARY OF HINTS FOR STARTING ENGINE
+
+First make sure that all cylinders have compression. To ascertain this,
+open pet cocks of all cylinders except the one to be tested, crank over
+motor and see that a strong opposition to cranking is met with once in
+two revolutions. If motor has no pet cocks, crank and notice that
+oppositions are met at equal distances, two to every revolution of the
+starting crank in a four-cylinder motor. If compression is lacking,
+examine the parts of the cylinder or cylinders at fault in the following
+order, trying to start the motor whenever any one fault is found and
+remedied. See that the valve push rods or rocker arms do not touch valve
+stems for more than approximately 1/2 revolution in every 2 revolutions,
+and that there is not more than .010 to .020 inch clearance between them
+depending on the make of the motor. Make sure that the exhaust valve
+seats. To determine this examine the spring and see that it is connected
+to the valve stem properly. Take out valve and see that there is no
+obstruction, such as carbon, on its seat. See that valve works freely in
+its guide. Examine inlet valve in same manner. Listen for hissing sound
+while cranking motor for leaks at other places.
+

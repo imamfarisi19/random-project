@@ -1,0 +1,40 @@
+The fly-wheel is a heavy member attached to the crank-shaft of an
+automobile engine which has energy stored in its rim as the member
+revolves, and the momentum of this revolving mass tends to equalize the
+intermittent pushes on the piston head produced by the explosion of the
+gas in the cylinder. In aviation engines, the weight of the propeller or
+that of rotating cylinders themselves performs the duty of a fly-wheel,
+so no separate member is needed. If some explosive is placed in the
+chamber formed by the piston and closed end of the cylinder and
+exploded, the piston would be the only part that would yield to the
+pressure which would produce a downward movement. As this is forced down
+the crank-shaft is turned by the connecting rod, and as this part is
+hinged at both ends it is free to oscillate as the crank turns, and thus
+the piston may slide back and forth while the crank-shaft is rotating or
+describing a curvilinear path.
+
+[Illustration: Fig. 21.--Side Sectional View of Typical Airplane Engine,
+Showing Parts and Their Relation to Each Other. This Engine is an
+Aeromarine Design and Utilizes a Distinctive Concentric Valve
+Construction.]
+
+In addition to the simple elements described it is evident that a
+gasoline engine must have other parts. The most important of these are
+the valves, of which there are generally two to each cylinder. One
+closes the passage connecting to the gas supply and opens during one
+stroke of the piston in order to let the explosive gas into the
+combustion chamber. The other member, or exhaust valve, serves as a
+cover for the opening through which the burned gases can leave the
+cylinder after their work is done. The spark plug is a simple device
+which may be compared to the fuse or percussion cap of the cannon. It
+permits one to produce an electric spark in the cylinder when the piston
+is at the best point to utilize the pressure which obtains when the
+compressed gas is fired. The valves are open one at a time, the inlet
+valve being lifted from its seat while the cylinder is filling and the
+exhaust valve is opened when the cylinder is being cleared. They are
+normally kept seated by means of compression springs. In the simple
+motor shown at Fig. 5, the exhaust valve is operated by means of a
+pivoted bell crank rocked by a cam which turns at half the speed of the
+crank-shaft. The inlet valve operates automatically, as will be
+explained in proper sequence.
+

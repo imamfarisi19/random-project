@@ -1,0 +1,55 @@
+
+COMPRESSED AIR-STARTING SYSTEMS
+
+Two forms of air-starting systems are in general use, one in which the
+crank-shaft is turned by means of an air motor, the other class where
+compressed air is admitted to the cylinders proper and the motor turned
+over because of the air pressure acting on the engine pistons. A system
+known as the "Never-Miss" utilizes a small double-cylinder air pump is
+driven from the engine by means of suitable gearing and supplies air to
+a substantial container located at some convenient point in the
+fuselage. The air is piped from the container to a dash-control valve
+and from this member to a peculiar form of air motor mounted near the
+crank-shaft. The air motor consists of a piston to which a rack is
+fastened which engages a gear mounted on the crank shaft provided with
+some form of ratchet clutch to permit it to revolve only in one
+direction, and then only when the gear is turning faster than the engine
+crank-shaft.
+
+The method of operation is extremely simple, the dash-control valve
+admitting air from the supply tank to the top of the pump cylinder. When
+in the position shown in cut the air pressure will force the piston and
+rack down and set the engine in motion. A variety of air motors are used
+and in some the pump and motor may be the same device, means being
+provided to change the pump to an air motor when the engine is to be
+turned over.
+
+The "Christensen" air starting system is shown at Figs. 252 and 253. An
+air pump is driven by the engine, and this supplies air to an air
+reservoir or container attached to the fuselage. This container
+communicates with the top of an air distributor when a suitable control
+valve is open. An air pressure gauge is provided to enable one to
+ascertain the air pressure available. The top of each cylinder is
+provided with a check valve, through which air can flow only in one
+direction, i.e., from the tank to the interior of the cylinder. Under
+explosive pressure these check valves close. The function of the
+distributor is practically the same as that of an ignition timer, its
+purpose being to distribute the air to the cylinders of the engine only
+in the proper firing order. All the while that the engine is running and
+the car is in motion the air pump is functioning, unless thrown out of
+action by an easily manipulated automatic control. When it is desired to
+start the engine a starting valve is opened which permits the air to
+flow to the top of the distributor, and then through a pipe to the check
+valve on top of the cylinder about to explode. As the air is going
+through under considerable pressure it will move the piston down just as
+the explosion would, and start the engine rotating. The inside of the
+distributor rotates and directs a charge of air to the cylinder next to
+fire. In this way the engine is given a number of revolutions, and
+finally a charge of gas will be ignited and the engine start off on its
+cycle of operation. To make starting positive and easier some gasoline
+is injected in with the air so an inflammable mixture is present in the
+cylinders instead of air only. This ignites easily and the engine starts
+off sooner than would otherwise be the case. The air pressure required
+varies from 125 to 250 pounds per square inch, depending upon the size
+and type of the engine to be set in motion.
+

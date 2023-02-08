@@ -1,0 +1,42 @@
+
+BALL AND BALL TWO-STAGE CARBURETOR
+
+[Illustration: Fig. 48.--The Ball and Ball Two-Stage Carburetor.]
+
+This is a two-stage vaporizing device, hot air being used in the primary
+or initial stage of vaporization and cold air in the supplementary
+stage. Referring to the sectional illustration at Fig. 48, it will be
+seen that there is a hot-air passage with a choke-valve; the primary
+venturi appears at B; J is its gasoline jet, and V is a spring-loaded
+idling valve in a fixed air opening. These parts constitute the primary
+system. In the secondary system A is a cold-air passage, T a butterfly
+valve and J a gasoline jet discharging into the cold-air passage. This
+system is brought into operation by opening the butterfly T. A
+connection between the butterfly T and the throttle, not shown, throws
+the butterfly wide open when the throttle is not quite wide open; at all
+other times the butterfly is held closed by a spring. The cylindrical
+chamber at the right of the mixing chamber has an extension E of reduced
+diameter connecting it with the intake manifold through a passage D. A
+restricted opening connects the float chamber with the cylindrical
+chamber so that the gasoline level is the same in both. A loosely
+fitting plunger P in the cylindrical chamber has an upward extension
+into the small part of the chamber. O is a small air opening and M is a
+passage from the cylindrical chamber to the mixing chamber. Air
+constantly passes through this when the carburetor is in operation. The
+carburetor is really two in one. The primary carburetor is made up of a
+central jet in a venturi passage. The float chamber is eccentric. In the
+air passage there is a fixed opening, and additional air is taken in by
+the opening through suction of a spring-opposed air valve. The second
+stage, which comes into play as soon as the carburetor is called upon
+for additional mixture above low medium speeds, is made up of an
+independent air passage containing another air valve. As the valve is
+opened this jet is uncovered, and air is led past it. For easy starting
+an extra passage leads from the float bowl passage to a point above the
+throttle. All the suction falls upon this passage when the throttle is
+closed. The passage contains a plunger and acts as a pick-up device.
+When the vacuum increases the plunger rises and shuts off the flow of
+gasoline from the intake passage. As the throttle is opened the vacuum
+in the intake passage is broken, and the plunger falls, causing gasoline
+to gather above it. This is immediately drawn through the pick-up
+passage and gives the desired mixture for acceleration.
+

@@ -1,0 +1,55 @@
+We began our active experiments at the close of this period, in October,
+1900, at Kitty Hawk, North Carolina. Our machine was designed to be
+flown as a kite, with a man on board, in winds from 15 to 20 miles an
+hour. But, upon trial, it was found that much stronger winds were
+required to lift it. Suitable winds not being plentiful, we found it
+necessary, in order to test the new balancing system, to fly the machine
+as a kite without a man on board, operating the levers through cords
+from the ground. This did not give the practice anticipated, but it
+inspired confidence in the new system of balance.
+
+In the summer of 1901 we became personally acquainted with Mr. Chanute.
+When he learned that we were interested in flying as a sport, and not
+with any expectation of recovering the money we were expending on it, he
+gave us much encouragement. At our invitation, he spent several weeks
+with us at our camp at Kill Devil Hill, four miles south of Kitty Hawk,
+during our experiments of that and the two succeeding years. He also
+witnessed one flight of the power machine near Dayton, Ohio, in October,
+1904.
+
+The machine of 1901 was built with the shape of surface used by
+Lilienthal, curved from front to rear like the segment of a parabola,
+with a curvature 1/12 the depth of its cord; but to make doubly sure
+that it would have sufficient lifting capacity when flown as a kite in
+15 or 20-mile winds, we increased the area from 165 square feet, used in
+1900, to 308 square feet--a size much larger than Lilienthal, Pilcher,
+or Chanute had deemed safe. Upon trial, however, the lifting capacity
+again fell very far short of calculation, so that the idea of securing
+practice while flying as a kite had to be abandoned. Mr. Chanute, who
+witnessed the experiments, told us that the trouble was not due to poor
+construction of the machine. We saw only one other explanation--that the
+tables of air-pressures in general use were incorrect.
+
+[Illustration]
+
+We then turned to gliding--coasting downhill on the air--as the only
+method of getting the desired practice in balancing a machine. After
+a few minutes' practice we were able to make glides of over 300 feet,
+and in a few days were safely operating in 27-mile winds. In these
+experiments we met with several unexpected phenomena. We found that,
+contrary to the teachings of the books, the center of pressure on a
+curved surface traveled backward when the surface was inclined, at small
+angles, more and more edgewise to the wind. We also discovered that in
+free flight, when the wing on one side of the machine was presented to
+the wind at a greater angle than the one on the other side, the wing
+with the greater angle descended, and the machine turned in a direction
+just the reverse of what we were led to expect when flying the machine
+as a kite. The larger angle gave more resistance to forward motion, and
+reduced the speed of the wing on that side. The decrease in speed more
+than counterbalanced the effect of the larger angle. The addition of a
+fixed vertical vane in the rear increased the trouble, and made the
+machine absolutely dangerous. It was some time before a remedy was
+discovered. This consisted of movable rudders working in conjunction
+with the twisting of the wings. The details of this arrangement are
+given in specifications published several years ago.
+

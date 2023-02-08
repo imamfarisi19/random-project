@@ -1,0 +1,49 @@
+[Illustration: Fig. 9.--Defining Three-port, Two-cycle Engine Action.]
+
+The operating principle of the three-port, two-cycle engine is
+practically the same as that previously described with the exception
+that the gas is admitted to the crank-case through a third port in the
+cylinder wall, which is uncovered by the piston when that member reaches
+the end of its upstroke. The action of the three-port form can be
+readily ascertained by studying the diagrams given at Fig. 9.
+Combination two- and three-port engines have been evolved and other
+modifications made to improve the action.
+
+
+THE TWO-CYCLE AND FOUR-CYCLE TYPES
+
+In the earlier years of explosive-motor progress was evolved the two
+types of motors in regard to the cycles of their operation. The early
+attempts to perfect the two-cycle principle were for many years held in
+abeyance from the pressure of interests in the four-cycle type, until
+its simplicity and power possibilities were demonstrated by Mr. Dugald
+Clerk in England, who gave the principles of the two-cycle motor a broad
+bearing leading to immediate improvements in design, which has made
+further progress in the United States, until at the present time it has
+an equal standard value as a motor-power in some applications as its
+ancient rival the four-cycle or Otto type, as demonstrated by Beau de
+Rocha in 1862.
+
+Thermodynamically, the methods of the two types are equal as far as
+combustion is concerned, and compression may favor in a small degree the
+four-cycle type as well as the purity of the charge. The cylinder volume
+of the two-cycle motor is much smaller per unit of power, and the
+enveloping cylinder surface is therefore greater per unit of volume.
+Hence more heat is carried off by the jacket water during compression,
+and the higher compression available from this tends to increase the
+economy during compression which is lost during expansion.
+
+From the above considerations it may be safely stated that a _lower_
+temperature and higher pressure of charge at the beginning of
+compression is obtained in the two-cycle motor, greater weight of charge
+and greater specific power of higher compression resulting in higher
+thermal efficiency. The smaller cylinder for the same power of the
+two-cycle motor gives less friction surface per impulse than of the
+other type; although the crank-chamber pressure may, in a measure,
+balance the friction of the four-cycle type. Probably the strongest
+points in favor of the two-cycle type are the lighter fly-wheel and the
+absence of valves and valve gear, making this type the most simple in
+construction and the lightest in weight for its developed power. Yet,
+for the larger power units, the four-cycle type will no doubt always
+maintain the standard for efficiency and durability of action.
+

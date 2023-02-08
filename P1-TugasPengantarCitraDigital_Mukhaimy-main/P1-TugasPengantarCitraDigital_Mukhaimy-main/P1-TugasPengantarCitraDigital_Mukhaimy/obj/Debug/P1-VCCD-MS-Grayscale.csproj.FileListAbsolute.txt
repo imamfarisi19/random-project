@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\bin\Debug\P1-TugasPengantarCitraDigital_Mukhaimy.exe.config
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\bin\Debug\P1-TugasPengantarCitraDigital_Mukhaimy.exe
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\bin\Debug\P1-TugasPengantarCitraDigital_Mukhaimy.pdb
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\obj\Debug\P1_TugasPengantarCitraDigital_Mukhaimy.Form1.resources
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\obj\Debug\P1_TugasPengantarCitraDigital_Mukhaimy.Properties.Resources.resources
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\obj\Debug\P1-VCCD-MS-Grayscale.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\obj\Debug\P1-TugasPengantarCitraDigital_Mukhaimy.exe
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\obj\Debug\P1-TugasPengantarCitraDigital_Mukhaimy.pdb
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-TugasPengantarCitraDigital_Mukhaimy\obj\Debug\P1-VCCD-MS-Grayscale.csprojAssemblyReference.cache

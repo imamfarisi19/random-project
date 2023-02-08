@@ -1,0 +1,40 @@
+
+HISTORICAL
+
+Although the ideal principle of explosive power was conceived some two
+hundred years ago, at which time experiments were made with gunpowder as
+the explosive element, it was not until the last years of the eighteenth
+century that the idea took a patentable shape, and not until about 1826
+(Brown's gas-vacuum engine) that a further progress was made in England
+by condensing the products of combustion by a jet of water, thus
+creating a partial vacuum.
+
+Brown's was probably the first explosive engine that did real work. It
+was clumsy and unwieldy and was soon relegated to its place among the
+failures of previous experiments. No approach to active explosive effect
+in a cylinder was reached in practice, although many ingenious designs
+were described, until about 1838 and the following years. Barnett's
+engine in England was the first attempt to compress the charge before
+exploding. From this time on to about 1860 many patents were issued in
+Europe and a few in the United States for gas-engines, but the progress
+was slow, and its practical introduction for power came with spasmodic
+effect and low efficiency. From 1860 on, practical improvement seems to
+have been made, and the Lenoir motor was produced in France and brought
+to the United States. It failed to meet expectations, and was soon
+followed by further improvements in the Hugon motor in France (1862),
+followed by Beau de Rocha's four-cycle idea, which has been slowly
+developed through a long series of experimental trials by different
+inventors. In the hands of Otto and Langdon a further progress was made,
+and numerous patents were issued in England, France, and Germany, and
+followed up by an increasing interest in the United States, with a few
+patents.
+
+From 1870 improvements seem to have advanced at a steady rate, and
+largely in the valve-gear and precision of governing for variable load.
+The early idea of the necessity of slow combustion was a great drawback
+in the advancement of efficiency, and the suggestion of de Rocha in 1862
+did not take root as a prophetic truth until many failures and years of
+experience had taught the fundamental axiom that rapidity of action in
+both combustion and expansion was the basis of success in explosive
+motors.
+

@@ -1,0 +1,42 @@
+The extraordinary evolutions described by airplanes in flight make it a
+matter of vital necessity to operate engines inclined at all angles to
+the vertical as well as in an upside-down position. To meet this
+situation lubricating systems have been elaborated so as to deliver an
+abundance of oil where needed and to eliminate possible flooding of
+cylinders. This is done by applying a full force feed system,
+distributing oil under considerable pressure to all working parts.
+Discharged through the bearings, the oil drains down to the suction side
+of a second pump located in the bottom of the base chamber. This pump
+being of greater capacity than the first prevents the accumulation of
+oil in the crank-case, and forces it to a separate oil reservoir-cooler,
+whence it flows back in rapid circulation to the pump feeding the
+bearings. With this arrangement positive lubrication is entirely
+independent of engine position. The lubricating system of the
+Thomas-Morse aviation engines, which is shown at Fig. 76, is typical of
+current practice.
+
+[Illustration: Fig. 76.--Pressure Feed Oiling System of Thomas Aviation
+Engine Includes Oil Cooling Means.]
+
+
+GNOME TYPE ENGINES USE CASTOR OIL
+
+The construction and operation of rotative radial cylinder engines
+introduce additional difficulties of lubrication to those already
+referred to and merit especial attention. Owing to the peculiar
+alimentation systems of Gnome type engines, atomized gasoline mixed with
+air is drawn through the hollow stationary crank-shaft directly into the
+crank-case which it fills on the way to the cylinders. Therein lies the
+trouble. Hydrocarbon oils are soon dissolved by the gasoline and washed
+off, leaving the bearing surfaces without adequate protection and
+exposed to instant wear and destruction. So castor oil is resorted to as
+an indispensable but unfortunate compromise. Of vegetable origin, it
+leaves a much more bulky carbon deposit in the explosion chambers than
+does mineral oil and its great affinity for oxygen causes the formation
+of voluminous gummy deposit in the crank-case. Engines employing it need
+to be dismounted and thoroughly scraped out at frequent intervals. It is
+advisable to use only unblended chemically pure castor oil in rotative
+engines, first by virtue of its insolubility in gasoline and second
+because its extra heavy body can resist the high temperature of
+air-cooled cylinders.
+

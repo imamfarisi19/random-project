@@ -1,0 +1,47 @@
+Fig. 64, B shows diagrammatically the circuit of the type "DD" BERLING
+high-tension two-spark dual magneto. This type is recommended for
+certain types of heavy-duty airplane motors, which it is impossible to
+turn over fast enough to give the magneto sufficient speed to generate
+even a single spark of volume great enough to ignite the gas in the
+cylinder. The dual feature consists of the addition to the magneto of a
+battery interrupter. The equipment consists of the magneto, coil and
+special high-tension switch. The coil is intended to operate on six
+volts. Either a storage battery or dry cells may be used.
+
+With the switch in the OFF position, the magneto is grounded, and the
+battery circuit is open. With the switch in the second or battery
+position marked "BAT," one end of the secondary winding of the magneto
+is grounded, and the magneto operates as a single-spark magneto
+delivering high-tension current to the inside distributor, and the
+battery circuit being closed the high-tension current from the coil is
+delivered to the outside distributor. In this position the battery
+current is supplied to one set of spark plugs, no matter how slowly the
+motor is turned over, but as soon as the motor starts, the magneto
+supplies current as a single-spark magneto to the other set of the
+spark-plugs. After the engine is running, the switch should be thrown to
+the position marked "MAG." The battery and coil are then disconnected,
+and the magneto furnishes ignition to both plugs in each cylinder. This
+is the normal running position. Either a non-vibrating coil type "N-1"
+is furnished or a combined vibrating and non-vibrating coil type
+"VN-1."
+
+
+SETTING BERLING MAGNETO
+
+The magneto may be set according to one of two different methods, the
+selection of which is, to some extent, governed by the characteristics
+of the engine, but largely due to the personal preference on the part of
+the user. In the first method described below, the most advantageous
+position of the piston for fully advanced ignition is determined in
+relation to the extreme advanced position of the magneto. In this case,
+the fully retarded ignition will not be a matter of selection, but the
+timing range of the magneto is wide enough to bring the fully retarded
+ignition after top-center position of the piston. The second method for
+the setting of the magneto fixes the fully retarded position of the
+magneto in relation to that position of the piston where fully retarded
+ignition is desired. In this case, the extreme advance position of the
+magneto will not always correspond with the best position of the piston
+for fully advanced ignition, and the amount of advance the magneto
+should have to meet ideal requirements in this respect must be
+determined by experiment.
+

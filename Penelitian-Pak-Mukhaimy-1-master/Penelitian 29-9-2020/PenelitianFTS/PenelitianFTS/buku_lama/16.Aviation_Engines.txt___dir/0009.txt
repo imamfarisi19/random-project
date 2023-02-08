@@ -1,0 +1,40 @@
+Airship motors, as a rule, must operate constantly at high speeds in
+order to obtain a maximum power delivery with a minimum piston
+displacement. In automobiles, or motor boats, motors are not required to
+run constantly at their maximum speed. Most aircraft motors must
+function for extended periods at speed as nearly the maximum as
+possible. Another thing that militates against the aircraft motor is the
+more or less unsteady foundation to which it is attached. The
+necessarily light framework of the aeroplane makes it hard for a motor
+to perform at maximum efficiency on account of the vibration of its
+foundation while the craft is in flight. Marine and motor car engines,
+while not placed on foundations as firm as those provided for stationary
+power plants, are installed on bases of much more stability than the
+light structure of an aeroplane. The aircraft motor, therefore, must be
+balanced to a nicety and must run steadily under the most unfavorable
+conditions.
+
+
+AERIAL MOTORS MUST BE LIGHT
+
+The capacity of light motors designed for aerial work per unit of mass
+is surprising to those not fully conversant with the possibilities that
+a thorough knowledge of proportions of parts and the use of special
+metals developed by the automobile industry make possible. Activity in
+the development of light motors has been more pronounced in France than
+in any other country. Some of these motors have been complicated types
+made light by the skillful proportioning of parts, others are of the
+refined simpler form modified from current automobile practice. There is
+a tendency to depart from the freakish or unconventional construction
+and to adhere more closely to standard forms because it is necessary to
+have the parts of such size that every quality making for reliability,
+efficiency and endurance are incorporated in the design. Aeroplane
+motors range from two cylinders to forms having fourteen and sixteen
+cylinders and the arrangement of these members varies from the
+conventional vertical tandem and opposed placing to the V form or the
+more unusual radial motors having either fixed or rotary cylinders. The
+weight has been reduced so it is possible to obtain a complete power
+plant of the revolving cylinder air-cooled type that will not weigh more
+than three pounds per actual horse-power and in some cases less than
+this.
+

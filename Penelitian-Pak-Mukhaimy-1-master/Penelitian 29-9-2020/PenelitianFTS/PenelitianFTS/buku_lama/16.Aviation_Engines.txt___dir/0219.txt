@@ -1,0 +1,46 @@
+In cutting external threads on small rods or on small pieces, such as
+bolts and studs, it is not always economical to do this work in the
+lathe, especially in repair work. Dies are used to cut threads on pieces
+that are to be placed in tapped holes that have been threaded by the
+corresponding size of tap. Dies for small work are often made solid, as
+shown at Fig. 171, C, but solid dies are usually limited to sizes below
+1/2 inch. Sometimes the solid die is cylindrical in shape, with a slot
+through one side which enables one to obtain a slight degree of
+adjustment by squeezing the slotted portion together. Large dies, or the
+sizes over 1/2 inch, are usually made in two pieces in order that the
+halves may be closed up or brought nearer together. The advantage of
+this form of die is that either of the two pieces may be easily
+sharpened, and as it may be adjusted very easily the thread may be cut
+by easy stages. For example, the die may be adjusted to cut large, which
+will produce a shallow thread that will act as an accurate guide when
+the die is closed up and a deeper thread cut.
+
+[Illustration: Fig. 172.--Showing Holder Designs for One- and Two-Piece
+Thread Cutting Dies.]
+
+A common form of die holder for an adjustable die is shown at Fig. 172,
+A. As will be apparent, it consists of a central body portion having
+guide members to keep the die pieces from falling out and levers at each
+end in order to permit the operator to exert sufficient force to remove
+the metal. The method of adjusting the depth of thread with a clamp
+screw when a two-piece die is employed is also clearly outlined. The
+diestock shown at B is used for the smaller dies of the one-piece
+pattern, having a slot in order that they may be closed up slightly by
+the clamp screw. The reverse side of the diestock shown at B is outlined
+below it, and the guide pieces, which may be easily moved in or out,
+according to the size of the piece to be threaded by means of
+eccentrically disposed semi-circular slots in the adjustment plate, are
+shown. These movable guide members have small pins let into their
+surface which engage the slots, and they may be moved in or out, as
+desired, according to the position of the adjusting plate. The use of
+the guide pieces makes for accurate positioning or centering of the rod
+to be threaded. Dies are usually sold in sets, and are commonly
+furnished as a portion of a complete outfit such as outlined at Fig.
+173. That shown has two sizes of diestock, a tap wrench, eight assorted
+dies, eight assorted taps, and a small screw driver for adjusting the
+die. An automobile repair shop should be provided with three different
+sets of taps and dies, as three different standards for the bolts and
+nuts are used in fastening automobile components. These are the
+American, metric (used on foreign engines), and the S. A. E. standard
+threads. A set of pipe dies and taps will also be found useful.
+

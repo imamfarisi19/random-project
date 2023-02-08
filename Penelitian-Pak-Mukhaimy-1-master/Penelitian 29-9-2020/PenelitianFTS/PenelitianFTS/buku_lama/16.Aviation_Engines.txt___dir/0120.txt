@@ -1,0 +1,60 @@
+
+FACTORS INFLUENCING LUBRICATION SYSTEM SELECTION
+
+The suitability of oil for the proper and efficient lubrication of all
+internal combustion engines is determined chiefly by the following
+factors:
+
+1. Type of cooling system (operating temperatures).
+
+2. Type of lubricating system (method of applying oil to the moving
+parts).
+
+3. Rubbing speeds of contact surfaces.
+
+Were the operating temperatures, bearing surface speeds and lubrication
+systems identical, a single oil could be used in all engines with equal
+satisfaction. The only change then necessary in viscosity would be that
+due to climatic conditions. As engines are now designed, only three
+grades of oil are necessary for the lubrication of all types with the
+exception of Knight, air-cooled and some engines which run continuously
+at full load. In the specification of engine lubricants the feature of
+load carried by the engine should be carefully considered.
+
+_Full Load Engines._
+
+1. Marine.
+2. Racing automobile.
+3. Aviation.
+4. Farm tractor.
+5. Some stationary.
+
+_Variable Load Engines._
+
+1. Pleasure automobile.
+2. Commercial vehicle.
+3. Motor cycle.
+4. Some stationary.
+
+Of the forms outlined, the only one we have any immediate concern about
+is the airplane power plant. The Platt & Washburn Refining Company, who
+have made a careful study of the lubrication problem as applied to all
+types of engines, have found a peculiar set of conditions to apply to
+oiling high-speed constant-duty or "full-load" engines. Modern airplane
+engines are designed to operate continuously at a fairly uniform high
+rotative speed and at full load over long periods of time. As a sequence
+to this heavy duty the operating temperatures are elevated. For the
+sake of extreme lightness in weight of all parts, very thin alloy steel
+aluminum or cast iron pistons are fitted and the temperature of the thin
+piston heads at the center reaches anywhere between 600° and 1,400°
+Fahr., as in automobile racing engines. Freely exposed to such intense
+heat hydro-carbon oils are partially "cracked" into light and heavy
+products or polymerized into solid hydro-carbons. From these facts it
+follows that only heavy mineral oils of low carbon residue and of the
+greatest chemical purity and stability should be used to secure good
+lubrication. In all cases the oil should be sufficiently heavy to assure
+the highest horse-power and fuel and oil economy compatible with perfect
+lubrication, avoiding, at the same time, carbonization and ignition
+failure. When aluminum pistons are used their superior heat-conducting
+properties aid materially in reducing the rate of oil destruction.
+

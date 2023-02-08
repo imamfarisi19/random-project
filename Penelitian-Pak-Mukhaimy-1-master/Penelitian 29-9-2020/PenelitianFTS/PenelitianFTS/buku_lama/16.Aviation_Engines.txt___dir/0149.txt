@@ -1,0 +1,36 @@
+
+VALVE SPRINGS
+
+[Illustration: Fig. 105.--Section Through Cylinder of Knight Motor,
+Showing Important Parts of Valve Motion.]
+
+Another consideration of importance is the use of proper valve-springs,
+and particular care should be taken with those, of automatic valves. The
+spring must be weak enough to allow the valve to open when the suction
+is light, and must be of sufficient strength to close it in time at high
+speeds. It should be made as large as possible in diameter and with a
+large number of convolutions, in order that fatigue of the metal be
+obviated, and it is imperative that all springs be of the same strength
+when used on a multiple-cylinder engine. Practically all valves used to
+control the gas flow in airplane engines are mechanically operated. On
+the exhaust valve the spring must be strong enough so that the valve
+will not be sucked in on the inlet stroke. It should be borne in mind
+that if the spring is too strong a strain will be imposed on the
+valve-operating mechanism, and a hammering action produced which may
+cause deformation of the valve-seat. Only pressure enough to insure that
+the operating mechanism will follow the cam is required. It is common
+practice to make the inlet and exhaust valve springs of the same
+tension when the valves are of the same size and both mechanically
+operated. This is done merely to simplify manufacture and not because it
+is necessary for the inlet valve-spring to be as strong as the other.
+Valve springs of the helical coil type are generally used, though
+torsion or "scissors" springs and laminated or single-leaf springs are
+also utilized in special applications. Two springs are used on each
+valve in some valve-in-the-head types; a spring of small pitch diameter
+inside the regular valve-spring and concentric with it. Its function is
+to keep the valve from falling into the cylinder in event of breakage of
+the main spring in some cases, and to provide a stronger return action
+in others.
+
+[Illustration: Fig. 106.--Diagrams Showing Knight Sleeve Valve Action.]
+

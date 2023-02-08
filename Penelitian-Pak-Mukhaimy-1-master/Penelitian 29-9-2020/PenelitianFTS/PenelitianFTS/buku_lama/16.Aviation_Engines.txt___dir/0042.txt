@@ -1,0 +1,47 @@
+P_{2} = P_{1} (V_{1}/V_{2})^{1.4}                                  1
+
+which is for adiabatic compression of air. Equation (1) is right enough
+in general form but gives results which are entirely too high, as
+almost all designers know from experience. The trouble lies in the
+interchange of heat between the compressed gases and the cylinder walls,
+in the diminution of the exponent (1.4 in the above) due to the lesser
+ratio of specific heat of gasoline vapor and in the transfer of heat
+from the gases which are being compressed to whatever fuel may enter the
+cylinder in an unvaporized condition. Also, there is always some piston
+leakage, and, if the form of the equation (1) is to be retained, this
+also tends to lower the value of the exponent. From experience with many
+engines, it appears that compression reaches its highest value in the
+cylinder for but a short range of motor speeds, usually during the
+mid-range. Also, it appears that, at those speeds at which compression
+shows its highest values, the initial pressure at the start of the
+compression stroke is from .5 to .9 lb. below atmospheric. Taking this
+latter loss value, which shows more often than those of lesser value,
+the compression is seen to start from an initial pressure of 13.9 lbs.
+per sq. in. absolute.
+
+Also, experiment shows that if the exponent be given the value 1.26,
+instead of 1.4, the equation will embrace all heat losses in the
+compressed gas, and compensate for the changed ratio of specific heats
+for the mixture and also for all piston leakage, in the average engine
+with rings in good condition and tight. In the light of the foregoing,
+and in view of results obtained from its use, the above curve is
+offered--values of P_{2} being found from the equation
+
+P_{2} = 13.8 (V_{1}/V_{2})^{1.26}
+
+In using this curve it must be remembered that pressures are absolute.
+Thus: suppose it is desired to know the volumetric relationships of the
+cylinder for a compression pressure of 75 lbs. gauge. Add atmospheric
+pressure to the desired gauge pressure 14.7 + 75 = 89.7 lbs. absolute.
+Locate this pressure on the scale of ordinates and follow horizontally
+across to the curve and then vertically downward to the scale of
+abscissas, where the ratio of the combustion chamber volume to the total
+cylinder volume is given, which latter is equal to the sum of the
+combustion chamber volume and that of the piston sweep. In the above
+case it is found that the combustion space for a compression pressure of
+75 lbs. gauge will be .225 of the total cylinder volume, or .225 ÷ .775
+= .2905 of the piston sweep volume. Conversely, knowing the volumetric
+ratios, compression pressure can be read directly by proceeding from the
+scale of abscissas vertically to the curve and thence horizontally to
+the scale of ordinates.
+

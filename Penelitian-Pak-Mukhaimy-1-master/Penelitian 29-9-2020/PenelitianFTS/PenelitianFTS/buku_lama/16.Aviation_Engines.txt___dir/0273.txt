@@ -1,0 +1,67 @@
+[Illustration: Fig. 222.--Diagrams Showing Le Rhone Motor Action and
+Firing Order.]
+
+The magneto is driven by a gear having 36 teeth attached to crank-case
+which meshes with 16-tooth pinion on armature. The magneto turns at 2.25
+times crank-case speed. Two cams, one for inlet, one for exhaust, are
+mounted on a carrying member and act on nine rocker arms which are
+capable of giving a push-and-pull motion to the valve-actuating
+rocker-operating rods. A gear driven by the crank-case meshes with a
+larger member having internal teeth carried by the cam carrier. Each cam
+has five profiles and is mounted in staggered relation to the other.
+These give the nine fulcrumed levers the proper motion to open the inlet
+and exhaust valves at the proper time. The cams are driven at 45/50 or
+9/10 of the motor speed. The cylinder dimensions and timing follows; the
+weight can be approximated by figuring 3 pounds per horse-power.
+
+80 H.P.     105 M/M bore       4.20" bore.
+140 M/M stroke     5.60" stroke.
+
+110 H.P.     112 M/M bore       4.48" bore.
+170 M/M stroke     6.80" stroke.
+
+Timing--Intake valve opening, lag     18°}             18°}
+Intake valve closing, lag     35°}             35°}
+Exhaust valve opening, lead   55°} 110 H.P.    45°} 80 H.P.
+Exhaust valve closing, lag     5°}              5°}
+Ignition time advance         26°}             26°}
+
+[Illustration: Fig. 223.--Diagram Showing Positions of Piston in Le
+Rhone Rotary Cylinder Motor.]
+
+
+THE RENAULT AIR-COOLED VEE ENGINE
+
+[Illustration: Fig. 224.--Diagrams Showing Valve Timing of Le Rhone
+Aviation Engine.]
+
+[Illustration: Fig. 225.--Diagrams Showing How Cylinder Cooling is
+Effected in Renault Vee Engines.]
+
+Air-cooled stationary engines are rarely used in airplanes, but the
+Renault Frères of France have for several years manufactured a complete
+series of such engines of the general design shown at Fig. 225, ranging
+from a low-powered one developed eight or nine years ago and rated at
+40 and 50 horse-power, to later eight-cylinder models rated at 70
+horse-power and a twelve-cylinder, or twin six, rated at 90 horse-power.
+The cylinders are of cast iron and are furnished with numerous cooling
+ribs which are cast integrally. The cylinder heads are separate
+castings and are attached to the cylinder as in early motorcycle engine
+practice, and serve to hold the cylinder in place on the aluminum alloy
+crank-case by a cruciform yoke and four long hold-down bolts (Fig. 226).
+The pistons are of cast steel and utilize piston rings of cast iron. The
+valves are situated on the inner side of the cylinder head, the
+arrangement being unconventional in that the exhaust valves are placed
+above the inlet. The inlet valves seat in an extension of the combustion
+head and are actuated by direct push rod and cam in the usual manner
+while an overhead gear in which rockers are operated by push rods is
+needed to actuate the exhaust valves. The valve action is clearly shown
+in Figs. 226 and 227. The air stream by which the cylinders are cooled
+is produced by a centrifugal or blower type fan of relatively large
+diameter which is mounted on the end of a crank-shaft and the air blast
+is delivered from this blower into an enclosed space between the
+cylinder from which it escapes only after passing over the cooling fins.
+In spite of the fact that considerable prejudice exists against
+air-cooling fixed cylinder engines, the Renault has given very good
+service in both England and France.
+

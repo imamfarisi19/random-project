@@ -1,0 +1,41 @@
+[Illustration: Fig. 159.--How Anzani Ten-Cylinder Radial Engine is
+Installed to Plate Securely Attached to Front End of Tractor Airplane
+Fuselage.]
+
+To insure that the motor will continue to operate it is necessary to
+keep it from overheating by some form of cooling system and to supply
+oil to the moving parts to reduce friction. The cooling and lubrication
+groups are not so important as carburetion and ignition, as the engine
+would run for a limited period of time even should the cooling system
+fail or the oil supply cease. It would only be a few moments, however,
+before the engine would overheat if the cooling system was at fault, and
+the parts seize if the lubricating system should fail. Any derangement
+in the carburetor or ignition mechanism would manifest itself at once
+because the engine operation would be affected, but a defect in the
+cooling or oiling system would not be noticed so readily.
+
+The careful aviator will always inspect the motor mechanism before
+starting on a trip of any consequence, and if inspection is carefully
+carried out and loose parts tightened it is seldom that irregular
+operation will be found due to actual breakage of any of the components
+of the mechanism. Deterioration due to natural causes matures slowly,
+and sufficient warning is always given when parts begin to wear so
+satisfactory repairs may be promptly made before serious derangement or
+failure is manifested.
+
+
+A TYPICAL ENGINE STOPPAGE ANALYZED
+
+Before describing the points that may fail in the various auxiliary
+systems it will be well to assume a typical case of engine failure and
+show the process of locating the trouble in a systematic manner by
+indicating the various steps which are in logical order and which could
+reasonably be followed. In any case of engine failure the ignition
+system, motor compression, and carburetor should be tested first. If the
+ignition system is functioning properly one should determine the amount
+of compression in all cylinders and if this is satisfactory the
+carbureting group should be tested. If the ignition system is working
+properly and there is a decided resistance in the cylinders when the
+propeller is turned, proving that there is good compression, one may
+suspect the carburetor.
+

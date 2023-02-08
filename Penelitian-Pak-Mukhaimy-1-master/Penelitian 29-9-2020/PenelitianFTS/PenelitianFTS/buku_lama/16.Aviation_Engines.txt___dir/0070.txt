@@ -1,0 +1,50 @@
+[Illustration: Fig. 45.--New Model of Schebler Carburetor With Metering
+Valve and Extended Venturi. Note Mechanical Connection Between Air Valve
+and Fuel Regulating Needle.]
+
+
+THE CLAUDEL (FRENCH) CARBURETOR
+
+[Illustration: Fig. 46.--The Claudel Carburetor.]
+
+This carburetor is of extremely simple construction, because it has no
+supplementary or auxiliary air valve and no moving parts except the
+throttle controlling the gas flow. The construction is already shown in
+Fig. 46. The spray jet is eccentric with a surrounding sleeve or tube
+in which there are two series of small orifices, one at the top and the
+other near the bottom. The former are about level with the spray jet
+opening. The sleeve surrounding the nozzle is closed at the top. The
+air, passing the upper holes in the sleeve, produces a vacuum in the
+sleeve, thereby drawing air in through the bottom holes. It is this
+moving interior column of air that controls the flow of gasoline from
+the nozzle. Owing to the friction of the small passages, the speed of
+air flow through the sleeve does not increase as fast as the speed of
+air flow outside the sleeve, hence there is a tendency for the mixture
+to remain constant. The throttle of this carburetor is of the barrel
+type, and the top of the spray nozzle and its surrounding sleeve are
+located inside the throttle.
+
+
+STEWART METERING PIN CARBURETOR
+
+The carburetor shown at Fig. 47 is a metering type in which the vacuum
+at the jet is controlled by the weight of the metering valve surrounding
+the upright metering pin. The only moving part is the metering valve,
+which rises and falls with the changes in vacuum. The air chamber
+surrounds the metering valve, and there is a mixing chamber above. As
+the valve is drawn up the gasoline passage is enlarged on account of the
+predetermined taper on the metering pin, and the air passage also is
+increased proportionately, giving the correct mixture. A dashpot at the
+bottom of the valve checks flutter. In idling the valve rests on its
+seat, practically closing the air and giving the necessary idling
+mixture. A passage through the valve acts as an aspirating tube. When
+the valve is closed altogether the primary air passes through ducts in
+the valve itself, giving the proper amount for idling. The one
+adjustment consists in raising or lowering the tapered metering pin,
+increasing or decreasing the supply of gasoline. Dash control is
+supplied. This pulls down the metering pin, increasing the gasoline
+flow. The duplex type for eight- and twelve-cylinder motors is the same
+in principle as model 25, but it is a double carburetor synchronized as
+to throttle movements, adjustments, etc. The duplex for aeronautical
+motors is made of cast aluminum alloy.
+

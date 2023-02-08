@@ -1,0 +1,37 @@
+"Now supposing we consider that the altitude is 7,000 feet above sea
+level. At this height the atmospheric pressure is 11.25 pounds per
+square inch, approximately. In this case we can again substitute in the
+formula, using the new atmospheric pressure figure. The equation
+becomes:
+
+P^{1} = 11.25 (4.5)^{1.3}--79.4 pounds per square inch, absolute.
+
+"Therefore we now have a final compression pressure of only 79.4 pounds
+per square inch, which is considerably below the pressure we have just
+found to be the most efficient for the motor. The resulting power drop
+is evident.
+
+"It should be borne in mind that these final compression pressures are
+absolute pressures--that is, they include the atmospheric pressure. In
+the first case, to get the pressure above atmospheric you would subtract
+14.7 and in the latter 11.25 would have to be deducted. In other words,
+where the sea level compression is 89.3 pounds per square inch above the
+atmosphere, the same motor will have only a compression pressure of
+68.15 pounds per square inch above the atmosphere at 7,000 feet
+elevation.
+
+"From the above it is evident that in order to bring the final
+compression pressure up to the efficient figure we have determined, a
+different compression ratio would have to be used. That is, the final
+volume would have to be less, and as it is impossible to vary this to
+meet the conditions of altitude, the loss of power cannot be helped
+except by the replacing of the standard pistons with some that are
+longer above the wrist-pin so as to reduce the space above the pistons
+when on top center. Then if the ratio is thereby raised to some such
+figures as 5 to 1, the engine will again have its proper final pressure,
+but it will still not have as much power as it would have at sea level,
+since the horse-power varies directly with the atmospheric pressure,
+final compression being kept constant. That is, at 7,000 feet the
+horse-power of an engine that had 40 horse-power at sea level would be
+equal to
+

@@ -1,0 +1,45 @@
+To work intelligently, one needs to know the effects of a multitude
+of variations that could be incorporated in the surfaces of flying
+machines. The pressures on squares are different from those on
+rectangles, circles, triangles, or ellipses; arched surfaces differ
+from planes, and vary among themselves according to the depth of
+curvature; true arcs differ from parabolas, and the latter differ
+among themselves; thick surfaces differ from thin, and surfaces
+thicker in one place than another vary in pressure when the positions
+of maximum thickness are different; some surfaces are most efficient
+at one angle, others at other angles. The shape of the edge also makes
+a difference, so that thousands of combinations are possible in so
+simple a thing as a wing.
+
+We had taken up aeronautics merely as a sport. We reluctantly entered
+upon the scientific side of it. But we soon found the work so
+fascinating that we were drawn into it deeper and deeper. Two testing
+machines were built, which we believed would avoid the errors to which
+the measurements of others had been subject. After making preliminary
+measurements on a great number of different-shaped surfaces, to secure a
+general understanding of the subject, we began systematic measurements
+of standard surfaces, so varied in design as to bring out the underlying
+causes of differences noted in their pressures. Measurements were
+tabulated on nearly 50 of these at all angles from zero to 45 degrees at
+intervals of 2-1/2 degrees. Measurements were also secured showing the
+effects on each other when surfaces are superposed, or when they follow
+one another.
+
+Some strange results were obtained. One surface, with a heavy roll at
+the front edge, showed the same lift for all angles from 7-1/2 to 45
+degrees. A square plane, contrary to the measurements of all our
+predecessors, gave a greater pressure at 30 degrees than at 45 degrees.
+This seemed so anomalous that we were almost ready to doubt our own
+measurements, when a simple test was suggested. A weather-vane, with two
+planes attached to the pointer at an angle of 80 degrees with each
+other, was made. According to our tables, such a vane would be in
+unstable equilibrium when pointing directly into the wind; for if by
+chance the wind should happen to strike one plane at 39 degrees and the
+other at 41 degrees, the plane with the smaller angle would have the
+greater pressure, and the pointer would be turned still farther out of
+the course of the wind until the two vanes again secured equal
+pressures, which would be at approximately 30 and 50 degrees. But the
+vane performed in this very manner. Further corroboration of the tables
+was obtained in experiments with the new glider at Kill Devil Hill the
+next season.
+

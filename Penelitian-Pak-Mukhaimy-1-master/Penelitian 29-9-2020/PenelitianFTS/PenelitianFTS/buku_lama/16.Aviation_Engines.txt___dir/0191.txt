@@ -1,0 +1,30 @@
+If the ignition system and carburetor appear to be in good working
+order, and the hand crank shows that there is no compression in one or
+more of the cylinders, it means some defect in the valve system. If the
+engine is a multiple-cylinder type and one finds poor compression in all
+of the cylinders it may be due to the rare defect of improper valve
+timing. This may be caused by a gear having altered its position on the
+cam-shaft or crank-shaft, because of a sheared key or pin having
+permitted the gear to turn about half of a revolution and then having
+caught and held the gear in place by a broken or jagged end so that
+cam-shaft would turn, but the valves open at the wrong time. If but one
+of the cylinders is at fault and the rest appear to have good
+compression the trouble may be due to a defective condition either
+inside or outside of that cylinder. The external parts may be inspected
+easily, so the following should be looked for: a broken valve, a warped
+valve-head, broken valve-springs, sticking or bent valve-stems, dirt
+under valve-seat, leak at valve-chamber cap or spark-plug gasket.
+Defective priming cock, cracked cylinder head (rarely occurs), leak
+through cracked spark-plug insulation, valve-plunger stuck in the
+guide, lack of clearance between valve-stem end and top of plunger
+caused by loose adjusting screw which has worked up and kept the valve
+from seating. The faulty compression may be due to defects inside the
+motor. The piston-head may be cracked (rarely occurs), piston rings may
+be broken, the slots in the piston rings may be in line, the rings may
+have lost their elasticity or have become gummed in the grooves of the
+piston, or the piston and cylinder walls may be badly scored by a loose
+wrist pin or by defective lubrication. If the motor is a type with a
+separate head it is possible the gasket or packing between the cylinder
+and combustion chamber may leak, either admitting water to the cylinder
+or allowing compression to escape.
+

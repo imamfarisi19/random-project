@@ -1,0 +1,40 @@
+[Illustration: Fig. 185.--Outlining Points in Valve Operating Mechanism
+Where Depreciation is Apt to Exist.]
+
+On the form shown at A, there are several parts added to those indicated
+at B. A walking beam or rocker lever is necessary to transform the
+upward motion of the tappet rod to a downward motion of the valve stem.
+The pin on which this member fulcrums may wear as will also the other
+pin acting as a hinge or bearing for the yoke end of the tappet rod. It
+will be apparent that if slight play existed at each of the points
+mentioned it might result in a serious diminution of valve opening.
+Suppose, for example, that there were .005-inch lost motion at each of
+three bearing points, the total lost motion would be .015-inch or
+sufficient to produce noisy action of the valve mechanism. When valve
+plungers of the adjustable form, such as shown at B, are used, the
+hardened bolt head in contact with the end of the valve stem may become
+hollowed out on account of the hammering action at that point. It is
+imperative that the top of this member be ground off true and the
+clearance between the valve stem and plunger properly adjusted. If the
+plunger is a non-adjustable type it will be necessary to lengthen the
+valve stem by some means in order to reduce the excessive clearance. The
+only remedy for wear at the various hinges and bearing pins is to bore
+the holes out slightly larger and to fit new hardened steel pins of
+larger diameter. Depreciation between the valve plunger guide and the
+valve plunger is usually remedied by fitting new plunger guides in place
+of the worn ones. If there is sufficient stock in the plunger guide
+casting as is sometimes the case when these members are not separable
+from the cylinder casting, the guide may be bored out and bushed with a
+light bronze bushing.
+
+A common cause of irregular engine operation is due to a sticking valve.
+This may be owing to a bent valve stem, a weak or broken valve spring or
+an accumulation of burnt or gummed oil between the valve stem and the
+valve stem guide. In order to prevent this the valve stem must be
+smoothed with fine emery cloth and no burrs or shoulders allowed to
+remain on it, and the stem must also be straight and at right angles to
+the valve head. If the spring is weak it may be strengthened in some
+cases by stretching it out after annealing so that a larger space will
+exist between the coils and re-hardening. Obviously if a spring is
+broken the only remedy is replacement of the defective member.
+

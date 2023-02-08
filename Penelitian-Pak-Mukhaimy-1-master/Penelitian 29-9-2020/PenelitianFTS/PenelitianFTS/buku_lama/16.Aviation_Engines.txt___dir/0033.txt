@@ -1,0 +1,36 @@
+Efficiencies are worked out through intricate formulas for a variety of
+theoretical and unknown conditions of combustion in the cylinder: ratios
+of clearance and cylinder volume, and the uncertain condition of the
+products of combustion left from the last impulse and the wall
+temperature. But they are of but little value, except as a mathematical
+inquiry as to possibilities. The real commercial efficiency of a gas or
+gasoline-engine depends upon the volume of gas or liquid at some
+assigned cost, required per actual brake horse-power per hour, in which
+an indicator card should show that the mechanical action of the valve
+gear and ignition was as perfect as practicable, and that the ratio of
+clearance, space, and cylinder volume gave a satisfactory terminal
+pressure and compression: _i.e._, the difference between the power
+figured from the indicator card and the brake power being the friction
+loss of the engine.
+
+In four-cycle motors of the compression type, the efficiencies are
+greatly advanced by compression, producing a more complete infusion of
+the mixture of gas or vapor and air, quicker firing, and far greater
+pressure than is possible with the two-cycle type previously described.
+In the practical operation of the gas-engine during the past twenty
+years, the gas-consumption efficiencies per indicated horse-power have
+gradually risen from 17 per cent. to a maximum of 40 per cent. of the
+theoretical heat, and this has been done chiefly through a decreased
+combustion chamber and increased compression--the compression having
+gradually increased in practice from 30 lbs. per square inch to above
+100; but there seems to be a limit to compression, as the efficiency
+ratio decreases with greater increase in compression. It has been shown
+that an ideal efficiency of 33 per cent. for 38 lbs., compression will
+increase to 40 per cent. for 66 lbs., and 43 per cent. for 88 lbs.
+compression. On the other hand, greater compression means greater
+explosive pressure and greater strain on the engine structure, which
+will probably retain in future practice the compression between the
+limits of 40 and 90 lbs. except in super-compression engines intended
+for high altitude work where compression pressures as high as 125 pounds
+have been used.
+

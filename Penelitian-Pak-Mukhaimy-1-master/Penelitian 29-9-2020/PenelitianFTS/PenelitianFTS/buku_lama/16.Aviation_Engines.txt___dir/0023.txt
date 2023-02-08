@@ -1,0 +1,41 @@
+The action of air, gas, and the vapors of gasoline and petroleum oil,
+whether singly or mixed, is affected by changes of temperature
+practically in nearly the same ratio; but when the elements that produce
+combustion are interchanged in confined spaces, there is a marked
+difference of effect. The oxygen of the air, the hydrogen and carbon of
+a gas, or vapor of gasoline or petroleum oil are the elements that by
+combustion produce heat to expand the nitrogen of the air and the watery
+vapor produced by the union of the oxygen in the air and the hydrogen in
+the gas, as well as also the monoxide and carbonic-acid gas that may be
+formed by the union of the carbon of gas or vapor with part of the
+oxygen of the air. The various mixtures as between air and gas, or air
+and vapor, with the proportion of the products of combustion left in the
+cylinder from a previous combustion, form the elements to be considered
+in estimating the amount of pressure that may be obtained by their
+combustion and expansive force.
+
+
+EARLY GAS ENGINE FORMS
+
+The working process of the explosive motor may be divided into three
+principal types: 1. Motors with charges igniting at constant volume
+without compression, such as the Lenoir, Hugon, and other similar types
+now abandoned as wasteful in fuel and effect. 2. Motors with charges
+igniting at constant pressure with compression, in which a receiver is
+charged by a pump and the gases burned while being admitted to the motor
+cylinder, such as types of the Simon and Brayton engine. 3. Motors with
+charges igniting at constant volume with variable compression, such as
+the later two- and four-cycle motors with compression of the indrawn
+charge; limited in the two-cycle type and variable in the four-cycle
+type with the ratios of the clearance space in the cylinder. This
+principle produces the explosive motor of greatest efficiency.
+
+The phenomena of the brilliant light and its accompanying heat at the
+moment of explosion have been witnessed in the experiments of Dugald
+Clerk in England, the illumination lasting throughout the stroke; but in
+regard to time in a four-cycle engine, the incandescent state exists
+only one-quarter of the running time. Thus the time interval, together
+with the non-conductibility of the gases, makes the phenomena of a
+high-temperature combustion within the comparatively cool walls of a
+cylinder a practical possibility.
+

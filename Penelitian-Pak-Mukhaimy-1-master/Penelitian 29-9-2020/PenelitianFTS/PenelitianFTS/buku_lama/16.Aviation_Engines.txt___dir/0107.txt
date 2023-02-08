@@ -1,0 +1,46 @@
+[Illustration: Fig. 69.--Suggestions for Adjusting and Dismantling Dixie
+Magneto. A--Screw Driver Adjusts Contact Points. B--Distributor Block
+Removed. C--Taking off Magnets. D--Showing How Easily Condenser and High
+Tension Windings are Removed.]
+
+With dust- and water-protecting casing removed, and one of the magnets
+withdrawn, as in Fig. 69, the winding can be seen with its core resting
+on the field pole pieces and the primary lead attached to its side. An
+important feature of the high-tension winding is that the heads are of
+insulating material, and there is not the tendency for the high-tension
+current to jump to the side as in the ordinary armature type magneto.
+The high-tension current is carried to the distributor by means of an
+insulated block with a spindle, at one end of which is a spring brush
+bearing directly on the winding, thus shortening the path of the
+high-tension current and eliminating the use of rubber spools and
+insulating parts. The moving parts of the magneto need never be
+disturbed if the high-tension winding is to be removed. This winding
+constitutes all of the magneto windings, no external spark coil being
+necessary. The condenser is placed directly above the winding and is
+easily removable by taking out two screws, instead of being placed in an
+armature where it is inaccessible except to an expert, and where it
+cannot be replaced except at the factory whence it emanated.
+
+
+CARE OF THE DIXIE MAGNETO
+
+The bearings of the magneto are provided with oil cups and a few drops
+of light oil every 1,000 miles are sufficient. The breaker lever should
+be lubricated every 1,000 miles with a drop of light oil, applied with a
+tooth-pick. The proper distance between the platinum points when
+separated should not exceed .020 or one-fiftieth of an inch. A gauge of
+the proper size is attached to the screwdriver furnished with the
+magneto. The platinum contacts should be kept clean and properly
+adjusted. Should the contacts become pitted, a fine file should be used
+to smooth them in order to permit them to come into perfect contact. The
+distributor block should be removed occasionally and inspected for an
+accumulation of carbon dust. The inside of the distributor block should
+be cleaned with a cloth moistened with gasoline and then wiped dry with
+a clean cloth. When replacing the block, care must be exercised in
+pushing the carbon brush into the socket. Do not pull out the carbon
+brushes in the distributor because you think there is not enough tension
+on the small brass springs. In order to obtain the most efficient
+results, the normal setting of the spark-plug points should not exceed
+.025 of an inch, and it is advisable to have the gap just right before a
+spark-plug is inserted.
+

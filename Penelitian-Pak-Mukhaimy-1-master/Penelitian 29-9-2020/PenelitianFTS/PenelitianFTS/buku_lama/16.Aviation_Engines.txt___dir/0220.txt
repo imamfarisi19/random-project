@@ -1,0 +1,48 @@
+[Illustration: Fig. 173.--Useful Outfit of Taps and Dies for the Engine
+Repair Shop.]
+
+
+MEASURING TOOLS
+
+The tool outfit of the machinist or the mechanic who aspires to do
+machine work must include a number of measuring tools which are not
+needed by the floor man or one who merely assembles and takes apart the
+finished pieces. The machinist who must convert raw material into
+finished products requires a number of measuring tools, some of which
+are used for taking only approximate measurements, such as calipers and
+scales, while others are intended to take very accurate measurements,
+such as the Vernier and the micrometer. A number of common forms of
+calipers are shown at Fig. 174. These are known as inside or outside
+calipers, depending upon the measurements they are intended to take.
+That at A is an inside caliper, consisting of two legs, A and D, and a
+gauging piece, B, which can be locked to leg A, or released from that
+member by the screw, C. The object of this construction is to permit of
+measurements being taken at the bottom of a two diameter hole, where the
+point to be measured is of larger diameter than the portion of the hole
+through which the calipers entered. It will be apparent that the legs A
+and D must be brought close together to pass through the smaller holes.
+This may be done without losing the setting, as the guide bar B will
+remain in one position as determined by the size of the hole to be
+measured, while the leg A may be swung in to clear the obstruction as
+the calipers are lifted out. When it is desired to ascertain the
+measurements the leg A is pushed back into place into the slotted
+portion of the guide B, and locked by the clamp screw C. A tool of this
+form is known as an internal transfer caliper.
+
+[Illustration: Fig. 174.--Common Forms of Inside and Outside Calipers.]
+
+The form of caliper shown at B is an outside caliper. Those at C and D
+are special forms for inside and outside work, the former being used,
+if desired, as a divider, while the latter may be employed for measuring
+the walls of tubing. The calipers at E are simple forms, having a
+friction joint to distinguish them from the spring calipers shown at B,
+C and D. In order to permit of ready adjustment of a spring caliper, a
+split nut as shown at G is sometimes used. A solid nut caliper can only
+be adjusted by screwing the nut in or out on the screw, which may be a
+tedious process if the caliper is to be set from one extreme to the
+other several times in succession. With a slip nut as shown at G it is
+possible to slip it from one end of the thread to the other without
+turning it, and of locking it in place at any desired point by simply
+allowing the caliper leg to come in contact with it. The method of
+adjusting a spring caliper is shown at Fig. 174, H.
+

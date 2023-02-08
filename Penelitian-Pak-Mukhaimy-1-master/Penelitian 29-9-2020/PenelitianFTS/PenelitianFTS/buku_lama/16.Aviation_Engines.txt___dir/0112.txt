@@ -1,0 +1,38 @@
+While ordinarily combustion is sufficiently rapid with a single plug so
+that the proper explosion is obtained at moderate engine speeds, if the
+engine is working fast and the cylinders are of large capacity more
+power may be obtained by setting fire to the mixture at two different
+points instead of but one. This may be accomplished by using two
+sparking-plugs in the cylinder instead of one, and experiments have
+shown that it is possible to gain from twenty-five to thirty per cent.
+in motor power at high speed with two-spark plugs, because the
+combustion of gas is accelerated by igniting the gas simultaneously in
+two places. The double-plug system on airplane engines is also a
+safeguard, as in event of failure of one plug in the cylinder the other
+would continue to fire the gas, and the engine will continue to function
+properly.
+
+In using magneto ignition some precautions are necessary relating to
+wiring and also the character of the spark-plugs employed. The conductor
+should be of good quality, have ample insulation, and be well protected
+from accumulations of oil, which would tend to decompose rubber
+insulation. It is customary to protect the wiring by running it through
+the conduits of fiber or metal tubing lined with insulating material.
+Multiple strand cables should be used for both primary and secondary
+wiring, and the insulation should be of rubber at least 3/16 inch thick.
+
+The spark-plugs commonly used for battery and coil ignition cannot
+always be employed when a magneto is fitted. The current produced by the
+mechanical generator has a greater amperage and more heat value than
+that obtained from transformer coils excited by battery current. The
+greater heat may burn or fuse the slender points used on some battery
+plugs and heavier electrodes are needed to resist the heating effect of
+the more intense arc. While the current has greater amperage it is not
+of as high potential or voltage as that commonly produced by the
+secondary winding of an induction coil, and it cannot overcome as much
+of a gap. Manufacturers of magneto plugs usually set the spark points
+about 1/64 of an inch apart. The most efficient magneto plug has a
+plurality of points so that when the distance between one set becomes
+too great the spark will take place between one of the other pairs of
+electrodes which are not separated by so great an air space.
+

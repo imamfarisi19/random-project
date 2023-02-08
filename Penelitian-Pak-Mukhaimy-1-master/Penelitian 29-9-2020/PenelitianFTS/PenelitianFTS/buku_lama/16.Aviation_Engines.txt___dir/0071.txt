@@ -1,0 +1,45 @@
+[Illustration: Fig. 47.--The Stewart Metering Pin Carburetor.]
+
+
+MULTIPLE NOZZLE VAPORIZERS
+
+To secure properly proportioned mixtures some carburetor designers have
+evolved forms in which two or more nozzles are used in a common mixing
+chamber. The usual construction is to use two, one having a small
+opening and placed in a small air tube and used only for low speeds,
+the other being placed in a larger air tube and having a slightly
+augmented bore so that it is employed on intermediate speeds. At high
+speeds both jets would be used in series. Some multiple jet carburetors
+could be considered as a series of these instruments, each one being
+designed for certain conditions of engine action. They would vary from
+small size just sufficient to run the engine at low speed to others
+having sufficient capacity to furnish gas for the highest possible
+engine speed when used in conjunction with the smaller members which
+have been brought into service progressively as the engine speed has
+been augmented. The multiple nozzle carburetor differs from that in
+which a single spray tube is used only in the construction of the mixing
+chamber, as a common float bowl can be used to supply all spray pipes.
+It is common practice to bring the jets into action progressively by
+some form of mechanical connection with the throttle or by automatic
+valves.
+
+The object of any multiple nozzle carburetor is to secure greater
+flexibility and endeavor to supply mixtures of proper proportions at all
+speeds of the engine. It should be stated, however, that while devices
+of this nature lend themselves readily to practical application it is
+more difficult to adjust them than the simpler forms having but one
+nozzle. When a number of jets are used the liability of clogging up the
+carburetor is increased, and if one or more of the nozzles is choked by
+a particle of dirt or water the resulting mixture trouble is difficult
+to detect. One of the nozzles may supply enough gasoline to permit the
+engine to run well at certain speeds and yet not be adequate to supply
+the proper amount of gas under other conditions. In adjusting a multiple
+jet carburetor in which the jets are provided with gasoline regulating
+needles, it is customary to consider each nozzle as a distinct
+carburetor and to regulate it to secure the best motor action at that
+throttle position which corresponds to the conditions under which the
+jet is brought into service. For instance, that supplied the primary
+mixing chamber should be regulated with the throttle partly closed,
+while the auxiliary jet should be adjusted with the throttle fully
+opened.
+

@@ -1,0 +1,45 @@
+
+GNOME "MONOSOUPAPE" VALVE TIMING
+
+In the present design of the Gnome motor, a cycle of operations somewhat
+different from that employed in the ordinary four-cycle engine is made
+use of, says a writer in "The Automobile," in describing the action of
+this power-plant. This cycle does away with the need for the usual inlet
+valve and makes the engine operable with only a single valve, hence the
+name _monosoupape_, or "single-valve." The cycle is as follows: A charge
+being compressed in the outer end of the cylinder or combustion chamber,
+it is ignited by a spark produced by the spark-plug located in the side
+of this chamber, and the burning charge expands as the piston moves down
+in the cylinder while the latter revolves around the crank-shaft. When
+the piston is about half-way down on the power stroke, the exhaust
+valve, which is located in the center of the cylinder-head, is
+mechanically opened, and during the following upstroke of the piston the
+burnt gases are expelled from the cylinder through the exhaust valve
+directly into the atmosphere.
+
+Instead of closing at the end of the exhaust stroke, or a few degrees
+thereafter, the exhaust valve is held open for about two-thirds of the
+following inlet stroke of the piston, with the result that fresh air is
+drawn through the exhaust valve into the cylinder. When the cylinder is
+still 65 degrees from the end of the inlet half-revolution, the exhaust
+valve closes. As no more air can get into the cylinder, and as the
+piston continues to move inwardly, it is obvious that a partial vacuum
+is formed.
+
+When the cylinder approaches within 20 degrees of the end of the inlet
+half-revolution a series of small inlet ports all around the
+circumference of the cylinder wall is uncovered by the top edge of the
+piston, whereby the combustion chamber is placed in communication with
+the crank chamber. As the pressure in the crank chamber is substantially
+atmospheric and that in the combustion chamber is below atmospheric,
+there results a suction effect which causes the air from the crank
+chamber to flow into the combustion chamber. The air in the crank
+chamber is heavily charged with gasoline vapor, which is due to the fact
+that a spray nozzle connected with the gasoline supply tank is located
+inside the chamber. The proportion of gasoline vapor in the air in the
+crank chamber is several times as great as in the ordinary combustible
+mixture drawn from a carburetor into the cylinder. This extra-rich
+mixture is diluted in the combustion chamber with the air which entered
+it through the exhaust valve during the first part of the inlet stroke,
+thus forming a mixture of the proper proportion for complete combustion.
+

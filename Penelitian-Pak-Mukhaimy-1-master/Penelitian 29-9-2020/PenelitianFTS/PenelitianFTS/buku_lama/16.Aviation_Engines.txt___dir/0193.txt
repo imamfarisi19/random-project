@@ -1,0 +1,46 @@
+If the motor runs intermittently, _i.e._, starts and runs only a few
+revolutions, aside from the conditions previously outlined, defective
+operation may be due to seizing between parts because of insufficient
+oil or deficient cooling, too much oil in the crank-case which fouls the
+cylinder after the crank-shaft has revolved a few turns, and
+derangements in the ignition or carburetion systems that may be easily
+remedied. There are a number of defective conditions which may exist in
+the ignition group, that will result in "skipping" or irregular
+operation and the following points should be considered first: weak
+source of current due to worn out dry cells or discharged storage
+batteries; weak magnets in magneto, or defective contacts at magneto;
+dirt in magneto distributor or poor contact at collecting brushes. Dirty
+or cracked insulator at spark-plug will cause short circuit and can
+only be detected by careful examination. The following points should
+also be checked over when the plug is inspected: Excessive space between
+electrodes, points too close together, loose central electrodes, or
+loose point on plug body, soot or oil particles between electrodes, or
+on the surface of the insulator, cracked insulator, oil or water on
+outside of insulator. Short circuits in the condenser or internal wiring
+of induction coils or magnetos, which are fortunately not common, can
+seldom be remedied except at the factory where these devices were made.
+If an engine stops suddenly and the defect is in the ignition system the
+trouble is usually never more serious than a broken or loose wire. This
+may be easily located by inspecting the wiring at the terminals.
+Irregular operation or misfiring is harder to locate because the trouble
+can only be found after the many possible defective conditions have been
+checked over, one by one.
+
+
+COMMON DEFECTS IN FUEL SYSTEMS
+
+Defective carburetion often causes misfiring or irregular operation. The
+common derangement of the components of the fuel system that are common
+enough to warrant suspicion and the best methods for their location
+follows: First, disconnect the feed pipe from the carburetor and see if
+the gasoline flows freely from the tank. If the stream coming out of the
+pipe is not the full size of the orifice it is an indication that the
+pipe is clogged with dirt or that there is an accumulation of rust,
+scale, or lint in the strainer screens of the filter. It is also
+possible that the fuel shut-off valve may be wholly or partly closed. If
+the gasoline flows by gravity the liquid may be air bound in the tank,
+while if a pressure-feed system is utilized the tank may leak so that it
+does not retain pressure; the check valve retaining the pressure may be
+defective or the pipe conveying the air or gas under pressure to the
+tank may be clogged.
+

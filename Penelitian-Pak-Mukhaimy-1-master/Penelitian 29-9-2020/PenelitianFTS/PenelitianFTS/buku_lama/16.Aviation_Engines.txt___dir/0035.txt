@@ -1,0 +1,41 @@
+[Illustration: Fig. 12.--Graphic Diagram Showing Approximate Utilization
+of Fuel Burned in Internal-Combustion Engine.]
+
+The graphic diagram at Fig. 12 is of special value as it shows clearly
+how the heat produced by charge combustion is expended in an engine of
+average design.
+
+On general principles the greater difference between the heat of
+combustion and the heat at exhaust is the relative measure of the heat
+turned into work, which represents the degree of efficiency without loss
+during expansion. The mathematical formulas appertaining to the
+computation of the element of heat and its work in an explosive engine
+are in a large measure dependent upon assumed values, as the conditions
+of the heat of combustion are made uncertain by the mixing of the fresh
+charge with the products of a previous combustion, and by absorption,
+radiation, and leakage. The computation of the temperature from the
+observed pressure may be made as before explained, but for
+compression-engines the needed starting-points for computation are very
+uncertain, and can only be approximated from the exact measure and value
+of the elements of combustion in a cylinder charge.
+
+
+TEMPERATURES AND PRESSURES
+
+Owing to the decrease from atmospheric pressure in the indrawing charge
+of the cylinder, caused by valve and frictional obstruction, the
+compression seldom starts above 13 lbs. absolute, especially in
+high-speed engines. Col. 3 in the following table represents the
+approximate absolute compression pressure for the clearance percentage
+and ratio in Cols. 1 and 2, while Col. 4 indicates the gauge pressure
+from the atmospheric line. The temperatures in Col. 5 are due to the
+compression in Col. 3 from an assumed temperature of 560° F. in the
+mixture of the fresh charge of 6 air to 1 gas with the products of
+combustion left in the clearance chamber from the exhaust stroke of a
+medium-speed motor. This temperature is subject to considerable
+variation from the difference in the heat-unit power of the gases and
+vapors used for explosive power, as also of the cylinder-cooling effect.
+In Col. 6 is given the approximate temperatures of explosion for a
+mixture of air 6 to gas 1 of 660 heat units per cubic foot, for the
+relative values of the clearance ratio in Col. 2 at constant volume.
+

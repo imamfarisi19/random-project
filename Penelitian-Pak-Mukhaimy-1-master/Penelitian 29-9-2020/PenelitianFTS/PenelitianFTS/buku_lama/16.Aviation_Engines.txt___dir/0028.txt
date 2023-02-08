@@ -1,0 +1,35 @@
+It is found that when any explosive mixture of air and gas or
+hydrocarbon vapor is fired, the pressure falls far short of the pressure
+computed from the theoretical effect of the heat produced, and from
+gauging the expansion of the contents of a cylinder. It is now well
+known that in practice the high efficiency which is promised by
+theoretical calculation is never realized; but it must always be
+remembered that the heat of combustion is the real agent, and that the
+gases and vapors are but the medium for the conversion of inert elements
+of power into the activity of energy by their chemical union. The theory
+of combustion has been the leading stimulus to large expectations with
+inventors and constructors of explosive motors; its entanglement with
+the modifying elements in practice has delayed the best development in
+construction, and as yet no really positive design of best form or
+action seems to have been accomplished, although great progress has been
+made during the past decade in the development of speed, reliability,
+economy, and power output of the individual units of this comparatively
+new power.
+
+One of the most serious difficulties in the practical development of
+pressure, due to the theoretical computations of the pressure value of
+the full heat, is probably caused by imparting the heat of the fresh
+charge to the balance of the previous charge that has been cooled by
+expansion from the maximum pressure to near the atmospheric pressure of
+the exhaust. The retardation in the velocity of combustion of perfectly
+mixed elements is now well known from experimental trials with measured
+quantities; but the principal difficulty in applying these conditions to
+the practical work of an explosive engine where a necessity for a large
+clearance space cannot be obviated, is in the inability to obtain a
+maximum effect from the imperfect mixture and the mingling of the
+products of the last explosion with the new mixture, which produces a
+clouded condition that makes the ignition of the mass irregular or
+chattering, as observed in the expansion lines of indicator cards; but
+this must not be confounded with the reaction of the spring in the
+indicator.
+

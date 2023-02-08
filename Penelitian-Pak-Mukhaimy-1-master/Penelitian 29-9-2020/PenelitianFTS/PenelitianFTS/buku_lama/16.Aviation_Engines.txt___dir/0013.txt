@@ -1,0 +1,69 @@
+_M.R._2[pi]
+When _P_ × _r_ = _M_, then H.P. = -------------, thence,
+4,500
+
+H.P. × 4,500     716.2 H.P.
+_M_ = -------------- = ------------ in meter kilograms,
+_R_2[pi]          _R_
+
+H.P. 33,000     5253.1 H.P.
+or in English system _M_ = ------------- = ------------- in
+_R_2[pi]           _R_
+
+foot pounds.
+
+Now the power on the circumference of the propeller will be reduced by
+its radius, so it will be _M_/_r_ = _p_. A part of _p_ will be used for
+counteracting the air and bearing friction, so that the total power on
+the circumference of the propeller will be (_M_/_r_) × [eta] = _p_ where
+[eta] is the mechanical efficiency of the propeller. Now
+
+[eta]
+--------------- = _T_, where [alpha] is taken on the tip of the
+_tan_ [alpha]
+
+propeller.
+
+I take [alpha] at the tip, but it can be taken, of course, at any point,
+but then in equation _p_ = _M_/_r_, _r_ must be taken only up to this
+point, and not the whole radius; but it is more comfortable to take it
+at the tip, as
+
+Pitch
+_tan_ [alpha] = ---------- (Fig. 1, C).
+_r_2[pi]
+
+Now we can write up the equation of the thrust:
+
+716.2 H.P. [eta]                           5253.1 H.P. [eta]
+-------------------, or in English measure -------------------
+_R r tan [alpha]_                          _R r tan [alpha]_
+
+_T_ × _R_ × _r tan_ [alpha]
+thence H.P. = -----------------------------, or in English measure
+716.2[eta]
+
+_T_ × _R_ × _r tan_ [alpha]
+-----------------------------.
+5253.1[eta]
+
+The computations and formulæ given are of most value to the student
+engineer rather than matters of general interest, but are given so that
+a general idea may be secured of how airplane design influences power
+needed to secure sustained flight. It will be apparent that the
+resistance of an airplane depends upon numerous considerations of design
+which require considerable research in aerodynamics to determine
+accurately. It is obvious that the more resistance there is, the more
+power needed to fly at a given speed. Light monoplanes have been flown
+with as little as 15 horse-power for short distances, but most planes
+now built use engines of 100 horse-power or more. Giant airplanes have
+been constructed having 2,000 horse-power distributed in four power
+units. The amount of power provided for an airplane of given design
+varies widely as many conditions govern this, but it will range from
+approximately one horse-power to each 8 pounds weight in the case of
+very light, fast machines to one horse-power to 15 or 18 pounds of the
+total weight in the case of medium speed machines. The development in
+airplane and power plant design is so rapid, however, that the figures
+given can be considered only in the light of general averages rather
+than being typical of current practice.
+

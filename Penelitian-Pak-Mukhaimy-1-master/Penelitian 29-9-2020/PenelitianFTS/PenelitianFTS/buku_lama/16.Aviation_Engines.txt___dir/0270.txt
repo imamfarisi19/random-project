@@ -1,0 +1,56 @@
+[Illustration: Fig. 213.--G. V. Gnome "Monosoupape," with Cam-Case Cover
+Removed to Show Cams and Valve-Operating Plungers with Roller Cam
+Followers.]
+
+Lubricating oil is carried in a tank of 25 gallon capacity, and if this
+tank has to be placed in a low position it is connected with the
+air-pressure line, so that the suction of the oil pump is not depended
+upon to get the oil to the pump. From the bottom of the oil tank a pipe
+leads to the pump inlet. There are two outlets from the pump, each
+entering the hollow crank-shaft, and there is a branch from each outlet
+pipe to a circulation indicator convenient to the operator. One of the
+oil leads feeds to the housing in the thrust plate containing the two
+rear ball bearings, and the other lead feeds through the crank-pin to
+the cams, as already explained.
+
+Owing to the effect of centrifugal force and the fact that the oil is
+not used over again, the oil consumption of a revolving cylinder engine
+is considerably higher than that of a stationary cylinder engine. Fuel
+consumption is also somewhat higher, and for this reason the revolving
+cylinder engine is not so well suited for types of airplanes designed
+for long trips, as the increased weight of supplies required for such
+trips, as compared with stationary cylinder type motors, more than
+offsets the high weight efficiency of the engine itself. But for short
+trips, and especially where high speed is required, as in single seated
+scout and battle planes or "avions de chasse," as the French say, the
+revolving cylinder engine has the advantage. The oil consumption of the
+Gnome engine is as high as 2.4 gallon per hour. Castor oil is used for
+lubrication because it is not cut by the gasoline mist present in the
+engine interior as an oil of mineral derivation would be.
+
+
+GERMAN "GNOME" TYPE ENGINE
+
+[Illustration: Fig. 214.--The 50 Horse-Power Rotary Bayerischen Motoren
+Gesellschaft Engine, a German Adaptation of the Early Gnome Design.]
+
+A German adaptation of the Gnome design is shown at Fig. 214. This is
+known as the Bayerischen Motoren Gesellschaft engine and the type shown
+is an early design rated at 50 horse-power. The bore is 110 mm., the
+stroke is 120 mm., and it is designed to run at a speed of 1,200 R. P.
+M. It is somewhat similar in design to the early Gnome "valve-in-piston"
+design except that two valves are carried in the piston top instead of
+one. The valve operating arrangement is different also, as a single four
+point cam is used to operate the seven exhaust valves. It is driven by
+epicyclic gearing, the cam being driven by an internal gear machined
+integrally with it, the cam being turned at 7/8 times the engine speed.
+Another feature is the method of holding the cylinders on the
+crank-case. The cylinder is provided with a flange that registers with a
+corresponding member of the same diameter on the crank-case. A U
+section, split clamping ring is bolted in place as shown, this holding
+both flanges firmly together and keeping the cylinder firmly seated
+against the crank-case flange. The "monosoupape" type has also been
+copied and has received some application in Germany, but the most
+successful German airplanes are powered with six-cylinder vertical
+engines such as the Benz and Mercedes.
+

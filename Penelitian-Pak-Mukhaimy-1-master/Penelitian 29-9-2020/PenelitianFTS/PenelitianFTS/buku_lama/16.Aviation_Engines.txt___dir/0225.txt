@@ -1,0 +1,33 @@
+As many of the dimensions of the airplane parts, especially of those of
+foreign manufacture or such parts as ball and roller bearings, are based
+on the metric system, the competent repairman should possess both inch
+and metric micrometers in order to avoid continual reference to a table
+of metric equivalents. With a metric micrometer there are fifty
+graduations on the barrel, these representing .01 of a millimeter, or
+approximately .004 inch. One full turn of the barrel means an increase
+of half a millimeter, or .50 mm. (fifty one-hundredths). As it takes two
+turns to augment the space between the anvil and the stem by increments
+of one millimeter, it will be evident that it would not be difficult to
+divide the spaces on the metric micrometer thimble in halves by the eye,
+and thus the average workman can measure to .0002 inch plus or minus
+without difficulty. As set in the illustration, the metric micrometers
+show a space of 13.5 mm., or about one millimeter more than half an
+inch. The inch micrometer shown is set to five-tenths or five hundred
+one-thousandths or one-half inch. A little study of the foregoing matter
+will make it easy to understand the action of either the inch or metric
+micrometer.
+
+Both of the micrometers shown have a small knurled knob at the end of
+the barrel. This controls the ratchet stop, which is a device that
+permits a ratchet to slip by a pawl when more than a certain amount of
+pressure is applied, thereby preventing the measuring spindle from
+turning further and perhaps springing the instrument. A simple rule that
+can be easily memorized for reading the inch micrometer is to multiply
+the number of vertical divisions on the sleeve by 25 and add to that the
+number of divisions on the bevel of the thimble reading from the zero to
+the line which coincides with the horizontal line on the sleeve. For
+example: if there are ten divisions visible on the sleeve, multiply this
+number by 25, then add the number of divisions shown on the bevel of the
+thimble, which is 10. The micrometer is therefore opened 10 × 25 equals
+250 plus 10 equals 260 thousandths.
+

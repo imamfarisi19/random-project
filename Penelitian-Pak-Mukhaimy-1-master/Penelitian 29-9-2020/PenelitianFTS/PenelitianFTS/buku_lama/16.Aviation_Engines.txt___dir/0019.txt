@@ -1,0 +1,46 @@
+
+OPERATING PRINCIPLES OF TWO- AND FOUR-STROKE CYCLE ENGINES
+
+Before discussing the construction of the various forms of internal
+combustion engines it may be well to describe the operating cycle of the
+types most generally used. The two-cycle engine is the simplest because
+there are no valves in connection with the cylinder, as the gas is
+introduced into that member and expelled from it through ports cored
+into the cylinder walls. These are covered by the piston at a certain
+portion of its travel and uncovered at other parts of its stroke. In the
+four-cycle engine the explosive gas is admitted to the cylinder through
+a port at the head end closed by a valve, while the exhaust gas is
+expelled through another port controlled in a similar manner. These
+valves are operated by mechanism distinct from the piston.
+
+[Illustration: Fig. 5.--Outlining First Two Strokes of Piston in
+Four-Cycle Engine.]
+
+The action of the four-cycle type may be easily understood if one refers
+to illustrations at Figs. 5 and 6. It is called the "four-stroke engine"
+because the piston must make four strokes in the cylinder for each
+explosion or power impulse obtained. The principle of the gas-engine of
+the internal combustion type is similar to that of a gun, i.e., power is
+obtained by the rapid combustion of some explosive or other quick
+burning substance. The bullet is driven out of the gun barrel by the
+pressure of the gas evolved when the charge of powder is ignited. The
+piston or movable element of the gas-engine is driven from the closed
+or head end to the crank end of the cylinder by a similar expansion of
+gases resulting from combustion. The first operation in firing a gun or
+securing an explosion in the cylinder of the gas-engine is to fill the
+combustion space with combustible material. This is done by a down
+stroke of the piston during which time the inlet valve opens to admit
+the gaseous charge to the cylinder interior. This operation is shown at
+Fig. 5, A. The second operation is to compress this gas which is done by
+an upward stroke of the piston as shown at Fig. 5, B. When the top of
+the compression stroke is reached, the gas is ignited and the piston is
+driven down toward the open end of the cylinder, as indicated at Fig. 6,
+C. The fourth operation or exhaust stroke is performed by the return
+upward movement of the piston as shown at Fig. 6, D during which time
+the exhaust valve is opened to permit the burnt gases to leave the
+cylinder. As soon as the piston reaches the top of its exhaust stroke,
+the energy stored in the fly-wheel rim during the power stroke causes
+that member to continue revolving and as the piston again travels on
+its down stroke the inlet valve opens and admits a charge of fresh gas
+and the cycle of operations is repeated.
+

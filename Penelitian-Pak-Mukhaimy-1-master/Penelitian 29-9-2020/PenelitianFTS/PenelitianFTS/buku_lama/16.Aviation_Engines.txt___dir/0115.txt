@@ -1,0 +1,38 @@
+In all machinery in motion the members which are in contact have a
+tendency to stick to each other, and the very minute projections which
+exist on even the smoothest of surfaces would have a tendency to cling
+or adhere to each other if the surfaces were not kept apart by some
+elastic and unctuous substance. This will flow or spread out over the
+surfaces and smooth out the inequalities existing which tend to produce
+heat and retard motion of the pieces relative to each other.
+
+A general impression which obtains is that well machined surfaces are
+smooth, but while they are apparently free from roughness, and no
+projections are visible to the naked eye, any smooth bearing surface,
+even if very carefully ground, will have a rough appearance if examined
+with a magnifying glass. An exaggerated condition to illustrate this
+point is shown at Fig. 75. The amount of friction will vary in
+proportion to the pressure on the surfaces in contact and will augment
+as the loads increase; the rougher surfaces will have more friction than
+smoother ones and soft bodies will produce more friction than hard
+substances.
+
+
+FRICTION DEFINED
+
+Friction is always present in any mechanism as a resisting force that
+tends to retard motion and bring all moving parts to a state of rest.
+The absorption of power by friction may be gauged by the amount of heat
+which exists at the bearing points. Friction of solids may be divided
+into two classes: sliding friction, such as exists between the piston
+and cylinder, or the bearings of a gas-engine, and rolling friction,
+which is that present when the load is supported by ball or roller
+bearings, or that which exists between the tires or the driving wheels
+and the road. Engineers endeavor to keep friction losses as low as
+possible, and much care is taken in all modern airplane engines to
+provide adequate methods of lubrication, or anti-friction bearings at
+all points where considerable friction exists.
+
+
+THEORY OF LUBRICATION
+

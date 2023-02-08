@@ -1,0 +1,50 @@
+The truth of seatings may be tested by taking some Prussian blue pigment
+and spreading a thin film of it over the valve seat. The valve is
+dropped in place and is given about one-eighth turn with a little
+pressure on the tool. If the seating is good both valve head and seat
+will be covered uniformly with color. If high spots exist, the heavy
+deposit of color will show these while the low spots will be made
+evident because of the lack of pigment. The grinding process should be
+continued until the test shows an even bearing of the valve head at all
+points of the cylinder seating. When the valves are held in cages it is
+possible to catch the cage in a vise and to turn the valve in any of the
+ways indicated. It is much easier to clean off the emery and oil and
+there is absolutely no danger of getting the abrasive material in the
+cylinder if the construction is such that the valve cage or cylinder
+head member carrying the valve can be removed from the cylinder. When
+valves are held in cages, the tightness of the seat may be tested by
+partially filling the cage with gasoline and noticing how much liquid
+oozes out around the valve head. The degree of moisture present
+indicates the efficacy of the grinding process.
+
+The valves of Curtiss OX-2 cylinders are easily ground in by using a
+simple fixture or tool and working from the top of the cylinder instead
+of from the inside. A tube having a bore just large enough to go over
+the valve stem is provided with a wooden handle or taped at one end and
+a hole of the same size as that drilled through the valve stem is put in
+at the other. To use, the open end of the tube is pushed over the valve
+stem and a split pin pushed through the tube and stem. The valve may be
+easily manipulated and ground in place by oscillating in the customary
+manner.
+
+
+DEPRECIATION IN VALVE OPERATING SYSTEMS
+
+There are a number of points to be watched in the valve operating system
+because valve timing may be seriously interfered with if there is much
+lost motion at the various bearing points in the valve lift mechanism.
+The two conventional methods of opening valves are shown at Fig. 185.
+That at A is the type employed when the valve cages are mounted directly
+in the head, while the form at B is the system used when the valves are
+located in a pocket or extension of the cylinder casting as is the case
+if an L, or T-head cylinder is used. It will be evident that there are
+several points where depreciation may take place. The simplest form is
+that shown at B, and even on this there are five points where lost
+motion may be noted. The periphery of the valve opening cam or roller
+may be worn, though this is not likely unless the roller or cam has
+been inadvertently left soft. The pin which acts as a bearing for the
+roller may become worn, this occurring quite often. Looseness may
+materialize between the bearing surfaces of the valve lift plunger and
+the plunger guide casting, and there may also be excessive clearance
+between the top of the plunger and the valve stem.
+

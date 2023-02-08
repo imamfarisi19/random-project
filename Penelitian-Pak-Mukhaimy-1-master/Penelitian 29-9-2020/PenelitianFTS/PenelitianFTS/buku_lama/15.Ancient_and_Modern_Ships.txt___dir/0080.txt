@@ -1,0 +1,37 @@
+----------+-----------+-----------+----------------------------------
+Name of   | Length of | Breadth.  | Depth of | Tonnage. | Complement.
+ship.     | gun-deck. |           | hold.    |          |
+----------+-----------+-----------+----------+----------+------------
+|  ft. in.  | ft. in.   | ft. in.  |          |
+|           |           |          |          |
+Brilliant |  128 4    |  35 8     |  12 4    |   718    |    240
+Aurore    |  144 0    |  38 8-1/2 |  15 2    |   946    |    250
+|           |           |          |          |
+----------+-----------+-----------+----------+----------+------------
+
+In the year 1761 a most important improvement was introduced, which
+greatly increased the usefulness of ships. This was the discovery of the
+value of copper plates as a material for sheathing their bottoms.
+Previously to this period lead was the metal used for sheathing
+purposes, and even it was only employed occasionally. In other cases the
+bottoms of vessels were paid over with various compositions, the
+majority of which fouled rapidly. The first vessel in the navy that was
+copper-sheathed was the _Alarm_, a 32-gun frigate. At first the use of
+copper caused serious oxidation of the iron bolts employed in the bottom
+fastenings, and copper bolts were substituted for them.
+
+About the year 1788 the dimensions of the various rates were again
+increased in order to keep pace with the improved French and Spanish
+ships. In the year 1780 the 38-gun frigate founded on a French model was
+introduced into the navy, and continued to be much used throughout the
+great wars at the close of the eighteenth and the commencement of the
+nineteenth century. The first British frigate of this rating was the
+_Minerva_, which measured 141 ft. in length of gun-deck; 38 ft. 10 in.
+width of beam; 13 ft. 9 in. depth of hold, and 940 tons--figures which
+were evidently based on those of the _Aurore_, captured in 1758 (see p.
+128). In 1781 and 1782 two very large French frigates were captured.
+Their names were the _Artois_ and _Aigle_, and they exceeded in size
+anything in this class that had yet been built. The length of gun-deck
+measured 158 ft.; width, 40 ft. 4 in.; depth of hold, 13 ft. 6 in.;
+tonnage, 1,152; they each carried 42 guns and 280 men.
+

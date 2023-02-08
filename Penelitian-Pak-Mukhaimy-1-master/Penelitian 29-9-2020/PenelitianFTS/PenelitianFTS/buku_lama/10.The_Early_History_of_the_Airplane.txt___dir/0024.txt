@@ -1,0 +1,46 @@
+[Illustration]
+
+With these plans we proceeded in the summer of 1900 to Kitty Hawk,
+North Carolina, a little settlement located on the strip of land
+that separates Albemarle Sound from the Atlantic Ocean. Owing to the
+impossibility of obtaining suitable material for a 200-square-foot
+machine, we were compelled to make it only 165 square feet in area,
+which, according to the Lilienthal tables, would be supported at an
+angle of three degrees in a wind of about 21 miles per hour. On the very
+day that the machine was completed the wind blew from 25 to 30 miles per
+hour, and we took it out for a trial as a kite. We found that while it
+was supported with a man on it in a wind of about 25 miles, its angle
+was much nearer 20 degrees than three degrees. Even in gusts of 30 miles
+the angle of incidence did not get as low as three degrees, although the
+wind at this speed has more than twice the lifting power of a 21-mile
+wind. As winds of 30 miles per hour are not plentiful on clear days, it
+was at once evident that our plan of practicing by the hour, day after
+day, would have to be postponed. Our system of twisting the surfaces
+to regulate the lateral balance was tried and found to be much more
+effective than shifting the operator's body. On subsequent days, when
+the wind was too light to support the machine with a man on it, we
+tested it as a kite, working the rudders by cords reaching to the
+ground. The results were very satisfactory, yet we were well aware that
+this method of testing is never wholly convincing until the results are
+confirmed by actual gliding experience.
+
+We then turned our attention to making a series of actual measurements
+of the lift and drift of the machine under various loads. So far as we
+were aware, this had never previously been done with any full-size
+machine. The results obtained were most astonishing, for it appeared
+that the total horizontal pull of the machine, while sustaining a weight
+of 52 lbs., was only 8.5 lbs., which was less than had previously been
+estimated for head resistance of the framing alone. Making allowance for
+the weight carried, it appeared that the head resistance of the framing
+was but little more than 50 per cent. of the amount which Mr. Chanute
+had estimated as the head resistance of the framing of his machine. On
+the other hand, it appeared sadly deficient in lifting power as compared
+with the calculated lift of curved surfaces of its size. This deficiency
+we supposed might be due to one or more of the following causes:--(1)
+That the depth of the curvature of our surfaces was insufficient, being
+only about one in 22, instead of one in 12. (2) That the cloth used in
+our wings was not sufficiently air-tight. (3) That the Lilienthal tables
+might themselves be somewhat in error. We decided to arrange our machine
+for the following year so that the depth of the curvature of its
+surfaces could be varied at will and its covering air-proofed.
+

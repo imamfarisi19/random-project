@@ -1,0 +1,3 @@
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.SqliteRun\bin\Debug\netcoreapp3.1\PenelitianFTS.SqliteRun.exe
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.SqliteRun\obj\Debug\netcoreapp3.1\PenelitianFTS.SqliteRun.AssemblyInfoInputs.cache
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.SqliteRun\obj\Debug\netcoreapp3.1\PenelitianFTS.SqliteRun.AssemblyInfo.cs

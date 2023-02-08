@@ -1,0 +1,34 @@
+[Illustration: Fig. 136.--Showing Form of Crank-Shaft for Twin-Cylinder
+Opposed Power Plant.]
+
+[Illustration: Fig. 137.--Crank-Shaft of Thomas-Morse Eight-Cylinder Vee
+Engine.]
+
+Crank-shaft form will vary with a number of cylinders and it is possible
+to use a number of different arrangements of crank-pins and bearings for
+the same number of cylinders. The simplest form of crank-shaft is that
+used on simple radial cylinder motors as it would consist of but one
+crank-pin, two webs, and the crank-shaft. As the number of cylinders
+increase in Vee motors as a general rule more crank-pins are used. The
+crank-shaft that would be used on a two-cylinder opposed motor is shown
+at Fig. 136. This has two throws and the crank-pins are spaced 180
+degrees apart. The bearings are exceptionally long. Four-cylinder
+crank-shafts may have two, three or five main bearings and three or four
+crank-pins. In some forms of two-bearing crank-shafts, such as used when
+four-cylinders are cast in a block, or unit casting, two of the pistons
+are attached to one common crank-pin, so that in reality the crank-shaft
+has but three crank-pins. A typical three bearing, four-cylinder
+crank-shaft is shown at Fig. 134, A. The same type can be used for an
+eight-cylinder Vee engine, except for the greater length of crank-pins
+to permit of side by side rods as shown at Fig. 137. Six cylinder
+vertical tandem and twelve-cylinder Vee engine crank-shafts usually have
+four or seven main bearings depending upon the disposition of the
+crank-pins and arrangement of cylinders. At Fig. 138, A, the bottom
+view of a twelve-cylinder engine with bottom half of crank case removed
+is given. This illustrates clearly the arrangement of main bearings when
+the crank-shaft is supported on four journals. The crank-shaft shown at
+Fig. 138, B, is a twelve-cylinder seven-bearing type.
+
+[Illustration: Fig. 138.--Crank-Case and Crank-Shaft Construction for
+Twelve-Cylinder Motors. A--Duesenberg. B--Curtiss.]
+

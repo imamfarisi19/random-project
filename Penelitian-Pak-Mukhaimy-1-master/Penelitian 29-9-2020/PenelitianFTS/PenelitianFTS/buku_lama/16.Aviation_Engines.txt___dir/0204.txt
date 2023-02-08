@@ -1,0 +1,61 @@
+
+_Motor Runs Irregularly or Misfires_
+
+Loose Wiring or Terminals.
+Broken Spark-Plug Insulator.
+Spark-Plug Points Sooted or Oily.
+Wrong Spark Gap at Plug Points.
+Leaking Secondary Cable.
+Prematurely Grounded Primary Wire.
+Batteries Running Down (Battery Ignition only).
+Poor Adjustment of Contact Points at Timer.
+Wire Broken Inside of Insulation.
+Loose Platinum Points in Magneto.
+Weak Contact Spring.
+Broken Collector Brush.
+Dirt in Magneto Distributor Casing or Contact Breaker.
+Worn Fiber Block or Cam Plate in Magneto.
+Worn Cam or Contact Roll in Timer (Battery System
+only).
+Dirty Oil in Timer.
+Sticking Coil Vibrators.
+Coil Vibrator Points Pitted.
+Oil Soaked Magneto Winding.
+Punctured Magneto or Coil Winding.
+Distributor Contact Segments Rough.
+Sulphated Storage Battery Terminals.
+Weak Magnets in Magneto.
+Poor Contact at Magneto Contact Breaker Points.
+
+
+DEFECTS IN ELECTRICAL SYSTEM COMPONENTS
+
+To further simplify the location of electrical system faults it is
+thought desirable to outline the defects that can be present in the
+various parts of the individual devices comprising the ignition system.
+If an airplane engine is provided with magneto ignition solely, as most
+engines are at the present time, no attention need be paid to such items
+as storage or dry batteries, timer or induction coil. There seems to be
+some development in the direction of battery ignition so it has been
+considered desirable to include components of these systems as well as
+the almost universally used magneto group. Spark-plugs, wiring and
+switches are needed with either system.
+
+
+SPARK-PLUGS
+
+DEFECT                       TROUBLE CAUSED          REMEDY
+Insulation cracked.          Plug inoperative.       New insulation.
+Insulation oil soaked.       Cylinder misfires.      Clean.
+Carbon deposits.             Short circuited spark.  Remove.
+Insulator loose.             Cylinder misfires.      Tighten.
+Gasket broken.               Gas leaks by.           New gasket.
+Electrode loose on shell.    Cylinder misfires.      Tighten.
+Wire loose in insulator.     Cylinder misfires.      Tighten.
+Air gap too close.           Short circuits spark.   Set correctly.
+Air gap too wide.            Spark will not jump.    Set points 1/32"
+apart.
+Loose terminal.              Cylinder may misfire.   Tighten.
+Plug loose in cylinder.      Gas leaks.              Tighten.
+Mica insulation oil soaked.  Short circuits spark.   Replace.
+

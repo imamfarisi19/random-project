@@ -1,0 +1,36 @@
+The filtering device shown at B is a larger appliance than that shown at
+A, and should be more efficient as a separator because the gasoline is
+forced to pass through three filtering screens before it reaches the
+carburetor. The gasoline enters the device shown at C through a bent
+pipe which leads directly to the settling chamber and from thence
+through a wire gauze screen to the upper compartment which leads to the
+carburetor. The device shown at D is a combination strainer, drain, and
+sediment cup. The filtering screen is held in place by a spring and
+both are removed by taking out a plug at the bottom of the device. The
+shut-off valve at the top of the device is interposed between the
+sediment cup and the carburetor. This separating device is incorporated
+with the gasoline tank and forms an integral part of the gasoline supply
+system. The other types shown are designed to be interposed between the
+gasoline tank and the carburetor at any point in the pipe line where
+they may be conveniently placed.
+
+
+INTAKE MANIFOLD DESIGN AND CONSTRUCTION
+
+On four- and six-cylinder engines and in fact on all multiple-cylinder
+forms, it is important that the piping leading from the carburetor to
+the cylinders be made in such a way that the various cylinders will
+receive their full quota of gas and that each cylinder will receive its
+charge at about the same point in the cycle of operations. In order to
+make the passages direct the bends should be as few as possible, and
+when curves are necessary they should be of large radius because an
+abrupt corner will not only impede gas flow but will tend to promote
+condensation of the fuel. Every precaution should be taken with
+four- and six-cylinder engines to insure equitable gas distribution to
+the valve chambers if regular action of the power plant is desired. If
+the gas pipe has many turns and angles it will be difficult to charge
+all cylinders properly. On some six-cylinder aviation engines, two
+carburetors are used because of trouble experienced with manifolds
+designed for one carburetor. Duplex carburetors are necessary to secure
+the best results from eight- and twelve-cylinder V engines.
+

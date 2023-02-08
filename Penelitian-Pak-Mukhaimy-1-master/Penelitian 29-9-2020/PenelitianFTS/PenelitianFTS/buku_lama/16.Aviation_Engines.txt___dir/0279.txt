@@ -1,0 +1,44 @@
+
+THE CURTISS AVIATION MOTORS
+
+The Curtiss OX motor has eight cylinders, 4-inch bore, 5-inch stroke,
+delivers 90 horse-power at 1,400 turns, and the weight turns out at 4.17
+pounds per horse-power. This motor has cast iron cylinders with monel
+metal jackets, overhead inclined valves operated by means of two rocker
+arms, push-and-pull rods from the central cam-shaft located in the
+crank-case. The cam and push rod design is extremely ingenious and the
+whole valve construction turns out very light. This motor is an
+evolution from the early Curtiss type motor which was used by Glenn
+Curtiss when he won the Gordon Bennett Cup at Rheims. A slightly larger
+edition of this type motor is the OXX-5, as shown at Figs. 231 and 232,
+which has cylinders 4-1/4 inches by 5 inches, delivers 100 horse-power
+at 1,400 turns and has the same fuel and oil consumption as the OX type
+motor, namely, .60 pound of fuel per brake horse-power hour and .03
+pound of lubricating oil per brake horse-power hour.
+
+[Illustration: Fig. 231.--The Curtiss OXX-5 Aviation Engine is an
+Eight-Cylinder Type Largely Used on Training Machines.]
+
+The Curtiss Company have developed in the last two years a larger-sized
+motor now known as the V-2, which was originally rated at 160
+horse-power and which has since been refined and improved so that the
+motor gives 220 horse-power at 1,400 turns, with a fuel consumption of
+52/100 of a pound per brake horse-power hour and an oil consumption of
+.02 of a pound per brake horse-power hour. This larger motor has a
+weight of 3.45 pounds per horse-power and is now said to be giving very
+satisfactory service. The V-2 motor has drawn steel cylinders, with a
+bore of 5 inches and a stroke of 7 inches, with a steel water jacket top
+and a monel metal cylindrical jacket, both of which are brazed on to the
+cylinder barrel itself. Both these motors use side by side connecting
+rods and fully forced lubrication. The cam-shafts act as a gallery from
+which the oil is distributed to the cam-shaft bearings, the main
+crank-shaft bearings, and the gearing. Here again we find extremely
+short rods, which, as before mentioned, enables the height and the
+consequent weight of construction to be very much reduced. For ordinary
+flying at altitudes of 5,000 to 6,000 feet, the motors are sent out with
+an aluminum liner, bolted between the cylinder and the crank-case in
+order to give a compression ratio which does not result in pre-ignition
+at a low altitude. For high flying, however, these aluminum liners are
+taken out and the compression volume is decreased to about 18.6 per
+cent. of the total volume.
+

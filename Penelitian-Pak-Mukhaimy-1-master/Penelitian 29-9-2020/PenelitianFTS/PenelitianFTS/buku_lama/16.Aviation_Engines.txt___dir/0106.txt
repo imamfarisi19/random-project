@@ -1,0 +1,38 @@
+The Dixie magneto, shown at Fig. 66, operates on a different principle
+than the rotary armature type. It is used on the Hall-Scott and other
+aviation engines. In this magneto the rotating member consists of two
+pieces of magnetic material separated by a non-magnetic center piece.
+This member constitutes true rotating poles for the magnet and rotates
+in a field structure, composed of two laminated field pieces, riveted
+between two non-magnetic rings. The bearings for the rotating poles are
+mounted in steel plates, which lie against the poles of the magnets.
+When the magnet poles rotate, the magnetic lines of force from each
+magnet pole are carried directly to the field pieces and through the
+windings, without reversal through the mass of the rotating member and
+with only a single air gap. There are no losses by flux reversal in the
+rotating part, such as take place in other machines, and this is said
+to account for the high efficiency of the instrument.
+
+[Illustration: Fig. 68.--The Rotating Elements of the Dixie Magneto.]
+
+And this "Mason Principle" involved in the operation of the Dixie is
+simplified by a glance at the field structure, consisting of the
+non-magnetic rings, assembled to which are the field pieces between
+which the rotating poles revolve (see Fig. 68). Rotating between the
+limbs of the magnets, these two pieces of magnetic material form true
+extensions to the poles of the magnets, and are, in consequence,
+_always_ of the _same_ polarity. It will be seen there is no reversal of
+the magnetism through them, and consequently no eddy current or
+hysteresis losses which are present in the usual rotor or inductor
+types. The simplicity features of construction stand out prominently
+here, in that there are no revolving windings, a detail entirely
+differing from the orthodox high-tension instrument. This simplicity
+becomes instantly apparent when it is found that the circuit breaker,
+instead of revolving as it does in other types, is stationary and that
+the whole breaker mechanism is exposed by simply turning the cover
+spring aside and removing cover. This makes inspection and adjustment
+particularly simple, and the fact that no special tool is necessary for
+adjustment of the platinum points--an ordinary small screw-driver is the
+whole "kit of tools" needed in the work of disassembling or
+assembling--is a feature of some value.
+

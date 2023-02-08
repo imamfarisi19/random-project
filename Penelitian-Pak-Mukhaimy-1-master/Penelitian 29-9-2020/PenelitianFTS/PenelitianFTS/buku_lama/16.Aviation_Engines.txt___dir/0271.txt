@@ -1,0 +1,68 @@
+
+THE LE RHONE MOTOR
+
+The Le Rhone motor is a radial revolving cylinder engine that has many
+of the principles which are incorporated in the Gnome but which are
+considered to be an improvement by many foreign aviators. Instead of
+having but one valve in the cylinder head, as the latest type
+"monosoupape" Gnome has, the Le Rhone has two valves, one for intake and
+one for exhaust in each cylinder. By an ingenious rocker arm and tappet
+rod arrangement it is possible to operate both valves with a single push
+rod. Inlet pipes communicate with the crank-case at one end and direct
+the fresh gas to the inlet valve cage at the other. Another peculiarity
+in the design is the method of holding the cylinders in place. Instead
+of having a vertically divided crank-case as the Gnome engine has and
+clamping both halves of the case around the cylinders, the crank-case of
+the Le Rhone engine is in the form of a cylinder having nine bosses
+provided with threaded openings into which the cylinders are screwed. A
+thread is provided at the base of each cylinder and when the cylinder
+has been screwed down the proper amount it is prevented from further
+rotation about its own axis by a substantial lock nut which screws down
+against the threaded boss on the crank-case. The external appearance of
+the Le Rhone type motor is clearly shown at Fig. 215, while the general
+features of construction are clearly outlined in the sectional views
+given at Figs. 216 and 217.
+
+[Illustration: Fig. 215--Nine-Cylinder Revolving Le Rhone Type Aviation
+Engine.]
+
+[Illustration: Fig. 216.--Part Sectional Views of Le Rhone Rotary
+Cylinder Engine, Showing Method of Cylinder Retention, Valve Operation
+and Novel Crank Disc Assembly.]
+
+[Illustration: Fig. 217.--Side Sectional View of Le Rhone Aviation
+Engine.]
+
+[Illustration: Fig. 218.--View Showing Le Rhone Valve Action and
+Connecting Rod Big End Arrangement.]
+
+The two main peculiarities of this motor are the method of valve
+actuation by two large cams and the distinctive crank-shaft and
+connecting rod big end construction. The connecting rods are provided
+with "feet" or shoes on the end which fit into grooves lined with
+bearing metal which are machined into crank discs revolving on ball
+bearings and which are held together so that the connecting rod big ends
+are sandwiched between them by clamping screws. This construction is a
+modification of that used on the Anzani six-cylinder radial engine.
+There are three grooves machined in each crank disc and three connecting
+rod big ends run in each pair of grooves. The details of this
+construction can be readily ascertained by reference to explanatory
+diagrams at Figs. 218 and 219, A. Three of the rods which work in the
+groove nearest the crank-pin are provided with short shoes as shown at
+Fig. 219, B. The short shoes are used on the rods employed in cylinders
+number 1, 4, and 7. The set of connecting rods that work in the central
+grooves are provided with medium-length shoes and actuate the pistons in
+cylinders numbers 3, 6, and 9. The three rods that work in the outside
+grooves have still longer shoes and are employed in cylinders numbers 2,
+5, and 8. The peculiar profile of the inlet and exhaust cam plates are
+shown at C, Fig. 219, while the construction of the wrist-pin, wrist-pin
+bushing and piston are clearly outlined at the sectional view at E. The
+method of valve actuation is clearly outlined at Fig. 220, which shows
+an end section through the cam case and also a partial side elevation
+showing one of the valve operating levers which is fulcrumed at a
+central point and which has a roller at one end bearing on one cam while
+the roller or cam follower at the other end bears on the other cam. The
+valve rocker arm actuating rod is, of course, operated by this simple
+lever and is attached to it in such a way that it can be pulled down to
+depress the inlet valve and pushed up to open the exhaust valve.
+

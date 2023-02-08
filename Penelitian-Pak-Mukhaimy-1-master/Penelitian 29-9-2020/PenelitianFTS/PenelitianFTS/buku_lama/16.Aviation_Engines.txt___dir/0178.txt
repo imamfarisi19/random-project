@@ -1,0 +1,41 @@
+
+ENGINE-BASE CONSTRUCTION
+
+One of the important parts of the power plant is the substantial casing
+or bed member, which is employed to support the cylinders and
+crank-shaft and which is attached directly to the fuselage engine
+supporting members. This will vary widely in form, but as a general
+thing it is an approximately cylindrical member which may be divided
+either vertically or horizontally in two or more parts. Airplane engine
+crank-cases are usually made of aluminum, a material which has about the
+same strength as cast iron, but which only weighs a third as much. In
+rare cases cast iron is employed, but is not favored by most engineers
+because of its brittle nature, great weight and low resistance to
+tensile stresses. Where exceptional strength is needed alloys of bronze
+may be used, and in some cases where engines are produced in large
+quantities a portion of the crank-case may be a sheet steel or aluminum
+stamping.
+
+[Illustration: Fig. 140.--View of Thomas 135 Horse-Power Aeromotor,
+Model 8, Showing Conventional Method of Crank-Case Construction.]
+
+[Illustration: Fig. 141.--Views of Upper Half of Thomas Aeromotor
+Crank-Case.]
+
+Crank-cases are always large enough to permit the crank-shaft and parts
+attached to it to turn inside and obviously its length is determined by
+the number of cylinders and their disposition. The crank-case of the
+radial cylinder or double-opposed cylinder engine would be substantially
+the same in length. That of a four-cylinder will vary in length with
+the method of casting the cylinder. When the four-cylinders are cast in
+one unit and a two-bearing crank-shaft is used, the crank-case is a very
+compact and short member. When a three-bearing crank-shaft is utilized
+and the cylinders are cast in pairs, the engine base is longer than it
+would be to support a block casting, but is shorter than one designed to
+sustain individual cylinder castings and a five-bearing crank-shaft. It
+is now common construction to cast an oil container integral with the
+bottom of the engine base and to draw the lubricating oil from it by
+means of a pump, as shown at Fig. 140. The arms by which the motor is
+supported in the fuselage are substantial-ribbed members cast
+integrally with the upper half.
+

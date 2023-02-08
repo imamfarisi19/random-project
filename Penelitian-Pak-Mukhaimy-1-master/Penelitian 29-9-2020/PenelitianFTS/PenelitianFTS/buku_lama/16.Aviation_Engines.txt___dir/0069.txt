@@ -1,0 +1,42 @@
+
+CONCENTRIC FLOAT AND JET TYPE
+
+The form shown at B has been further improved, and the type shown at C
+is representative of modern single jet practice. In this the float
+chamber and mixing chamber are concentric. A balanced float mechanism
+which insures steadiness of feed is used, the gasoline jet or standpipe
+is provided with a needle valve to vary the amount of gasoline supplied
+the mixture and two air openings are provided. The main air port is at
+the bottom of the vaporizer, while an auxiliary air inlet is provided at
+the side of the mixing chamber. There are two methods of controlling the
+mixture proportions in this form of carburetor. One may regulate the
+gasoline needle or adjust the auxiliary air valve.
+
+
+SCHEBLER CARBURETOR
+
+A Schebler carburetor, which has been used on some airplane engines, is
+shown in Fig. 45. It will be noticed that a metering pin or needle valve
+opens the jet when the air valve opens. The long arm of a leverage is
+connected to the air valve, while the short arm is connected to the
+needle, the reduction in leverage being such that the needle valve is
+made to travel much less than the air valve. For setting the amount of
+fuel passed or the size of the jet orifice when running with the air
+valve closed, there is a screw which raises or lowers the fulcrum of the
+lever and there is also a dash control having the same effect by pushing
+down the fulcrum against a small spring. A long extension is given to
+the venturi tube which is very narrow around the jet orifices, which are
+horizontal and shown at A in the drawing. Fuel enters the float chamber
+through the union M, and the spring P holds the metering pin upward
+against the restraining action of the lever. The air valve may be set by
+an easily adjustable knurled screw shown in the drawing, and fluttering
+of the valve is prevented by the piston dash pot carried in a chamber
+above the valve into which the valve stem projects. The primary air
+enters beneath the jet passage and there is a small throttle in the
+intake to increase the speed of air flow for starting purposes. The
+carburetor is adapted for the use of a hot-air connection to the stove
+around the exhaust pipe and it is recommended that such a fitting be
+supplied. The lever which controls the supply of air through the primary
+air intake is so arranged that if desired it can be connected with a
+linkage on the dash or control column by means of a flexible wire.
+

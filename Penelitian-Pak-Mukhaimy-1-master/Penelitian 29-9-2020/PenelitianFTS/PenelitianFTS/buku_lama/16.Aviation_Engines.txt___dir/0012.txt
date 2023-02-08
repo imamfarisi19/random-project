@@ -1,0 +1,65 @@
+Another method for finding the drift is _D_ = _K_ × _AV_^{2}, when we
+take the drift again so as to be greatest.
+
+The second "resistance" is the total head resistance of the machine, at
+its maximum velocity. And the third is the thrust for climbing. The
+horse-power for climbing can be found out in two different ways. I first
+propose to deal with the method, where we find out the actual
+horse-power wanted for a certain climbing speed to our machine, where
+
+climbing speed/sec. × _W_
+H.P. = ---------------------------
+550
+
+In this case we know already the horse-power for climbing, and we can
+proceed with our calculation.
+
+With the other method we shall find out the "thrust" in pounds or
+kilograms wanted for climbing and add it to drift and total head
+resistance, and we shall have the total "thrust" of our machine and we
+shall denote it with _T_, while thrust for climbing shall be _T_{c}_.
+
+The following calculation is at our service to find out
+
+_V_{c}_ × _W_
+this thrust for climbing --------------- = H.P.,
+550
+
+H.P. × 550
+thence _V_{c}_ = ------------                                      (1)
+_W_
+
+_T_{c}_ × _V_
+H.P. = --------------, then from
+550
+
+_T_{c}_ × _V_
+--------------- × 550
+550                  _T_{c}_ × _V_
+(1) _V_{c}_ = ----------------------- = ---------------, thence,
+_W_                    _W_
+
+_V_{c}_ × _W_
+T_{c} = ---------------.
+_V_
+
+Whether _T_ means drifts, head resistance and thrust for climbing, or
+drift and head resistance only, the following calculation is the same,
+only in the latter case, of course, we must add the horse-power required
+for climbing to the result to obtain the total horse-power.
+
+Now, when we know the total thrust, we shall find the horse-power in the
+following manner:
+
+_Pr_2[pi]_R_
+We know that the H.P. = -------------- in kilograms, or in
+75 × 60
+
+_Pr_2[pi]_R_
+English measure, H.P. = -------------- (Fig. 1, B)
+33,000
+
+where _P_ = pressure in klgs. or lbs.
+_r_ = radius on which _P_ is acting.
+_R_ = Revolution/min.
+

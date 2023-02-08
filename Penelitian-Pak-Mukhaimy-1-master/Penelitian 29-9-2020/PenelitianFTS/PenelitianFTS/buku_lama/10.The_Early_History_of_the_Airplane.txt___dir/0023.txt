@@ -1,0 +1,67 @@
+*       *       *       *       *
+
+My own active interest in aeronautical problems dates back to the death
+of Lilienthal in 1896. The brief notice of his death which appeared in
+the telegraphic news at that time aroused a passive interest which had
+existed from my childhood, and led me to take down from the shelves of
+our home library a book on "Animal Mechanism," by Prof. Marey, which I
+had already read several times. From this I was led to read more modern
+works, and as my brother soon became equally interested with myself, we
+soon passed from the reading to the thinking, and finally to the working
+stage. It seemed to us that the main reason why the problem had remained
+so long unsolved was that no one had been able to obtain any adequate
+practice. We figured that Lilienthal in five years of time had spent
+only about five hours in actual gliding through the air. The wonder was
+not that he had done so little, but that he had accomplished so much. It
+would not be considered at all safe for a bicycle rider to attempt to
+ride through a crowded city street after only five hours' practice,
+spread out in bits of ten seconds each over a period of five years; yet
+Lilienthal with this brief practice was remarkably successful in meeting
+the fluctuations and eddies of wind gusts. We thought that if some
+method could be found by which it would be possible to practice by the
+hour instead of by the second there would be hope of advancing the
+solution of a very difficult problem. It seemed feasible to do this by
+building a machine which would be sustained at a speed of 18 miles per
+hour, and then finding a locality where winds of this velocity were
+common. With these conditions a rope attached to the machine to keep it
+from floating backward would answer very nearly the same purpose as a
+propeller driven by a motor, and it would be possible to practice by the
+hour, and without any serious danger, as it would not be necessary to
+rise far from the ground, and the machine would not have any forward
+motion at all. We found, according to the accepted tables of air
+pressures on curved surfaces, that a machine spreading 200 square feet
+of wing surface would be sufficient for our purpose, and that places
+could easily be found along the Atlantic coast where winds of 16 to 25
+miles were not at all uncommon. When the winds were low it was our plan
+to glide from the tops of sand hills, and when they were sufficiently
+strong to use a rope for our motor and fly over one spot. Our next work
+was to draw up the plan for a suitable machine. After much study we
+finally concluded that tails were a source of trouble rather than of
+assistance, and therefore we decided to dispense with them altogether.
+It seemed reasonable that if the body of the operator could be placed in
+a horizontal position instead of the upright, as in the machines of
+Lilienthal, Pilcher and Chanute, the wind resistance could be very
+materially reduced, since only one square foot instead of five would be
+exposed. As a full half-horse-power could be saved by this change, we
+arranged to try at least the horizontal position. Then the method of
+control used by Lilienthal, which consisted in shifting the body, did
+not seem quite as quick or effective as the case required; so, after
+long study, we contrived a system consisting of two large surfaces on
+the Chanute double-deck plan, and a smaller surface placed a short
+distance in front of the main surfaces in such a position that the
+action of the wind upon it would counterbalance the effect of the travel
+of the center of pressure on the main surfaces. Thus changes in the
+direction and velocity of the wind would have little disturbing effect,
+and the operator would be required to attend only to the steering of the
+machine, which was to be effected by curving the forward surface up or
+down. The lateral equilibrium and the steering to right or left was to
+be attained by a peculiar torsion of the main surfaces, which was
+equivalent to presenting one end of the wings at a greater angle than
+the other. In the main frame a few changes were also made in the details
+of construction and trussing employed by Mr. Chanute. The most important
+of these were: (1) The moving of the forward main cross-piece of the
+frame to the extreme front edge; (2) the encasing in the cloth of all
+cross-pieces and ribs of the surfaces; (3) a rearrangement of the wires
+used in trussing the two surfaces together, which rendered it possible
+to tighten all the wires by simply shortening two of them.
+

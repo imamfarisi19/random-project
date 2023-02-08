@@ -1,0 +1,40 @@
+
+KNIGHT SLIDE VALVE MOTOR
+
+The sectional view through the cylinder at Fig. 105 shows the Knight
+sliding sleeves and their actuating means very clearly. The diagrams at
+Fig. 106 show graphically the sleeve movements and their relation to the
+crank-shaft and piston travel. The action may be summed up as follows:
+The inlet port begins to open when the lower edge of the opening of the
+outside sleeve which is moving down passes the top of the slot in the
+inner member also moving downwardly. The inlet port is closed when the
+lower edge of the slot in the inner sleeve which is moving up passes the
+top edge of the port in the outer sleeve which is also moving toward the
+top of the cylinder. The inlet opening extends over two hundred degrees
+of crank motion. The exhaust port is uncovered slightly when the lower
+edge of the port in the inner sleeve which is moving down passes the
+lower edge of the portion of the cylinder head which protrudes in the
+cylinder. When the top of the port in the outer sleeve traveling toward
+the bottom of the cylinder passes the lower edge of the slot in the
+cylinder wall the exhaust passage is closed. The exhaust opening extends
+over a period corresponding to about two hundred and forty degrees of
+crank motion. The Knight motor has not been applied to aircraft to the
+writer's knowledge, but an eight-cylinder Vee design that might be
+useful in that connection if lightened is shown at Fig. 107. The main
+object is to show that the Knight valve action is the only other besides
+the mushroom or poppet valve that has been applied successfully to high
+speed gasoline engines.
+
+
+VALVE TIMING
+
+It is in valve timing that the greatest difference of opinion prevails
+among engineers, and it is rare that one will see the same formula in
+different motors. It is true that the same timing could not be used with
+motors of different construction, as there are many factors which
+determine the amount of lead to be given to the valves. The most
+important of these is the relative size of the valve to the cylinder
+bore, the speed of rotation it is desired to obtain, the fuel
+efficiency, the location of the valves, and other factors too numerous
+to mention.
+

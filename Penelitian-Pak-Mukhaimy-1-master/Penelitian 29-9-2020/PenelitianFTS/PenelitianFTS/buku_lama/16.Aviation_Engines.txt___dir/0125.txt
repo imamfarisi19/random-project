@@ -1,0 +1,48 @@
+
+DRY CRANK-CASE SYSTEM BEST FOR AIRPLANE ENGINES
+
+[Illustration: Fig. 78.--Sectional View of Typical Motor Showing Parts
+Needing Lubrication and Method of Applying Oil by Constant Level Splash
+System. Note also Water Jacket and Spaces for Water Circulation.]
+
+In most airplane power plants it is considered desirable to supply the
+oil directly to the parts needing it by suitable leads instead of
+depending solely upon the distributing action of scoops on the
+connecting rod big ends. A system of this nature is shown at Fig. 77.
+The oil is carried in the crank-case, as is common practice, but the
+normal oil level is below the point where it will be reached by the
+connecting rod. It is drawn from the crank-case by a plunger pump which
+directs it to a manifold leading directly to conductors which supply the
+main journals. After the oil has been used on these points it drains
+back into the bottom of the crank-case. An excess is provided which is
+supplied to the connecting rod ends by passages drilled into the webs of
+the crank-shaft and part way into the crank-pins as shown by the dotted
+lines. The oil which is present at the connecting rod crank-pins is
+thrown off by centrifugal force and lubricates the cylinder walls and
+other internal parts. Regulating screws are provided so that the amount
+of oil supplied the different points may be regulated at will. A relief
+check valve is installed to take care of excess lubricant and to allow
+any oil that does not pass back into the pipe line to overflow or
+bi-pass into the main container.
+
+[Illustration: Fig. 79.--Pressure Feed Oil-Supply System of Airplane
+Power Plants has Many Good Features.]
+
+A simple system of this nature is shown graphically in a phantom view of
+the crank-case at Fig. 79, in which the oil passages are made specially
+prominent. The oil is taken from a reservoir at the bottom of the engine
+base by the usual form of gear oil pump and is supplied to a main feed
+manifold which extends the length of the crank-case. Individual
+conductors lead to the five main bearings, which in turn supply the
+crank-pins by passages drilled through the crank-shaft web. In this
+power plant the connecting rods are hollow section bronze castings and
+the passage through the center of the connecting rod serves to convey
+the lubricant from the crank-pins to the wrist-pins. The cylinder walls
+are oiled by the spray of lubricant thrown off the revolving crank-shaft
+by centrifugal force. Oil projection by the dippers on the connecting
+rod ends from constant level troughs is unequal upon the cylinder walls
+of the two-cylinder blocks of an eight- or twelve-cylinder V engine.
+This gives rise, on one side of the engine, to under-lubrication, and,
+on the other side, to over-lubrication, as shown at Fig. 80, A. This
+applies to all modifications of splash lubricating systems.
+

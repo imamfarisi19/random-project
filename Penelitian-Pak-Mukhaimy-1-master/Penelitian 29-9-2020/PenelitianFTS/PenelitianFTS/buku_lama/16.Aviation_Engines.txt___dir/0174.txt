@@ -1,0 +1,42 @@
+[Illustration: Fig. 131.--Part Sectional View of Wisconsin Aviation
+Engine, Showing Four-Bearing Crank-Shaft, Overhead Cam-Shaft, and Method
+of Combining Cylinders in Pairs.]
+
+[Illustration: Fig. 132.--Part Sectional View of Renault Twelve-Cylinder
+Water-Cooled Engine, Showing Connecting Rod Construction and Other
+Important Internal Parts.]
+
+
+CAM-SHAFT AND CRANK-SHAFT DESIGN
+
+Before going extensively into the subject of crank-shaft construction it
+will be well to consider cam-shaft design, which is properly a part of
+the valve system and which has been considered in connection with the
+other elements which have to do directly with cylinder construction to
+some extent. Cam-shafts are usually simple members carried at the base
+of the cylinder in the engine case of Vee type motors by suitable
+bearings and having the cams employed to lift the valves attached at
+intervals. A typical cam-shaft design is shown at Fig. 133. Two main
+methods of cam-shaft construction are followed--that in which the cams
+are separate members, keyed and pinned to the shaft, and the other where
+the cams are formed integral, the latter being the most suitable for
+airplane engine requirements.
+
+[Illustration: Fig. 133.--Typical Cam-Shaft, with Valve Lifting Cams and
+Gears to Operate Auxiliary Devices Forged Integrally.]
+
+The cam-shafts shown at Figs. 133 and 134, B, are of the latter type, as
+the cams are machined integrally. In this case not only the cams but
+also the gears used in driving the auxiliary shafts are forged integral.
+This is a more expensive construction, because of the high initial cost
+of forging dies as well as the greater expense of machining. It has the
+advantage over the other form in which the cams are keyed in place in
+that it is stronger, and as the cams are a part of the shaft they can
+never become loose, as might be possible where they are separately
+formed and assembled on a simple shaft.
+
+[Illustration: Fig. 134.--Important Parts of Duesenberg Aviation Engine.
+A--Three Main Bearing Crank-Shaft. B--Cam-Shaft with Integral Cams.
+C--Piston and Connecting Rod Assembly. D--Valve Rocker Group. E--Piston.
+F--Main Bearing Brasses.]
+

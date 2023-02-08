@@ -1,0 +1,44 @@
+
+COMPOUND NOZZLE ZENITH CARBURETOR
+
+[Illustration: Fig. 51.--Sectional View of Zenith Compound Nozzle
+Compensating Carburetor.]
+
+The Zenith carburetor, shown at Fig. 51, has become very popular for
+airplane engine use because of its simplicity, as mixture compensation
+is secured by a compensating compound nozzle principle that works very
+well in practice. To illustrate this principle briefly, let us consider
+the elementary type of carburetor or mixing valve, as shown in Fig. 52,
+A. It consists of a single jet or spraying nozzle placed in the path of
+the incoming air and fed from the usual float chamber. It is a natural
+inference to suppose that as the speed of the motor increases, both the
+flow of air and of gasoline will increase in the same proportion.
+Unhappily, such is not the case. There is a law of liquid bodies which
+states that the flow of gasoline from the jet increases under suction
+faster than the flow of air, giving a mixture which grows richer and
+richer--a mixture containing a much higher percentage of gasoline at
+high suction than at low. The tendency is shown by the accompanying
+curve (Fig. 52, B), which gives the ratio of gasoline to air at varying
+speeds from this type of jet. The mixture is practically constant only
+between narrow limits and at very high speed. The most common method of
+correcting this defect is by putting various auxiliary air valves which,
+adding air, tends to dilute this mixture as it gets too rich. It is
+difficult with makeshift devices to gauge this dilution accurately for
+every motor speed.
+
+[Illustration: Fig. 52.--Diagrams Explaining Action of Baverey Compound
+Nozzle Used in Zenith Carburetor.]
+
+Now, if we have a jet which grows richer as the suction increases, the
+opposite type of jet is one which would grow leaner under similar
+conditions. Baverey, the inventor of the Zenith, discovered the
+principle of the constant flow device which is shown in Fig. 52, C. Here
+a certain fixed amount of gasoline determined by the opening I is
+permitted to flow by gravity into the well J open to the air. The
+suction at jet H has no effect upon the gravity compensator I because
+the suction is destroyed by the open well J. The compensator, then,
+delivers a steady rate of flow per unit of time, and as the motor
+suction increases more air is drawn up, while the amount of gasoline
+remains the same and the mixture grows poorer and poorer. Fig. 52, D,
+shows this curve.
+

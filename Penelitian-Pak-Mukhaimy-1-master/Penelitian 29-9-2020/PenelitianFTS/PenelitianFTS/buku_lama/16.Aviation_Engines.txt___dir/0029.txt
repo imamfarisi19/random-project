@@ -1,0 +1,46 @@
+Stratification of the mixture has been claimed as taking place in the
+clearance chamber of the cylinder; but this is not a satisfactory
+explanation in view of the vortical effect of the violent injection of
+the air and gas or vapor mixture. It certainly cannot become a perfect
+mixture in the time of a stroke of a high-speed motor of the two-cycle
+class. In a four-cycle engine, making 1,500 revolutions per minute, the
+injection and compression in any one cylinder take place in one
+twenty-fifth of a second--formerly considered far too short a time for a
+perfect infusion of the elements of combustion but now very easily taken
+care of despite the extremely high speed of numerous aviation and
+automobile power-plants.
+
+TABLE I.--EXPLOSION AT CONSTANT VOLUME IN A CLOSED CHAMBER.
+
+=====+================================+======+=======+========+======
+Dia- |                                | Temp.| Time  |  Ob-   | Com-
+gram |                                |  of  |  of   | served |puted
+Curve|        Mixture Injected.       |Injec-|Explo- | Gauge  |Temp.
+Fig. |                                | tion | sion  |Pressure|Fahr.
+8.  |                                | Fahr.|Second.| Pounds |
+-----+--------------------------------+------+-------+--------+------
+_a_  |1 volume gas to 14 volumes air. |  64° | 0.45  |  40.   |1,483°
+_b_  |1   "     "  "  13    "     "   |  51° | 0.31  |  51.5  |1,859°
+_c_  |1   "     "  "  12    "     "   |  51° | 0.24  |  60.   |2,195°
+_d_  |1   "     "  "  11    "     "   |  51° | 0.17  |  61.   |2,228°
+_e_  |1   "     "  "   9    "     "   |  62° | 0.08  |  78.   |2,835°
+_f_  |1   "     "  "   7    "     "   |  62° | 0.06  |  87.   |3,151°
+_g_  |1   "     "  "   6    "     "   |  51° | 0.04  |  90.   |3,257°
+_h_  |1   "     "  "   5    "     "   |  51° | 0.055 |  91.   |3,293°
+_i_  |1   "     "  "   4    "     "   |  66° | 0.16  |  80.   |2,871°
+-----+--------------------------------+------+-------+--------+------
+
+In an examination of the times of explosion and the corresponding
+pressures in both tables, it will be seen that a mixture of 1 part gas
+to 6 parts air is the most effective and will give the highest mean
+pressure in a gas-engine. There is a limit to the relative proportions
+of illuminating gas and air mixture that is explosive, somewhat
+variable, depending upon the proportion of hydrogen in the gas. With
+ordinary coal-gas, 1 of gas to 15 parts of air; and on the lower end of
+the scale, 1 volume of gas to 2 parts air, are non-explosive. With
+gasoline vapor the explosive effect ceases at 1 to 16, and a saturated
+mixture of equal volumes of vapor and air will not explode, while the
+most intense explosive effect is from a mixture of 1 part vapor to 9
+parts air. In the use of gasoline and air mixtures from a carburetor,
+the best effect is from 1 part saturated air to 8 parts free air.
+

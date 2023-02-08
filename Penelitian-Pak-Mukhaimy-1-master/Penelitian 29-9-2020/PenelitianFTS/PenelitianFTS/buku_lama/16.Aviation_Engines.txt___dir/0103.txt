@@ -1,0 +1,55 @@
+The switch used with the independent type must be mounted in such a
+manner that there will be a metallic connection between the frame of the
+magneto and the metal portion of the switch.
+
+It is advisable to use a separate battery, either storage or dry cells,
+as a source of current for the dual equipment. Connecting to the same
+battery that is used with the generator and other electrical equipment
+may cause trouble, as a "ground" in this battery causes the coil to
+overheat.
+
+
+CARE AND MAINTENANCE
+
+
+_Lubrication:_
+
+Use only the very best of oil for the oil cups.
+
+Put five drops of oil in the oil cup at the driving end of the magneto
+for every fifty hours of actual running.
+
+Put five drops of oil in the oil cup at the interrupter end of the
+magneto, located at one side of the cam housing, for every hundred hours
+of actual running.
+
+Lubricate the embossed cams in the cam housing with a thin film of
+vaseline every fifty hours of actual running. Wipe off all superfluous
+vaseline. Never use oil in the interrupter. Do not lubricate any other
+part of the interrupter.
+
+
+_Adjusting the Interrupter:_
+
+With the fibre lever in the center of one of the embossed cams, as at
+Fig. 65, the opening between the platinum contacts should be not less
+than .016" and not more than .020". The gauge riveted to the adjusting
+wrench should barely be able to pass between the contacts when fully
+open. The platinum contacts must be smoothed off with a very fine file.
+When in closed position, the platinum contacts should make contact with
+each other over their entire surfaces.
+
+When inspecting the interrupter, make sure that the ground brush in the
+back of the interrupter base is making good contact with the surface on
+which it rubs.
+
+
+_Cleaning the Distributor:_
+
+The distributor block cover should be removed for inspection every
+twenty-five hours of actual running and the carbon deposit from the
+distributor finger-brush wiped off the distributor block by rubbing with
+a rag or piece of waste dipped in gasoline or kerosene. The
+high-tension terminal brush on the side of the magneto should also be
+carefully inspected for proper tension.
+

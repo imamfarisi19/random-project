@@ -1,0 +1,35 @@
+
+BORE AND STROKE RATIO
+
+A question that has been a vexed one and which has been the subject of
+considerable controversy is the proper proportion of the bore to the
+stroke. The early gas engines had a certain well-defined bore to stroke
+ratio, as it was usual at that time to make the stroke twice as long as
+the bore was wide, but this cannot be done when high speed is desired.
+With the development of the present-day motor the stroke or piston
+travel has been gradually shortened so that the relative proportions of
+bore and stroke have become nearly equal. Of late there seems to be a
+tendency among designers to return to the proportions which formerly
+obtained, and the stroke is sometimes one and a half or one and
+three-quarter times the bore.
+
+Engines designed for high speed should have the stroke not much longer
+than the diameter of the bore. The disadvantage of short-stroke engines
+is that they will not pull well at low speeds, though they run with
+great regularity and smoothness at high velocity. The long-stroke engine
+is much superior for slow speed work, and it will pull steadily and with
+increasing power at low speed. It was formerly thought that such engines
+should never turn more than a moderate number of revolutions, in order
+not to exceed the safe piston speed of 1,000 feet per minute. This old
+theory or rule of practice has been discarded in designing high
+efficiency automobile racing and aviation engines, and piston speeds
+from 2,500 to 3,000 feet per minute are sometimes used, though the
+average is around 2,000 feet per minute. While both short- and
+long-stroke motors have their advantages, it would seem desirable to
+average between the two. That is why a proportion of four to five or six
+seems to be more general than that of four to seven or eight, which
+would be a long-stroke ratio. Careful analysis of a number of foreign
+aviation motors shows that the average stroke is about 1.2 times the
+bore dimensions, though some instances were noted where it was as high
+as 1.7 times the bore.
+

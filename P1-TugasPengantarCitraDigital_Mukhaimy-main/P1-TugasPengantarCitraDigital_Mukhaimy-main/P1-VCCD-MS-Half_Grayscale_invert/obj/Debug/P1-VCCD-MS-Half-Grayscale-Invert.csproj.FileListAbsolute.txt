@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\bin\Debug\P1-VCCD-MS-Half_Grayscale_invert.exe.config
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\bin\Debug\P1-VCCD-MS-Half_Grayscale_invert.exe
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\bin\Debug\P1-VCCD-MS-Half_Grayscale_invert.pdb
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1_VCCD_MS_Half_Grayscale_invert.HalfGrayscaleInvert.resources
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1_VCCD_MS_Half_Grayscale_invert.Properties.Resources.resources
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1-VCCD-MS-Half-Grayscale-Invert.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1-VCCD-MS-Half_Grayscale_invert.exe
+C:\Users\USER\source\repos\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1-VCCD-MS-Half_Grayscale_invert.pdb
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\bin\Debug\P1-VCCD-MS-Half_Grayscale_invert.exe.config
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\bin\Debug\P1-VCCD-MS-Half_Grayscale_invert.exe
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\bin\Debug\P1-VCCD-MS-Half_Grayscale_invert.pdb
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1-VCCD-MS-Half-Grayscale-Invert.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1_VCCD_MS_Half_Grayscale_invert.HalfGrayscaleInvert.resources
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1_VCCD_MS_Half_Grayscale_invert.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1-VCCD-MS-Half-Grayscale-Invert.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1-VCCD-MS-Half_Grayscale_invert.exe
+C:\Users\USER\Documents\GitHub\P1-TugasPengantarCitraDigital_Mukhaimy\P1-VCCD-MS-Half_Grayscale_invert\obj\Debug\P1-VCCD-MS-Half_Grayscale_invert.pdb

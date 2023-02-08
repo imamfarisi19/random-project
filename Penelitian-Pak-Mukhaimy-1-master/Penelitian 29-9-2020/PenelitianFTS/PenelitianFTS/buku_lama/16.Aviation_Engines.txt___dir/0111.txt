@@ -1,0 +1,42 @@
+[Illustration: Fig. 73.--Standard Airplane Engine Plug Suggested by S.
+A. E. Standards Committee.]
+
+It is often desirable to have a water-tight joint between the
+high-tension cable and the terminal screw on top of the insulating
+bushing of the spark-plug, especially in marine applications. The plug
+shown at C, Fig. 72, is provided with an insulating member or hood of
+porcelain, which is secured by a clip in such a manner that it makes a
+water-tight connection. Should the porcelain of a conventional form of
+plug become covered with water or dirty oil, the high-tension current is
+apt to run down this conducting material on the porcelain and reach the
+ground without having to complete its circuit by jumping the air gap and
+producing a spark. It will be evident that wherever a plug is exposed to
+the elements, which is often the case in airplane service, that it
+should be protected by an insulating hood which will keep the insulator
+dry and prevent short circuiting of the spark. The same end can be
+attained by slipping an ordinary rubber nipple over the porcelain
+insulator of any conventional plug and bringing up one end over the
+cable.
+
+
+TWO-SPARK IGNITION
+
+On most aviation engines, especially those having large cylinders, it is
+sometimes difficult to secure complete combustion by using a
+single-spark plug. If the combustion is not rapid the efficiency of the
+engine will be reduced proportionately. The compressed charge in the
+cylinder does not ignite all at once or instantaneously, as many assume,
+but it is the strata of gas nearest the plug which is ignited first.
+This in turn sets fire to consecutive layers of the charge until the
+entire mass is aflame. One may compare the combustion of gas in the
+gas-engine cylinder to the phenomenon which obtains when a heavy object
+is thrown into a pool of still water. First a small circle is seen at
+the point where the object has passed into the water, this circle in
+turn inducing other and larger circles until the whole surface of the
+pool has been agitated from the one central point. The method of
+igniting the gas is very similar, as the spark ignites the circle of gas
+immediately adjacent to the sparking point, and this circle in turn
+ignites a little larger one concentric with it. The second circle of
+flame sets fire to more of the gas, and finally the entire contents of
+the combustion chamber are burning.
+

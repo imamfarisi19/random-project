@@ -1,0 +1,65 @@
+[Illustration: Fig. 142.--Method of Constructing Eight-Cylinder Vee
+Engine, Possible if Aluminum Cylinder and Crank-Case Castings are Used.]
+
+[Illustration: Fig. 143.--Simple and Compact Crank-Case, Possible When
+Radial Cylinder Engine Design is Followed.]
+
+The approved method of crank-case construction favored by the majority
+of engineers is shown at the top of Fig. 141, bottom side up. The upper
+half not only forms a bed for the cylinder but is used to hold the
+crank-shaft as well. In the illustration, the three-bearing boxes form
+part of the case, while the lower brasses are in the form of separately
+cast caps retained by suitable bolts. In the construction outlined the
+bottom part of the case serves merely as an oil container and a
+protection for the interior mechanism of the motor. The cylinders are
+held down by means of studs screwed into the crank-case top, as shown at
+Fig. 141, lower view. If the aluminum cylinder motor has any future, the
+method of construction outlined at Fig. 142, which has been used in cast
+iron for an automobile motor, might be used for an eight-cylinder Vee
+engine for airplane use. The simplicity of the crank-case needed for a
+revolving cylinder motor and its small weight can be well understood by
+examination of the illustration at Fig. 143, which shows the engine
+crank-case for the nine-cylinder "Monosoupape" Gnome engine. This
+consists of two accurately machined forgings held together by bolts as
+clearly indicated.
+
+
+
+
+CHAPTER X
+
+Power Plant Installation--Curtiss OX-2 Engine Mounting and
+Operating Rules--Standard S. A. E. Engine Bed Dimensions--
+Hall-Scott Engine Installation and Operation--Fuel System Rules
+--Ignition System--Water System--Preparations to Start Engine--
+Mounting Radial and Rotary Engines--Practical Hints to Locate
+Engine Troubles--All Engine Troubles Summarized--Location of
+Engine Troubles Made Easy.
+
+
+The proper installation of the airplane power plant is more important
+than is generally supposed, as while these engines are usually well
+balanced and run with little vibration, it is necessary that they be
+securely anchored and that various connections to the auxiliary parts be
+carefully made in order to prevent breakage from vibration and that
+attendant risk of motor stoppage while in the air. The type of motor to
+be installed determines the method of installation to be followed. As a
+general rule six-cylinder vertical engine and eight-cylinder Vee type
+are mounted in substantially the same way. The radial, fixed cylinder
+forms and the radial, rotary cylinder Gnome and Le Rhone rotary types
+require an entirely different method of mounting. Some unconventional
+mountings have been devised, notably that shown at Fig. 144, which is a
+six-cylinder German engine that is installed in just the opposite way to
+that commonly followed. The inverted cylinder construction is not
+generally followed because even with pressure feed, dry crank-case type
+lubricating system there is considerable danger of over-lubrication and
+of oil collecting and carbonizing in the combustion chamber and gumming
+up the valve action much quicker than would be the case if the engine
+was operated in the conventional upright position. The reason for
+mounting an engine in this way is to obtain a lower center of gravity
+and also to make for more perfect streamlining of the front end of the
+fuselage in some cases. It is rather doubtful if this slight advantage
+will compensate for the disadvantages introduced by this unusual
+construction. It is not used to any extent now but is presented merely
+to show one of the possible systems of installing an airplane engine.
+

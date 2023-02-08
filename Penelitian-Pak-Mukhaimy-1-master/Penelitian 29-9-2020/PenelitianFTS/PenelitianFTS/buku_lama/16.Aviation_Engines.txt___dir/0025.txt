@@ -1,0 +1,42 @@
+
+THE ADIABATIC LAW
+
+This theory is equally applicable to the cooling of gases by abstraction
+of heat or by cooling due to expansion by the motion of a piston. The
+denominators of these heat fractions of expansion or contraction
+represent the absolute zero of cold below the freezing-point of water,
+and read -273° C. or -492.66° = -460.66° F. below zero; and these are
+the starting-points of reference in computing the heat expansion in
+gas-engines. According to Boyle's law, called the first law of gases,
+there are but two characteristics of a gas and their variations to be
+considered, _viz_., volume and pressure: while by the law of Gay Lussac,
+called the second law of gases, a third is added, consisting of the
+value of the absolute temperature, counting from absolute zero to the
+temperatures at which the operations take place. This is the _Adiabatic_
+law.
+
+The ratio of the variation of the three conditions--volume, pressure,
+and heat--from the absolute zero temperature has a certain rate, in
+which the volume multiplied by the pressure and the product divided by
+the absolute temperature equals the ratio of expansion for each degree.
+If a volume of air is contained in a cylinder having a piston and fitted
+with an indicator, the piston, if moved to and fro slowly, will
+alternately compress and expand the air, and the indicator pencil will
+trace a line or lines upon the card, which lines register the change of
+pressure and volume occurring in the cylinder. If the piston is
+perfectly free from leakage, and it be supposed that the temperature of
+the air is kept quite constant, then the line so traced is called an
+_Isothermal line_, and the pressure at any point when multiplied by the
+volume is a constant, according to Boyle's law,
+
+_pv_ = a constant.
+
+If, however, the piston is moved very rapidly, the air will not remain
+at constant temperature, but the temperature will increase because work
+has been done upon the air, and the heat has no time to escape by
+conduction. If no heat whatever is lost by any cause, the line will be
+traced over and over again by the indicator pencil, the cooling by
+expansion doing work precisely equalling the heating by compression.
+This is the line of no transmission of heat, therefore known as
+_Adiabatic_.
+

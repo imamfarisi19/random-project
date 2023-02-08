@@ -1,0 +1,40 @@
+[Illustration: Fig. 188.--Showing Points to Observe When Fitting
+Connecting Rod Brasses.]
+
+In fitting new brasses there are two conditions to be avoided, these
+being outlined at Fig. 188, B and C. In the case shown at C the light
+edges of the bushings are in contact, but the connecting rod and its cap
+do not meet. When the retaining nuts are tightened the entire strain is
+taken on the comparatively small area of the edges of the bushings which
+are not strong enough to withstand the strains existing and which
+flatten out quickly, permitting the bearing to run loose. In the example
+outlined at B the edges of the brasses do not touch when the connecting
+rod cap is drawn in place. This is not good practice, because the
+brasses soon become loose in their retaining member. In the case
+outlined it is necessary to file off the faces of the rod and cap until
+these meet, and to insure contact of the edges of the brasses as well.
+In event of the brasses coming together before the cap and rod make
+contact, as shown at C, the bearing halves should be reduced at the
+edges until both the caps and brasses meet against each other or the
+surfaces of the liners as shown at A.
+
+
+SPRUNG CAM-SHAFT
+
+If the cam-shaft is sprung or twisted it will alter the valve timing to
+such an extent that the smoothness of operation of the engine will be
+materially affected. If this condition is suspected the cam-shaft may be
+swung on lathe centers and turned to see if it runs out and can be
+straightened in any of the usual form of shaft-straightening machines.
+The shaft may be twisted without being sprung. This can only be
+determined by supporting one end of the shaft in an index head and the
+other end on a milling machine center. The cams are then checked to see
+that they are separated by the proper degree of angularity. This process
+is one that requires a thorough knowledge of the valve timing of the
+engine in question, and is best done at the factory where the engine was
+made. The timing gears should also be examined to see if the teeth are
+worn enough so that considerable back lash or lost motion exists between
+them. This is especially important where worm or spiral gears are used.
+A worn timing gear not only produces noise, but it will cause the time
+of opening and closing of the engine valves to vary materially.
+

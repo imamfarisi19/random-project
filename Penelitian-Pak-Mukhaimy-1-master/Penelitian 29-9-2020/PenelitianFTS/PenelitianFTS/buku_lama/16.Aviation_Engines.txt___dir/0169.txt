@@ -1,0 +1,43 @@
+
+LEAK-PROOF PISTON RINGS
+
+In order to reduce the compression loss and leakage of gas by the
+ordinary simple form of diagonal or lap joint one-piece piston ring a
+number of compound rings have been devised and are offered by their
+makers to use in making replacements. The leading forms are shown at
+Fig. 125. That shown at A is known as the "Statite" and consists of
+three rings, one carried inside while the other two are carried on the
+outside. The ring shown at B is a double ring and is known as the
+McCadden. This is composed of two thin concentric lap joint rings so
+disposed relative to each other that the opening in the inner ring comes
+opposite to the opening in the outer ring.
+
+The form shown at C is known as the "Leektite," and is a single ring
+provided with a peculiar form of lap and dove tail joint. The ring shown
+at D is known as the "Dunham" and is of the double concentric type being
+composed of two rings with lap joints which are welded together at a
+point opposite the joint so that there is no passage by which the gas
+can escape. The Burd high compression ring is shown at E. The joints of
+these rings are sealed by means of an H-shaped coupler of bronze which
+closes the opening. The ring ends are made with tongues which interlock
+with the coupling. The ring shown at F is called the "Evertite" and is
+a three-piece ring composed of three members as shown in the sectional
+view below the ring. The main part or inner ring has a circumferential
+channel in which the two outer rings lock, the resulting cross-section
+being rectangular just the same as that of a regular pattern ring. All
+three rings are diagonally split and the joints are spaced equally and
+the distances maintained by small pins. This results in each joint being
+sealed by the solid portion of the other rings.
+
+[Illustration: Fig. 125.--Leak-Proof and Other Compound Piston Rings.]
+
+The use of a number of light steel rings instead of one wide ring in the
+groove is found on a number of automobile power plants, but as far as
+known, this construction is not used in airplane power plants. It is
+contended that where a number of light rings is employed a more flexible
+packing means is obtained and the possibility of leakage is reduced.
+Rings of this design are made of square section steel wire and are given
+a spring temper. Owing to the limited width the diagonal cut joint is
+generally employed instead of the lap joint which is so popular on wider
+rings.
+

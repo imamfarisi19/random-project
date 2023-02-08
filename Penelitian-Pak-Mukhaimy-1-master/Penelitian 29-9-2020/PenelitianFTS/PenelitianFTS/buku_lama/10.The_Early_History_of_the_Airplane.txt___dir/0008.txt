@@ -1,0 +1,39 @@
+In September and October, 1902, nearly 1,000 gliding flights were made,
+several of which covered distances of over 600 feet. Some, made against
+a wind of 36 miles an hour, gave proof of the effectiveness of the
+devices for control. With this machine, in the autumn of 1903, we made a
+number of flights in which we remained in the air for over a minute,
+often soaring for a considerable time in one spot, without any descent
+at all. Little wonder that our unscientific assistant should think the
+only thing needed to keep it indefinitely in the air would be a coat of
+feathers to make it light!
+
+With accurate data for making calculations, and a system of balance
+effective in winds as well as in calms, we were now in a position, we
+thought, to build a successful power-flyer. The first designs provided
+for a total weight of 600 lbs., including the operator and an eight
+horse-power motor. But, upon completion, the motor gave more power than
+had been estimated, and this allowed 150 lbs. to be added for
+strengthening the wings and other parts.
+
+Our tables made the designing of the wings an easy matter, and as
+screw-propellers are simply wings traveling in a spiral course, we
+anticipated no trouble from this source. We had thought of getting the
+theory of the screw-propeller from the marine engineers, and then, by
+applying our tables of air-pressures to their formulas, of designing
+air-propellers suitable for our purpose. But so far as we could learn,
+the marine engineers possessed only empirical formulas, and the exact
+action of the screw-propeller, after a century of use, was still very
+obscure. As we were not in a position to undertake a long series of
+practical experiments to discover a propeller suitable for our machine,
+it seemed necessary to obtain such a thorough understanding of the
+theory of its reactions as would enable us to design them from
+calculations alone. What at first seemed a problem became more complex
+the longer we studied it. With the machine moving forward, the air
+flying backward, the propellers turning sidewise, and nothing standing
+still, it seemed impossible to find a starting-point from which to trace
+the various simultaneous reactions. Contemplation of it was confusing.
+After long arguments we often found ourselves in the ludicrous position
+of each having been converted to the other's side, with no more
+agreement than when the discussion began.
+

@@ -1,0 +1,40 @@
+The main criticisms of the L head cylinder engine are that it is less
+efficient and heavier. This is granted, as it relates to cylinders
+alone. More thorough investigation, however, based on the main
+desideratum, weight-power ratio, leads us to other conclusions,
+particularly with reference to high speed engines. The valve gear must
+not be forgotten. A cylinder cannot be taken completely away from its
+component parts and judged, as to its weight value, by itself alone. A
+part away from the whole becomes an item unimportant in comparison with
+the whole. The valve gear of a high speed engine is a too often
+overlooked feature. The stamp of approval has been made by high speed
+automobile practice upon the overhead cam-shaft drive, with valves in
+the cylinder head operated direct from the cam-shaft or by means of
+valve lifters or short rockers.
+
+The overhead cam-shaft mechanism applied to an eight-cylinder engine
+calls for two separate cam-shafts carried above and supported by the
+cylinders in an oil-tight housing, and driven by a series of spur gears
+or bevels from the crank-shaft. It is patent that this valve gearing is
+heavy and complicated in comparison with the simple moving valve units
+of the L head engine, which are operated from one single cam-shaft,
+housed rigidly in the crank-case. The inherently lower volumetric
+efficiency of the L head engine is largely overcome by the use of a
+properly designed head, large valves and ample gas passages. Again, the
+customary use of a dual ignition system gives to the L head a relatively
+better opportunity for the advantageous placing of spark-plugs, in order
+that better flame propagation and complete combustion may be secured.
+
+[Illustration: Fig. 233.--End View of Thomas-Morse 150 Horse-Power
+Aluminum Cylinder Aviation Motor Having Detachable Cylinder Heads.]
+
+The Thomas Model 88 engine is 4-1/8 inch bore and 5-1/2 inch stroke. The
+cylinders and cylinder heads are of aluminum, and as steel liners are
+used in the cylinders the pistons are also made of aluminum. This engine
+is actually lighter than the earlier model of less power. It weighs but
+525 pounds, with self-starter. The general features of design can be
+readily ascertained by study of the illustrations: Fig. 233, which shows
+an end view; Fig. 234, which is a side view, and Fig. 235, which
+outlines the reduction gear-case and the propeller shaft supporting
+bearings.
+

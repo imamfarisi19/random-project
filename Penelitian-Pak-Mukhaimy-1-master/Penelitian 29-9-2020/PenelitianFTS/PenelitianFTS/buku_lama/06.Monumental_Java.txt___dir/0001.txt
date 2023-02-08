@@ -1,0 +1,113 @@
+The Project Gutenberg EBook of Monumental Java, by J. F. Scheltema
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Monumental Java
+
+Author: J. F. Scheltema
+
+Release Date: March 24, 2013 [EBook #42405]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MONUMENTAL JAVA ***
+
+
+
+
+Produced by Henry Flower and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+MONUMENTAL JAVA
+
+
+
+
+[Illustration]
+
+MACMILLAN AND CO., LIMITED
+LONDON · BOMBAY · CALCUTTA
+MELBOURNE
+
+THE MACMILLAN COMPANY
+NEW YORK · BOSTON · CHICAGO
+DALLAS · SAN FRANCISCO
+
+THE MACMILLAN CO. OF CANADA, LTD.
+TORONTO
+
+[Illustration: I. THE BORO BUDOOR
+
+(Cephas Sr.)]
+
+
+
+
+MONUMENTAL
+JAVA
+
+BY
+J. F. SCHELTEMA, M.A.
+
+
+Unde etiam nunc est mortalibus insitus horror,
+Qui delubra deûm nova toto suscitat orbi
+Terrarum, et festis cogit celebrare diebus:
+
+LUCRETIUS, _De Rerum Natura_, Lib. v.
+
+
+WITH ILLUSTRATIONS, AND VIGNETTES AFTER
+DRAWINGS OF JAVANESE CHANDI ORNAMENT
+BY THE AUTHOR
+
+MACMILLAN AND CO., LIMITED
+ST. MARTIN’S STREET, LONDON
+1912
+
+
+
+
+COPYRIGHT
+
+
+
+
+TO
+MY DEAR COUSIN AND FRIEND
+PROFESSOR AUGUST ALLEBÉ
+DIRECTOR EMERITUS OF THE NETHERLANDS STATE ACADEMY
+OF THE FINE ARTS AT AMSTERDAM
+
+
+
+
+[Illustration]
+
+
+If this book needs an apology, it is one to myself for taking the public
+at large into the confidence of cherished recollections. The writing
+was a diversion from studies in a quite different direction and letting
+my pen go, while living again the happy hours I spent, between arduous
+duties, with the beautiful monuments of Java’s past, I did nothing but
+seek my own pleasure. Should it turn out that my personal impressions,
+given in black and white, please others too--so much the better. In any
+case they must be taken for what they are: a beguilement of lone moments
+of leisure.
+

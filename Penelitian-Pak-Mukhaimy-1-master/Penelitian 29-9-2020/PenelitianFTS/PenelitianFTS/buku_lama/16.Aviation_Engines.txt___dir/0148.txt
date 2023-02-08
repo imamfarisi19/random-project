@@ -1,0 +1,48 @@
+[Illustration: Fig. 103.--Diagram Showing Proper Clearance to Allow
+Between Adjusting Screw and Valve Stems in Hall-Scott Aviation Engines.]
+
+
+METHODS OF DRIVING CAM-SHAFT
+
+Two systems of cam-shaft operation are used. The most common of these is
+by means of gearing of some form. If the cam-shaft is at right angles to
+the crank-shaft it may be driven by worm, spiral, or bevel gearing. If
+the cam-shaft is parallel to the crank-shaft, simple spur gear or chain
+connection may be used to turn it. A typical cam-shaft for an
+eight-cylinder V engine is shown at Fig. 104. It will be seen that the
+sixteen cams are forged integrally with the shaft and that it is
+spur-gear driven. The cam-shaft drive of the Hall-Scott motor is shown
+at Fig. 97.
+
+[Illustration: Fig. 104.--Cam-Shaft of Thomas Airplane Motor Has Cams
+Forged Integral. Note Split Cam-Shaft Bearings and Method of Gear
+Retention.]
+
+While gearing is more commonly used, considerable attention has been
+directed of late to silent chains for cam-shaft operation. The ordinary
+forms of block or roller chain have not proven successful in this
+application, but the silent chain, which is in reality a link belt
+operating over toothed pulleys, has demonstrated its worth. The tendency
+to its use is more noted on foreign motors than those of American
+design. It first came to public notice when employed on the
+Daimler-Knight engine for driving the small auxiliary crank-shafts which
+reciprocated the sleeve valves. The advantages cited for the application
+of chains are, first, silent operation, which obtains even after the
+chains have worn considerably; second, in designing it is not necessary
+to figure on maintaining certain absolute center distances between the
+crank-shaft and cam-shaft sprockets, as would be the case if
+conventional forms of gearing were used. On some forms of motor
+employing gears, three and even four members are needed to turn the
+cam-shaft. With a chain drive but two sprockets are necessary, the chain
+forming a flexible connection which permits the driving and driven
+members to be placed at any distance apart that the exigencies of the
+design demand. When chains are used it is advised that some means for
+compensating chain slack be provided, or the valve timing will lag when
+chains are worn. Many combination drives may be worked out with chains
+that would not be possible with other forms of gearing. Direct gear
+drive is favored at the present time by airplane engine designers
+because they are the most certain and positive means, even when a number
+of gears must be used as intermediate drive members. With overhead
+cam-shafts, bevel gears work out very well in practice, as in the
+Hall-Scott motors and others of that type.
+

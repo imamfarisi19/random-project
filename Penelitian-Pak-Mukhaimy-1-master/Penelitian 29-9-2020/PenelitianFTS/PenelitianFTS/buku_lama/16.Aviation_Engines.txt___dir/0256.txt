@@ -1,0 +1,51 @@
+
+
+
+CHAPTER XII
+
+Aviation Engine Types--Division in Classes--Anzani Engines--
+Canton and Unné Engine--Construction of Gnome Engines--
+"Monosoupape" Gnome--German "Gnome" Type--Le Rhone Engine--
+Renault Air-Cooled Engine--Simplex Model "A" Hispano-Suiza--
+Curtiss Aviation Motors--Thomas-Morse Model 88 Engine--
+Duesenberg Engine--Aeromarine Six-Cylinder--Wisconsin Aviation
+Engines--Hall-Scott Engines--Mercedes Motor--Benz Motor--
+Austro-Daimler--Sunbeam-Coatalen.
+
+
+AVIATION ENGINE TYPES
+
+Inasmuch as numerous forms of airplane engines have been devised, it
+would require a volume of considerable size to describe even the most
+important developments of recent years. As considerable explanatory
+matter has been given in preceding chapters and the principles involved
+in internal combustion engine operation considered in detail, a
+relatively brief review of the features of some of the most successful
+airplane motors should suffice to give the reader a complete enough
+understanding of the art so all types of engines can be readily
+recognized and the advantages and disadvantages of each type understood,
+as well as defining the constructional features enough so the methods of
+locating and repairing the common engine and auxiliary system troubles
+will be fully grasped.
+
+Aviation engines can be divided into three main classes. One of the
+earliest attempts to devise distinctive power plant designs for aircraft
+involved the construction of engines utilizing a radial arrangement of
+the cylinders or a star-wise disposition. Among the engines of this
+class may be mentioned the Anzani, R. E. P. and the Salmson or Canton
+and Unné forms. The two former are air-cooled, the latter design is
+water-cooled. Engines of this type have been built in cylinder numbers
+ranging from three to twenty. While the simple forms were popular in the
+early days of aviation engine development, they have been succeeded by
+the more conventional arrangements which now form the largest class. The
+reason for the adoption of a star-wise arrangement of cylinders has been
+previously considered. Smoothness of running can only be obtained by
+using a considerable number of cylinders. The fundamental reason for the
+adoption of the star-wise disposition is that a better distribution of
+stress is obtained by having all of the pistons acting on the same
+crank-pin so that the crank-throw and pin are continuously under maximum
+stress. Some difficulty has been experienced in lubricating the lower
+cylinders in some forms of six cylinder, rotary crank, radial engines
+but these have been largely overcome so they are not as serious in
+practice as a theoretical consideration would indicate.
+

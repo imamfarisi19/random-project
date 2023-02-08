@@ -1,0 +1,47 @@
+
+MICROMETER CALIPERS AND THEIR USE
+
+Where great accuracy is necessary in taking measurements the micrometer
+caliper, which in the simple form will measure easily .001 inch
+(one-thousandth part of an inch) and when fitted with a Vernier that
+will measure .0001 inch (one ten-thousandth part of an inch), is used.
+The micrometer may be of the caliper form for measuring outside
+diameters or it may be of the form shown at Fig. 176, B, for measuring
+internal diameters. The operation of both forms is identical except that
+the internal micrometer is placed inside of the bore to be measured
+while the external form is used just the same as a caliper. The form
+outlined will measure from one and one-half to six and a half inches as
+extension points are provided to increase the range of the instrument.
+The screw has a movement of one-half inch and a hardened anvil is placed
+in the end of the thimble in order to prevent undue wear at that point.
+The extension points or rods are accurately made in standard lengths and
+are screwed into the body of the instrument instead of being pushed in,
+this insuring firmness and accuracy. Two forms of micrometers for
+external measurements are shown at Fig. 178. The top one is graduated
+to read in thousandths of an inch, while the lower one is graduated to
+indicate hundredths of a millimeter. The mechanical principle involved
+in the construction of a micrometer is that of a screw free to move in a
+fixed nut. An opening to receive the work to be measured is provided by
+the backward movement of the thimble which turns the screw and the size
+of the opening is indicated by the graduations on the barrel.
+
+[Illustration: Fig. 178.--Standard Forms of Micrometer Caliper for
+External Measurements.]
+
+The article to be measured is placed between the anvil and spindle, the
+frame being held stationary while the thimble is revolved by the thumb
+and finger. The pitch of the screw thread on the concealed part of the
+spindle is 40 to an inch. One complete revolution of the spindle,
+therefore, moves it longitudinally one-fortieth, or twenty-five
+thousandths of an inch. As will be evident from the development of the
+scale on the barrel of the inch micrometer, the sleeve is marked with
+forty lines to the inch, each of these lines indicating twenty-five
+thousandths. The thimble has a beveled edge which is graduated into
+twenty-five parts. When the instrument is closed the graduation on the
+beveled edge of the thimble marked 0 should correspond to the 0 line on
+the barrel. If the micrometer is rotated one full turn the opening
+between the spindle and anvil will be .025 inch. If the thimble is
+turned only one graduation, or one twenty-fifth of a revolution, the
+opening between the spindle and anvil will be increased only by .001
+inch (one-thousandth of an inch).
+

@@ -1,0 +1,13 @@
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\bin\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.exe
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\bin\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.deps.json
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\bin\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.runtimeconfig.json
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\bin\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.runtimeconfig.dev.json
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\bin\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.dll
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\bin\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.pdb
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\obj\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.csprojAssemblyReference.cache
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\obj\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.csproj.CoreCompileInputs.cache
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\obj\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.AssemblyInfoInputs.cache
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\obj\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.AssemblyInfo.cs
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\obj\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.dll
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\obj\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.pdb
+G:\Work2020\Devel\04\PenelitianFTS\PenelitianFTS.PengolahanBuku\obj\Debug\netcoreapp3.1\PenelitianFTS.PengolahanBuku.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+
+HALL-SCOTT LUBRICATION SYSTEM
+
+[Illustration: Fig. 77.--Diagram of Oiling System, Hall-Scott Type A 125
+Horse-Power Engine.]
+
+The oiling system of the Hall-Scott type A-5 125 horse-power engine is
+clearly shown at Fig. 77. It is completely described in the instruction
+book issued by the company from which the following extracts are
+reproduced by permission. Crank-shaft, connecting rods and all other
+parts within the crank-case and cylinders are lubricated directly or
+indirectly by a force-feed oiling system. The cylinder walls and wrist
+pins are lubricated by oil spray thrown from the lower end of connecting
+rod bearings. This system is used only upon A-5 engines. Upon A-7a and
+A-5a engines a small tube supplies oil from connecting rod bearing
+directly upon the wrist pin. The oil is drawn from the strainer located
+at the lowest portion of the lower crank-case, forced around the main
+intake manifold oil jacket. From here it is circulated to the main
+distributing pipe located along the lower left hand side of upper
+crank-case. The oil is then forced directly to the lower side of
+crank-shaft, through holes drilled in each main bearing cup. Leakage
+from these main bearings is caught in scuppers placed upon the cheeks of
+the crank-shafts furnishing oil under pressure to the connecting rod
+bearings. A-7a and A-5a engines have small tubes leading from these
+bearings which convey the oil under pressure to the wrist pins.
+
+A bi-pass located at the front end of the distributing oil pipe can be
+regulated to lessen or raise the pressure. By screwing the valve in, the
+pressure will raise and more oil will be forced to the bearings. By
+unscrewing, pressure is reduced and less oil is fed. A-7a and A-5a
+engines have oil relief valves located just off of the main oil pump in
+the lower crank-case. This regulates the pressure at all times so that
+in cold weather there will be no danger of bursting oil pipes due to
+excessive pressure. If it is found the oil pressure is not maintained at
+a high enough level, inspect this valve. A stronger spring will not
+allow the oil to bi-pass so freely, and consequently the pressure will
+be raised; a weaker spring will bi-pass more oil and reduce the oil
+pressure materially. Independent of the above-mentioned system, a small,
+directly driven rotary oiler feeds oil to the base of each individual
+cylinder. The supply of oil is furnished by the main oil pump located in
+the lower crank-case. A small sight-feed regulator is furnished to
+control the supply of oil from this oiler. This instrument should be
+placed higher than the auxiliary oil distributor itself to enable the
+oil to drain by gravity feed to the oiler. If there is no available
+place with the necessary height in the front seat of plane, connect it
+directly to the intake L fitting on the oiler in an upright position. It
+should be regulated with full open throttle to maintain an oil level in
+the glass, approximately half way.
+

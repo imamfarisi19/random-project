@@ -1,0 +1,35 @@
+The reason a lubricant is supplied to bearing points will be easily
+understood if one considers that these elastic substances flow between
+the close fitting surfaces, and by filling up the minute depressions in
+the surfaces and covering the high spots act as a cushion which absorbs
+the heat generated and takes the wear instead of the metallic bearing
+surface. The closer the parts fit together the more fluid the lubricant
+must be to pass between their surfaces, and at the same time it must
+possess sufficient body so that it will not be entirely forced out by
+the pressure existing between the parts.
+
+[Illustration: Fig. 75.--Showing Use of Magnifying Glass to Demonstrate
+that Apparently Smooth Metal Surfaces May Have Minute Irregularities
+which Produce Friction.]
+
+Oils should have good adhesive, as well as cohesive, qualities. The
+former are necessary so that the oil film will cling well to the
+surfaces of the bearings; the latter, so the oil particles will cling
+together and resist the tendency to separation which exists all the time
+the bearings are in operation. When used for gas-engine lubrication the
+oil should be capable of withstanding considerable heat in order that it
+will not be vaporized by the hot portions of the cylinder. It should
+have sufficient cold test so that it will remain fluid and flow readily
+at low temperature. Lubricants should be free from acid, or alkalies,
+which tend to produce a chemical action with metals and result in
+corrosion of the parts to which they are applied. It is imperative that
+the oil be exactly the proper quality and nature for the purpose
+intended and that it be applied in a positive manner. The requirements
+may be briefly summarized as follows:
+
+First--It must have sufficient body to prevent seizing of the parts to
+which it is applied and between which it is depended upon to maintain an
+elastic film, and yet it must not have too much viscosity, in order to
+minimize the internal or fluid friction which exists between the
+particles of the lubricant itself.
+

@@ -1,0 +1,52 @@
+5. _Oiling Exposed Moving Parts._ Oil all rocker-arm bearings before
+each flight. A little oil should be applied where the push rods pass
+through the stirrup straps.
+
+6. _Filling the Gasoline Tanks._ Be certain that all connections in the
+gasoline system are tight.
+
+7. _Turning on the Gasoline._ Open the cock leading from the gasoline
+tank to the carburetor.
+
+8. _Charging the Cylinders._ With the ignition switch OFF, prime the
+motor by squirting a little gasoline in each exhaust port and then turn
+the propeller backward two revolutions. Never open the exhaust valve by
+operating the rocker-arm by hand, as the push-rod is liable to come out
+of its socket in the cam follower and bend the rocker-arm when the motor
+turns over.
+
+9. _Starting the Motor by Hand._ Always retard the spark part way, to
+prevent back-firing, by pulling forward the wire attached to the breaker
+box. Failure to so retard the spark in starting may result in serious
+injury to the operator. Turn on the ignition switch with throttle partly
+open; give a quick, strong pull down and outward on the starting crank
+or propeller. As soon as the motor is started advance the spark by
+releasing the retard wire.
+
+10. _Oil Circulation._ Let the motor run at low speed for a few minutes
+in order to establish oil circulation in all bearings. With all parts
+functioning properly, the throttle may be opened gradually for warming
+up before flight.
+
+
+STANDARD S.A.E. ENGINE BED DIMENSIONS
+
+The Society of Automotive Engineers have made efforts to standardize
+dimensions of bed timbers for supporting power plant in an aeroplane.
+Owing to the great difference in length no standardization is thought
+possible in this regard. The dimensions recommended are as follows:
+
+Distance between timbers           12     in.   14     in.   16 in.
+Width of bed timbers                1-1/2 in.    1-3/4 in.    2 in.
+Distance between centers of bolts  13-1/2 in.   15-3/4 in.   18 in.
+
+It will be evident that if any standard of this nature were adopted by
+engine builders that the designers of fuselage could easily arrange
+their bed timbers to conform to these dimensions, whereas it would be
+difficult to have them adhere to any standard longitudinal dimensions
+which are much more easily varied in fuselages than the transverse
+dimensions are. It, however, should be possible to standardize the
+longitudinal positions of the holding down bolts as the engine designer
+would still be able to allow himself considerable space fore-and-aft of
+the bolts.
+

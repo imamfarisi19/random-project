@@ -1,0 +1,38 @@
+As it is desirable to turn the valve through a portion of a revolution
+and back again rather than turning it always in the same direction, a
+number of special tools has been designed to make this oscillating
+motion possible without trouble. A simple valve grinding tool is shown
+at Fig. 184, C. This consists of a screw-driver blade mounted in a
+handle in such a way that the end may turn freely in the handle. A
+pinion is securely fastened to the screw-driver blade shank, and is
+adapted to fit a race provided with a wood handle and guided by a bent
+bearing member securely fastened to the screw-driver handle. As the rack
+is pushed back and forth the pinion must be turned first in one
+direction and then in the other.
+
+[Illustration: Fig. 184.--Tools and Processes Utilized in Valve
+Grinding.]
+
+A valve grinding tool patterned largely after a breast drill is shown at
+Fig. 184, D. This is worked in such a manner that a continuous rotation
+of the operating crank will result in an oscillating movement of the
+chuck carrying the screw-driver blade. The bevel pinions which are used
+to turn the chuck are normally free unless clutched to the chuck stem by
+the sliding sleeve which must turn with the chuck stem and which carries
+clutching members at each end to engage similar members on the bevel
+pinions and lock these to the chuck stem, one at a time. The bevel gear
+carries a cam-piece which moves the clutch sleeve back and forth as it
+revolves. This means that the pinion giving forward motion of the chuck
+is clutched to the chuck spindle for a portion of a revolution of the
+gear and clutch sleeve is moved back by the cam and clutched to the
+pinion giving a reverse motion of the chuck during the remainder of the
+main drive gear revolution.
+
+It sometimes happens that the adjusting screw on the valve lift plunger
+or the valve lift plunger itself when L head cylinders are used does not
+permit the valve head to rest against the seat. It will be apparent that
+unless a definite space exists between the end of the valve stem and the
+valve lift plunger that grinding will be of little avail because the
+valve head will not bear properly against the abrasive material smeared
+on the valve seat.
+

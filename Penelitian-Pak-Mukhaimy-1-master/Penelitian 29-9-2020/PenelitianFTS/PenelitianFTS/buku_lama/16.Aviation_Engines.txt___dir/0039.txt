@@ -1,0 +1,36 @@
+[Illustration: Fig. 14.--Diesel Motor Card.]
+
+A most unique card is that of the Diesel motor (Fig. 14), which involves
+a distinct principle in the design and operation of internal-combustion
+motors, in that instead of taking a mixed charge for instantaneous
+explosion, its charge primarily is of air and its compression to a
+pressure at which a temperature is attained above the igniting point of
+the fuel, then injecting the fuel under a still higher pressure by which
+spontaneous combustion takes place gradually with increasing volume over
+the compression for part of the stroke or until the fuel charge is
+consumed. The motor thus operating between the pressures of 500 and 35
+lbs. per square inch, with a clearance of about 7 per cent., has given
+an efficiency of 36 per cent. of the total heat value of kerosene oil.
+
+
+COMPRESSION IN EXPLOSIVE MOTORS
+
+That the compression in a gas, gasoline, or oil-engine has a direct
+relation to the power obtained, has been long known to experienced
+builders, having been suggested by M. Beau de Rocha, in 1862, and
+afterward brought into practical use in the four-cycle or Otto type
+about 1880. The degree of compression has had a growth from zero, in the
+early engines, to the highest available due to the varying ignition
+temperatures of the different gases and vapors used for explosive fuel,
+in order to avoid premature explosion from the heat of compression. Much
+of the increased power for equal-cylinder capacity is due to compression
+of the charge from the fact that the most powerful explosion of gases,
+or of any form of explosive material, takes place when the particles are
+in the closest contact or cohesion with one another, less energy in this
+form being consumed by the ingredients themselves to bring about their
+chemical combination, and consequently more energy is given out in
+useful or available work. This is best shown by the ignition of
+gunpowder, which, when ignited in the open air, burns rapidly, but
+without explosion, an explosion only taking place if the powder be
+confined or compressed into a small space.
+

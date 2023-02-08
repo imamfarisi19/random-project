@@ -1,0 +1,36 @@
+
+ACTUAL DURATION OF DIFFERENT STROKES
+
+[Illustration: Fig. 27.--Diagram Showing Actual Duration of Different
+Strokes in Degrees.]
+
+In the diagrams previously presented the writer has assumed, for the
+sake of simplicity, that each stroke takes place during half of one
+revolution of the crank-shaft, which corresponds to a crank-pin travel
+of one hundred and eighty degrees. The actual duration of these strokes
+is somewhat different. For example, the inlet stroke is usually a trifle
+more than a half revolution, and the exhaust is always considerably
+more. The diagram showing the comparative duration of the strokes is
+shown at Fig. 27. The inlet valve opens ten degrees after the piston
+starts to go down and remains open thirty degrees after the piston has
+reached the bottom of its stroke. This means that the suction stroke
+corresponds to a crank-pin travel of two hundred degrees, while the
+compression stroke is measured by a movement of but one hundred and
+fifty degrees. It is common practice to open the exhaust valve before
+the piston reaches the end of the power stroke so that the actual
+duration of the power stroke is about one hundred and forty degrees,
+while the exhaust stroke corresponds to a crank-pin travel of two
+hundred and twenty-five degrees. In this diagram, which represents
+proper time for the valves to open and close, the dimensions in inches
+given are measured on the fly-wheel and apply only to a certain
+automobile motor. If the fly-wheel were smaller ten degrees would take
+up less than the dimensions given, while if the fly-wheel was larger a
+greater space on its circumference would represent the same crank-pin
+travel. Aviation engines are timed by using a timing disc attached to
+the crank-shaft as they are not provided with fly-wheels. Obviously, the
+distance measured in inches will depend upon the diameter of the disc,
+though the number of degrees interval would not change.
+
+[Illustration: Fig. 28.--Another Diagram to Facilitate Understanding
+Sequence of Functions in Six-Cylinder Engine.]
+

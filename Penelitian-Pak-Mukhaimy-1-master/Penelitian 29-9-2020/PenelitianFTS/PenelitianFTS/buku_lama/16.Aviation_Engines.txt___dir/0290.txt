@@ -1,0 +1,42 @@
+[Illustration: Fig. 242.--Dimensioned End View of Wisconsin
+Twelve-Cylinder Airplane Motor.]
+
+Great care is taken in the casting and machining of these cylinders, to
+have the bore and walls concentric with each other. Small ribs are cast
+between outer and inner walls to assist cooling as well as to transfer
+stresses direct from the explosion to hold-down bolts which run from
+steel main bearing caps to top of cylinders. The cylinders are machined
+upon the sides so that when assembled on the crank-case with grooved
+hold-down washers tightened, they form a solid block, greatly assisting
+the rigidity of crank-case.
+
+[Illustration: Fig. 243.--Dimensioned Side Elevation of Wisconsin
+Twelve-Cylinder Airplane Motor.]
+
+The connecting rods are very light, being of the I beam type, milled
+from a solid Chrome nickel die forging. The caps are held on by two
+1/2"-20 thread Chrome nickel through bolts. The rods are first roughed
+out, then annealed. Holes are drilled, after which the rods are hardened
+and holes ground parallel with each other. The piston end is fitted with
+a gun metal bushing, while the crank-pin end carries two bronze serrated
+shells, which are tinned and babbitted hot, being broached to harden the
+babbitt. Between the cap and rod proper are placed laminated shims for
+adjustment. Crank-cases are cast of the best aluminum alloy, hand
+scraped and sand blasted inside and out. The lower oil case can be
+removed without breaking any connections, so that the connecting rods
+and other working parts can readily be inspected. An extremely large
+strainer and dirt trap is located in the center and lowest point of the
+case, which is easily removed from the outside without disturbing the
+oil pump or any working parts. A Zenith carburetor is provided.
+Automatic valves and springs are absent, making the adjustment simple
+and efficient. This carburetor is not affected by altitude to any
+appreciable extent. A Hall-Scott device, covered by U. S. Patent No.
+1,078,919, allows the oil to be taken direct from the crank-case and run
+around the carburetor manifold, which assists carburetion as well as
+reduces crank-case heat. Two waterproof four-cylinder Splitdorf "Dixie"
+magnetos are provided. Both magneto interruptors are connected to a rock
+shaft integral with the motor, making outside connections unnecessary.
+It is worthy of note that with this independent double magneto system,
+one complete magneto can become inoperative, and still the motor will
+run and continue to give good power.
+

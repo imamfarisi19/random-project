@@ -1,0 +1,52 @@
+[Illustration: Fig. 18.--Spherical Combustion Chamber.]
+
+[Illustration: Fig. 19.--Enlarged Combustion Chamber.]
+
+The spherical form cannot continue during the stroke for mechanical
+reasons; therefore some proportion of piston stroke of cylinder volume
+must be found to correspond with a spherical form of the combustion
+chamber to produce the least loss of heat through the walls during the
+combustion and expansion part of the stroke. This idea is illustrated in
+Figs. 18 and 19, showing how the relative volumes of cylinder stroke and
+combustion chamber may be varied to suit the requirements due to the
+quality of the elements of combustion.
+
+Although the concave piston-head shows economy in regard to the relation
+of the clearance volume to the wall area at the moment of explosive
+combustion, it may be clearly seen that its concavity increases its
+surface area and its capacity for absorbing heat, for which there is no
+provision for cooling the piston, save its contact with the walls of the
+cylinder and the slight air cooling of its back by its reciprocal
+motion. For this reason the concave piston-head has not been generally
+adopted and the concave cylinder-head, as shown in Fig. 19, with a
+flat piston-head is the latest and best practice in airplane engine
+construction.
+
+[Illustration: Fig. 20.--Mercedes Aviation Engine Cylinder Section
+Showing Approximately Spherical Combustion Chamber and Concave Piston
+Top.]
+
+The practical application of the principle just outlined to one of the
+most efficient airplane motors ever designed, the Mercedes, is clearly
+outlined at Fig. 20.
+
+
+HEAT LOSSES TO COOLING WATER
+
+The mean temperature of the wall surface of the combustion chamber and
+cylinder, as indicated by the temperatures of the circulating water, has
+been found to be an important item in the economy of the gas-engine.
+Dugald Clerk, in England, a high authority in practical work with the
+gas-engine, found that 10 per cent. of the gas for a stated amount of
+power was saved by using water at a temperature in which the ejected
+water from the cylinder-jacket was near the boiling-point, and ventures
+the opinion that a still higher temperature for the circulating water
+may be used as a source of economy. This could be made practical in the
+case of aviation engines by adjusting the air-cooling surface of the
+radiator so as to maintain the inlet water at just below the boiling
+point, and by the rapid circulation induced by the pump pressure, to
+return the water from the cylinder-jacket a few degrees above the
+boiling point. The thermal displacement systems of cooling employed in
+automobiles are working under more favorable temperature conditions than
+those engines in which cooling is more energetic.
+

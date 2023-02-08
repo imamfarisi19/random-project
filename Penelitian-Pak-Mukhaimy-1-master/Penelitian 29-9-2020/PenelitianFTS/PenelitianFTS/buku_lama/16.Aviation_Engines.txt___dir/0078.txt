@@ -1,0 +1,50 @@
+The problem of intake piping is simplified to some extent on block
+motors where the intake passage is cored in the cylinder casting and
+where but one short pipe is needed to join this passage to the
+carburetor. If the cylinders are cast in pairs a simple pipe of T or Y
+form can be used with success. When the engine is of a type using
+individual cylinder castings, especially in the six-cylinder power
+plants, the proper application and installation of suitable piping is a
+difficult problem. The reader is referred to the various engine designs
+outlined to ascertain how the inlet piping has been arranged on
+representative aviation engines. Intake piping is constructed in two
+ways, the most common method being to cast the manifold of brass or
+aluminum. The other method, which is more costly, is to use a built-up
+construction of copper or brass tubing with cast metal elbows and Y
+pieces. One of the disadvantages advanced against the cast manifold is
+that blowholes may exist which produce imperfect castings and which will
+cause mixture troubles because the entering gas from the carburetor,
+which may be of proper proportions, is diluted by the excess air which
+leaks in through the porous casting. Another factor of some moment is
+that the roughness of the walls has a certain amount of friction which
+tends to reduce the velocity of the gases, and when projecting pieces
+are present, such as core wire or other points of metal, these tend to
+collect the drops of liquid fuel and thus promote condensation. The
+advantage of the built-up construction is that the walls of the tubing
+are very smooth, and as the castings are small it is not difficult to
+clean them out thoroughly before they are incorporated in the manifold.
+The tubing and castings are joined together by hard soldering, brazing
+or autogenous welding.
+
+
+COMPENSATING FOR VARYING ATMOSPHERIC CONDITIONS
+
+The low-grade gasoline used at the present time makes it necessary to
+use vaporizers that are more susceptible to atmospheric variations than
+when higher grade and more volatile liquids are vaporized. Sudden
+temperature changes, sometimes being as much as forty degrees rise or
+fall in twelve hours, affect the mixture proportions to some extent, and
+not only changes in temperature but variations in altitude also have a
+bearing on mixture proportions by affecting both gasoline and air. As
+the temperature falls the specific gravity of the gasoline increases
+and it becomes heavier, this producing difficulty in vaporizing. The
+tendency of very cold air is to condense gasoline instead of vaporizing
+it and therefore it is necessary to supply heated air to some
+carburetors to obtain proper mixtures during cold weather. In order that
+the gas mixtures will ignite properly the fuel must be vaporized and
+thoroughly mixed with the entering air either by heat or high velocity
+of the gases. The application of air stoves to the Curtiss OX-2 motor is
+clearly shown at Fig. 54. It will be seen that flexible metal pipes are
+used to convey the heated air to the air intakes of the duplex mixing
+chamber.
+

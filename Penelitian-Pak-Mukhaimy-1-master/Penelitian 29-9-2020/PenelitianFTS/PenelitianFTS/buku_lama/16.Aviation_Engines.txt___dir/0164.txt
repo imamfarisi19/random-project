@@ -1,0 +1,40 @@
+One of the important conditions in piston design is the method of
+securing the wrist pin which is used to connect the piston to the upper
+end of the connecting rod. Various methods have been devised to keep the
+pin in place, the most common of these being shown at Fig. 117. The
+wrist pin should be retained by some positive means which is not liable
+to become loose under the vibratory stresses which obtain at this point.
+If the wrist pin was free to move it would work out of the bosses
+enough so that the end would bear against the cylinder wall. As it is
+usually made of steel, which is a harder material than cast iron used in
+cylinder construction, the rubbing action would tend to cut a groove in
+the cylinder wall which would make for loss of power because it would
+permit escape of gas. The wrist pin member is a simple cylindrical
+element that fits the bosses closely, and it may be either hollow or
+solid stock. A typical piston and connecting rod assembly which shows a
+piston in section also is given at Fig. 118. The piston of the
+Sturtevant aëronautical motor is shown at Fig. 119, the aluminum piston
+of the Thomas airplane motor with piston rings in place is shown at Fig.
+120. A good view of the wrist pin and connecting rod are also given. The
+iron piston of the Gnome "Monosoupape" airplane engine and the
+unconventional connecting rod assembly are clearly depicted at Fig 121.
+
+[Illustration: Fig. 120.--Aluminum Piston and Light But Strong Steel
+Connecting Rod and Wrist Pin of Thomas Aviation Engine.]
+
+The method of retention shown at A is the simplest and consists of a set
+screw having a projecting portion passing into the wrist pin and
+holding it in place. The screw is kept from turning or loosening by
+means of a check nut. The method outlined at B is similar to that shown
+at A, except that the wrist pin is solid and the point of the set screw
+engages an annular groove turned in the pin for its reception. A very
+positive method is shown at C. Here the retention screws pass into the
+wrist pin and are then locked by a piece of steel wire which passes
+through suitable holes in the ends. The method outlined at D is
+sometimes employed, and it varies from that shown at C only in that the
+locking wire, which is made of spring steel, is passed through the heads
+of the locking screws. Some designers machine a large groove around the
+piston at such a point that when the wrist pin is put in place a large
+packing ring may be sprung in the groove and utilized to hold the wrist
+pin in place.
+

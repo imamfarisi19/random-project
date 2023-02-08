@@ -1,0 +1,42 @@
+From the diagrams it will be seen that the flow of magnetism is from one
+pole to the other by means of curved paths between them. This circuit is
+completed by the magnetism flowing from one pole to the other through
+the magnet, and as this flow is continued as long as the body remains
+magnetic it constitutes a magnetic circuit. If this flow were
+temporarily interrupted by means of a conductor of electricity moving
+through the field there would be a current of electricity induced in the
+conductor every time it cut the lines of force. There are three kinds of
+magnetic circuits. A non-magnetic circuit is one in which the magnetic
+influence completes its circuit through some substance not susceptible
+to the force. A closed magnetic circuit is one in which the influence
+completes its circuit through some magnetic material which bridges the
+gap between the poles. A compound circuit is that in which the magnetic
+influence passes through magnetic substances and non-magnetic substances
+in order to complete its circuit.
+
+
+HOW IRON AND STEEL BARS ARE MADE MAGNETIC
+
+Magnetism may be produced in two ways, by contact or induction. If a
+piece of steel is rubbed on a magnet it will be found a magnet when
+removed, having a north and south pole and all of the properties found
+in the energizing magnet. This is magnetizing by contact. A piece of
+steel will retain the magnetism imparted to it for a considerable length
+of time, and the influence that remains is known as residual magnetism.
+This property may be increased by alloying the steel with tungsten and
+hardening it before it is magnetized. Any material that will retain its
+magnetic influence after removal from the source of magnetism is known
+as a permanent magnet. If a piece of iron or steel is brought into the
+magnetic field of a powerful magnet it becomes a magnet without actual
+contact with the energizer. This is magnetizing by magnetic induction.
+If a powerful electric current flows through an insulated conductor
+wound around a piece of iron or steel it will make a magnet of it. This
+is magnetizing by electro-magnetic induction. A magnet made in this
+manner is termed an electro-magnet and usually the metal is of such a
+nature that it will not retain its magnetism when the current ceases to
+flow around it. Steel is used in all cases where permanent magnets are
+required, while soft iron is employed in all cases where an intermittent
+magnetic action is desired. Magneto field magnets are always made of
+tungsten steel alloy, so treated that it will retain its magnetism for
+lengthy periods.
+

@@ -1,0 +1,33 @@
+While one does not usually consider air as having much weight, at a
+temperature of sixty-two degrees Fahrenheit about fourteen cubic feet of
+air will weigh a pound, and to burn a pound of gasoline one would
+require about two hundred cubic feet of air. This amount will provide
+for combustion theoretically, but it is common practice to allow twice
+this amount because the element nitrogen, which is the main constituent
+of air, is an inert gas and instead of aiding combustion it acts as a
+deterrent of burning. In order to be explosive, gasoline vapor must be
+combined with definite quantities of air. Mixtures that are rich in
+gasoline ignite quicker than those which have more air, but these are
+only suitable when starting or when running slowly, as a rich mixture
+ignites much quicker than a weak mixture. The richer mixture of gasoline
+and air not only burns quicker but produces the most heat and the most
+effective pressure in pounds per square inch of piston top area.
+
+The amount of compression of the charge before ignition also has
+material bearing on the force of the explosion. The higher the degree of
+compression the greater the force exerted by the rapid combustion of the
+gas. It may be stated that as a general thing the maximum explosive
+pressure is somewhat more than four times the compression pressure prior
+to ignition. A charge compressed to sixty pounds will have a maximum of
+approximately two hundred and forty pounds; compacted to eighty pounds
+it will produce a pressure of about three hundred pounds on each square
+inch of piston area at the beginning of the power stroke. Mixtures
+varying from one part of gasoline vapor to four of air to others having
+one part of gasoline vapor to thirteen of air can be ignited, but the
+best results are obtained when the proportions are one to five or one to
+seven, as this mixture is said to be the one that will produce the
+highest temperature, the quickest explosion, and the most pressure.
+
+
+WHAT A CARBURETOR SHOULD DO
+

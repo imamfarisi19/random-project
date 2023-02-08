@@ -1,0 +1,70 @@
+
+INDUCTION COIL
+
+DEFECT                       TROUBLE CAUSED          REMEDY
+Loose terminals.             Misfiring.              Tighten.
+Broken connections.          No spark.               Make new joints.
+Vibrators out of adjustment. Misfiring.              Readjust.
+Vibrator points pitted.      Misfiring.              Clean.
+Defective condenser } rare.  No spark.               Send to maker
+Defective winding   }                                for repairs.
+Poor contact at switch.      Misfiring.              Tighten.
+Broken internal wiring.      No spark.               Replace.
+Poor coil unit.              One cylinder affected.  Replace.
+
+
+WIRING
+
+DEFECT                       TROUBLE CAUSED          REMEDY
+Loose terminals anywhere.    Misfiring.              Tighten.
+Broken plug wire.            One cylinder will not   Replace.
+fire.
+Broken timer wire.           One coil will not buzz. Replace.
+Broken main battery wire.  } No spark.               Replace.
+Broken battery ground wire.}
+Broken magneto ground wire.  Engine will not stop.   Replace.
+Chafed insulation anywhere.} Misfiring.              Insulate.
+Short circuit anywhere.    }
+
+
+CARBURETION SYSTEM FAULTS SUMMARIZED
+
+
+_Motor Starts Hard or Will Not Start_
+
+No Gasoline in Tank.
+No Gasoline in Carburetor Float Chamber.
+Tank Shut-Off Closed.
+Clogged Filter Screen.
+Fuel Supply Pipe Clogged.
+Gasoline Level Too Low.
+Gasoline Level Too High (Flooding).
+Bent or Stuck Float Lever.
+Loose or Defective Inlet Manifold.
+Not Enough Gasoline at Jet.
+Cylinders Flooded with Gas.
+Fuel Soaked Cork Float (Causes Flooding).
+Water in Carburetor Spray Nozzle.
+Dirt in Float Chamber.
+Gas Mixture Too Lean.
+Carburetor Frozen (Winter Only).
+
+
+_Motor Stops In Flight_
+
+Gasoline Shut-Off Valve Jarred Closed.
+Gasoline Supply Pipe Clogged.
+No Gasoline in Tank.
+Spray Nozzle Stopped Up.
+Water in Spray Nozzle.
+Particles of Carbon Between Spark-Plug Points.
+Magneto Short Circuited by Ground in Wire.
+Air Lock in Gasoline Pipe.
+Broken Air Line or Leaky Tank (Pressure Feed System Only).
+Fuel Supply Pipe Partially Clogged.
+Air Vent in Tank Filler Cap Stopped Up (Gravity and Vacuum Feed
+System).
+Float Needle Valve Stuck.
+Water or Dirt in Spray Nozzle.
+Mixture Adjusting Needle Jarred Loose (Rotary Motors Only).
+

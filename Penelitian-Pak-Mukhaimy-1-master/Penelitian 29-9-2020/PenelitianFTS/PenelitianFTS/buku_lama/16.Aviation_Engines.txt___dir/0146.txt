@@ -1,0 +1,39 @@
+Several methods of valve construction are the vogue, the most popular
+form being the one-piece type; those which are composed of a head of one
+material and stem of another are seldom used in airplane engines because
+they are not reliable. In the built-up construction the head is usually
+of high nickel steel or cast iron, which metals possess good
+heat-resisting qualities. Heads made of these materials are not likely
+to warp, scale, or pit, as is sometimes the case when ordinary grades of
+machinery steel are used. The cast-iron head construction is not popular
+because it is often difficult to keep the head tight on the stem. There
+is a slight difference in expansion ratio between the head and the stem,
+and as the stem is either screwed or riveted to the cast-iron head the
+constant hammering of the valve against its seat may loosen the joint.
+As soon as the head is loose on the stem the action of the valve becomes
+erratic. The best practice is to machine the valves from tungsten steel
+forgings. This material has splendid heat-resisting qualities and will
+not pit or become scored easily. Even the electrically welded head to
+stem types which are used in automobile engines are not looked upon with
+favor in the aviation engine. Valve stem guides and valve stems must be
+machined very accurately to insure correct action. The usual practice in
+automobile engines is shown at Fig. 100.
+
+[Illustration: Fig. 100.--Showing Clearance Allowed Between Valve Stem
+and Valve Stem Guide to Secure Free Action.]
+
+
+VALVE OPERATION
+
+The methods of valve operation commonly used vary according to the type
+of cylinder construction employed. In all cases the valves are lifted
+from their seats by cam-actuated mechanism. Various forms of
+valve-lifting cams are shown at Fig. 101. As will be seen, a cam
+consists of a circle to which a raised, approximately triangular member
+has been added at one point. When the cam follower rides on the circle,
+as shown at Fig. 102, there is no difference in height between the cam
+center and its periphery and there is no movement of the plunger. As
+soon as the raised portion of the cam strikes the plunger it will lift
+it, and this reciprocating movement is transmitted to the valve stem by
+suitable mechanical connections.
+

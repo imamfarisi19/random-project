@@ -1,0 +1,46 @@
+
+INFLUENCE ON CRANK-SHAFT DESIGN
+
+[Illustration: Fig. 87.--Twin-Cylinder Block of Sturtevant Airplane
+Engine is Cast of Aluminum, and Has Removable Cylinder Head.]
+
+The method of casting the cylinders has a material influence on the
+design of the crank-shaft as will be shown in proper sequence. When four
+cylinders are combined in one block it is possible to use a two-bearing
+crank-shaft. Where cylinders are cast in pairs a three-bearing
+crank-shaft is commonly supplied, and when cylinders are cast as
+individual units it is thought necessary to supply a five-bearing
+crank-shaft, though sometimes shafts having but three journals are used
+successfully. Obviously the shafts must be stronger and stiffer to
+withstand the stresses imposed if two supporting bearings are used than
+if a larger number are employed. In this connection it may be stated
+that there is less difficulty in securing alignment with a lesser number
+of bearings and there is also less friction. On the other hand, the
+greater the number of points of support a crank-shaft has the lighter
+the webs can be made and still have requisite strength.
+
+
+COMBUSTION CHAMBER DESIGN
+
+[Illustration: Fig. 88.--Aluminum Cylinder Pair Casting of Thomas 150
+Horse-Power Airplane Engine is of the L Head Type.]
+
+Another point of importance in the design of the cylinder, and one which
+has considerable influence upon the power developed, is the shape of the
+combustion chamber. The endeavor of designers is to obtain maximum power
+from a cylinder of certain proportions, and the greater energy obtained
+without increasing piston displacement or fuel consumption the higher
+the efficiency of the motor. To prevent troubles due to pre-ignition it
+is necessary that the combustion chamber be made so that there will be
+no roughness, sharp corners, or edges of metal which may remain
+incandescent when heated or which will serve to collect carbon deposits
+by providing a point of anchorage. With the object of providing an
+absolutely clean combustion chamber some makers use a separable head
+unit to their twin cylinder castings, such as shown at Fig. 87 and Fig.
+88. These permit one to machine the entire interior of the cylinder and
+combustion chamber. The relation of valve location and combustion
+chamber design will be considered in proper sequence. These cylinders
+are cast of aluminum, instead of cast iron, as is customary, and are
+provided with steel or cast iron cylinder liners forced in the soft
+metal casting bores.
+

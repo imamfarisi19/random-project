@@ -1,0 +1,33 @@
+The cylinders of the small engine which have a bore of 4-3/10 inches and
+a stroke of 4-7/10 inches, are machined out of the solid bar of steel
+until the thickness of the walls is only 1.5 millimeters--.05905 inch,
+or practically 1/16 inch. Each one has twenty-two fins which gradually
+taper down as the region of greatest pressure is departed from. In
+addition to carrying away heat, the fins assist in strengthening the
+walls of the cylinder. The barrel of the cylinder is slipped into the
+hole bored for it on the circumference of the crank-case and secured by
+a locking member in the nature of a stout compression ring, sprung onto
+a groove on the base of the cylinder within the crank chamber. On each
+lateral face of the crank chamber are seven holes, drilled right through
+the chamber parallel with the crank-shaft. Each one of these holes
+receives a stout locking-pin of such a diameter that it presses against
+the split rings of two adjacent cylinders; in addition each cylinder is
+fitted with a key-way. This construction is not always followed, some of
+the early Gnome engines using the same system of cylinder retention as
+used on the latest "monosoupape" pattern.
+
+The exhaust valve is mounted in the cylinder head, Fig. 201, its seating
+being screwed in by means of a special box spanner. On the
+fourteen-cylinder model the valve is operated directly by an overhead
+rocker arm with a gun metal rocker at its extremity coming in contact
+with the extremity of the valve stem. As in standard motor car practice,
+the valve is opened under the lift of the vertical push rod, actuated by
+the cam. The distinctive feature is the use of a four-blade leaf spring
+with a forked end encircling the valve stems and pressing against a
+collar on its extremity. On the seven-cylinder model the movement is
+reversed, the valve being opened on the downward pull of the push rod,
+this lifting the outer extremity of the main rocker arm, which tips a
+secondary and smaller rocker arm in direct contact with the extremity
+of the valve stem. The springs are the same in each case. The two types
+are compared at A and B, Fig. 202.
+

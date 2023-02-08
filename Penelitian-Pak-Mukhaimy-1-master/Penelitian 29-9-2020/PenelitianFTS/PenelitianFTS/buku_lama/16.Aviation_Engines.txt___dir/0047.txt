@@ -1,0 +1,50 @@
+In order to obtain a perfectly tight combustion chamber, both intake and
+exhaust valves are closed before the gas is ignited, because all of the
+pressure produced by the exploding gas is to be directed against the top
+of the movable piston. When the piston reaches the bottom of its power
+stroke, the exhaust valve is lifted by means of the bell crank which is
+rocked because of the point or lift on the cam. The cam-shaft is driven
+by positive gearing and revolves at half the engine speed. The exhaust
+valve remains open during the whole of the return stroke of the piston,
+and as this member moves toward the closed end of the cylinder it
+forces out burned gases ahead of it, through the passage controlled by
+the exhaust valve. The cam-shaft is revolved at half the engine speed
+because the exhaust valve is raised from its seat during only one stroke
+out of four, or only once every two revolutions. Obviously, if the cam
+was turned at the same speed as the crank-shaft it would remain open
+once every revolution, whereas the burned gases are expelled from the
+individual cylinders only once in two turns of the crank-shaft.
+
+
+WHY MULTIPLE CYLINDER FORMS ARE BEST
+
+Owing to the vibration which obtains from the heavy explosion in the
+large single-cylinder engines used for stationary power other forms were
+evolved in which the cylinder was smaller and power obtained by running
+the engine faster, but these are suitable only for very low powers.
+
+When a single-cylinder engine is employed a very heavy fly-wheel is
+needed to carry the moving parts through idle strokes necessary to
+obtain a power impulse. For this reason automobile and aircraft
+designers must use more than one cylinder, and the tendency is to
+produce power by frequently occurring light impulses rather than
+by a smaller number of explosions having greater force. When a
+single-cylinder motor is employed the construction is heavier than is
+needed with a multiple-cylinder form. Using two or more cylinders
+conduces to steady power generation and a lessening of vibration. Most
+modern motor cars employ four-cylinder engines because a power impulse
+may be secured twice every revolution of the crank-shaft, or a total of
+four power strokes during two revolutions. The parts are so arranged
+that while the charge of gas in one cylinder is exploding, those which
+come next in firing order are compressing, discharging the inert gases
+and drawing in a fresh charge respectively. When the power stroke is
+completed in one cylinder, the piston in that member in which a charge
+of gas has just been compressed has reached the top of its stroke and
+when the gas is exploded the piston is reciprocated and keeps the
+crank-shaft turning. When a multiple-cylinder engine is used the
+fly-wheel can be made much lighter than that of the simpler form and
+eliminated altogether in some designs. In fact, many modern
+multiple-cylinder engines developing 300 horse-power weigh less than the
+early single- and double-cylinder forms which developed but one-tenth or
+one-twentieth that amount of energy.
+

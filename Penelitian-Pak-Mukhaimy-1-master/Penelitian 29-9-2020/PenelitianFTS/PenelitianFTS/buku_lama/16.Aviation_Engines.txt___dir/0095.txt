@@ -1,0 +1,43 @@
+[Illustration: Fig. 58.--Elementary Form of Magneto Showing Principal
+Parts Simplified to Make Method of Current Generation Clear.]
+
+The pressure of the current and the amount produced vary in accordance
+to the rapidity with which the lines of magnetic influence are cut. The
+armature of a practical magneto, therefore, differs materially from that
+shown in the diagram. A large number of loops of wire would be mounted
+upon this shaft in order that the lines of magnetic influence would be
+cut a greater number of times in a given period and a core of iron used
+as a backing for the wire. This would give a more rapid alternating
+current and a higher electro-motive force than would be the case with a
+smaller number of loops of wire.
+
+[Illustration: Fig. 59.--Showing How Strength of Magnetic Influence and
+of the Currents Induced in the Windings of Armature Vary with the
+Rapidity of Changes of Flow.]
+
+The illustrations at Fig. 59 show a conventional double winding
+armature and field magnetic of a practical magneto in part section and
+will serve to more fully emphasize the points previously made. If the
+armature or spindle were removed from between the pole pieces there
+would exist a field of magnetic influence as shown at Fig. 57, but the
+introduction of this component provides a conductor (the iron core) for
+the magnetic energy, regardless of its position, though the facility
+with which the influence will be transmitted depends entirely upon the
+position of the core. As shown at A, the magnetic flow is through the
+main body in a straight line, while at B, which position the armature
+has attained after one-eighth revolution, or 45 degrees travel in the
+direction of the arrow, the magnetism must pass through in the manner
+indicated. At C, which position is attained every half revolution, the
+magnetic energy abandons the longer path through the body of the core
+for the shorter passage offered by the side pieces, and the field thrown
+out by the cross bar disappears. On further rotation of the armature, as
+at D, the body of the core again becomes energized as the magnetic
+influence resumes its flow through it. These changes in the strength of
+the magnetic field when distorted by the armature core, as well as the
+intensity of the energy existing in the field, affect the windings, and
+the electrical energy induced therein corresponds in strength to the
+rapidity with which these changes in magnetic flow occur. The most
+pronounced changes in the strength of the field will occur as the
+armature passes from position B to D, because the magnetic field
+existing around the core will be destroyed and again re-established.
+

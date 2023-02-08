@@ -1,0 +1,152 @@
+Brief note is also made of the remedies for the restoration of the
+defective part or condition. It is apparent that a table of this
+character is intended merely as a guide, and it is a compilation of
+practically all the known troubles that may materialize in gas-engine
+operation. While most of the defects outlined are common enough to
+warrant suspicion, they will never exist in an engine all at the same
+time, and it will be necessary to make a systematic search for such of
+those as exist.
+
+To use the list advantageously, it is necessary to know one main trouble
+easily recognized. For example, if the power plant is noisy, look for
+the possible troubles under the head of Noisy Operation; if it lacks
+capacity, the derangement will undoubtedly be found under the head of
+Lost Power. It is assumed in all cases that the trouble exists in the
+power plant or its components, and not in the auxiliary members of the
+ignition, carburetion, lubrication, or cooling systems. The novice and
+student will readily recognize the parts of the average aviation engine
+by referring to the very complete and clearly lettered illustrations of
+mechanism given in many parts of this treatise.
+
+
+LOST POWER AND OVERHEATING
+
+------------------+------------------+------------------+--------------------
+PART AFFECTED    |NATURE OF TROUBLE |   SYMPTOMS AND   |      REMEDY
+|                  |     EFFECTS      |
+------------------+------------------+------------------+--------------------
+Water Pipe Joint. |Loose.            |Loss of water,    |Tighten bolts,
+|                  |heating.          |replace gaskets.
+|                  |                  |
+Spark Plug.       |Leakage in        |Loss of power.    |Replace insulation
+|threads,          |Hissing caused by |if defective, screw
+|insulation,       |escaping gas.     |down tighter.
+|packing.          |                  |
+|                  |                  |
+Compression       |Leak in threads.  |Loss of power.    |Tighten if loose.
+Release Cock.     |Leak in fitting.  |Whistling or      |Grind fitting to
+|                  |hissing.          |new seating in
+|                  |                  |body.
+|                  |                  |
+Combustion        |Crack or blowhole.|Loss of compres-  |Fill by welding.
+Chamber.          |Roughness. Carbon |sion. Preignition.|Smooth out
+|deposits. Sharp   |                  |roughness. Scrape
+|edges.            |                  |out or dissolve
+|                  |                  |carbon.
+|                  |                  |
+Valve Chamber Cap.|Leak in threads.  |Loss of compres-  |Remove. Apply pipe
+|Defective gasket. |sion. Hissing.    |compound to threads
+|                  |                  |and replace. Use
+|                  |                  |new gasket or
+|                  |                  |packing.
+|                  |                  |
+Valve Head.       |Warped. Scored or |Loss of compres-  |True up in lathe.
+|pitted. Carbon-   |sion.             |Grind to seat.
+|ized. Covered with|                  |Scrape off. Smooth
+|scale. Loose on   |                  |with emery cloth.
+|stem (two-piece   |                  |Tighten by
+|valves only).     |                  |riveting.
+|                  |                  |
+Valve Seat.       |Warped or pitted. |Loss of compres-  |Use reseating
+|Covered with car- |sion.             |reamer. Clean off
+|bon. Foreign mat- |                  |and grind valve to
+|ter between valve |                  |seat.
+|and seat.         |                  |
+|                  |                  |
+Valve Stem.       |Covered with      |Valve does not    |Clean with emery
+|scale. Bent. Bind-|close. Loss of    |cloth; straighten.
+|ing in guide.     |compression.      |True up and smooth
+|Stuck in guide.   |                  |off. free with
+|                  |                  |kerosene.
+|                  |                  |
+Valve Stem Guide. |Burnt or rough.   |Valve may stick.  |Clean out hole.
+|Loose in valve    |Action irregular. |Screw in tighter.
+|chamber.          |                  |
+|                  |                  |
+Valve Spring.     |Weak or broken.   |Valve does not    |
+|                  |close.            |
+|                  |                  |
+Valve Operating   |Loose in guide.   |Valve action poor.|Replace with new.
+Plunger.          |Too much clearance|Lift insufficient.|Adjust screw closer.
+|between valve     |                  |
+|stem.             |                  |
+|                  |                  |
+Valve Lift Ad-    |Threads stripped. |Poor valve action.|Replace with new.
+justing Screw.    |Too near valve.   |                  |Adjust with proper
+|Too far from      |                  |reference to valve
+|valve.            |                  |stem.
+|                  |                  |
+Valve Lift Cam.   |Worn cam contour. |Not enough valve  |Replace with new.
+|Loose on shaft.   |lift. Will not    |Replace pins or
+|Out of time.      |lift valve. Valve |keys. Set to open
+|                  |opens at wrong    |properly.
+|                  |time.             |
+|                  |                  |
+Cam-shaft.        |Sprung or twisted.|Valves out of     |Straighten.
+|                  |time.             |
+|                  |                  |
+Cam-shaft Bushing.|Worn.             |Not enough valve  |Replace.
+|                  |lift.             |
+|                  |                  |
+Cam-shaft Drive   |Loose on shaft.   |Irregular valve   |Fasten securely.
+Gear.             |Out of time. Worn |action.           |Time properly.
+|or broken teeth.  |                  |Replace with new.
+|                  |                  |
+Cam Fastenings.   |Worn or broken.   |Valves out of     |Replace with new.
+|                  |time.             |
+|                  |                  |
+Cylinder Wall.    |Scored, gas leaks.|Poor compression. |Grind out bore.
+|Poor lubrication  |Overheating.      |Repair oiling
+|causes friction.  |                  |system.
+|                  |                  |
+Piston.           |Binds in cylinder.|Overheating. Poor |Lap off excess
+|Walls scored. Worn|compression.      |metal. Replace with
+|out of round.     |                  |new.
+|                  |                  |
+Piston Rings.     |Loss of spring.   |Loss of compres-  |Peen ring or
+|Loose in grooves. |sion. Gas blows   |replace. Fit new
+|Scored. Worn or   |by.               |rings. Grind smooth.
+|broken. Slots in  |                  |Replace. Turn slots
+|line.             |                  |apart.
+|                  |                  |
+|Carbon in grooves.|Overheating be-   |Remove deposits.
+|Insufficient open-|cause of friction.|File slot. Grind or
+|ing. Binding on   |                  |lap to fit cylinder
+|cylinder.         |                  |bore.
+|                  |                  |
+Wristpin.         |Loose, scores     |Loss of compres-  |Fasten securely.
+|cylinder.         |sion.             |Replace cylinder if
+|                  |                  |groove is deep.
+|                  |                  |
+Crank-shaft.      |Scored or rough on|Overheating be-   |Smooth up.
+|journals. Sprung. |cause of friction.|Straighten.
+|                  |                  |
+Crank Bearings.   |Adjusted too      |Overheating be-   |Adjust freely, clean
+Main Bearings.    |tight. Defective  |cause of friction.|out oil holes and
+|oiling. Brasses   |                  |enlarge oil grooves.
+|burned.           |                  |
+|                  |                  |
+Oil Sump.         |Insufficient oil. |Overheating.      |Replenish supply.
+|Poor lubricant.   |                  |Use best oil. Wash
+|Dirty oil.        |                  |out with kerosene;
+|                  |                  |put in clean oil.
+|                  |                  |
+Water Space. Water|Clogged with sedi-|Overheating.      |Dissolve foreign
+Pipes.            |ment or scale.    |                  |matter and remove.
+|                  |                  |
+Piston Head.      |Cracked (rare).   |Loss of compres-  |Weld by autogenous
+|Carbon deposits.  |sion. Preignition.|process. Scrape off
+|                  |                  |carbon accumula-
+|                  |                  |tions.
+------------------+------------------+------------------+--------------------
+

@@ -1,0 +1,73 @@
+TUGAS BESAR UTS
+===============
+1. SMBD TEORI
+   Membuat Desain SMBD. 
+   - Konseptual Desain. 
+   - Logical Desain. 
+   - Physical Desain. 
+
+   - Studi kasus (setiap mahasiswa harus berbeda). 
+   - Nama database ditentukan sendiri. 
+   - tabel minimal 3 (jika lebih maka akan ada nilai tambah). 
+   - Buat relationalnya (1:1, 1:N, N:N). 
+   - Semua desain dibuat dalam satu file pdf. 
+   - Buat video presentasinya (Nilai : 60%). 
+   - Durasi min. 10 menit - max. 15 menit
+
+2. SMBD PRAKTIKUM
+   Semua jawaban dari tugas di bawah ini menggunakan perintah
+   DML (Data Manipulation Languange) dan DDL (Data Definition Languange). 
+   - Studi kasus sama dengan di atas. 
+   - Buat database nya. 
+   - Buat tabel-nya, nama field, atribut2nya (harus sesuai physical desain). 
+   - Tiap tabel minimal diisi 4 data (record)
+   - Buatlah video presentasi langkah - demi - langkah dari perintah DML dan DDL bedasarkan step di atas (Nilai 60%)
+   - Durasi max. 20 menit
+   - Usahakan jangan rekaman langsung. dilatih dan dicoba dulu (try error). Setelah mendapatkan perintah yang benar, baru dilakukan perekaman dan presentasi (penjelasan).
+   - Tuliskan juga perintah - perintah yang digunakan tersebut kedalam file pdf.
+==========================================================
+
+* Gabungkan rekaman video tugas teori dan praktikum menjadi satu. 
+* Upload file video ke youtube. dengna pengisian Title dan Deskripsi seperti contoh berikut ini : https://www.youtube.com/watch?=v3tLdt1YmWE 
+* Gabungkan file pdf di tugas teori dan praktikum menjadi 1 file pdf. 
+* File pdf gabungan ini diberikan cover. 
+* tuliskan alamat url youtube tugas di cover yang dibuat. 
+* kirimkan file pdf tugas tersebut ke WA Dosen. 
+* batas pengumpulan (jatuh tempo) di pertemuan ke 8 (1 minggu)
+
+
+------------
+11-06-20
+------------
+
+- Konseptual Desain. 
+Penjelasan tentang studi kasus yang diambil
+gambar
+relasi antara entity 
+
+video penjelasan
+
+- Logical Desain. 
+Penjelasan 
+gambar 
+penjabaran atribut dari relasi antara entity tadi
+
+video penjelasan
+
+
+- Physical Desain. 
+Penjelasan
+
+video penjelasan
+
+cari contoh - contoh di ytb dan google untuk bahan perbadingan
+
+note : tolong jangan dadakan mengadakan meeting online.
+
+
+
+
+
+
+
+

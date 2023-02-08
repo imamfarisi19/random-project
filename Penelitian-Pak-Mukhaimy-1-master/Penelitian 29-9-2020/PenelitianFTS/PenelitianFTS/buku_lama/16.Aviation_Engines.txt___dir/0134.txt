@@ -1,0 +1,45 @@
+
+
+
+CHAPTER VIII
+
+Methods of Cylinder Construction--Block Castings--Influence on
+Crank-Shaft Design--Combustion Chamber Design--Bore and Stroke
+Ratio--Meaning of Piston Speed--Advantage of Off-Set Cylinders--
+Valve Location of Vital Import--Valve Installation Practice--
+Valve Design and Construction--Valve Operation--Methods of
+Driving Cam-Shaft--Valve Springs--Valve Timing--Blowing Back--
+Lead Given Exhaust Valve--Exhaust Closing, Inlet Opening--
+Closing the Inlet Valve--Time of Ignition--How an Engine Is
+Timed--Gnome "Monosoupape" Valve Timing--Springless Valves--Four
+Valves per Cylinder.
+
+
+The improvements noted in the modern internal combustion motors have
+been due to many conditions. The continual experimenting by leading
+mechanical minds could have but one ultimate result. The parts of the
+engines have been lightened and strengthened, and greater power has been
+obtained without increasing piston displacement. A careful study has
+been made of the many conditions which make for efficient motor action,
+and that the main principles are well recognized by all engineers is
+well shown by the standardization of design noted in modern power
+plants. There are many different methods of applying the same principle,
+and it will be the purpose of this chapter to define the ways in which
+the construction may be changed and still achieve the same results. The
+various components may exist in many different forms, and all have their
+advantages and disadvantages. That all methods are practical is best
+shown by the large number of successful engines which use radically
+different designs.
+
+
+METHODS OF CYLINDER CONSTRUCTION
+
+One of the most important parts of the gasoline engine and one that has
+material bearing upon its efficiency is the cylinder unit. The cylinders
+may be cast individually, or in pairs, and it is possible to make all
+cylinders a unit or block casting. Some typical methods of cylinder
+construction are shown in accompanying illustrations. The appearance of
+individual cylinder castings may be ascertained by examination of the
+Hall-Scott airplane engine. Air-cooled engine cylinders are always of
+the individual pattern.
+

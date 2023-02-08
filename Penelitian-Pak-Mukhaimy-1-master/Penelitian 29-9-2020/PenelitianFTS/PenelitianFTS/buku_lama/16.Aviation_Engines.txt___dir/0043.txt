@@ -1,0 +1,45 @@
+
+CAUSES OF HEAT LOSS AND INEFFICIENCY IN EXPLOSIVE MOTORS
+
+The difference realized in the practical operation of an internal
+combustion heat engine from the computed effect derived from the values
+of the explosive elements is probably the most serious difficulty that
+engineers have encountered in their endeavors to arrive at a rational
+conclusion as to where the losses were located, and the ways and means
+of design that would eliminate the causes of loss and raise the
+efficiency step by step to a reasonable percentage of the total
+efficiency of a perfect cycle.
+
+An authority on the relative condition of the chemical elements under
+combustion in closed cylinders attributes the variation of temperature
+shown in the fall of the expansion curve, and the suppression or
+retarded evolution of heat, entirely to the cooling action of the
+cylinder walls, and to this nearly all the phenomena hitherto obscure in
+the cylinder of a gas-engine. Others attribute the great difference
+between the theoretical temperature of combustion and the actual
+temperature realized in the practical operation of the gas-engine, a
+loss of more than one-half of the total heat energy of the combustibles,
+partly to the dissociation of the elements of combustion at extremely
+high temperatures and their reassociation by expansion in the cylinder,
+to account for the supposed continued combustion and extra adiabatic
+curve of the expansion line on the indicator card.
+
+[Illustration: Fig. 17.--The Thompson Indicator, an Instrument for
+Determining Compressions and Explosion Pressure Values and Recording
+Them on Chart.]
+
+The loss of heat to the walls of the cylinder, piston, and clearance
+space, as regards the proportion of wall surface to the volume, has
+gradually brought this point to its smallest ratio in the concave
+piston-head and globular cylinder-head, with the smallest possible space
+in the inlet and exhaust passage. The wall surface of a cylindrical
+clearance space or combustion chamber of one-half its unit diameter in
+length is equal to 3.1416 square units, its volume but 0.3927 of a cubic
+unit; while the same wall surface in a spherical form has a volume of
+0.5236 of a cubic unit. It will be readily seen that the volume is
+increased 33-1/3 per cent. in a spherical over a cylindrical form for
+equal wall surfaces at the moment of explosion, when it is desirable
+that the greatest amount of heat is generated, and carrying with it the
+greatest possible pressure from which the expansion takes place by the
+movement of the piston.
+

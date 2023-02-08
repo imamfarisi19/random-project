@@ -1,0 +1,66 @@
+
+MEANING OF PISTON SPEED
+
+The factor which limits the stroke and makes the speed of rotation so
+dependent upon the travel of the piston is piston speed. Lubrication is
+the main factor which determines piston speed, and the higher the rate
+of piston travel the greater care must be taken to insure proper oiling.
+Let us fully consider what is meant by piston speed.
+
+Assume that a motor has a piston travel or stroke of six inches, for the
+sake of illustration. It would take two strokes of the piston to cover
+one foot, or twelve inches, and as there are two strokes to a revolution
+it will be seen that this permits of a normal speed of 1,000 revolutions
+per minute for an engine with a six-inch stroke, if one does not exceed
+1,000 feet per minute. If the stroke was only four inches, a normal
+speed of 1,500 revolutions per minute would be possible without
+exceeding the prescribed limit. The crank-shaft of a small engine,
+having three-inch stroke, could turn at a speed of 2,000 revolutions per
+minute without danger of exceeding the safe speed limit. It will be seen
+that the longer the stroke the slower the speed of the engine, if one
+desires to keep the piston speed within the bounds as recommended, but
+modern practice allows of greatly exceeding the speeds formerly thought
+best.
+
+
+ADVANTAGES OF OFF-SET CYLINDERS
+
+[Illustration: Fig. 90.--Cross Section of Austro-Daimler Engine, Showing
+Offset Cylinder Construction. Note Applied Water Jacket and Peculiar
+Valve Action.]
+
+Another point upon which considerable difference of opinion exists
+relates to the method of placing the cylinder upon the crank-case--i.e.,
+whether its center line should be placed directly over the center of the
+crank-shaft, or to one side of center. The motor shown at Fig. 90 is an
+off-set type, in that the center line of the cylinder is a little to
+one side of the center of the crank-shaft. Diagrams are presented at
+Fig. 91 which show the advantages of off-set crank-shaft construction.
+The view at A is a section through a simple motor with the conventional
+cylinder placing, the center line of both crank-shaft and cylinder
+coinciding. The view at B shows the cylinder placed to one side of
+center so that its center line is distinct from that of the crank-shaft
+and at some distance from it. The amount of off-set allowed is a point
+of contention, the usual amount being from fifteen to twenty-five per
+cent. of the stroke. The advantages of the off-set are shown at Fig. 91,
+C. If the crank turns in direction of the arrow there is a certain
+resistance to motion which is proportional to the amount of energy
+exerted by the engine and the resistance offered by the load. There are
+two thrusts acting against the cylinder wall to be considered, that due
+to explosion or expansion of the gas, and that which resists the motion
+of the piston. These thrusts may be represented by arrows, one which
+acts directly in a vertical direction on the piston top, the other
+along a straight line through the center of the connecting rod. Between
+these two thrusts one can draw a line representing a resultant force
+which serves to bring the piston in forcible contact with one side of
+the cylinder wall, this being known as side thrust. As shown at C, the
+crank-shaft is at 90 degrees, or about one-half stroke, and the
+connecting rod is at 20 degrees angle. The shorter connecting rod would
+increase the diagonal resultant and side thrusts, while a longer one
+would reduce the angle of the connecting rod and the side thrust of the
+piston would be less. With the off-set construction, as shown at D, it
+will be noticed that with the same connecting-rod length as shown at C
+and with the crank-shaft at 90 degrees of the circle that the
+connecting-rod angle is 14 degrees and the side thrust is reduced
+proportionately.
+

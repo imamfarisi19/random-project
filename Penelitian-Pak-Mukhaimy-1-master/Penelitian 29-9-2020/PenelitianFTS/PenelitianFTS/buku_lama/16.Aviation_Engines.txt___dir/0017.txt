@@ -1,0 +1,86 @@
+A3. Six-Stroke Cycle
+
+B.  External Combustion (Practically Obsolete)
+a. Turbine, Revolving Rotor
+b. Reciprocating Piston
+
+
+CLASSIFICATION BY CYLINDER ARRANGEMENT
+
+Single Cylinder
+a. Vertical
+b. Horizontal
+c. Inverted Vertical
+
+Double Cylinder
+a. Vertical
+b. Horizontal (Side by Side)
+c. Horizontal (Opposed)
+d. 45 to 90 Degrees V (Angularly Disposed)
+e. Horizontal Tandem (Double Acting)
+
+Three Cylinder
+a. Vertical
+b. Horizontal
+c. Rotary (Cylinders Spaced at 120 Degrees)
+d. Radially Placed (Stationary Cylinders)
+e. One Vertical, One Each Side at an Angle
+f. Compound (Two High Pressure, One Low Pressure)
+
+Four Cylinder
+a. Vertical
+b. Horizontal (Side by Side)
+c. Horizontal (Two Pairs Opposed)
+d. 45 to 90 Degrees V
+e. Twin Tandem (Double Acting)
+
+Five Cylinder
+a. Vertical (Five Throw Crankshaft)
+b. Radially Spaced at 72 Degrees (Stationary)
+c. Radially Placed Above Crankshaft (Stationary)
+d. Placed Around Rotary Crankcase (72 Degrees Spacing)
+
+Six Cylinder
+a. Vertical
+b. Horizontal (Three Pairs Opposed)
+c. 45 to 90 Degrees V
+
+Seven Cylinder
+a. Equally Spaced (Rotary)
+
+Eight Cylinder
+a. Vertical
+b. Horizontal (Four Pairs Opposed)
+c. 45 to 90 Degrees V
+
+Nine Cylinder
+a. Equally Spaced (Rotary)
+
+Twelve Cylinder
+a. Vertical
+b. Horizontal (Six Pairs Opposed)
+c. 45 to 90 Degrees V
+
+Fourteen Cylinder
+a. Rotary
+
+Sixteen Cylinder
+a. 45 to 90 Degrees V
+b. Horizontal (Eight Pairs Opposed)
+
+Eighteen Cylinder
+a. Rotary Cylinder
+
+[Illustration: Fig. 2.--Plate Showing Heavy, Slow Speed Internal
+Combustion Engines Used Only for Stationary Power in Large Installations
+Giving Weight to Horse-Power Ratio.]
+
+[Illustration: Fig. 3.--Various Forms of Internal Combustion Engines
+Showing Decrease in Weight to Horse-Power Ratio with Augmenting Speed of
+Rotation.]
+
+[Illustration: Fig. 4.--Internal Combustion Engine Types of Extremely
+Fine Construction and Refined Design, Showing Great Power Outputs for
+Very Small Weight, a Feature Very Much Desired in Airplane Power
+Plants.]
+

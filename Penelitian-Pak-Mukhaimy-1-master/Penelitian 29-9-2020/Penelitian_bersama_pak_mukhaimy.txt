@@ -1,0 +1,100 @@
+30-09-2020
+-----------------
+Abstract
+=================
+Toko online menjadi tempat terjadinya aktifitas perdagangan atau perbelanjaan barang yang terhubung ke dalam suatu jaringan dalam hal ini jaringan internet. Belanja melalui toko online memungkinkan pembeli atau konsumen untuk membeli barang atau jasa yang diminati dari penjual, produsen atau distributor melalui internet menggunakan browser web. Salah satu keuntungan belanja melalui toko online adalah memudahkan pembeli maupun penjual dalam proses pencarian barang, produk dan jasa menggunakan mesin pencari belanja. Mesin pencari belanja akan menampilkan ketersediaan dan harga produk yang sama di penjual yang berbeda pada toko online.
+sitasi :
+1. https://en.wikipedia.org/wiki/Online_shopping
+
+1. Penjelasan mengenai toko online pada pendahuluan. 
+2. Penjelasan dan sitasi mengenai toko online (jurnal lebih utama, majalah, buku, documentasi online). 
+3. Full-Text Search. 
+
+2.1. Project yang dibuat.
+2.2. Model data yang diolah. 
+2.3. Cara pengujian. 
+2.4. Perangkat keras untuk pengujian kecepatan pengolahan data.
+anggap saja toko online personal bukan multi-tenan.
+
+3/10/2020
+---------------------
+referensi : 
+Online Shoping
+1. https://doi.org/10.1016/j.elerap.2004.05.001
+2. https://doi.org/10.1016/j.jretconser.2014.02.007
+3. https://doi.org/10.1287/mksc.22.4.461.24907
+4. 10.5539/ijms.v4n5p81
+5. https://doi.org/10.1016/j.ijinfomgt.2020.102099
+6. https://doi.org/10.1016/j.trd.2020.102223
+
+Full-Text Search
+7. https://patentimages.storage.googleapis.com/b0/f5/01/893ee54911d1d0/US6728702.pdf
+8. https://arxiv.org/pdf/1706.00957.pdf
+9. http://www.scirp.org/journal/PaperDownload.aspx?paperID=23718
+
+pada tanggal 11 agustus 1994 transaksi jual beli melalui media internet telah merubah pola pikir kita terhadap transaksi jual beli konvensional[A]. setelah pertumbuhan transaksi jual beli melalui media online yang sangat pesat, hal ini tentu memiliki kelebihan dan kekurangan dibandingkan dengan transaksi jual beli konvensional. Diantara kelebihan dan kekurangannya adalah cepat dalam menampilkan informasi dan kurangnya perhatian dalam proses pengiriman[B]. Banyak literatur yang telah memperdebatkan apakah file internet lebih cocok untuk membuat belanja menjadi berorientasi pada tujuan(misal meminimalkan waktu untuk menjelajah dan memandingkan) atau kesenangan (misal melalui desain situs web dan daya tarik estetika)[C].
+
+5/10/2020 
+--------------------- 
+pada tanggal 11 agustus 1994 transaksi belanja melalui media internet (toko online) telah merubah pola pikir kita terhadap transaksi belanja konvensional[A]{1}. Hal ini telah diakui oleh para akademisi dan praktisi[G]{5}. Setelah pertumbuhan belanja melalui media online yang sangat pesat[H]{8}, proses ini tentu memiliki kelebihan dan kekurangan dibandingkan dengan belanja konvensional. Diantara kelebihan dan kekurangannya adalah cepat dalam menampilkan informasi dan kurangnya perhatian dalam proses pengiriman[B]{6}. Banyak literatur yang telah memperdebatkan apakah file internet lebih cocok untuk membuat belanja menjadi berorientasi pada tujuan(misal meminimalkan waktu untuk menjelajah dan memandingkan) atau kesenangan (misal melalui desain situs web dan daya tarik estetika)[C]{7}. 
+
+Sebenarnya proses belanja online mengacu pada prilaku belanja pembeli di toko online atau situs web yang digunakan untuk tujuan pembelian online[I]{9}. Pembeli menggunakan media internet (toko online) dengan berbagai alasan, seperti : melakukan pencarian dari fungsi atau kemampuan khusus produk, harga, ulasan dan sebagainya[F]{4}. 
+
+Setelah mencoba memahami, ternyata jual beli online menimbulkan beberapa kemungkinan - kemungkinan baru, salah satunya adalah sosial jual beli. Dimana sosial jual beli ini melibatkan komunitas online yang berpusat pada pembeli guna mendorong konten serta interaksi yang dibuat pembaca seperti membaca dan menulis ulasan, menilai produk dan berbagi pengalaman pembeli[D]{2}. Selain itu, terkadang pembeli melakukan pembelian yang tidak direncanakan dan tiba - tiba. Oleh karena Pembelian yang tidak direncanakan dan tiba - tiba ini, maka pembeli pun dapat memanfaatkan jual beli melalui media toko online[E]{3}. 
+
+6/10/2020 
+------------------------ 
+Full-Text Search
+1.  https://patentimages.storage.googleapis.com/9f/d0/c8/98b08773cb632d/US7827168.pdf
+2. https://www.researchgate.net/profile/Stefan_Dessloch/publication/221309719_Integrating_SQL_Databases_with_Content-Specific_Search_Engines/links/0deec51b02ade5ea8d000000.pdf
+3. https://dl.acm.org/doi/abs/10.1145/1132956.1132959
+4. https://dml.cz/bitstream/handle/10338.dmlcz/702546/DML_001-2008-1_7.pdf
+5. https://www.aaai.org/Papers/AAAI/2006/AAAI06-208.pdf
+6. https://ieeexplore.ieee.org/abstract/document/4530006
+7. https://www.researchgate.net/profile/Isil_Karabey_Aksakalli/publication/311563960_Comparison_of_Solr_and_Elasticsearch_Among_Popular_Full_Text_Search_Engines_and_Their_Security_Analysis/links/584d48ef08aeb98925219049/Comparison-of-Solr-and-Elasticsearch-Among-Popular-Full-Text-Search-Engines-and-Their-Security-Analysis.pdf
+8. https://academic.oup.com/jamia/article/24/3/607/2433511
+
+7/10/2020
+----------------
+1. https://www.scirp.org/pdf/AIT20120400004_35929396.pdf
+2. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.667.3825&rep=rep1&type=pdf#page=440
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+
+
+analisis bab 3
+Ternyata dari segi
+
+8/10/2020 
+------------------ 
+Dimana pada Pencarian Teks Penuh dilakukan pengindekkan teks yang dicari [12][14][15][16][19][20].
+
+Microsoft SQL Server
+1. https://d1wqtxts1xzle7.cloudfront.net/59425451/SQL_Server_Development_Best_Practices20190528-100077-1wyhik5.pdf?1559067117=&response-content-disposition=inline%3B+filename%3DSQL_Server_Development_Best_Practices.pdf&Expires=1602177122&Signature=CIH3zOaZVaCUKd1HZ54CRmezPthPI7XwN7mdOfIkGSUJEvVhRf4pZDFIQ33ZISEFnTVVMiafy0Kr3qskS1SUKiZO~jlumGVAmVaQDo7naTuEIMfB2XdxVACMpWXglMl6YuECZaF72yQIAmQgkv1HE-wIQ5Zx85KrcF0uXH0Wv1HXnMZar8N2iQFPbYYMD3k7c2dim3Ey6S90vie57LQebEQUt0lVsg8-af2EmWX-VDblVlTHRfi1B43L3Z6z9PYmzSMu6yibOfs97sg4xY5bgEi2p0QXzQtTPN4iw4Sd5cR8cllhlm9Vp654wn7NkpPch2Mk1BBBv5PYWTx7JuHxYg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+2. https://arxiv.org/ftp/arxiv/papers/1901/1901.03179.pdf
+3. https://journals.iobmresearch.com/index.php/JELCS/article/view/1891/401
+
+
+9/10/2020
+----------------------
+MySQL
+1. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618405
+2. https://ojs.stmikpringsewu.ac.id/index.php/JurnalTam/article/view/24/24
+3. https://ieeexplore.ieee.org/abstract/document/7887957
+4. https://d1wqtxts1xzle7.cloudfront.net/59431690/PERFORMANCE_EVALUATION_OF_MYSQL_AND20190528-97716-g7l9vr.pdf?1559105125=&response-content-disposition=inline%3B+filename%3DPERFORMANCE_EVALUATION_OF_MYSQL_AND_MONG.pdf&Expires=1602253515&Signature=MZ~PG12RGPQhXIBNQZ70aUnWgUOaWVebYx9qn6IYv2~JaYAlJyN73h46VzVKmUBBktXai2KM8by42TST2-9fLVe4w~qeMVq5U8oZbdgYWvbRb43vb7dQS2qDJJmHn97NCPmgirGl8RHqexfelBtJLIJwa7NOR53QulUd90N-WRfT0ECRtASxFsA41aOxFJTsI-2OQUr-Yez7Pieqo9MB1HIOBHWllmjwjol-49wHTrzl~6fYRWYNRDKPaZmH3DFot1cgBt1A3gw0xUZmH1q6bfrYF0R5KBDhYeJ8-5F4hZx63SZKZrquKJGVWBXrT-tQIXs9rAIeA5FeR5GxopMn8g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+5. https://ieeexplore.ieee.org/abstract/document/7892476
+
+postgresql
+1. https://www.researchgate.net/profile/Antonios_Makris3/publication/331522759_Performance_Evaluation_of_MongoDB_and_PostgreSQL_for_spatio-temporal_data/links/5c7e387b299bf1268d3954b6/Performance-Evaluation-of-MongoDB-and-PostgreSQL-for-spatio-temporal-data.pdf
+2. https://doi.org/10.1016/j.procs.2019.08.080
+3. https://link.springer.com/chapter/10.1007/978-3-319-74313-4_27
+4. https://ieeexplore.ieee.org/abstract/document/8076380
+5. https://ieeexplore.ieee.org/abstract/document/7975511
+6. https://dl.acm.org/doi/10.1145/3077136.3080721

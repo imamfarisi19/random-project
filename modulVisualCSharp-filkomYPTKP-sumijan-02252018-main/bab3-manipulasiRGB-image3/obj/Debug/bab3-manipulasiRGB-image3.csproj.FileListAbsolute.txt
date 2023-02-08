@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\bin\Debug\bab3-manipulasiRGB-image3.exe.config
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\bin\Debug\bab3-manipulasiRGB-image3.exe
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\bin\Debug\bab3-manipulasiRGB-image3.pdb
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\obj\Debug\bab3-manipulasiRGB-image3.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\obj\Debug\bab3_manipulasiRGB_image3.Form1.resources
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\obj\Debug\bab3_manipulasiRGB_image3.Properties.Resources.resources
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\obj\Debug\bab3-manipulasiRGB-image3.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\obj\Debug\bab3-manipulasiRGB-image3.exe
+C:\Users\USER\source\repos\modulVisualCSharp-filkomYPTKP-sumijan-Feb2018\bab3-manipulasiRGB-image3\obj\Debug\bab3-manipulasiRGB-image3.pdb
